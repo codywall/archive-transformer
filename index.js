@@ -39,7 +39,7 @@ ${htmlContent.join('')}
 console.log(htmlBlock);
 
 //create file
-fs.writeFileSync(`${fileName}.html`, htmlBlock, (err) => {
+fs.writeFileSync(`pages/${fileName}.html`, htmlBlock, (err) => {
   console.log(err);
 });
 
