@@ -1,6 +1,7 @@
 'use strict';
 const fs = require('fs');
 const walkPath = './pages';
+const cheerio = require('cheerio');
 let pageCounter = 0;
 
 const walk = function (dir, done) {
@@ -24,8 +25,10 @@ const walk = function (dir, done) {
         } else {
           // do stuff to file here
           let data = fs.readFileSync(file, 'utf-8');
-          if (pageCounter < 5) {
+          if (pageCounter === 1) {
+            const $ = cheerio.load(file);
             console.log(data);
+            console.log('meta div: ' + $('.meta').first().children());
           }
           pageCounter++;
           next();
