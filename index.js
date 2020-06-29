@@ -26,7 +26,7 @@ const walk = function (dir, done) {
         } else {
           // modify file here
           let data = fs.readFileSync(file, 'utf-8');
-          if (pageCounter === 1) {
+          if (pageCounter < 5) {
             const $ = cheerio.load(data, {
               // stop cheerio from adding head and body tags
               xmlMode: true,
@@ -44,6 +44,9 @@ const walk = function (dir, done) {
             $('.news-byline').replaceWith(
               `<span class="date">${$('.news-byline').html()}</span>`
             );
+            // remove content div
+            contents = $('.content').contents();
+            $('.content').replaceWith(contents);
             // strip comments
             $.root()
               .contents()
