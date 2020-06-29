@@ -26,45 +26,43 @@ const walk = function (dir, done) {
         } else {
           // modify file here
           let data = fs.readFileSync(file, 'utf-8');
-          if (pageCounter < 5) {
-            const $ = cheerio.load(data, {
-              // stop cheerio from adding head and body tags
-              xmlMode: true,
-            });
-            // remove meta divs
-            let $metaDiv = $('div.meta').first();
-            $metaDiv.find('*').remove();
-            $metaDiv.remove();
-            // remove content divs
-            let contents = $('.node').contents();
-            $('.node').replaceWith(contents);
-            contents = $('.node-inner').contents();
-            $('.node-inner').replaceWith(contents);
-            // turn date into a span
-            $('.news-byline').replaceWith(
-              `<span class="date">${$('.news-byline').html()}</span>`
-            );
-            // remove content div
-            contents = $('.content').contents();
-            $('.content').replaceWith(contents);
-            // strip comments
-            $.root()
-              .contents()
-              .filter(function () {
-                return this.type === 'comment';
-              })
-              .remove();
-            //write updated file
-            fs.writeFileSync(file, $.html(), function (err) {
-              if (err) {
-                throw err;
-              }
-              modifiedCounter++;
-            });
-          }
-          pageCounter++;
-          next();
+          const $ = cheerio.load(data, {
+            // stop cheerio from adding head and body tags
+            xmlMode: true,
+          });
+          // remove meta divs
+          let $metaDiv = $('div.meta').first();
+          $metaDiv.find('*').remove();
+          $metaDiv.remove();
+          // remove content divs
+          let contents = $('.node').contents();
+          $('.node').replaceWith(contents);
+          contents = $('.node-inner').contents();
+          $('.node-inner').replaceWith(contents);
+          // turn date into a span
+          $('.news-byline').replaceWith(
+            `<span class="date">${$('.news-byline').html()}</span>`
+          );
+          // remove content div
+          contents = $('.content').contents();
+          $('.content').replaceWith(contents);
+          // strip comments
+          $.root()
+            .contents()
+            .filter(function () {
+              return this.type === 'comment';
+            })
+            .remove();
+          //write updated file
+          fs.writeFileSync(file, $.html(), function (err) {
+            if (err) {
+              throw err;
+            }
+            modifiedCounter++;
+          });
         }
+        pageCounter++;
+        next();
       });
     })();
   });
