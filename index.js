@@ -66,15 +66,15 @@ const walk = function (dir, done) {
             })
             .remove();
           //write updated file
-          pageCounter < 5
-            ? fs.renameSync(file, file.replace(/\.[^.]+$/, '.md'))
-            : '';
+          let mdFileName = file.replace(/\.[^.]+$/, '.md');
           fs.writeFileSync(file, $.html(), function (err) {
             if (err) {
               throw err;
             }
-            modifiedCounter++;
           });
+          fs.renameSync(file, mdFileName);
+
+          modifiedCounter++;
         }
         pageCounter++;
         next();
