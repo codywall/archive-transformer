@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Women in jazz: History for the ears
+title: Women in jazz&amp;colon; History for the ears
 date: September 26 2013
 ---
 
+<span class="date">Posted on Sep 26, 2013 </span>
 
-
-
-<span class="date">Posted on Sep 26, 2013    </span>
 <h3>Vocalist Pamela Rose comes to the World Theater</h3>
 <p><img alt="Pamela Rose comes to the World Theater Oct. 17" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pamela_rose.jpg" style="float:left; width:250px; height:376px">Jazz vocalist
 Pamela Rose has been described by Downbeat Magazine as &quot;playful,
@@ -57,8 +55,3 @@ Rose and her talented band routinely draw rave reviews from fans
 and critics ... notably, her set at the Monterey Jazz Festival had
 people buzzing!</em><br>
 &#x2013;&#x2028; Jim Harrington, San Jose Mercury News</br></br></br></br></br></p>
-
-
-
-
-

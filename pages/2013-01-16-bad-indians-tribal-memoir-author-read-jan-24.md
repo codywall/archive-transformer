@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: &apos;Bad Indians: A Tribal Memoir&apos; author to read Jan. 24
+title: &apos;Bad Indians&amp;colon; A Tribal Memoir&apos; author to read Jan. 24
 date: January 16 2013
 ---
 
+<span class="date">Posted on Jan 16, 2013 </span>
 
-
-
-<span class="date">Posted on Jan 16, 2013    </span>
 <h3>Identity and history at their most dynamic, creative and
 personal</h3>
 <p>Deborah Miranda, a member of the Ohlone Costanoan Esselen
@@ -53,8 +51,3 @@ them.</em><br>
 &#x2014; Kirkus Reviews</br></p>
 <p><br>
 &#xA0;</br></p>
-
-
-
-
-

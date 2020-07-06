@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Their thing: Strings
+title: Their thing&amp;colon; Strings
 date: April 2 2014
 ---
 
+<span class="date">Posted on Apr 02, 2014 </span>
 
-
-
-<span class="date">Posted on Apr 02, 2014    </span>
 <h3>Eight hands plus one cello = lots of fun</h3>
 <p>Stringfever, a London-based string quartet, is a little bit
 classical, a little bit rock &apos;n&apos; roll &#x2013; and humorous.&#xA0;</p>
@@ -68,8 +66,3 @@ and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">he
 </div>
 </div>
 </fieldset>
-
-
-
-
-

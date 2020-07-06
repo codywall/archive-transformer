@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Saturday: Music students&apos; spring concert
+title: Saturday&amp;colon; Music students&apos; spring concert
 date: April 29 2011
 ---
 
+<span class="date">Posted on Apr 29, 2011 </span>
 
-
-
-<span class="date">Posted on Apr 29, 2011    </span>
 <p>California State University, Monterey Bay&apos;s annual spring
 concert will be held Saturday, April 30 at 7 p.m. in the World
 Theater on Sixth Avenue. The public is invited to this free
@@ -22,8 +20,3 @@ directions, visit csumb.edu/map</p>
 <p>For more information or to arrange for disability
 accommodations, call 582-3009.</p>
 <p><em>&#xA0;</em></p>
-
-
-
-
-

@@ -32,9 +32,10 @@ const walk = function (dir, done) {
           let data = fs.readFileSync(file, 'utf-8');
 
           // edit frontmatter
-          // let frontMatter = matter(data, { excerpt: true });
-          // let title = frontMatter.data.title;
-          // pageCounter < 5 ? console.log(frontMatter.data) : '';
+          let frontMatter = matter(data).data;
+          frontMatter = JSON.stringify(frontMatter);
+          // let title = JSON.stringify(frontMatter.data.title);
+          console.log(frontMatter);
           // pageCounter < 5 ? console.log(frontMatter.data) : '';
           // pageCounter < 5 ? delete frontMatter.data.layout : '';
           // if add author property to front-matter

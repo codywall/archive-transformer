@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Hidden health crisis on campus: Eating disorders
+title: Hidden health crisis on campus&amp;colon; Eating disorders
 date: February 5 2014
 ---
 
+<span class="date">Posted on Feb 05, 2014 </span>
 
-
-
-<span class="date">Posted on Feb 05, 2014    </span>
 <h3>Feb. 26 film showing, discussion will address the issue</h3>
 <p>The National Institute of Mental Health estimates that 25
 percent of college students have eating&#xA0;<img alt="Approximately 25 percent of college students have eating disorders" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stigma_1.jpg" style="float:left; width:300px; height:323px">disorders. The same
@@ -46,8 +44,3 @@ available at csumb.edu/maps.<br>
 <br>
 For more information or to request disability accommodations,
 contact Tony Delfino at 582-3988 or <a href="mailto:adelfino@csumb.edu">adelfino@csumb.edu</a></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
-
-
-
-
-

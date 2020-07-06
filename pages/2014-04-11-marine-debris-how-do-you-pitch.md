@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Marine debris: How do you pitch in?
+title: Marine debris&amp;colon; How do you pitch in?
 date: April 11 2014
 ---
 
+<span class="date">Posted on Apr 11, 2014 </span>
 
-
-
-<span class="date">Posted on Apr 11, 2014    </span>
 <h3>Annual Sanctuary Currents symposium set for April 26</h3>
 <p>Most people are aware of our role in polluting the oceans. It is
 a rare trip to the beach, even here in the beautiful Monterey Bay,
@@ -60,8 +58,3 @@ Institute</p>
 <a href="http://www.montereybay.noaa.gov/research/currsymp2014" rel="nofollow">click here</a>.&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
-
-
-
-
-

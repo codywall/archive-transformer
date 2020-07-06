@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Under pressure: 54 hours to launch a business
+title: Under pressure&amp;colon; 54 hours to launch a business
 date: December 21 2012
 ---
 
+<span class="date">Posted on Dec 21, 2012 </span>
 
-
-
-<span class="date">Posted on Dec 21, 2012    </span>
 <h3><img alt="Startup Weekend will be held at CSUMB Jan. 25-27" height="130" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_wide.jpg" width="540"/></h3>
 <h3>CSUMB to host Startup Weekend in January</h3>
 <p>Ever wonder what it takes to be an entrepreneur?&#x2028;&#x2028;CSU Monterey
@@ -63,4 +61,3 @@ information on the Institute, visit innovation.csumb.edu.</em></br></p>
 <p class="small">&#xA0;</p>
 <p class="small"><br>
 <em>&#xA0;</em></br></p>
-

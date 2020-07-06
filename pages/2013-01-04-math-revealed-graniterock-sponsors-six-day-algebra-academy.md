@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Math, revealed: Graniterock sponsors sixday Algebra Academy
+title: Math, revealed&amp;colon; Graniterock sponsors sixday Algebra Academy
 date: January 4 2013
 ---
 
+<span class="date">Posted on Jan 04, 2013 </span>
 
-
-
-<span class="date">Posted on Jan 04, 2013    </span>
 <p>Dozens of students from Rolling Hills Middle School in
 Wattsonville voluntarily spent their last week of winter break
 studying algebra &#x2013; and having fun.</p>
@@ -58,8 +56,3 @@ around us.&#x201D;</p>
 <p>&#x201C;The four teaching assistants really made a connection with the
 students,&#x201D; Ito said. &#x201C;They&#x2019;re a bridge between the professors and
 the youngsters, and they&#x2019;ve done a great job.&#x201D;</p>
-
-
-
-
-

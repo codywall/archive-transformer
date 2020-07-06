@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Tonight: May Day labor film festival
+title: Tonight&amp;colon; May Day labor film festival
 date: May 2 2011
 ---
 
+<span class="date">Posted on May 02, 2011 </span>
 
-
-
-<span class="date">Posted on May 02, 2011    </span>
 <h2>Keepin&#x2019; it Reel</h2>
 <p>CSU Monterey Bay has hosted several events as part of the 10th
 annual Reel Work May Day Labor Film Festival. The final screening
@@ -33,8 +31,3 @@ Clara counties, <a href="http://www.reelwork.org" rel="nofollow">click here</a>.
 screenings, contact Jennifer Colby at 582-5045 or <a href="mailto:jcolby@csumb.edu">jcolby@csumb.edu</a>.</img></p>
 <p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
-
-
-
-
-

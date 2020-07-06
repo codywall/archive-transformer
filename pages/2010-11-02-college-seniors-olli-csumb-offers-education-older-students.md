@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: College Seniors: OLLI at CSUMB offers education for older students
+title: College Seniors&amp;colon; OLLI at CSUMB offers education for older students
 date: November 2 2010
 ---
 
+<span class="date">Posted on Nov 02, 2010 </span>
 
-
-
-<span class="date">Posted on Nov 02, 2010    </span>
 <p>After a career in the Army, and a second one spent in the mining
 industry in Peru, Dick Guthrie of Pebble Beach was looking for ways
 to satisfy his curiosity about, well, almost everything.</p>

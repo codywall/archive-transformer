@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Tonight: School of Business Showcase
+title: Tonight&amp;colon; School of Business Showcase
 date: May 3 2011
 ---
 
+<span class="date">Posted on May 03, 2011 </span>
 
-
-
-<span class="date">Posted on May 03, 2011    </span>
 <p>Michael Briley, managing partner of Hayashi &amp; Wayland
 Accounting and Consulting, LLP, and Mary Adams, president and CEO
 of the United Way of Monterey County, will be honored at CSU
@@ -56,8 +54,3 @@ senior, will also be given out at the showcase.</p>
 <p>To learn more about the School of Business at CSU Monterey Bay,
 click <a href="http://csumb.edu/business" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
-
-
-
-
-

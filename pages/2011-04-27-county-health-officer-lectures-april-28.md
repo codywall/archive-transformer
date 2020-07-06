@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Today: County health officer lectures
+title: Today&amp;colon; County health officer lectures
 date: April 27 2011
 ---
 
+<span class="date">Posted on Apr 27, 2011 </span>
 
-
-
-<span class="date">Posted on Apr 27, 2011    </span>
 <p>This semester&#x2019;s Health Sciences/Biology Speaker Series concludes
 April 28, when Monterey County&apos;s Director of Public Health Hugh
 Stallworth visits CSU Monterey Bay.</p>
@@ -43,8 +41,3 @@ Pre-Med Club. For more information, contact Dr. Aparna Sreenivasan
 at 582-3210.<br>
 <br>
 &#xA0;&#xA0;</br></br></p>
-
-
-
-
-

@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: Student Profile: Austin Long
+title: Student Profile&amp;colon; Austin Long
 date: November 2 2010
 ---
 
+<span class="date">Posted on Nov 02, 2010 </span>
 
-
-
-<span class="date">Posted on Nov 02, 2010    </span>
 <p>Austin Long, a senior in the Visual and Public Art Department,
 already has the sensitivity and worldliness of a great
 photographer. The son of an artist and a military officer, he spent
@@ -36,8 +34,3 @@ this spring while continuing to pursue his art.</p>
 he said. &#x201C;It is cool to be able to talk to people who are working
 artists.&#x201D;<br>
 &#xA0;</br></p>
-
-
-
-
-
