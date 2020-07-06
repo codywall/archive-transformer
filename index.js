@@ -1,12 +1,15 @@
 'use strict';
 const fs = require('fs');
 const walkPath = './pages';
+const path = require('path');
 const cheerio = require('cheerio');
+const matter = require('gray-matter');
 let pageCounter = 0;
 let modifiedCounter = 0;
 
 const walk = function (dir, done) {
   fs.readdir(dir, function (error, list) {
+    list = list.filter((item) => !/(^|\/)\.[^\/\.]/g.test(item));
     if (error) {
       return done(error);
     }
@@ -25,7 +28,16 @@ const walk = function (dir, done) {
           });
         } else {
           // modify file here
+          // read the file
           let data = fs.readFileSync(file, 'utf-8');
+
+          // edit frontmatter
+          // let frontMatter = matter(data, { excerpt: true });
+          // let title = frontMatter.data.title;
+          // pageCounter < 5 ? console.log(frontMatter.data) : '';
+          // pageCounter < 5 ? console.log(frontMatter.data) : '';
+          // pageCounter < 5 ? delete frontMatter.data.layout : '';
+          // if add author property to front-matter
           const $ = cheerio.load(data, {
             // stop cheerio from adding head and body tags
             xmlMode: true,
@@ -54,6 +66,9 @@ const walk = function (dir, done) {
             })
             .remove();
           //write updated file
+          pageCounter < 5
+            ? fs.renameSync(file, file.replace(/\.[^.]+$/, '.md'))
+            : '';
           fs.writeFileSync(file, $.html(), function (err) {
             if (err) {
               throw err;
