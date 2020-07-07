@@ -13,6 +13,9 @@ for (let i = 0; i < pages.length; i++) {
     .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w-]+/g, '');
+  let slug = title.toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '');
 
   for (let j = 0; j < values.length; j++) {
     if (values[j].type == 'heading') {
@@ -34,17 +37,12 @@ for (let i = 0; i < pages.length; i++) {
     // }
   }
   let htmlBlock = `---
-layout: archive
-title: ${title}
+slug: ${slug}
+title: "${title}"
 date: January 01 2020
 ---
-<!--googleon: snippet-->
-<div class="node node-type-news">
-<div class="node-inner">
-<div class="content">
+
 ${htmlContent.join('')}
-</div>
-</div>
 `;
 
   //   create files
