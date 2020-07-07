@@ -4,6 +4,7 @@ const walkPath = './pages';
 const path = require('path');
 const cheerio = require('cheerio');
 const matter = require('gray-matter');
+const { parseHTML } = require('cheerio');
 let pageCounter = 0;
 let modifiedCounter = 0;
 
@@ -32,13 +33,22 @@ const walk = function (dir, done) {
           let data = fs.readFileSync(file, 'utf-8');
 
           // edit frontmatter
-          let frontMatter = matter(data).data;
-          frontMatter = JSON.stringify(frontMatter);
-          // let title = JSON.stringify(frontMatter.data.title);
-          console.log(frontMatter);
-          // pageCounter < 5 ? console.log(frontMatter.data) : '';
-          // pageCounter < 5 ? delete frontMatter.data.layout : '';
-          // if add author property to front-matter
+          let frontMatter = matter(data);
+          delete frontMatter.data['layout'];
+          frontMatter.data.title = frontMatter.data.title.replace(/,/g, '');
+          frontMatter.data.slug = frontMatter.data.title
+            .toLowerCase()
+            .replace(/\s+/g, '-')
+            .replace(/,/g, '');
+          data = frontMatter.stringify({}, { language: 'json', spaces: 2 });
+          console.log(data);
+          // fs.writeFileSync(file, $.html(), function (err) {
+          //   if (err) {
+          //     throw err;
+          //   }
+          //   modifiedCounter++;
+          // });
+
           const $ = cheerio.load(data, {
             // stop cheerio from adding head and body tags
             xmlMode: true,
