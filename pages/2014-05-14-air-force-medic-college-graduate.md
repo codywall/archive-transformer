@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: From Air Force medic to college graduate
 date: May 14 2014
+slug: from-air-force-medic-to-college-graduate
 ---
 
 

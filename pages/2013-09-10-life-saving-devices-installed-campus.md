@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Lifesaving devices installed on campus
 date: September 10 2013
+slug: lifesaving-devices-installed-on-campus
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB hosts economic development summit
 date: August 9 2011
+slug: csumb-hosts-economic-development-summit
 ---
 
 

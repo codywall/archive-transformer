@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otter men&apos;s golfers ranked second in nation
 date: May 1 2014
+slug: otter-men&apos;s-golfers-ranked-second-in-nation
 ---
 
 

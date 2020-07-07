@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Islam topic of Social Justice Colloquium
 date: February 15 2011
+slug: islam-topic-of-social-justice-colloquium
 ---
 
 

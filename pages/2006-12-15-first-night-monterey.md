@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: First Night Monterey
 date: December 15 2006
+slug: first-night-monterey
 ---
 
 

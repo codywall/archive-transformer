@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: EMBA scholarship
 date: September 4 2009
+slug: emba-scholarship
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Art in the service of science
 date: May 20 2014
+slug: art-in-the-service-of-science
 ---
 
 

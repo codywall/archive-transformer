@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A Greater Vision
 date: October 7 2009
+slug: a-greater-vision
 ---
 
 

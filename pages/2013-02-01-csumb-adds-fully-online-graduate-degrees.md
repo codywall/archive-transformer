@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB adds two more fully online graduate degrees
 date: February 1 2013
+slug: csumb-adds-two-more-fully-online-graduate-degrees
 ---
 
 

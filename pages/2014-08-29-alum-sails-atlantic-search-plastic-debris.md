@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Alum sails Atlantic in search of plastic debris
 date: August 29 2014
+slug: alum-sails-atlantic-in-search-of-plastic-debris
 ---
 
 

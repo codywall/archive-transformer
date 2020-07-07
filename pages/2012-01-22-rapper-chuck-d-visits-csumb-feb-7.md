@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Rapper Chuck D visits CSUMB Feb. 7
 date: January 22 2012
+slug: rapper-chuck-d-visits-csumb-feb.-7
 ---
 
 

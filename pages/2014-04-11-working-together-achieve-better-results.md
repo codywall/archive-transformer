@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Working together to achieve better results
 date: April 11 2014
+slug: working-together-to-achieve-better-results
 ---
 
 

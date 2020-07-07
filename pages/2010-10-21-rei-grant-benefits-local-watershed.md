@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: REI grant benefits local watershed
 date: October 21 2010
+slug: rei-grant-benefits-local-watershed
 ---
 
 

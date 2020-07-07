@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Hiramoto named VP for advancement
 date: November 2 2011
+slug: hiramoto-named-vp-for-advancement
 ---
 
 

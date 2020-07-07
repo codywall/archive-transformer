@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: College scientists shine at conference
 date: December 16 2014
+slug: college-scientists-shine-at-conference
 ---
 
 

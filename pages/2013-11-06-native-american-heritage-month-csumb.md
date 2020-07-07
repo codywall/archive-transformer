@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Native American Heritage Month at CSUMB
 date: November 6 2013
+slug: native-american-heritage-month-at-csumb
 ---
 
 

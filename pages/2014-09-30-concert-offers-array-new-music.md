@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Concert offers an array of new music
 date: September 30 2014
+slug: concert-offers-an-array-of-new-music
 ---
 
 

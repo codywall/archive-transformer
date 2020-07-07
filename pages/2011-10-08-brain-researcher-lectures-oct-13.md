@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Brain researcher lectures on Oct. 13
 date: October 8 2011
+slug: brain-researcher-lectures-on-oct.-13
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB digs in &#x2013; university breaks ground for its new library
 date: October 4 2006
+slug: csumb-digs-in-&#x2013;-university-breaks-ground-for-its-new-library
 ---
 
 

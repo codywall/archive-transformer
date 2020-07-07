@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Calling all teen filmmakers
 date: March 2 2012
+slug: calling-all-teen-filmmakers
 ---
 
 

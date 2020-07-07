@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB joins worldwide protest of violence against women
 date: January 23 2015
+slug: csumb-joins-worldwide-protest-of-violence-against-women
 ---
 
 

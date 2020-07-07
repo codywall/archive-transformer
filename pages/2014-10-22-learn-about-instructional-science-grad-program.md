@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Learn about instructional science grad program
 date: October 22 2014
+slug: learn-about-instructional-science-grad-program
 ---
 
 

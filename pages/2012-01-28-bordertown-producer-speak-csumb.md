@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Bordertown&apos; producer to speak at CSUMB
+title: producer to speak at CSUMB
 date: January 28 2012
+slug: producer-to-speak-at-csumb
 ---
 
 

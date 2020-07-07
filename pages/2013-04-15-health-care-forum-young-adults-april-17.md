@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Health care forum for young adults April 17
 date: April 15 2013
+slug: health-care-forum-for-young-adults-april-17
 ---
 
 

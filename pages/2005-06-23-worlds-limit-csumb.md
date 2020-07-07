@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: The world&apos;s the limit for CSUMB
 date: June 23 2005
+slug: the-world&apos;s-the-limit-for-csumb
 ---
 
 

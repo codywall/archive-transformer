@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Business professor to chair ag foundation board
 date: June 24 2013
+slug: business-professor-to-chair-ag-foundation-board
 ---
 
 

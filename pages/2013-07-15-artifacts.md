@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: ARTIFACTS
 date: July 15 2013
+slug: artifacts
 ---
 
 

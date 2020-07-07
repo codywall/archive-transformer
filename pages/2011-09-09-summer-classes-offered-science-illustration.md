@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Summer classes offered in science illustration
 date: September 9 2011
+slug: summer-classes-offered-in-science-illustration
 ---
 
 

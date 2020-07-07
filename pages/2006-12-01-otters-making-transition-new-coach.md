@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otters making transition to new coach
 date: December 1 2006
+slug: otters-making-transition-to-new-coach
 ---
 
 

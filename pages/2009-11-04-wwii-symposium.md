@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Reliving History
 date: November 4 2009
+slug: reliving-history
 ---
 
 

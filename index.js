@@ -35,19 +35,16 @@ const walk = function (dir, done) {
           // edit frontmatter
           let frontMatter = matter(data);
           delete frontMatter.data['layout'];
-          frontMatter.data.title = frontMatter.data.title.replace(/,/g, '');
+          frontMatter.data['title'] = frontMatter.data['title'].replace(
+            /,/g,
+            ''
+          );
           frontMatter.data.slug = frontMatter.data.title
             .toLowerCase()
             .replace(/\s+/g, '-')
             .replace(/,/g, '');
-          data = frontMatter.stringify();
+          data = matter.stringify(frontMatter, frontMatter.data);
           console.log(data);
-          // fs.writeFileSync(file, $.html(), function (err) {
-          //   if (err) {
-          //     throw err;
-          //   }
-          //   modifiedCounter++;
-          // });
 
           const $ = cheerio.load(data, {
             // stop cheerio from adding head and body tags

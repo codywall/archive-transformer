@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Math Academy gives students a second chance
 date: July 3 2012
+slug: math-academy-gives-students-a-second-chance
 ---
 
 

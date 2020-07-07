@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Conference looks at broadband issues
 date: March 16 2011
+slug: conference-looks-at-broadband-issues
 ---
 
 

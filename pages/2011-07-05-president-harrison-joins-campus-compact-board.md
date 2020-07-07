@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Harrison joins Campus Compact board
 date: July 5 2011
+slug: president-harrison-joins-campus-compact-board
 ---
 
 

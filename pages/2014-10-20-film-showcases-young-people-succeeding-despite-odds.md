@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Film showcases young people succeeding despite the odds
 date: October 20 2014
+slug: film-showcases-young-people-succeeding-despite-the-odds
 ---
 
 

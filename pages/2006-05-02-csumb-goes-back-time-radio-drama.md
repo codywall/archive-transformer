@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB goes back in time for radio drama
 date: May 2 2006
+slug: csumb-goes-back-in-time-for-radio-drama
 ---
 
 

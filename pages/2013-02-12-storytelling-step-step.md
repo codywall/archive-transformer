@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Storytelling, step by step
+title: Storytelling step by step
 date: February 12 2013
+slug: storytelling-step-by-step
 ---
 
 

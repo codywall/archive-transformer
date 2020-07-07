@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Striving to reach a bold goal
 date: March 20 2014
+slug: striving-to-reach-a-bold-goal
 ---
 
 

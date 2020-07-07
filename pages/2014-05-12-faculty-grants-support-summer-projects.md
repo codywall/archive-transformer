@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty grants support summer projects
 date: May 12 2014
+slug: faculty-grants-support-summer-projects
 ---
 
 

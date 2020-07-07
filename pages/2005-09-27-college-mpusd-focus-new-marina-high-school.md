@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: College, MPUSD focus on new Marina high school
+title: College MPUSD focus on new Marina high school
 date: September 27 2005
+slug: college-mpusd-focus-on-new-marina-high-school
 ---
 
 

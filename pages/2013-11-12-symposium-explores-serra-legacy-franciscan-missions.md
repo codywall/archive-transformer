@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Symposium explores Serra, legacy of Franciscan missions
+title: Symposium explores Serra legacy of Franciscan missions
 date: November 12 2013
+slug: symposium-explores-serra-legacy-of-franciscan-missions
 ---
 
 

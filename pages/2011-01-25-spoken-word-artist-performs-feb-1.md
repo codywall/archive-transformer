@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Spokenword artist performs Feb. 1
 date: January 25 2011
+slug: spokenword-artist-performs-feb.-1
 ---
 
 

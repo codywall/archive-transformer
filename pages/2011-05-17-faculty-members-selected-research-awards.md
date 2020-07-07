@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty members selected for research awards
 date: May 17 2011
+slug: faculty-members-selected-for-research-awards
 ---
 
 

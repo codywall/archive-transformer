@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student work at First Night Film Fest Dec. 31
 date: December 21 2011
+slug: student-work-at-first-night-film-fest-dec.-31
 ---
 
 

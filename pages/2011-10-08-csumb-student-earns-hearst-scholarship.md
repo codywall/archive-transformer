@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB student earns Hearst Scholarship
 date: October 8 2011
+slug: csumb-student-earns-hearst-scholarship
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Tech program helps put Latinos on path to Silicon Valley
 date: January 22 2015
+slug: tech-program-helps-put-latinos-on-path-to-silicon-valley
 ---
 
 

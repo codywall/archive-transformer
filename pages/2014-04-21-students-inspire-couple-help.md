@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students inspire couple to help
 date: April 21 2014
+slug: students-inspire-couple-to-help
 ---
 
 

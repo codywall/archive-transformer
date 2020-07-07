@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students in CSUwide research competition
 date: April 11 2012
+slug: students-in-csuwide-research-competition
 ---
 
 

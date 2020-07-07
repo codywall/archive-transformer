@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Academy makes algebra fun for 8th graders
 date: January 14 2011
+slug: academy-makes-algebra-fun-for-8th-graders
 ---
 
 

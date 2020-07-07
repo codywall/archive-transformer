@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Lienk stands up for the environment
 date: November 20 2005
+slug: lienk-stands-up-for-the-environment
 ---
 
 

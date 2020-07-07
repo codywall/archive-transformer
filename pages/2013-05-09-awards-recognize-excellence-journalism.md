@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Awards recognize excellence in journalism
 date: May 9 2013
+slug: awards-recognize-excellence-in-journalism
 ---
 
 

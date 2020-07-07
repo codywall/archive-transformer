@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Ocean science attracts summer researchers
 date: August 4 2014
+slug: ocean-science-attracts-summer-researchers
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB ready to serve those who served
 date: September 22 2010
+slug: csumb-ready-to-serve-those-who-served
 ---
 
 

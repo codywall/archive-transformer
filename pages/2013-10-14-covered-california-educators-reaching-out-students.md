@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Covered California educators reaching out to students
 date: October 14 2013
+slug: covered-california-educators-reaching-out-to-students
 ---
 
 

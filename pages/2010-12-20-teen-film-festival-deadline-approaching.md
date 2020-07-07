@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Teen Film Festival deadline approaching
 date: December 20 2010
+slug: teen-film-festival-deadline-approaching
 ---
 
 

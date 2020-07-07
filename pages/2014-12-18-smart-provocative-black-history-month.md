@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Smart, provocative Black History Month
+title: Smart provocative Black History Month
 date: December 18 2014
+slug: smart-provocative-black-history-month
 ---
 
 

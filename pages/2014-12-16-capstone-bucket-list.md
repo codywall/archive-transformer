@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A capstone for a bucket list
 date: December 16 2014
+slug: a-capstone-for-a-bucket-list
 ---
 
 

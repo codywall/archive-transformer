@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New media approach to the story of water
 date: September 22 2010
+slug: new-media-approach-to-the-story-of-water
 ---
 
 

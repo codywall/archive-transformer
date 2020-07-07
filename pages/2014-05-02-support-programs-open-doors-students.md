@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Support programs open doors for students
 date: May 2 2014
+slug: support-programs-open-doors-for-students
 ---
 
 

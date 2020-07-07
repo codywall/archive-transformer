@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students invited to design a bike garage
 date: April 15 2011
+slug: students-invited-to-design-a-bike-garage
 ---
 
 

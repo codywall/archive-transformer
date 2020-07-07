@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Museum director kicks off visiting artist series
 date: February 16 2012
+slug: museum-director-kicks-off-visiting-artist-series
 ---
 
 

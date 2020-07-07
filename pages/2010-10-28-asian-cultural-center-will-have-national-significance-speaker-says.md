@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Asian Cultural Center will have national significance, speaker says
+title: Asian Cultural Center will have national significance speaker says
 date: October 28 2010
+slug: asian-cultural-center-will-have-national-significance-speaker-says
 ---
 
 

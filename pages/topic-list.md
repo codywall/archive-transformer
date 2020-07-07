@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Topic list
 date: January 1 2020
+slug: topic-list
 ---
 
 

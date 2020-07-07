@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Study hall&amp;colon; new library is all things to all people
 date: April 28 2011
+slug: study-hall&amp;colon;-new-library-is-all-things-to-all-people
 ---
 
 <span class="date">Posted on Apr 28, 2011 </span>

@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Library work begins &#x2013; groundbreaking ceremony held for topflight CSUMB facility
+title: &gt;-
+  Library work begins &#x2013; groundbreaking ceremony held for topflight CSUMB
+  facility
 date: October 4 2006
+slug: &gt;-
+  library-work-begins-&#x2013;-groundbreaking-ceremony-held-for-topflight-csumb-facility
 ---
 
 

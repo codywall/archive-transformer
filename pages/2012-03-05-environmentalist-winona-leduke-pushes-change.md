@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Environmentalist Winona LaDuke pushes for change
 date: March 5 2012
+slug: environmentalist-winona-laduke-pushes-for-change
 ---
 
 

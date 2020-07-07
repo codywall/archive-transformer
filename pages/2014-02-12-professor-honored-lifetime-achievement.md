@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor honored for lifetime achievement
 date: February 12 2014
+slug: professor-honored-for-lifetime-achievement
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Six graduating seniors head to Japan
 date: April 17 2013
+slug: six-graduating-seniors-head-to-japan
 ---
 
 

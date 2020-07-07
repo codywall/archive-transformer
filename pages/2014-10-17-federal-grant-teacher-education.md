@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Federal grant for teacher education
 date: October 17 2014
+slug: federal-grant-for-teacher-education
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB new home to Summer Arts program
 date: February 26 2012
+slug: csumb-new-home-to-summer-arts-program
 ---
 
 

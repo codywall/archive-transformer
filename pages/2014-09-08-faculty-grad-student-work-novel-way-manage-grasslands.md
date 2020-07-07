@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Faculty, grad student work on novel way to manage grasslands
+title: Faculty grad student work on novel way to manage grasslands
 date: September 8 2014
+slug: faculty-grad-student-work-on-novel-way-to-manage-grasslands
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB makes list of green colleges
 date: May 22 2014
+slug: csumb-makes-list-of-green-colleges
 ---
 
 

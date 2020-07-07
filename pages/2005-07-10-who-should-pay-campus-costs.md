@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Who should pay for offcampus costs?
 date: July 10 2005
+slug: who-should-pay-for-offcampus-costs?
 ---
 
 

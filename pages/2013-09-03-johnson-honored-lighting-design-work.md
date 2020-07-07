@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Johnson honored for lighting design work
 date: September 3 2013
+slug: johnson-honored-for-lighting-design-work
 ---
 
 

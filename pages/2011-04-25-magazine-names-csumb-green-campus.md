@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Magazine names CSUMB &apos;green&apos; campus
 date: April 25 2011
+slug: magazine-names-csumb-&apos;green&apos;-campus
 ---
 
 

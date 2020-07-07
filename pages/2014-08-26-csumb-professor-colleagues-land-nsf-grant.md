@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB professor, colleagues land NSF grant
+title: CSUMB professor colleagues land NSF grant
 date: August 26 2014
+slug: csumb-professor-colleagues-land-nsf-grant
 ---
 
 

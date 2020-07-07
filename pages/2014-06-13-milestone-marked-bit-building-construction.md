@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Milestone marked in BIT building construction
 date: June 13 2014
+slug: milestone-marked-in-bit-building-construction
 ---
 
 

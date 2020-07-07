@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB has new dean, new college of education
+title: CSUMB has new dean new college of education
 date: September 9 2014
+slug: csumb-has-new-dean-new-college-of-education
 ---
 
 

@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Green Degrees  CSUMB joins 1,450 other schools and groups for a global warming teach in.
+title: &gt;-
+  Green Degrees  CSUMB joins 1450 other schools and groups for a global warming
+  teach in.
 date: January 24 2007
+slug: &gt;-
+  green-degrees-csumb-joins-1450-other-schools-and-groups-for-a-global-warming-teach-in.
 ---
 
 

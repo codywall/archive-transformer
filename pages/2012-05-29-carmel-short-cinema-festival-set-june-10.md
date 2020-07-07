@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Carmel Short Cinema Festival set for June 10
 date: May 29 2012
+slug: carmel-short-cinema-festival-set-for-june-10
 ---
 
 

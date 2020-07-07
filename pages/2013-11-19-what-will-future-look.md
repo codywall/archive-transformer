@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: What will the future look like?
 date: November 19 2013
+slug: what-will-the-future-look-like?
 ---
 
 

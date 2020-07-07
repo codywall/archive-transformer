@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: EMBA program accepting students
 date: September 4 2009
+slug: emba-program-accepting-students
 ---
 
 

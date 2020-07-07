@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Composers society honors CSUMB lecturer
 date: November 19 2013
+slug: composers-society-honors-csumb-lecturer
 ---
 
 

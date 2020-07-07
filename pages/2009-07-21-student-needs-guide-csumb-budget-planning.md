@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student needs guide CSUMB budget planning
 date: July 21 2009
+slug: student-needs-guide-csumb-budget-planning
 ---
 
 

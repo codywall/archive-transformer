@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Business in a changing environment
 date: September 13 2013
+slug: business-in-a-changing-environment
 ---
 
 

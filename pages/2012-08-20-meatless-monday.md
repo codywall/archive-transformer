@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Drop that cheeseburger!
 date: August 20 2012
+slug: drop-that-cheeseburger!
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB adding faculty for upcoming school year
 date: July 28 2014
+slug: csumb-adding-faculty-for-upcoming-school-year
 ---
 
 

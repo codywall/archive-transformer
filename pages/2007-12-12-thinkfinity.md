@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: thinkfinity
 date: December 12 2007
+slug: thinkfinity
 ---
 
 

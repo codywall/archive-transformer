@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Mobile devices just a click away
 date: August 11 2014
+slug: mobile-devices-just-a-click-away
 ---
 
 

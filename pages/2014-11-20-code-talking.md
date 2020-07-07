@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Code talking
 date: November 20 2014
+slug: code-talking
 ---
 
 

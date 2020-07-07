@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Summer school of a different sort
 date: June 13 2014
+slug: summer-school-of-a-different-sort
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Point Lobos undersea world revealed
 date: May 22 2014
+slug: point-lobos-undersea-world-revealed
 ---
 
 

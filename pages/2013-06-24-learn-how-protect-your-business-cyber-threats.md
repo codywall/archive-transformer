@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Learn how to protect your business from cyber threats
 date: June 24 2013
+slug: learn-how-to-protect-your-business-from-cyber-threats
 ---
 
 

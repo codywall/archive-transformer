@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Presidential Search
 date: September 20 2005
+slug: presidential-search
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: API community celebrates graduation
 date: May 23 2013
+slug: api-community-celebrates-graduation
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: STUDY HALL
 date: April 11 2011
+slug: study-hall
 ---
 
 

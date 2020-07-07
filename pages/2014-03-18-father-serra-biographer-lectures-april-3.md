@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Father Serra biographer lectures on April 3
 date: March 18 2014
+slug: father-serra-biographer-lectures-on-april-3
 ---
 
 

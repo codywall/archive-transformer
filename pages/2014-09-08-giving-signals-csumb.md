@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Giving signals at CSUMB
 date: September 8 2014
+slug: giving-signals-at-csumb
 ---
 
 

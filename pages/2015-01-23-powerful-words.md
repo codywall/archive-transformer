@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: POWERFUL WORDS
 date: January 23 2015
+slug: powerful-words
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Application deadline fast approaching
 date: November 24 2009
+slug: application-deadline-fast-approaching
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB getting facelift
 date: July 26 2006
+slug: csumb-getting-facelift
 ---
 
 

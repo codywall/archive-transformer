@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB featured in book on undergraduate research
 date: June 15 2012
+slug: csumb-featured-in-book-on-undergraduate-research
 ---
 
 

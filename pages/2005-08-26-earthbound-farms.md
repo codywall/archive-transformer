@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Earthbound Farms
 date: August 26 2005
+slug: earthbound-farms
 ---
 
 

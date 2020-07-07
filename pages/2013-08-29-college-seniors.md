@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: COLLEGE SENIORS
 date: August 29 2013
+slug: college-seniors
 ---
 
 

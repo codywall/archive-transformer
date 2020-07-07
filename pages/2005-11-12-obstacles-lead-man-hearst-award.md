@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Obstacles lead man to Hearst award
 date: November 12 2005
+slug: obstacles-lead-man-to-hearst-award
 ---
 
 

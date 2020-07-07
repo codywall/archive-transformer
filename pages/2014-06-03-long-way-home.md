@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A long way from home
 date: June 3 2014
+slug: a-long-way-from-home
 ---
 
 

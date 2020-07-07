@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: State of the University
 date: October 21 2010
+slug: state-of-the-university
 ---
 
 

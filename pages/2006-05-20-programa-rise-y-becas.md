@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Programa RISE, y Becas
+title: Programa RISE y Becas
 date: May 20 2006
+slug: programa-rise-y-becas
 ---
 
 

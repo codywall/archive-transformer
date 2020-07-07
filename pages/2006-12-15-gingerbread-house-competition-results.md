@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Gingerbread House Competition Results
 date: December 15 2006
+slug: gingerbread-house-competition-results
 ---
 
 

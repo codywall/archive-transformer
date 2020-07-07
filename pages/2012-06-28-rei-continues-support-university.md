@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: REI continues to support university
 date: June 28 2012
+slug: rei-continues-to-support-university
 ---
 
 

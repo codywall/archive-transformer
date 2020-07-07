@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: GOWNS GONE GREEN
 date: May 9 2014
+slug: gowns-gone-green
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB lauded for sustainability efforts
 date: July 28 2011
+slug: csumb-lauded-for-sustainability-efforts
 ---
 
 

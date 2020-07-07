@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB honored for civic engagement
 date: August 29 2013
+slug: csumb-honored-for-civic-engagement
 ---
 
 

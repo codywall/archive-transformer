@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: National Acrobats of China bring their art to CSUMB
 date: August 25 2014
+slug: national-acrobats-of-china-bring-their-art-to-csumb
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A WORLD AWAY
 date: August 23 2012
+slug: a-world-away
 ---
 
 

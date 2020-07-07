@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Teens tackle technology at camp
 date: August 2 2013
+slug: teens-tackle-technology-at-camp
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Carnegie Foundation
 date: December 13 2006
+slug: carnegie-foundation
 ---
 
 

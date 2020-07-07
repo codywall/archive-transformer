@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Working with Professor Ruben Mendoza, archaeology students uncover a career
+title: Working with Professor Ruben Mendoza archaeology students uncover a career
 date: November 16 2010
+slug: working-with-professor-ruben-mendoza-archaeology-students-uncover-a-career
 ---
 
 

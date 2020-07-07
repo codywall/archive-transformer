@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Tragic crash the subject of local antidrinking film &#x2013; movie will go out to county high schools, Cal State campuses
+title: &gt;-
+  Tragic crash the subject of local antidrinking film &#x2013; movie will go out
+  to county high schools Cal State campuses
 date: July 11 2006
+slug: &gt;-
+  tragic-crash-the-subject-of-local-antidrinking-film-&#x2013;-movie-will-go-out-to-county-high-schools-cal-state-campuses
 ---
 
 

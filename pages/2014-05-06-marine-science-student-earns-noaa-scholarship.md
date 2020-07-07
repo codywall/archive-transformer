@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Marine science student earns NOAA scholarship
 date: May 6 2014
+slug: marine-science-student-earns-noaa-scholarship
 ---
 
 

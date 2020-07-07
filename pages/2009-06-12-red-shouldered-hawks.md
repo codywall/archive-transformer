@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: red shouldered hawks
 date: June 12 2009
+slug: red-shouldered-hawks
 ---
 
 

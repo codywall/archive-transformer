@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Another national honor for Service Learning program
 date: March 25 2012
+slug: another-national-honor-for-service-learning-program
 ---
 
 

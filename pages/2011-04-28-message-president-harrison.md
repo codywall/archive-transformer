@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A message from President Harrison
 date: April 28 2011
+slug: a-message-from-president-harrison
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Become an entrepreneur in 54 hours
 date: December 2 2014
+slug: become-an-entrepreneur-in-54-hours
 ---
 
 

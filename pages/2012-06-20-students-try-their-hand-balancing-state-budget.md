@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students try their hand at balancing state budget
 date: June 20 2012
+slug: students-try-their-hand-at-balancing-state-budget
 ---
 
 

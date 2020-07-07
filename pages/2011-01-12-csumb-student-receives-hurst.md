@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB Student Receives Hearst
 date: January 12 2011
+slug: csumb-student-receives-hearst
 ---
 
 

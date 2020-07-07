@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB researchers hatch a biological machine to clean farm runoff
 date: October 28 2014
+slug: csumb-researchers-hatch-a-biological-machine-to-clean-farm-runoff
 ---
 
 

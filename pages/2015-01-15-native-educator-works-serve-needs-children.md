@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Native educator works to serve the needs of children
 date: January 15 2015
+slug: native-educator-works-to-serve-the-needs-of-children
 ---
 
 

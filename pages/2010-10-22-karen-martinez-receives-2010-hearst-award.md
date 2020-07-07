@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Karen Martinez receives 2010 Hearst Award
 date: October 22 2010
+slug: karen-martinez-receives-2010-hearst-award
 ---
 
 

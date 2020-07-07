@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otters on the Rise
 date: September 24 2013
+slug: otters-on-the-rise
 ---
 
 

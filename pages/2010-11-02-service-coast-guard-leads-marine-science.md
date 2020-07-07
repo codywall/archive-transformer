@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Service in coast guard leads to marine science
 date: November 2 2010
+slug: service-in-coast-guard-leads-to-marine-science
 ---
 
 

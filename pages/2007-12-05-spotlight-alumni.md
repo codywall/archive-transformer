@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Spotlight on Alumni
 date: December 5 2007
+slug: spotlight-on-alumni
 ---
 
 

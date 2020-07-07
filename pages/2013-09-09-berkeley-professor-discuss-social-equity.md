@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Berkeley professor to discuss social equity
 date: September 9 2013
+slug: berkeley-professor-to-discuss-social-equity
 ---
 
 

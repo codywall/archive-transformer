@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Former AS officer heads to Washington for internship
 date: August 26 2014
+slug: former-as-officer-heads-to-washington-for-internship
 ---
 
 

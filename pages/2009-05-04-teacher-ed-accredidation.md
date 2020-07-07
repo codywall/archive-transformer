@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Teacher Ed Accredidation
 date: May 4 2009
+slug: teacher-ed-accredidation
 ---
 
 

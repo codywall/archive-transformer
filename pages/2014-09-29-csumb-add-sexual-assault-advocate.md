@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB to add sexual assault advocate
 date: September 29 2014
+slug: csumb-to-add-sexual-assault-advocate
 ---
 
 

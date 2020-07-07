@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Native American History Week Nov. 1218
 date: November 4 2010
+slug: native-american-history-week-nov.-1218
 ---
 
 

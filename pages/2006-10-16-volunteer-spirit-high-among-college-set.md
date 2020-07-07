@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Volunteer spirit high among college set
 date: October 16 2006
+slug: volunteer-spirit-high-among-college-set
 ---
 
 

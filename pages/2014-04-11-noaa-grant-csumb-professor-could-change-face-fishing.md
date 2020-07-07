@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: NOAA grant to CSUMB professor could change the face of fishing
 date: April 11 2014
+slug: noaa-grant-to-csumb-professor-could-change-the-face-of-fishing
 ---
 
 

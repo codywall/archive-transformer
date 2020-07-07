@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Online course gets students thinking about drinking
 date: October 11 2011
+slug: online-course-gets-students-thinking-about-drinking
 ---
 
 

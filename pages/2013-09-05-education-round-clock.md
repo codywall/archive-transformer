@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Education, round the clock
+title: Education round the clock
 date: September 5 2013
+slug: education-round-the-clock
 ---
 
 

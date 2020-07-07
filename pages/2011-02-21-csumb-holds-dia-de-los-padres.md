@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Annual Dia de Los Padres in Salinas
 date: February 21 2011
+slug: annual-dia-de-los-padres-in-salinas
 ---
 
 

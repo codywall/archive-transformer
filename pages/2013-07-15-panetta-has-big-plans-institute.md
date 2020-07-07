@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Panetta has big plans for institute
 date: July 15 2013
+slug: panetta-has-big-plans-for-institute
 ---
 
 

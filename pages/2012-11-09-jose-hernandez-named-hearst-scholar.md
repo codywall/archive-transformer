@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Jose Hernandez named Hearst Scholar
 date: November 9 2012
+slug: jose-hernandez-named-hearst-scholar
 ---
 
 

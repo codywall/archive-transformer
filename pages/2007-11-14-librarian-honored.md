@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Librarian Honored
 date: November 14 2007
+slug: librarian-honored
 ---
 
 

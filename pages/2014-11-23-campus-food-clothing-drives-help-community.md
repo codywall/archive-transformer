@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Campus food, clothing drives help the community
+title: Campus food clothing drives help the community
 date: November 23 2014
+slug: campus-food-clothing-drives-help-the-community
 ---
 
 

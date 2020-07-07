@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Club seeks worn running shoes &#x2013;CSUMB students plan donation to nonprofit
+title: &gt;-
+  Club seeks worn running shoes &#x2013;CSUMB students plan donation to
+  nonprofit
 date: December 4 2006
+slug: &gt;-
+  club-seeks-worn-running-shoes-&#x2013;csumb-students-plan-donation-to-nonprofit
 ---
 
 

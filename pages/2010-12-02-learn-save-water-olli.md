@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Learn to save water with OLLI
 date: December 2 2010
+slug: learn-to-save-water-with-olli
 ---
 
 

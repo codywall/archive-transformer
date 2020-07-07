@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: ART for CHANGE
 date: June 24 2013
+slug: art-for-change
 ---
 
 

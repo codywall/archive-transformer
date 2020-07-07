@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB short film festival at Forest Theater
 date: July 15 2013
+slug: csumb-short-film-festival-at-forest-theater
 ---
 
 

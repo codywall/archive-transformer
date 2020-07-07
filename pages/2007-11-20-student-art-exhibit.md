@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student art exhibit
 date: November 20 2007
+slug: student-art-exhibit
 ---
 
 

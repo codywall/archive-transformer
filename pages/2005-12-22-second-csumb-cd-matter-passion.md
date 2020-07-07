@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Second CSUMB CD a matter of passion
 date: December 22 2005
+slug: second-csumb-cd-a-matter-of-passion
 ---
 
 

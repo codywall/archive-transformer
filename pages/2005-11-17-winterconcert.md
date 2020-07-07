@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: WinterConcert
 date: November 17 2005
+slug: winterconcert
 ---
 
 

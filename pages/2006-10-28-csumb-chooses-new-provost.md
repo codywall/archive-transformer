@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB chooses new provost
 date: October 28 2006
+slug: csumb-chooses-new-provost
 ---
 
 

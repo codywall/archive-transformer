@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;River in Ruin&apos; author lectures on May 10
+title: in Ruin&apos; author lectures on May 10
 date: May 9 2012
+slug: in-ruin&apos;-author-lectures-on-may-10
 ---
 
 

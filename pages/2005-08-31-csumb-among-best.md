@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB among the best
 date: August 31 2005
+slug: csumb-among-the-best
 ---
 
 

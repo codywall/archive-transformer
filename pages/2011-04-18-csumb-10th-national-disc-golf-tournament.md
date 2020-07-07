@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB 10th at national disc golf tournament
 date: April 18 2011
+slug: csumb-10th-at-national-disc-golf-tournament
 ---
 
 

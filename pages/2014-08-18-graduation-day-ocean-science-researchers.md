@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Graduation day&apos; for ocean science researchers
+title: day&apos; for ocean science researchers
 date: August 18 2014
+slug: day&apos;-for-ocean-science-researchers
 ---
 
 

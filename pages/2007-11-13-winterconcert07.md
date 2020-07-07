@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: WinterConcert07
 date: November 13 2007
+slug: winterconcert07
 ---
 
 

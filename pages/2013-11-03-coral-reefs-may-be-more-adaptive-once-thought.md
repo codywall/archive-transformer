@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Coral reefs may be more adaptive than once thought
 date: November 3 2013
+slug: coral-reefs-may-be-more-adaptive-than-once-thought
 ---
 
 

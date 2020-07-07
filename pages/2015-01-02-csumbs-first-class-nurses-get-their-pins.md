@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB&apos;s first class of nurses get their pins
 date: January 2 2015
+slug: csumb&apos;s-first-class-of-nurses-get-their-pins
 ---
 
 

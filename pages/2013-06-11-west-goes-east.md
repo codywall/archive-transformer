@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;The West&apos; goes East
+title: West&apos; goes East
 date: June 11 2013
+slug: west&apos;-goes-east
 ---
 
 

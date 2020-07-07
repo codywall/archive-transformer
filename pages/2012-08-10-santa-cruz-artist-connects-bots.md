@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Santa Cruz artist connects the bots
 date: August 10 2012
+slug: santa-cruz-artist-connects-the-bots
 ---
 
 

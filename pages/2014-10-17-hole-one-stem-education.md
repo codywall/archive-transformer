@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A holeinone for STEM education
 date: October 17 2014
+slug: a-holeinone-for-stem-education
 ---
 
 

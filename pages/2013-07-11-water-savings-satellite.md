@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Water savings via satellite
 date: July 11 2013
+slug: water-savings-via-satellite
 ---
 
 

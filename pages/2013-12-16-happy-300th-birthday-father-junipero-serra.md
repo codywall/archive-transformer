@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Happy 300th birthday, Father Junipero Serra
+title: Happy 300th birthday Father Junipero Serra
 date: December 16 2013
+slug: happy-300th-birthday-father-junipero-serra
 ---
 
 

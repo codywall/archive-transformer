@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty filmmakers featured at Days and Nights Festival
 date: September 25 2013
+slug: faculty-filmmakers-featured-at-days-and-nights-festival
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB to have new home for tech, business
+title: CSUMB to have new home for tech business
 date: November 18 2013
+slug: csumb-to-have-new-home-for-tech-business
 ---
 
 

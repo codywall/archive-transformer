@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Valley of the Heart comes to World Theater
 date: October 15 2014
+slug: valley-of-the-heart-comes-to-world-theater
 ---
 
 

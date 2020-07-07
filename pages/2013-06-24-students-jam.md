@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: STUDENTS IN A JAM
 date: June 24 2013
+slug: students-in-a-jam
 ---
 
 

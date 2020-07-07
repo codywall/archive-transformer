@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB to graduate 1,447
+title: CSUMB to graduate 1447
 date: May 22 2014
+slug: csumb-to-graduate-1447
 ---
 
 

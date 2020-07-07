@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Investidura del Dr. Ochoa
 date: November 18 2013
+slug: investidura-del-dr.-ochoa
 ---
 
 

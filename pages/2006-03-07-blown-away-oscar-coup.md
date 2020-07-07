@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Blown Away by Oscar Coup
 date: March 7 2006
+slug: blown-away-by-oscar-coup
 ---
 
 

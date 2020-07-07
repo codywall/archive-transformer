@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Because she has a vision for environmental change . . .
 date: November 3 2013
+slug: because-she-has-a-vision-for-environmental-change-.-.-.
 ---
 
 

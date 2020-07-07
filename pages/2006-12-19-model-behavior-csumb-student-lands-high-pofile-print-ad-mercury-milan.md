@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Model Behavior&amp;colon; CSUMB student lands highpofile print ad for Mercury Milan
+title: &gt;-
+  Model Behavior&amp;colon; CSUMB student lands highpofile print ad for Mercury
+  Milan
 date: December 19 2006
+slug: &gt;-
+  model-behavior&amp;colon;-csumb-student-lands-highpofile-print-ad-for-mercury-milan
 ---
 
 <span class="date">Posted on Dec 19, 2006 </span>

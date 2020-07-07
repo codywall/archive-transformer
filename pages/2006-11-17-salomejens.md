@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: SalomeJens
 date: November 17 2006
+slug: salomejens
 ---
 
 

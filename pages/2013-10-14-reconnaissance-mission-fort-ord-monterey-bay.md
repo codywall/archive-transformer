@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: On a reconnaissance mission to Fort Ord in Monterey Bay
 date: October 14 2013
+slug: on-a-reconnaissance-mission-to-fort-ord-in-monterey-bay
 ---
 
 

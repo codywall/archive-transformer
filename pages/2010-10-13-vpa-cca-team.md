@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: VPA, CCA team
+title: VPA CCA team
 date: October 13 2010
+slug: vpa-cca-team
 ---
 
 

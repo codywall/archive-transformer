@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Parents invited to attend Otter 101
 date: June 23 2011
+slug: parents-invited-to-attend-otter-101
 ---
 
 

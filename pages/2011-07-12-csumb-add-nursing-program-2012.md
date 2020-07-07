@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB to add nursing program in 2012
 date: July 12 2011
+slug: csumb-to-add-nursing-program-in-2012
 ---
 
 

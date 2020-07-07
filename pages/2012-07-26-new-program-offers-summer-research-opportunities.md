@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New program offers summer research opportunities
 date: July 26 2012
+slug: new-program-offers-summer-research-opportunities
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Dine to Donate&apos; for earthquake relief
+title: to Donate&apos; for earthquake relief
 date: April 5 2011
+slug: to-donate&apos;-for-earthquake-relief
 ---
 
 

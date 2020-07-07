@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Newly listed&amp;colon; 20 colleges that foster student success
 date: August 29 2005
+slug: newly-listed&amp;colon;-20-colleges-that-foster-student-success
 ---
 
 <span class="date">Posted on Aug 29, 2005 </span>

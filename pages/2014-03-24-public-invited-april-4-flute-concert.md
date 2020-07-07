@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Public invited to April 4 flute concert
 date: March 24 2014
+slug: public-invited-to-april-4-flute-concert
 ---
 
 

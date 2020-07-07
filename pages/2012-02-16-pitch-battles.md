@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: PITCH BATTLES
 date: February 16 2012
+slug: pitch-battles
 ---
 
 

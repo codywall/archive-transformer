@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Stanford futurist kicks off President&apos;s Speaker Series
 date: November 3 2014
+slug: stanford-futurist-kicks-off-president&apos;s-speaker-series
 ---
 
 

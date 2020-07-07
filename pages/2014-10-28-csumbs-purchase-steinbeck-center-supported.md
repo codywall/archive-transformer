@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB&apos;s purchase of Steinbeck Center supported
 date: October 28 2014
+slug: csumb&apos;s-purchase-of-steinbeck-center-supported
 ---
 
 

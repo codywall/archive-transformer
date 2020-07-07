@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Visiting artist explores bicultural identity
 date: August 29 2012
+slug: visiting-artist-explores-bicultural-identity
 ---
 
 

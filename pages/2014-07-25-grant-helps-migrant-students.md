@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Grant helps migrant students
 date: July 25 2014
+slug: grant-helps-migrant-students
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Upward Bound program continues to soar
 date: June 13 2012
+slug: upward-bound-program-continues-to-soar
 ---
 
 

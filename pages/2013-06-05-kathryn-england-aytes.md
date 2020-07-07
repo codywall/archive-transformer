@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor honors work of Chief Wilma Mankiller
 date: June 5 2013
+slug: professor-honors-work-of-chief-wilma-mankiller
 ---
 
 

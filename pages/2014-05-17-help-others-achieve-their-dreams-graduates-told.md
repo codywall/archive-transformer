@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Help others achieve their dreams,&apos; graduates told
+title: others achieve their dreams&apos; graduates told
 date: May 17 2014
+slug: others-achieve-their-dreams&apos;-graduates-told
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Ochoa talks of growth, inequalities
+title: Ochoa talks of growth inequalities
 date: August 23 2014
+slug: ochoa-talks-of-growth-inequalities
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: University to host world premiere of play
 date: November 4 2012
+slug: university-to-host-world-premiere-of-play
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students learn value of service
 date: October 8 2005
+slug: students-learn-value-of-service
 ---
 
 

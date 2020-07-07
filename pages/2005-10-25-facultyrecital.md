@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: FacultyRecital
 date: October 25 2005
+slug: facultyrecital
 ---
 
 

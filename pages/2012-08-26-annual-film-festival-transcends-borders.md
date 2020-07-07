@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Annual film festival transcends borders
 date: August 26 2012
+slug: annual-film-festival-transcends-borders
 ---
 
 

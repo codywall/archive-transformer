@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students volunteer to prepare taxes
 date: February 8 2011
+slug: students-volunteer-to-prepare-taxes
 ---
 
 

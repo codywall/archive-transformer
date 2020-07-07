@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Real World Experience
 date: November 9 2007
+slug: real-world-experience
 ---
 
 

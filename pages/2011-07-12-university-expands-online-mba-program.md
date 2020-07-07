@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: University expands online MBA program
 date: July 12 2011
+slug: university-expands-online-mba-program
 ---
 
 

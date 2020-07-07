@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Sea Otter Awareness Week comes to campus
 date: September 22 2014
+slug: sea-otter-awareness-week-comes-to-campus
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Arts collective explores gender, cultural stereotypes
+title: Arts collective explores gender cultural stereotypes
 date: March 5 2013
+slug: arts-collective-explores-gender-cultural-stereotypes
 ---
 
 

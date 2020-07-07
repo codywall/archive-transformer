@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Annual business ethics forum set for March 27
 date: March 16 2013
+slug: annual-business-ethics-forum-set-for-march-27
 ---
 
 

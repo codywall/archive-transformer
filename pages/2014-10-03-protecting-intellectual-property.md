@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Protecting intellectual property
 date: October 3 2014
+slug: protecting-intellectual-property
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Voters approve reduced fee to build housing at CSUMB
 date: October 11 2005
+slug: voters-approve-reduced-fee-to-build-housing-at-csumb
 ---
 
 

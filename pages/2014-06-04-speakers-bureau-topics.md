@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Speakers Bureau topics
 date: June 4 2014
+slug: speakers-bureau-topics
 ---
 
 

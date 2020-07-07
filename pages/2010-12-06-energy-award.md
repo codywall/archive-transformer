@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Campus energy project delivers
 date: December 6 2010
+slug: campus-energy-project-delivers
 ---
 
 

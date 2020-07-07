@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB aims for zerowaste moveout
 date: May 14 2014
+slug: csumb-aims-for-zerowaste-moveout
 ---
 
 

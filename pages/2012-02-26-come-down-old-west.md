@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Come on down to the Old West
 date: February 26 2012
+slug: come-on-down-to-the-old-west
 ---
 
 

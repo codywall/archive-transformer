@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: TAT presents agitation and films by Travis Wilkerson
 date: October 24 2011
+slug: tat-presents-agitation-and-films-by-travis-wilkerson
 ---
 
 

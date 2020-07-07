@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Administrator named to county commission
 date: August 1 2012
+slug: administrator-named-to-county-commission
 ---
 
 

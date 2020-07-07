@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: American Honda Foundation
 date: November 20 2007
+slug: american-honda-foundation
 ---
 
 

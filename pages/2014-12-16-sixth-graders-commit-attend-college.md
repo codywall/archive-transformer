@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Sixthgraders &apos;commit&apos; to attend college
 date: December 16 2014
+slug: sixthgraders-&apos;commit&apos;-to-attend-college
 ---
 
 

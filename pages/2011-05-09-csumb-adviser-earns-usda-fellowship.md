@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB adviser earns USDA fellowship
 date: May 9 2011
+slug: csumb-adviser-earns-usda-fellowship
 ---
 
 

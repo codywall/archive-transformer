@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Humanities professors collaborate on book
 date: June 11 2013
+slug: humanities-professors-collaborate-on-book
 ---
 
 

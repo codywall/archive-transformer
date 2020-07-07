@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New provost will join campus in July
 date: February 25 2014
+slug: new-provost-will-join-campus-in-july
 ---
 
 

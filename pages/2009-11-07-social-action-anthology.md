@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Writers on Fire
 date: November 7 2009
+slug: writers-on-fire
 ---
 
 

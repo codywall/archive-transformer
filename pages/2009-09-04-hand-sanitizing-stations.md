@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Campus makes another effort to prevent the flu
 date: September 4 2009
+slug: campus-makes-another-effort-to-prevent-the-flu
 ---
 
 

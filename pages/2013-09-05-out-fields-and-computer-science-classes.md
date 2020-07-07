@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Out of the fields and into computer science classes
 date: September 5 2013
+slug: out-of-the-fields-and-into-computer-science-classes
 ---
 
 

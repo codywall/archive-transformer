@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Art student&apos;s work adorns skate park
 date: May 22 2013
+slug: art-student&apos;s-work-adorns-skate-park
 ---
 
 

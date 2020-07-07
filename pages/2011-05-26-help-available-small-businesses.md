@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Big help available for small businesses
 date: May 26 2011
+slug: big-help-available-for-small-businesses
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Alum Augie Johnston plays pro basketball in Germany
 date: September 22 2010
+slug: alum-augie-johnston-plays-pro-basketball-in-germany
 ---
 
 

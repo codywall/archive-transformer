@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Center for Innovation grant
 date: June 19 2009
+slug: center-for-innovation-grant
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A new high for Otters
 date: October 7 2005
+slug: a-new-high-for-otters
 ---
 
 

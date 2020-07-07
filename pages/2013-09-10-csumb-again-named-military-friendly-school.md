@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB again named &apos;militaryfriendly school&apos;
 date: September 10 2013
+slug: csumb-again-named-&apos;militaryfriendly-school&apos;
 ---
 
 

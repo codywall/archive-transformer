@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: disc golf tourney 2007
 date: November 10 2007
+slug: disc-golf-tourney-2007
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Conflict in Chinatown
 date: November 9 2006
+slug: conflict-in-chinatown
 ---
 
 

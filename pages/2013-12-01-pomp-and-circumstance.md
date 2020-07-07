@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Pomp and Circumstance
 date: December 1 2013
+slug: pomp-and-circumstance
 ---
 
 

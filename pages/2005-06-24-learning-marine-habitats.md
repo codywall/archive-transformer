@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Learning marine habitats
 date: June 24 2005
+slug: learning-marine-habitats
 ---
 
 

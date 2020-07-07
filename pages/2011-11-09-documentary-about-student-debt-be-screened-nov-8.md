@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Documentary about student debt to be screened Nov. 8
 date: November 9 2011
+slug: documentary-about-student-debt-to-be-screened-nov.-8
 ---
 
 

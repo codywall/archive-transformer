@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Artists reflect on issues of sustainability
 date: December 1 2014
+slug: artists-reflect-on-issues-of-sustainability
 ---
 
 

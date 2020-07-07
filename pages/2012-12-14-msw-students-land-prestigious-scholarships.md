@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: MSW students land prestigious scholarships
 date: December 14 2012
+slug: msw-students-land-prestigious-scholarships
 ---
 
 

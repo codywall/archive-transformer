@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: More honors for archaeology professor
 date: January 2 2014
+slug: more-honors-for-archaeology-professor
 ---
 
 

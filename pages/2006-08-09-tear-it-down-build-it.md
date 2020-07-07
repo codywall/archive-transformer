@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Tear it down to build it up
 date: August 9 2006
+slug: tear-it-down-to-build-it-up
 ---
 
 

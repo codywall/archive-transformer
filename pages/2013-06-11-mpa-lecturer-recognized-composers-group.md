@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: MPA lecturer honored by composers group
 date: June 11 2013
+slug: mpa-lecturer-honored-by-composers-group
 ---
 
 

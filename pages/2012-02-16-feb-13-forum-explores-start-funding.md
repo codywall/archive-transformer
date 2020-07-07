@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Feb. 13 forum explores startup funding
 date: February 16 2012
+slug: feb.-13-forum-explores-startup-funding
 ---
 
 

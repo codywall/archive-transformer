@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor presents research in Brazil
 date: June 11 2013
+slug: professor-presents-research-in-brazil
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student films shown at Carmel festival June 19
 date: June 14 2011
+slug: student-films-shown-at-carmel-festival-june-19
 ---
 
 

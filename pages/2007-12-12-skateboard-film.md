@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Skateboard film
 date: December 12 2007
+slug: skateboard-film
 ---
 
 

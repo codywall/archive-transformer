@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Flu shots available at CSUMB
 date: December 2 2014
+slug: flu-shots-available-at-csumb
 ---
 
 

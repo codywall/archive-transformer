@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: EXTREME SPORT
 date: October 8 2011
+slug: extreme-sport
 ---
 
 

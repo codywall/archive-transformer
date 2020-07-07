@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Conservation award presented to faculty member
 date: June 11 2013
+slug: conservation-award-presented-to-faculty-member
 ---
 
 

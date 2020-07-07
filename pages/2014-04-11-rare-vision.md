@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Rare vision
 date: April 11 2014
+slug: rare-vision
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Previous News Releases
 date: January 25 2008
+slug: previous-news-releases
 ---
 
 

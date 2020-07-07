@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Environmental filmmaking class explores Fort Ord
 date: May 8 2014
+slug: environmental-filmmaking-class-explores-fort-ord
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB chief maps vision
 date: September 16 2006
+slug: csumb-chief-maps-vision
 ---
 
 

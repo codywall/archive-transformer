@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Pollack honored for servicelearning achievements
 date: June 11 2013
+slug: pollack-honored-for-servicelearning-achievements
 ---
 
 

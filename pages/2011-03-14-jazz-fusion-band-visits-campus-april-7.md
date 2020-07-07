@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Jazz fusion band visits campus April 7
 date: March 14 2011
+slug: jazz-fusion-band-visits-campus-april-7
 ---
 
 

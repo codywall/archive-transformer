@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Have a Heart for Students
 date: February 1 2011
+slug: have-a-heart-for-students
 ---
 
 

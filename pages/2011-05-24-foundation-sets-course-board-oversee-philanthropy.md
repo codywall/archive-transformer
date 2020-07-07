@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Foundation sets course&amp;colon; board to oversee philanthropy
 date: May 24 2011
+slug: foundation-sets-course&amp;colon;-board-to-oversee-philanthropy
 ---
 
 <span class="date">Posted on May 24, 2011 </span>

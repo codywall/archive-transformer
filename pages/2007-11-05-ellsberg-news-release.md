@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Ellsberg News Release
 date: November 5 2007
+slug: ellsberg-news-release
 ---
 
 

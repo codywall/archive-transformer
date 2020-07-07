@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB receives McNair Scholars grant
 date: October 31 2007
+slug: csumb-receives-mcnair-scholars-grant
 ---
 
 

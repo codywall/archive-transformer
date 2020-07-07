@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Priority Applications
 date: October 25 2007
+slug: priority-applications
 ---
 
 

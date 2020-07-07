@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Gingerbread
 date: December 17 2007
+slug: gingerbread
 ---
 
 

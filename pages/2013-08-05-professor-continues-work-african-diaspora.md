@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor continues work on African diaspora
 date: August 5 2013
+slug: professor-continues-work-on-african-diaspora
 ---
 
 

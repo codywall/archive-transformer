@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB goes green with Earth Day events
 date: April 23 2014
+slug: csumb-goes-green-with-earth-day-events
 ---
 
 

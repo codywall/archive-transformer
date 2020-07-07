@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Archaeologist talks on colonial missions at ASU
 date: June 12 2013
+slug: archaeologist-talks-on-colonial-missions-at-asu
 ---
 
 

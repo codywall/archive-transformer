@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB reaches agreement with Marina, FORA on future growth
+title: CSUMB reaches agreement with Marina FORA on future growth
 date: September 2 2009
+slug: csumb-reaches-agreement-with-marina-fora-on-future-growth
 ---
 
 

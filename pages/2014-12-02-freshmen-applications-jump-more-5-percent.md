@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Freshmen applications jump more than 5 percent
 date: December 2 2014
+slug: freshmen-applications-jump-more-than-5-percent
 ---
 
 

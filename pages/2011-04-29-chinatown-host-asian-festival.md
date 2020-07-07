@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Chinatown to host Asian Festival
 date: April 29 2011
+slug: chinatown-to-host-asian-festival
 ---
 
 

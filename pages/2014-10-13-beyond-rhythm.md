@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Beyond rhythm
 date: October 13 2014
+slug: beyond-rhythm
 ---
 
 

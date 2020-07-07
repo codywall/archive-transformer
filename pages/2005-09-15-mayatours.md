@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: MayaTours
 date: September 15 2005
+slug: mayatours
 ---
 
 

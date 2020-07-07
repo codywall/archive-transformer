@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB earns three transportation awards
 date: February 2 2014
+slug: csumb-earns-three-transportation-awards
 ---
 
 

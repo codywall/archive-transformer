@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: In On Chinatown
 date: October 1 2013
+slug: in-on-chinatown
 ---
 
 

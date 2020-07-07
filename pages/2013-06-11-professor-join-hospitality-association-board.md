@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor to join hospitality association board
 date: June 11 2013
+slug: professor-to-join-hospitality-association-board
 ---
 
 

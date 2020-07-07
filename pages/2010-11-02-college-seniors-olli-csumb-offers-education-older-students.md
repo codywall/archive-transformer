@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: College Seniors&amp;colon; OLLI at CSUMB offers education for older students
 date: November 2 2010
+slug: college-seniors&amp;colon;-olli-at-csumb-offers-education-for-older-students
 ---
 
 <span class="date">Posted on Nov 02, 2010 </span>

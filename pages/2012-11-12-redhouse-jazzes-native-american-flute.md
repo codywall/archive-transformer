@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Redhouse jazzes up Native American flute
 date: November 12 2012
+slug: redhouse-jazzes-up-native-american-flute
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Ochoa attends White House conference
 date: December 8 2014
+slug: president-ochoa-attends-white-house-conference
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student volunteers offer free tax assistance
 date: May 9 2013
+slug: student-volunteers-offer-free-tax-assistance
 ---
 
 

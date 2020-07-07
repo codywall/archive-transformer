@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: More help for small business
 date: November 4 2009
+slug: more-help-for-small-business
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Nationally known economist Alice Rivlin to deliver commencement address
 date: June 19 2012
+slug: nationally-known-economist-alice-rivlin-to-deliver-commencement-address
 ---
 
 

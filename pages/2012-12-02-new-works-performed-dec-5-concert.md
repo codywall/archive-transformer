@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Concert features chamber music by CSUMB instructor
 date: December 2 2012
+slug: concert-features-chamber-music-by-csumb-instructor
 ---
 
 

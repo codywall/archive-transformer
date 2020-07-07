@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: FILMS IN THE FOREST
 date: July 1 2013
+slug: films-in-the-forest
 ---
 
 

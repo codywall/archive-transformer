@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Luis Valdez delivers talk at CSUMB
 date: September 24 2013
+slug: luis-valdez-delivers-talk-at-csumb
 ---
 
 

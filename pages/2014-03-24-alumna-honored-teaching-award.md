@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Alumna honored with teaching award
 date: March 24 2014
+slug: alumna-honored-with-teaching-award
 ---
 
 

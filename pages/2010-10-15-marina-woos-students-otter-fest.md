@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Marina woos students with Otter Fest
 date: October 15 2010
+slug: marina-woos-students-with-otter-fest
 ---
 
 

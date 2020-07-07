@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Aspiring math teacher earns CSU award
 date: September 10 2014
+slug: aspiring-math-teacher-earns-csu-award
 ---
 
 

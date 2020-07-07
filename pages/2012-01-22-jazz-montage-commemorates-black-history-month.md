@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Jazz montage commemorates Black History Month
 date: January 22 2012
+slug: jazz-montage-commemorates-black-history-month
 ---
 
 

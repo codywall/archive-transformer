@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Promesa de Estudiar en la Universidad, CSUMB
+title: Promesa de Estudiar en la Universidad CSUMB
 date: December 6 2013
+slug: promesa-de-estudiar-en-la-universidad-csumb
 ---
 
 

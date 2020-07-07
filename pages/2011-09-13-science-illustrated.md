@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Science, Illustrated
+title: Science Illustrated
 date: September 13 2011
+slug: science-illustrated
 ---
 
 

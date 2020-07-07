@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Murals highlight new neighborhood park
 date: December 6 2013
+slug: murals-highlight-new-neighborhood-park
 ---
 
 

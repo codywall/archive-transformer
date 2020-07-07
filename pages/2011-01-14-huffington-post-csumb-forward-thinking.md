@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Huffington Post&amp;colon; CSUMB &apos;forwardthinking&apos;
 date: January 14 2011
+slug: huffington-post&amp;colon;-csumb-&apos;forwardthinking&apos;
 ---
 
 <span class="date">Posted on Jan 14, 2011 </span>

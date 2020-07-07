@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: ArtGallery
 date: December 8 2005
+slug: artgallery
 ---
 
 

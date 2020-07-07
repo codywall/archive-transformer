@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: McNair Scholars program lands grant
 date: October 1 2012
+slug: mcnair-scholars-program-lands-grant
 ---
 
 

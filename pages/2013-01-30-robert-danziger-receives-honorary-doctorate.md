@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Robert Danziger receives honorary doctorate
 date: January 30 2013
+slug: robert-danziger-receives-honorary-doctorate
 ---
 
 

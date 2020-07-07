@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dr. Ilene Feinman appointed dean of CAHSS
 date: March 7 2012
+slug: dr.-ilene-feinman-appointed-dean-of-cahss
 ---
 
 

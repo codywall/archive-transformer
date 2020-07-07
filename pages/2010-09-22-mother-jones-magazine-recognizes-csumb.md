@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB recognized by Mother Jones magazine
 date: September 22 2010
+slug: csumb-recognized-by-mother-jones-magazine
 ---
 
 

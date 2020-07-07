@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Tune in to thrills and chills
 date: December 3 2013
+slug: tune-in-to-thrills-and-chills
 ---
 
 

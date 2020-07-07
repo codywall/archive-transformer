@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otters&apos; Jenkins shatters record
 date: December 16 2006
+slug: otters&apos;-jenkins-shatters-record
 ---
 
 

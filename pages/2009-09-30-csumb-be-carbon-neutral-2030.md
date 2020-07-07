@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB pledges to be carbon neutral by 2030
 date: September 30 2009
+slug: csumb-pledges-to-be-carbon-neutral-by-2030
 ---
 
 

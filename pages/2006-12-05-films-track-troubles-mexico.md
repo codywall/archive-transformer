@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Films track troubles in Mexico
 date: December 5 2006
+slug: films-track-troubles-in-mexico
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Workshop examines disability access
 date: March 25 2014
+slug: workshop-examines-disability-access
 ---
 
 

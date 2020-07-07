@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB collects food for the needy
 date: November 16 2012
+slug: csumb-collects-food-for-the-needy
 ---
 
 

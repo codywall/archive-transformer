@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Gilman Scholars go global
 date: June 21 2012
+slug: gilman-scholars-go-global
 ---
 
 

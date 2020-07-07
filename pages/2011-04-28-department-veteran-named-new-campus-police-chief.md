@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Department veteran named new campus police chief
 date: April 28 2011
+slug: department-veteran-named-new-campus-police-chief
 ---
 
 

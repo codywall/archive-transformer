@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: PEDAL PERKS
 date: October 19 2014
+slug: pedal-perks
 ---
 
 

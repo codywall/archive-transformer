@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB receives Presidential Award for community service
 date: November 2 2011
+slug: csumb-receives-presidential-award-for-community-service
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Getting chargedup over electric cars
 date: October 5 2012
+slug: getting-chargedup-over-electric-cars
 ---
 
 

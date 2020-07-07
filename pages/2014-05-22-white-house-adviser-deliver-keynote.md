@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: White House adviser to deliver keynote
 date: May 22 2014
+slug: white-house-adviser-to-deliver-keynote
 ---
 
 

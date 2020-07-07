@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student Profile&amp;colon; Austin Long
 date: November 2 2010
+slug: student-profile&amp;colon;-austin-long
 ---
 
 <span class="date">Posted on Nov 02, 2010 </span>

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: March 19 event benefits film society
 date: March 8 2011
+slug: march-19-event-benefits-film-society
 ---
 
 

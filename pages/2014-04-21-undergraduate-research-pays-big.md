@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Undergraduate research pays off big
 date: April 21 2014
+slug: undergraduate-research-pays-off-big
 ---
 
 

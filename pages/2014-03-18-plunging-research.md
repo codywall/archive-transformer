@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Plunging into research
 date: March 18 2014
+slug: plunging-into-research
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Harrison assumes national leadership roles
 date: March 16 2011
+slug: president-harrison-assumes-national-leadership-roles
 ---
 
 

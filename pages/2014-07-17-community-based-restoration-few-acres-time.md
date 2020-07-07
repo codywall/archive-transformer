@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Communitybased restoration, a few acres at a time
+title: Communitybased restoration a few acres at a time
 date: July 17 2014
+slug: communitybased-restoration-a-few-acres-at-a-time
 ---
 
 

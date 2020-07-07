@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Trail Blazers
 date: December 16 2014
+slug: trail-blazers
 ---
 
 

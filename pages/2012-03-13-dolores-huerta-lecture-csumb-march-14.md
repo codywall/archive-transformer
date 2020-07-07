@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dolores Huerta to lecture at CSUMB March 14
 date: March 13 2012
+slug: dolores-huerta-to-lecture-at-csumb-march-14
 ---
 
 

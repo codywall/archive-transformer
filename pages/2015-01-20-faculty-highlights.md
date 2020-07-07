@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty highlights
 date: January 20 2015
+slug: faculty-highlights
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Employees honored for service to CSUMB
 date: May 29 2013
+slug: employees-honored-for-service-to-csumb
 ---
 
 

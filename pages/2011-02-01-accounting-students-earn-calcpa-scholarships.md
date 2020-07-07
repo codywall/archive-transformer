@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Accounting students earn scholarships
 date: February 1 2011
+slug: accounting-students-earn-scholarships
 ---
 
 

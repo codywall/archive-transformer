@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Today&amp;colon; County health officer lectures
 date: April 27 2011
+slug: today&amp;colon;-county-health-officer-lectures
 ---
 
 <span class="date">Posted on Apr 27, 2011 </span>

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Professor, grad student work to protect Big Sur River
+title: Professor grad student work to protect Big Sur River
 date: April 16 2014
+slug: professor-grad-student-work-to-protect-big-sur-river
 ---
 
 

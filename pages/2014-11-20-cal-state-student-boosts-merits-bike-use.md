@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Cal State student boosts merits of bike use
 date: November 20 2014
+slug: cal-state-student-boosts-merits-of-bike-use
 ---
 
 

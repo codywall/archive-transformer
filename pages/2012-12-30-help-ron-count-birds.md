@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Help RON count the birds
 date: December 30 2012
+slug: help-ron-count-the-birds
 ---
 
 

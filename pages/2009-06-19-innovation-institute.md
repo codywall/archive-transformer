@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Innovation Institute
 date: June 19 2009
+slug: innovation-institute
 ---
 
 

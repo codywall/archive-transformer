@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students on computer science fast track
 date: August 18 2014
+slug: students-on-computer-science-fast-track
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB faculty spotlight
 date: November 2 2010
+slug: csumb-faculty-spotlight
 ---
 
 

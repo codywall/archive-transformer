@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Magazine rankings highlight many university strengths
 date: October 21 2010
+slug: magazine-rankings-highlight-many-university-strengths
 ---
 
 

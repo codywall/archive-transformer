@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Familiar faces in big places
 date: November 13 2006
+slug: familiar-faces-in-big-places
 ---
 
 

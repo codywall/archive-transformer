@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Grad student pays it forward
 date: December 16 2013
+slug: grad-student-pays-it-forward
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: High school students imagine college . . .
 date: July 1 2014
+slug: high-school-students-imagine-college-.-.-.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fort Ord Alumni award scholarships
 date: November 2 2010
+slug: fort-ord-alumni-award-scholarships
 ---
 
 

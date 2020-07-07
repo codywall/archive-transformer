@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: ART OF SOCIAL CHANGE
 date: October 12 2012
+slug: art-of-social-change
 ---
 
 

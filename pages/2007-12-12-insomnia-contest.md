@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Insomnia contest
 date: December 12 2007
+slug: insomnia-contest
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB student selected for internship program
 date: September 15 2009
+slug: csumb-student-selected-for-internship-program
 ---
 
 

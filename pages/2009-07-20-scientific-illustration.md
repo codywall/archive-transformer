@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Scientific Illustration
 date: July 20 2009
+slug: scientific-illustration
 ---
 
 

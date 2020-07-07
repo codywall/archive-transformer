@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB art students get handson at museum
 date: July 16 2013
+slug: csumb-art-students-get-handson-at-museum
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB student headed for nation&apos;s capital
 date: October 15 2010
+slug: csumb-student-headed-for-nation&apos;s-capital
 ---
 
 

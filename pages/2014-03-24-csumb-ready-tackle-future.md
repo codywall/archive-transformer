@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB ready to tackle future
 date: March 24 2014
+slug: csumb-ready-to-tackle-future
 ---
 
 

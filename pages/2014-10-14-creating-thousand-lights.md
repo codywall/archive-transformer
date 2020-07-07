@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Creating a thousand lights
 date: October 14 2014
+slug: creating-a-thousand-lights
 ---
 
 

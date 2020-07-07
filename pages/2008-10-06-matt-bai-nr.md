@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: matt bai NR
 date: October 6 2008
+slug: matt-bai-nr
 ---
 
 

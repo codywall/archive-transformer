@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Film Scholarship
 date: May 19 2009
+slug: film-scholarship
 ---
 
 

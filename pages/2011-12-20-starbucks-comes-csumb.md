@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Starbucks comes to CSUMB
 date: December 20 2011
+slug: starbucks-comes-to-csumb
 ---
 
 

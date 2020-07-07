@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Mona the Mammoth symbolizes Earth Day at CSUMB
 date: April 17 2014
+slug: mona-the-mammoth-symbolizes-earth-day-at-csumb
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: AfroPeruvian Explosion
 date: April 17 2013
+slug: afroperuvian-explosion
 ---
 
 

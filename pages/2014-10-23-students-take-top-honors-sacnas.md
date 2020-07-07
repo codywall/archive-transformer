@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students take top honors at SACNAS
 date: October 23 2014
+slug: students-take-top-honors-at-sacnas
 ---
 
 

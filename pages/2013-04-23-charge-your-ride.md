@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Charge Your Ride
 date: April 23 2013
+slug: charge-your-ride
 ---
 
 

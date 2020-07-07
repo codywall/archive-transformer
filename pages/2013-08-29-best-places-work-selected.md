@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Best Places to Work selected
 date: August 29 2013
+slug: best-places-to-work-selected
 ---
 
 

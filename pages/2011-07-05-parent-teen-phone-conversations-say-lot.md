@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Parentteen phone conversations say a lot
 date: July 5 2011
+slug: parentteen-phone-conversations-say-a-lot
 ---
 
 

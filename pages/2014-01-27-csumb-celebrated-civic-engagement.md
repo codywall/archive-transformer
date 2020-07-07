@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB celebrated for civic engagement
 date: January 27 2014
+slug: csumb-celebrated-for-civic-engagement
 ---
 
 

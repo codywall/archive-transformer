@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Truths worth telling
 date: October 31 2007
+slug: truths-worth-telling
 ---
 
 

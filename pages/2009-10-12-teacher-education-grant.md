@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB lands $12.6 million grant
 date: October 12 2009
+slug: csumb-lands-$12.6-million-grant
 ---
 
 

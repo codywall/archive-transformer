@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Library atrium named for philanthropists
 date: August 18 2011
+slug: library-atrium-named-for-philanthropists
 ---
 
 

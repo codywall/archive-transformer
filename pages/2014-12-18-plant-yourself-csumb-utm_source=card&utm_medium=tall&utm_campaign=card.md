@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Plant yourself at CSUMB
 date: December 18 2014
+slug: plant-yourself-at-csumb
 ---
 
 

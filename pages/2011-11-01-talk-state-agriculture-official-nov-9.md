@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Talk by state agriculture official Nov. 9
 date: November 1 2011
+slug: talk-by-state-agriculture-official-nov.-9
 ---
 
 

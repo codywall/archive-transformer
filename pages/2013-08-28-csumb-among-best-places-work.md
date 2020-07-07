@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB among &apos;Best Places to Work&apos;
 date: August 28 2013
+slug: csumb-among-&apos;best-places-to-work&apos;
 ---
 
 

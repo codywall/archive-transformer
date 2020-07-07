@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dr. Lindholm goes to Washington
 date: June 13 2014
+slug: dr.-lindholm-goes-to-washington
 ---
 
 

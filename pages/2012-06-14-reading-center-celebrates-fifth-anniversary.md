@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Reading Center celebrates fifth anniversary
 date: June 14 2012
+slug: reading-center-celebrates-fifth-anniversary
 ---
 
 

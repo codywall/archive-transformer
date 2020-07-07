@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: World view &#x2013; CSUMB World Theater&apos;s sixth annual performing arts series promises to deliver the world
+title: &gt;-
+  World view &#x2013; CSUMB World Theater&apos;s sixth annual performing arts
+  series promises to deliver the world
 date: August 24 2006
+slug: &gt;-
+  world-view-&#x2013;-csumb-world-theater&apos;s-sixth-annual-performing-arts-series-promises-to-deliver-the-world
 ---
 
 

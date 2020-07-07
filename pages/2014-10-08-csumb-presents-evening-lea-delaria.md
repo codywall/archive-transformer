@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB presents an evening with Lea DeLaria
 date: October 8 2014
+slug: csumb-presents-an-evening-with-lea-delaria
 ---
 
 

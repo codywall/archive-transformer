@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Small Business Center opens April 22
 date: April 9 2013
+slug: small-business-center-opens-april-22
 ---
 
 

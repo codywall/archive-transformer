@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Acidification and summer vacation
 date: July 3 2012
+slug: acidification-and-summer-vacation
 ---
 
 

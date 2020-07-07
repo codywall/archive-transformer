@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Exploring the EEL
 date: November 19 2007
+slug: exploring-the-eel
 ---
 
 

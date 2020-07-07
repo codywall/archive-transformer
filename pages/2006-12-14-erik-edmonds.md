@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Erik Edmonds
 date: December 14 2006
+slug: erik-edmonds
 ---
 
 

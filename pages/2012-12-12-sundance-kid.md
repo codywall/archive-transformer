@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: SUNDANCE KID
 date: December 12 2012
+slug: sundance-kid
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Puppetbased animation workshops at CSUMB
 date: April 9 2014
+slug: puppetbased-animation-workshops-at-csumb
 ---
 
 

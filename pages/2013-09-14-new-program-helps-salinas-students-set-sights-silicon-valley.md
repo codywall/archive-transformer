@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New program helps Salinas students set sights on Silicon Valley
 date: September 14 2013
+slug: new-program-helps-salinas-students-set-sights-on-silicon-valley
 ---
 
 

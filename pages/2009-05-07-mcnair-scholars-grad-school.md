@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: McNair Scholars grad school
 date: May 7 2009
+slug: mcnair-scholars-grad-school
 ---
 
 

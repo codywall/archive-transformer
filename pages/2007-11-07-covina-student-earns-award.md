@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Covina Student earns award
 date: November 7 2007
+slug: covina-student-earns-award
 ---
 
 

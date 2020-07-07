@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Together with Love
 date: December 9 2010
+slug: together-with-love
 ---
 
 

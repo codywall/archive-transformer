@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Salinas resident earns CSU Trustee Award
 date: September 22 2014
+slug: salinas-resident-earns-csu-trustee-award
 ---
 
 

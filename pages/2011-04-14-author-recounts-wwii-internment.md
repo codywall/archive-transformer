@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Author recounts WWII internment on 4 14
 date: April 14 2011
+slug: author-recounts-wwii-internment-on-4-14
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Speakers Bureau
-date: 
+date: null
+slug: speakers-bureau
 ---
 
 

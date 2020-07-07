@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Arts are key to the future, Migrant Junior Otters told
+title: Arts are key to the future Migrant Junior Otters told
 date: October 22 2010
+slug: arts-are-key-to-the-future-migrant-junior-otters-told
 ---
 
 

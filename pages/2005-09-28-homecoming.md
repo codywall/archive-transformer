@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Homecoming
 date: September 28 2005
+slug: homecoming
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students make waves with SurfBot
 date: January 13 2012
+slug: students-make-waves-with-surfbot
 ---
 
 

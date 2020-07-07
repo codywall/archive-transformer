@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Math major adds up research opportunities
 date: June 11 2014
+slug: math-major-adds-up-research-opportunities
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Summer Arts comes to CSUMB
 date: May 11 2012
+slug: summer-arts-comes-to-csumb
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: World Affairs Council honors CSUMB students
 date: October 13 2014
+slug: world-affairs-council-honors-csumb-students
 ---
 
 

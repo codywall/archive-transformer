@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty member shares diversity strategies
 date: October 1 2014
+slug: faculty-member-shares-diversity-strategies
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: CSUMB on track, interim leader says
+title: CSUMB on track interim leader says
 date: August 19 2005
+slug: csumb-on-track-interim-leader-says
 ---
 
 

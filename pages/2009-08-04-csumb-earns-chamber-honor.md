@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: University earns Business Excellence Award
 date: August 4 2009
+slug: university-earns-business-excellence-award
 ---
 
 

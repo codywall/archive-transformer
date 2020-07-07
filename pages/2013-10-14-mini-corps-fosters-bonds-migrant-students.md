@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Minicorps fosters bonds with migrant students
 date: October 14 2013
+slug: minicorps-fosters-bonds-with-migrant-students
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Math majors get help preparing for teaching career
 date: November 29 2012
+slug: math-majors-get-help-preparing-for-teaching-career
 ---
 
 

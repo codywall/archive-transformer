@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dia de los Muertos 2009
 date: November 3 2010
+slug: dia-de-los-muertos-2009
 ---
 
 

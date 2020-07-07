@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Blood Drive
 date: December 14 2007
+slug: blood-drive
 ---
 
 

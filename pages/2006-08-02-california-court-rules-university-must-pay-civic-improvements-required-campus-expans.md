@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: California Court Rules University Must Pay for Civic Improvements Required by Campus Expansion
+title: &gt;-
+  California Court Rules University Must Pay for Civic Improvements Required by
+  Campus Expansion
 date: August 2 2006
+slug: &gt;-
+  california-court-rules-university-must-pay-for-civic-improvements-required-by-campus-expansion
 ---
 
 

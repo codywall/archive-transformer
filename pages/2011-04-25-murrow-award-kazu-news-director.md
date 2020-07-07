@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Murrow Award for KAZU news director
 date: April 25 2011
+slug: murrow-award-for-kazu-news-director
 ---
 
 

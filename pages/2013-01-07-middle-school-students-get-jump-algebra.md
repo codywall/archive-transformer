@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Middle school students get a jump on algebra
 date: January 7 2013
+slug: middle-school-students-get-a-jump-on-algebra
 ---
 
 

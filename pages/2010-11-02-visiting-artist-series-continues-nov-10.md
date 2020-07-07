@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Visiting artist series continues Nov. 10
 date: November 2 2010
+slug: visiting-artist-series-continues-nov.-10
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Harrison meets with Governor Brown
 date: May 31 2011
+slug: president-harrison-meets-with-governor-brown
 ---
 
 

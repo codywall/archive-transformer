@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Flippin&apos; Education
 date: July 8 2013
+slug: flippin&apos;-education
 ---
 
 

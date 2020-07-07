@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB brings bright future to area
 date: March 17 2014
+slug: csumb-brings-bright-future-to-area
 ---
 
 

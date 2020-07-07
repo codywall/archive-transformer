@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Health sciences, human services dean named
+title: Health sciences human services dean named
 date: August 19 2014
+slug: health-sciences-human-services-dean-named
 ---
 
 

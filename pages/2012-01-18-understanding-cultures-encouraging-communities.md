@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Understanding cultures, encouraging communities
+title: Understanding cultures encouraging communities
 date: January 18 2012
+slug: understanding-cultures-encouraging-communities
 ---
 
 

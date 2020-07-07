@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: #makeSMARTchoices for Alcohol Awareness Week
+title: makeSMARTchoices for Alcohol Awareness Week
 date: October 12 2012
+slug: makesmartchoices-for-alcohol-awareness-week
 ---
 
+<span class="date">Posted on Oct 12, 2012 </span>
 
-
-
-<span class="date">Posted on Oct 12, 2012    </span>
 <h3>Weeklong campaign starts Oct. 15 at CSUMB</h3>
 <p><img alt="NCAAW starts Oct. 15" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ncaaw.jpeg" style="float:left; width:225px; height:225px">During the week of
 Oct. 15, students at Cal State Monterey Bay will join with their
@@ -94,8 +92,3 @@ formed. Statistics indicate the program is having an impact.</p>
 <p>In addition, staff members from CSUMB&#x2019;s Health and Wellness
 Services conduct educational programs and campus outreach efforts
 throughout the year.&#xA0;</p>
-
-
-
-
-

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: blood drive 2
 date: December 14 2007
+slug: blood-drive-2
 ---
 
 

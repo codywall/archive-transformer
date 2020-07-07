@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB outlines project
 date: August 19 2005
+slug: csumb-outlines-project
 ---
 
 

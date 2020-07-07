@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB gets taste of TV spotlight
 date: February 17 2014
+slug: csumb-gets-taste-of-tv-spotlight
 ---
 
 

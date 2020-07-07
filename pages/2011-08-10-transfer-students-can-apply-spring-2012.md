@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Transfer students can apply for spring 2012
 date: August 10 2011
+slug: transfer-students-can-apply-for-spring-2012
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: World Theater presents its 2010 lineup
 date: November 2 2010
+slug: world-theater-presents-its-2010-lineup
 ---
 
 

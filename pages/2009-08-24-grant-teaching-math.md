@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Grant helps CSUMB train new math teachers
 date: August 24 2009
+slug: grant-helps-csumb-train-new-math-teachers
 ---
 
 

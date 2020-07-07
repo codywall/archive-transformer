@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Grad student lands prestigious scholarship
 date: July 27 2011
+slug: grad-student-lands-prestigious-scholarship
 ---
 
 

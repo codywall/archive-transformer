@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Speaker focuses on innovation
 date: April 8 2013
+slug: speaker-focuses-on-innovation
 ---
 
 

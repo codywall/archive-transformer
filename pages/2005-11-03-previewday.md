@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: PreviewDay
 date: November 3 2005
+slug: previewday
 ---
 
 

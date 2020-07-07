@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: TAT sponsors film showing in Monterey
 date: February 15 2011
+slug: tat-sponsors-film-showing-in-monterey
 ---
 
 

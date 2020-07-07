@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fire and Ink
 date: November 8 2009
+slug: fire-and-ink
 ---
 
 

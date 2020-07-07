@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Searching for the spirit of America
 date: July 17 2013
+slug: searching-for-the-spirit-of-america
 ---
 
 

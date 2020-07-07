@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: KAZU dominates Murrow Awards
 date: April 24 2013
+slug: kazu-dominates-murrow-awards
 ---
 
 

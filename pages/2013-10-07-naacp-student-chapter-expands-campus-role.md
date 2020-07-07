@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: NAACP student chapter expands campus role
 date: October 7 2013
+slug: naacp-student-chapter-expands-campus-role
 ---
 
 

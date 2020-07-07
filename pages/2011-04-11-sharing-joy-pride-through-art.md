@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Sharing joy, pride through art
+title: Sharing joy pride through art
 date: April 11 2011
+slug: sharing-joy-pride-through-art
 ---
 
 

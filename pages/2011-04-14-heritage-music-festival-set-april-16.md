@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Heritage Music Festival set for April 16
 date: April 14 2011
+slug: heritage-music-festival-set-for-april-16
 ---
 
 

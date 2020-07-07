@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Teacher, student success focus of CSUMB efforts
+title: Teacher student success focus of CSUMB efforts
 date: November 26 2014
+slug: teacher-student-success-focus-of-csumb-efforts
 ---
 
 

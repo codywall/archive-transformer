@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Realworld policymaking
 date: November 4 2009
+slug: realworld-policymaking
 ---
 
 

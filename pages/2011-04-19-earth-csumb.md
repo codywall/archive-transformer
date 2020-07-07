@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Earth to CSUMB
 date: April 19 2011
+slug: earth-to-csumb
 ---
 
 

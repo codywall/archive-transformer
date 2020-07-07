@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Alumni Class Notes
 date: April 12 2011
+slug: alumni-class-notes
 ---
 
 

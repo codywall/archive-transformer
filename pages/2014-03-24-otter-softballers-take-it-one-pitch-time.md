@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otter softballers take it one pitch at a time
 date: March 24 2014
+slug: otter-softballers-take-it-one-pitch-at-a-time
 ---
 
 

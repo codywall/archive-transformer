@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Junipero Serra&apos;s legacy examined
 date: November 18 2013
+slug: junipero-serra&apos;s-legacy-examined
 ---
 
 

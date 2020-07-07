@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Reaching out to the world
 date: July 3 2014
+slug: reaching-out-to-the-world
 ---
 
 

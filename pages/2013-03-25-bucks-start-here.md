@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: The bucks start here
 date: March 25 2013
+slug: the-bucks-start-here
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Sustainability and Social Justice
 date: March 5 2012
+slug: sustainability-and-social-justice
 ---
 
 

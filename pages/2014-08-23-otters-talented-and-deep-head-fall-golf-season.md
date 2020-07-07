@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Otters, talented and deep, head into fall golf season
+title: Otters talented and deep head into fall golf season
 date: August 23 2014
+slug: otters-talented-and-deep-head-into-fall-golf-season
 ---
 
 

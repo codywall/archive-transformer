@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Best Contemporary Modern Building
 date: March 24 2014
+slug: best-contemporary-modern-building
 ---
 
 

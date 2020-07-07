@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: watkins award
 date: November 14 2007
+slug: watkins-award
 ---
 
 

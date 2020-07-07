@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Ready for their dreams &#x2013; CSUMB president invested at graduation ceremony
+title: &gt;-
+  Ready for their dreams &#x2013; CSUMB president invested at graduation
+  ceremony
 date: May 20 2007
+slug: &gt;-
+  ready-for-their-dreams-&#x2013;-csumb-president-invested-at-graduation-ceremony
 ---
 
 

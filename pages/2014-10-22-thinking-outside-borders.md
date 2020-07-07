@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Thinking outside the borders
 date: October 22 2014
+slug: thinking-outside-the-borders
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Have a Heart aids students
 date: February 2 2006
+slug: have-a-heart-aids-students
 ---
 
 

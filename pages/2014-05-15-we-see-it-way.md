@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;We See It This Way&apos;
+title: See It This Way&apos;
 date: May 15 2014
+slug: see-it-this-way&apos;
 ---
 
 

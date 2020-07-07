@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Youth soccer clinic set for Saturday morning
 date: August 14 2014
+slug: youth-soccer-clinic-set-for-saturday-morning
 ---
 
 

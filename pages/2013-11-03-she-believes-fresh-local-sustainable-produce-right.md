@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: She believes fresh, local, sustainable produce is a right
+title: She believes fresh local sustainable produce is a right
 date: November 3 2013
+slug: she-believes-fresh-local-sustainable-produce-is-a-right
 ---
 
 

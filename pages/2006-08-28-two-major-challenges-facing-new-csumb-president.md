@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Two major challenges facing new CSUMB president
 date: August 28 2006
+slug: two-major-challenges-facing-new-csumb-president
 ---
 
 

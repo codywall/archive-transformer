@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Planet Ord&apos; takes a spin through history
+title: Ord&apos; takes a spin through history
 date: November 26 2014
+slug: ord&apos;-takes-a-spin-through-history
 ---
 
 

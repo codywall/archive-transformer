@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Oldschool style at newschool program
 date: February 3 2006
+slug: oldschool-style-at-newschool-program
 ---
 
 

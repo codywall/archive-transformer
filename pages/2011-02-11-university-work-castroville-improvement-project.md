@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: University to work on Castroville improvement project
 date: February 11 2011
+slug: university-to-work-on-castroville-improvement-project
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Watershed alumni work on San Clemente Dam project
 date: September 22 2014
+slug: watershed-alumni-work-on-san-clemente-dam-project
 ---
 
 

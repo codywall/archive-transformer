@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Drive raises scholarships for MSW program
 date: June 24 2014
+slug: drive-raises-scholarships-for-msw-program
 ---
 
 

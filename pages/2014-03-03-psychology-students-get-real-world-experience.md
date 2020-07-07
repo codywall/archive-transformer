@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Psychology students get realworld experience
 date: March 3 2014
+slug: psychology-students-get-realworld-experience
 ---
 
 

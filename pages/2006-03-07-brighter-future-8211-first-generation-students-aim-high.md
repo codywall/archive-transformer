@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A brighter future &#x2013; First generation students aim high
 date: March 7 2006
+slug: a-brighter-future-&#x2013;-first-generation-students-aim-high
 ---
 
 

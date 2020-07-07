@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student plugs into Tesla
 date: March 30 2014
+slug: student-plugs-into-tesla
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Book illuminates emotions around racism
 date: July 29 2014
+slug: book-illuminates-emotions-around-racism
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty members granted tenure
 date: June 4 2013
+slug: faculty-members-granted-tenure
 ---
 
 

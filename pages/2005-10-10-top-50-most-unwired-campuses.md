@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Top 50 most unwired campuses
 date: October 10 2005
+slug: top-50-most-unwired-campuses
 ---
 
 

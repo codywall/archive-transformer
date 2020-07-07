@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Comedy icon Second City visits March 3
 date: February 4 2011
+slug: comedy-icon-second-city-visits-march-3
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dr. Harrison appointed president of CSU Northridge
 date: March 22 2012
+slug: dr.-harrison-appointed-president-of-csu-northridge
 ---
 
 

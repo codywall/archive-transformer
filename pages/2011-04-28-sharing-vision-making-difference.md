@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Sharing a vision, making a difference
+title: Sharing a vision making a difference
 date: April 28 2011
+slug: sharing-a-vision-making-a-difference
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: From CSUMB to the minor leagues
 date: July 8 2013
+slug: from-csumb-to-the-minor-leagues
 ---
 
 

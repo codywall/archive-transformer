@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB educator receives GREEN award
 date: November 18 2011
+slug: csumb-educator-receives-green-award
 ---
 
 

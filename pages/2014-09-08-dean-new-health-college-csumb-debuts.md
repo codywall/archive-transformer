@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Dean of new health college at CSUMB debuts
 date: September 8 2014
+slug: dean-of-new-health-college-at-csumb-debuts
 ---
 
 

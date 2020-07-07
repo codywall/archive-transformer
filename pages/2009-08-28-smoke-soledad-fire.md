@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Smoke coming our way from Soledad fire
 date: August 28 2009
+slug: smoke-coming-our-way-from-soledad-fire
 ---
 
 

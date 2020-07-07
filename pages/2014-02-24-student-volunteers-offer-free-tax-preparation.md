@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student volunteers offer free tax preparation
 date: February 24 2014
+slug: student-volunteers-offer-free-tax-preparation
 ---
 
 

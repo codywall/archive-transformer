@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Keepin&apos; It Reel
 date: April 18 2014
+slug: keepin&apos;-it-reel
 ---
 
 

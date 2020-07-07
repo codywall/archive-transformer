@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fish stories
 date: September 3 2014
+slug: fish-stories
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB reaches out to black community
 date: March 2 2013
+slug: csumb-reaches-out-to-black-community
 ---
 
 

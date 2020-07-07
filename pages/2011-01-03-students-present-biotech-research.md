@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students present biotech research
 date: January 3 2011
+slug: students-present-biotech-research
 ---
 
 

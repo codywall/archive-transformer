@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Storytellers
 date: December 10 2013
+slug: storytellers
 ---
 
 

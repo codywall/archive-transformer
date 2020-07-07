@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Caddie and competitor &#x2013; CSUMB&apos;s Dickman doubles as Pebble Beach&apos;s lone female looper
+title: &gt;-
+  Caddie and competitor &#x2013; CSUMB&apos;s Dickman doubles as Pebble
+  Beach&apos;s lone female looper
 date: October 18 2006
+slug: &gt;-
+  caddie-and-competitor-&#x2013;-csumb&apos;s-dickman-doubles-as-pebble-beach&apos;s-lone-female-looper
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB president tweeting from the White House
 date: December 16 2014
+slug: csumb-president-tweeting-from-the-white-house
 ---
 
 

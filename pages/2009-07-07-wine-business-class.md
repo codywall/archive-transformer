@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: wine business class
 date: July 7 2009
+slug: wine-business-class
 ---
 
 

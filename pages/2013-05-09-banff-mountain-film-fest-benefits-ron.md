@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Banff Mountain Film Fest benefits RON
 date: May 9 2013
+slug: banff-mountain-film-fest-benefits-ron
 ---
 
 

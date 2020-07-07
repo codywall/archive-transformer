@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB alum offers holiday cheer for foster children
 date: November 18 2013
+slug: csumb-alum-offers-holiday-cheer-for-foster-children
 ---
 
 

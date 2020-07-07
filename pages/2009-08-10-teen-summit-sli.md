@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: When youth speak . . . we listen
 date: August 10 2009
+slug: when-youth-speak-.-.-.-we-listen
 ---
 
 

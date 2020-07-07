@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Studentathletes bring holiday cheer
 date: December 6 2012
+slug: studentathletes-bring-holiday-cheer
 ---
 
 

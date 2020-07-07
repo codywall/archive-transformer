@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Tuition trends at California&apos;s 200 largest colleges
 date: July 15 2013
+slug: tuition-trends-at-california&apos;s-200-largest-colleges
 ---
 
 

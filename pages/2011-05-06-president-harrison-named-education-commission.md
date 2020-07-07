@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Harrison named to education commission
 date: May 6 2011
+slug: president-harrison-named-to-education-commission
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Computer science professor wins teaching award
 date: June 11 2013
+slug: computer-science-professor-wins-teaching-award
 ---
 
 

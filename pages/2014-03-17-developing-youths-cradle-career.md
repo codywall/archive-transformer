@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Developing youths from cradle to career
 date: March 17 2014
+slug: developing-youths-from-cradle-to-career
 ---
 
 

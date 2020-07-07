@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Hospitality students get aid
 date: July 8 2013
+slug: hospitality-students-get-aid
 ---
 
 

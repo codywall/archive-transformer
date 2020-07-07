@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: And the Emmy goes to . . .
 date: May 22 2013
+slug: and-the-emmy-goes-to-.-.-.
 ---
 
 

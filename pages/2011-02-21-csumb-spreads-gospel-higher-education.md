@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB spreads gospel of higher education
 date: February 21 2011
+slug: csumb-spreads-gospel-of-higher-education
 ---
 
 

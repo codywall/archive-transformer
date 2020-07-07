@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: BLUE GOES GREEN
 date: November 3 2011
+slug: blue-goes-green
 ---
 
 

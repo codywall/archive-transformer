@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Coffeehouse expressly for teens
 date: January 28 2006
+slug: coffeehouse-expressly-for-teens
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fog Catchers
 date: July 19 2005
+slug: fog-catchers
 ---
 
 

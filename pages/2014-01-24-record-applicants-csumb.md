@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Record applicants for CSUMB
 date: January 24 2014
+slug: record-applicants-for-csumb
 ---
 
 

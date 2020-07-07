@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Join Return of the Natives
 date: September 14 2009
+slug: join-return-of-the-natives
 ---
 
 

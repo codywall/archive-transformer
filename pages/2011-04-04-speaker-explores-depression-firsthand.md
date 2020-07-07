@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Speaker explores depression firsthand
 date: April 4 2011
+slug: speaker-explores-depression-firsthand
 ---
 
 

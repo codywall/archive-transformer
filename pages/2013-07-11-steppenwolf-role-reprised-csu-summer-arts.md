@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Steppenwolf role reprised at CSU Summer Arts
 date: July 11 2013
+slug: steppenwolf-role-reprised-at-csu-summer-arts
 ---
 
 

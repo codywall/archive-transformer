@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Santa Cruz attorney donates research vessel to CSUMB
 date: December 20 2010
+slug: santa-cruz-attorney-donates-research-vessel-to-csumb
 ---
 
 

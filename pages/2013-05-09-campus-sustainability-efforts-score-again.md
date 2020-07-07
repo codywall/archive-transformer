@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Campus sustainability efforts score again
 date: May 9 2013
+slug: campus-sustainability-efforts-score-again
 ---
 
 

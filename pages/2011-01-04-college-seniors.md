@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: COLLEGE SENIORS
 date: January 4 2011
+slug: college-seniors
 ---
 
 

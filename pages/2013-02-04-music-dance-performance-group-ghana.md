@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Music, dance performance by group from Ghana
+title: Music dance performance by group from Ghana
 date: February 4 2013
+slug: music-dance-performance-by-group-from-ghana
 ---
 
 

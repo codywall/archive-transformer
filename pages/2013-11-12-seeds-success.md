@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: SEEDS OF SUCCESS
 date: November 12 2013
+slug: seeds-of-success
 ---
 
 

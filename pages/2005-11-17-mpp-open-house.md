@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: MPP Open House
 date: November 17 2005
+slug: mpp-open-house
 ---
 
 

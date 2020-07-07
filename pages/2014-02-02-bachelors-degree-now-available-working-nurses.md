@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Bachelor&apos;s degree now available for working nurses
 date: February 2 2014
+slug: bachelor&apos;s-degree-now-available-for-working-nurses
 ---
 
 

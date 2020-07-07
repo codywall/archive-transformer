@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Thousands celebrate commencement
 date: May 29 2013
+slug: thousands-celebrate-commencement
 ---
 
 

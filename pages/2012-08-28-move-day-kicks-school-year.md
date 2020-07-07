@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Movein day kicks off school year
 date: August 28 2012
+slug: movein-day-kicks-off-school-year
 ---
 
 

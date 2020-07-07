@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Research vessel works in uncharted waters
 date: January 20 2012
+slug: research-vessel-works-in-uncharted-waters
 ---
 
 

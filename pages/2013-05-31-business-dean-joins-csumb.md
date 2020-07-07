@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Business dean joins CSUMB
 date: May 31 2013
+slug: business-dean-joins-csumb
 ---
 
 

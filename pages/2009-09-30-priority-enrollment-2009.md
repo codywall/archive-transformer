@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Prospective students urged to apply early
 date: September 30 2009
+slug: prospective-students-urged-to-apply-early
 ---
 
 

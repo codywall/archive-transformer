@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CERT training scheduled
 date: August 13 2013
+slug: cert-training-scheduled
 ---
 
 

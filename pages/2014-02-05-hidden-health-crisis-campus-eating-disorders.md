@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Hidden health crisis on campus&amp;colon; Eating disorders
 date: February 5 2014
+slug: hidden-health-crisis-on-campus&amp;colon;-eating-disorders
 ---
 
 <span class="date">Posted on Feb 05, 2014 </span>

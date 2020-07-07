@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Ochoa joins coalition to support Common Core
 date: June 25 2014
+slug: president-ochoa-joins-coalition-to-support-common-core
 ---
 
 

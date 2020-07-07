@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Migrant program earns national recognition
 date: July 28 2011
+slug: migrant-program-earns-national-recognition
 ---
 
 

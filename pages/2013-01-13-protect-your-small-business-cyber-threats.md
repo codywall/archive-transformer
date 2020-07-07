@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Protect your small business from cyber threats
 date: January 13 2013
+slug: protect-your-small-business-from-cyber-threats
 ---
 
 

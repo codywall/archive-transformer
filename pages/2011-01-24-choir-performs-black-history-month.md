@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Choir performs for Black History Month
 date: January 24 2011
+slug: choir-performs-for-black-history-month
 ---
 
 

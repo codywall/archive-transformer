@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New options to transfer make life easier for community college students
 date: April 11 2014
+slug: new-options-to-transfer-make-life-easier-for-community-college-students
 ---
 
 

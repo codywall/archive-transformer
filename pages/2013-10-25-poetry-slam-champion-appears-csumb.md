@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Poetry Slam champion appears at CSUMB
 date: October 25 2013
+slug: poetry-slam-champion-appears-at-csumb
 ---
 
 

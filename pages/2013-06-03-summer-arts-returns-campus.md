@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Summer Arts returns to campus
 date: June 3 2013
+slug: summer-arts-returns-to-campus
 ---
 
 

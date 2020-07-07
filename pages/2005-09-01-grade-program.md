@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Grade A program
 date: September 1 2005
+slug: grade-a-program
 ---
 
 

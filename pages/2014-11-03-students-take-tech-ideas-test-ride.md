@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students take tech ideas for test ride
 date: November 3 2014
+slug: students-take-tech-ideas-for-test-ride
 ---
 
 

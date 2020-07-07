@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Physician assistant program
 date: October 28 2014
+slug: physician-assistant-program
 ---
 
 

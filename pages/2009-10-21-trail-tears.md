@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Picking up the Trail
 date: October 21 2009
+slug: picking-up-the-trail
 ---
 
 

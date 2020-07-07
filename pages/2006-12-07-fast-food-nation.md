@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fast Food Nation
 date: December 7 2006
+slug: fast-food-nation
 ---
 
 

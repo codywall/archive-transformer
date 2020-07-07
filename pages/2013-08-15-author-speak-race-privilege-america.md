@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Author to speak on race, privilege in America
+title: Author to speak on race privilege in America
 date: August 15 2013
+slug: author-to-speak-on-race-privilege-in-america
 ---
 
 

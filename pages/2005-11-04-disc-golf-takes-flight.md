@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Disc golf takes flight
 date: November 4 2005
+slug: disc-golf-takes-flight
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: FBI profiler visits campus March 13
 date: February 25 2013
+slug: fbi-profiler-visits-campus-march-13
 ---
 
 

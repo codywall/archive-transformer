@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Authors Table
 date: October 24 2005
+slug: authors-table
 ---
 
 

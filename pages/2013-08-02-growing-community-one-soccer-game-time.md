@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Growing community, one soccer game at a time
+title: Growing community one soccer game at a time
 date: August 2 2013
+slug: growing-community-one-soccer-game-at-a-time
 ---
 
 

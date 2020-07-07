@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: intergarrison to close
 date: November 10 2007
+slug: intergarrison-to-close
 ---
 
 

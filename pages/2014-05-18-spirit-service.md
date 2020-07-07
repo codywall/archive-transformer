@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Spirit of service&apos;
+title: of service&apos;
 date: May 18 2014
+slug: of-service&apos;
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students celebrate TRiO Day with service projects
 date: February 8 2013
+slug: students-celebrate-trio-day-with-service-projects
 ---
 
 

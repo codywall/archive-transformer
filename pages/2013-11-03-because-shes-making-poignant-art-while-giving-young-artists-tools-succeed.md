@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: Because she&apos;s making poignant art while giving young artists tools to succeed
+title: &gt;-
+  Because she&apos;s making poignant art while giving young artists tools to
+  succeed
 date: November 3 2013
+slug: &gt;-
+  because-she&apos;s-making-poignant-art-while-giving-young-artists-tools-to-succeed
 ---
 
 

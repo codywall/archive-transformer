@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Green Jobs
 date: February 11 2014
+slug: green-jobs
 ---
 
 

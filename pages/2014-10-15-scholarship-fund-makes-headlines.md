@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Scholarship fund makes headlines
 date: October 15 2014
+slug: scholarship-fund-makes-headlines
 ---
 
 

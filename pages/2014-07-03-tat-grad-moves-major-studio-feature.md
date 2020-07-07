@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: TAT grad moves up to major studio feature
 date: July 3 2014
+slug: tat-grad-moves-up-to-major-studio-feature
 ---
 
 

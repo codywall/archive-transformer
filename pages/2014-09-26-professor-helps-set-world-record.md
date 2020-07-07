@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Professor helps to set world record
 date: September 26 2014
+slug: professor-helps-to-set-world-record
 ---
 
 

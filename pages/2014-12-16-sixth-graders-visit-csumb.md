@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Sixth graders visit CSUMB
 date: December 16 2014
+slug: sixth-graders-visit-csumb
 ---
 
 

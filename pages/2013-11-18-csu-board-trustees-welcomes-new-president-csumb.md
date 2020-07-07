@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSU Board of Trustees welcomes new president of CSUMB
 date: November 18 2013
+slug: csu-board-of-trustees-welcomes-new-president-of-csumb
 ---
 
 

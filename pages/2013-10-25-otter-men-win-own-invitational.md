@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Otter men win own invitational
 date: October 25 2013
+slug: otter-men-win-own-invitational
 ---
 
 

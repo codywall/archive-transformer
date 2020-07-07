@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Psychologist Philip Zimbardo visits April 25
 date: April 20 2011
+slug: psychologist-philip-zimbardo-visits-april-25
 ---
 
 

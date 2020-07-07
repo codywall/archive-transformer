@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Provost CruzUribe accepts new position
 date: March 3 2013
+slug: provost-cruzuribe-accepts-new-position
 ---
 
 

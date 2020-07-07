@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: One man&apos;s fight to stop street violence
 date: March 6 2014
+slug: one-man&apos;s-fight-to-stop-street-violence
 ---
 
 

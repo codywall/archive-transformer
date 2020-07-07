@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Veteran Monterey officer joins university police
 date: May 25 2011
+slug: veteran-monterey-officer-joins-university-police
 ---
 
 

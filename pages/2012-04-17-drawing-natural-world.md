@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Drawing from the natural world
 date: April 17 2012
+slug: drawing-from-the-natural-world
 ---
 
 

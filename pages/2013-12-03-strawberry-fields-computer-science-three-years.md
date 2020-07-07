@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: From strawberry fields to computer science in three years
 date: December 3 2013
+slug: from-strawberry-fields-to-computer-science-in-three-years
 ---
 
 

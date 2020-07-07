@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Rape Crisis Center taps student&apos;s work for race logo
 date: January 13 2015
+slug: rape-crisis-center-taps-student&apos;s-work-for-race-logo
 ---
 
 

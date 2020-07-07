@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Buidling Coming Down
 date: December 7 2006
+slug: buidling-coming-down
 ---
 
 

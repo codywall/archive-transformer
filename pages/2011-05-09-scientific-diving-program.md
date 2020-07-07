@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Diving into the subject
 date: May 9 2011
+slug: diving-into-the-subject
 ---
 
 

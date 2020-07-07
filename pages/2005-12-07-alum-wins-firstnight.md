@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Alum Wins FirstNight
 date: December 7 2005
+slug: alum-wins-firstnight
 ---
 
 

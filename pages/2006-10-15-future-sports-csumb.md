@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Future of sports at CSUMB
 date: October 15 2006
+slug: future-of-sports-at-csumb
 ---
 
 

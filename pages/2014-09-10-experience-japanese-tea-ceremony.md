@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Experience Japanese tea ceremony
 date: September 10 2014
+slug: experience-japanese-tea-ceremony
 ---
 
 

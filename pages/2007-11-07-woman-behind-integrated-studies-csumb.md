@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: The Woman Behind Integrated Studies at CSUMB
 date: November 7 2007
+slug: the-woman-behind-integrated-studies-at-csumb
 ---
 
 

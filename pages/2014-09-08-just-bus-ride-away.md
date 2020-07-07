@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Just a bus ride away
 date: September 8 2014
+slug: just-a-bus-ride-away
 ---
 
 

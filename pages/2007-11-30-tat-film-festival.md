@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: TAT film festival
 date: November 30 2007
+slug: tat-film-festival
 ---
 
 

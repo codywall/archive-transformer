@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students recognized at research competition
 date: May 10 2011
+slug: students-recognized-at-research-competition
 ---
 
 

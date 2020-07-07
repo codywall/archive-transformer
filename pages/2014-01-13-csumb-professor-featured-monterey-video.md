@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB professor featured in Monterey video
 date: January 13 2014
+slug: csumb-professor-featured-in-monterey-video
 ---
 
 

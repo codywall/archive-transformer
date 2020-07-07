@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: MesaBains featured in UCLA exhibition
 date: September 29 2013
+slug: mesabains-featured-in-ucla-exhibition
 ---
 
 

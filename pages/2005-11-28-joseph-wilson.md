@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Joseph Wilson
 date: November 28 2005
+slug: joseph-wilson
 ---
 
 

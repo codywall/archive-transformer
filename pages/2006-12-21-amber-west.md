@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: amber west
 date: December 21 2006
+slug: amber-west
 ---
 
 

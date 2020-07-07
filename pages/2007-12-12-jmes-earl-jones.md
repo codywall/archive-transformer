@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Jmes Earl Jones
 date: December 12 2007
+slug: jmes-earl-jones
 ---
 
 

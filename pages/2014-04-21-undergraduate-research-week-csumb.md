@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Undergraduate Research Week at CSUMB
 date: April 21 2014
+slug: undergraduate-research-week-at-csumb
 ---
 
 

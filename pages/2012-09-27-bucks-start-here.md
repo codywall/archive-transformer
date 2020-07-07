@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: The bucks start here
 date: September 27 2012
+slug: the-bucks-start-here
 ---
 
 

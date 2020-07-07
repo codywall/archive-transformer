@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Monterey Library to launch a seed library
 date: January 13 2014
+slug: monterey-library-to-launch-a-seed-library
 ---
 
 

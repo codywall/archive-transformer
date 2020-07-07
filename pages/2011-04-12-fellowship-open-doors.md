@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Fellowship to open doors
 date: April 12 2011
+slug: fellowship-to-open-doors
 ---
 
 

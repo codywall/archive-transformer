@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Mayan health and agricultural practices topic of Oct. 6 talk
 date: September 25 2014
+slug: mayan-health-and-agricultural-practices-topic-of-oct.-6-talk
 ---
 
 

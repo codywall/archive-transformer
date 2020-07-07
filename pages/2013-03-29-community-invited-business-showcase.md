@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Community invited to business showcase
 date: March 29 2013
+slug: community-invited-to-business-showcase
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: BenefitsofStudyingAbroad
 date: December 13 2005
+slug: benefitsofstudyingabroad
 ---
 
 

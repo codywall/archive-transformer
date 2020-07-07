@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: College of Business reaches out to the world
 date: April 16 2014
+slug: college-of-business-reaches-out-to-the-world
 ---
 
 

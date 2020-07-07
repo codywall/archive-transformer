@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB student wins film scholarship
 date: May 11 2012
+slug: csumb-student-wins-film-scholarship
 ---
 
 

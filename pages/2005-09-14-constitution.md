@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Campus marks Constitution Day
 date: September 14 2005
+slug: campus-marks-constitution-day
 ---
 
 

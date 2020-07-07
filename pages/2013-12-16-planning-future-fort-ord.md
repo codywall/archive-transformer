@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Planning the future of Fort Ord
 date: December 16 2013
+slug: planning-the-future-of-fort-ord
 ---
 
 

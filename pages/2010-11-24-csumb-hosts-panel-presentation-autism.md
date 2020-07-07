@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB hosts panel presentation on autism
 date: November 24 2010
+slug: csumb-hosts-panel-presentation-on-autism
 ---
 
 

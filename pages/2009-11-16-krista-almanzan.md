@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Almanzan honored by news groupKAZU journalist wins award for Salinas story
 date: November 16 2009
+slug: almanzan-honored-by-news-groupkazu-journalist-wins-award-for-salinas-story
 ---
 
 

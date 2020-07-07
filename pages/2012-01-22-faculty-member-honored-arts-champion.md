@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Faculty member honored as Arts Champion
 date: January 22 2012
+slug: faculty-member-honored-as-arts-champion
 ---
 
 

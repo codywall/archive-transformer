@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Local bands on stage at World Theater
 date: February 20 2014
+slug: local-bands-on-stage-at-world-theater
 ---
 
 

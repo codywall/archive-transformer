@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: ED of development named
 date: November 14 2007
+slug: ed-of-development-named
 ---
 
 

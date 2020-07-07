@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: VPA student art exhibit
 date: November 20 2007
+slug: vpa-student-art-exhibit
 ---
 
 

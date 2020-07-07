@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Weekly Farm Stand returns to campus
 date: January 12 2015
+slug: weekly-farm-stand-returns-to-campus
 ---
 
 

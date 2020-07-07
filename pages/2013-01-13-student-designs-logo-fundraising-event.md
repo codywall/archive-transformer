@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Student designs logo for fundraising event
 date: January 13 2013
+slug: student-designs-logo-for-fundraising-event
 ---
 
 

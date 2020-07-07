@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Salinas student lands internship in D.C.
 date: October 17 2014
+slug: salinas-student-lands-internship-in-d.c.
 ---
 
 

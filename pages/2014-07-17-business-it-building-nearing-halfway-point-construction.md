@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Business, IT building nearing halfway point of construction
+title: Business IT building nearing halfway point of construction
 date: July 17 2014
+slug: business-it-building-nearing-halfway-point-of-construction
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Thousands celebrate commencement at CSUMB
 date: May 22 2012
+slug: thousands-celebrate-commencement-at-csumb
 ---
 
 

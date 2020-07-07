@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB hosts business idea contest
 date: January 24 2014
+slug: csumb-hosts-business-idea-contest
 ---
 
 

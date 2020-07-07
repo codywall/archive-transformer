@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Catchy Studies
 date: October 28 2014
+slug: catchy-studies
 ---
 
 

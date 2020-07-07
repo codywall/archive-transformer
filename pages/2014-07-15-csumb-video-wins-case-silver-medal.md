@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB video wins CASE silver medal
 date: July 15 2014
+slug: csumb-video-wins-case-silver-medal
 ---
 
 

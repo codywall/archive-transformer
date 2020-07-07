@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Contestwinning app tells users What&apos;s In
 date: February 2 2014
+slug: contestwinning-app-tells-users-what&apos;s-in
 ---
 
 

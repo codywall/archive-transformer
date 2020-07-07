@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Capping off college with senior projects
 date: December 12 2012
+slug: capping-off-college-with-senior-projects
 ---
 
 

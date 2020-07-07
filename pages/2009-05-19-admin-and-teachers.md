@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Admin and Teachers
 date: May 19 2009
+slug: admin-and-teachers
 ---
 
 

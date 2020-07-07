@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Packard Foundation
 date: December 1 2007
+slug: packard-foundation
 ---
 
 

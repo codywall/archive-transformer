@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: More support for Chinatown museum
 date: August 23 2013
+slug: more-support-for-chinatown-museum
 ---
 
 

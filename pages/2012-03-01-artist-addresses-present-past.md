@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Artist addresses the present via the past
 date: March 1 2012
+slug: artist-addresses-the-present-via-the-past
 ---
 
 

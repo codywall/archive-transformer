@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: A call to public service
 date: October 12 2014
+slug: a-call-to-public-service
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Amalia MesaBains
 date: November 3 2005
+slug: amalia-mesabains
 ---
 
 

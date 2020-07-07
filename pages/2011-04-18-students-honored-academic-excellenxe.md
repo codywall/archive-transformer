@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Students honored for academic excellence
 date: April 18 2011
+slug: students-honored-for-academic-excellence
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: New CSUMB coach a familiar face
 date: October 28 2014
+slug: new-csumb-coach-a-familiar-face
 ---
 
 

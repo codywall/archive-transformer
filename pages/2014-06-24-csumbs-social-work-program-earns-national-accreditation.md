@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB&apos;s social work program earns national accreditation
 date: June 24 2014
+slug: csumb&apos;s-social-work-program-earns-national-accreditation
 ---
 
 

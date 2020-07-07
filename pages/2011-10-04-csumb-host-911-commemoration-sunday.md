@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB to host 9 11 commemoration Sunday
 date: October 4 2011
+slug: csumb-to-host-9-11-commemoration-sunday
 ---
 
 

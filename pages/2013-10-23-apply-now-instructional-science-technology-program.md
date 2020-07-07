@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Apply now for instructional science, technology program
+title: Apply now for instructional science technology program
 date: October 23 2013
+slug: apply-now-for-instructional-science-technology-program
 ---
 
 

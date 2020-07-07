@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: KAZU earns two Murrow Awards
 date: April 22 2014
+slug: kazu-earns-two-murrow-awards
 ---
 
 

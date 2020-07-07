@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: The Year in Review
 date: December 17 2007
+slug: the-year-in-review
 ---
 
 

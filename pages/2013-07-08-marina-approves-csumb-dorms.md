@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Marina approves CSUMB dorms
 date: July 8 2013
+slug: marina-approves-csumb-dorms
 ---
 
 

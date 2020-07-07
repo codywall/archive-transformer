@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Small Business Center offers help in wake of closing
 date: January 2 2013
+slug: small-business-center-offers-help-in-wake-of-closing
 ---
 
 

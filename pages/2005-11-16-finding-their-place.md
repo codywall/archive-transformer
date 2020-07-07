@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Finding Their Place
 date: November 16 2005
+slug: finding-their-place
 ---
 
 

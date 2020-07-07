@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Activists, artists earn California Peace Award
+title: Activists artists earn California Peace Award
 date: August 11 2014
+slug: activists-artists-earn-california-peace-award
 ---
 
 

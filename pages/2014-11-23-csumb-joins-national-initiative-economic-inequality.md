@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB joins national initiative on economic inequality
 date: November 23 2014
+slug: csumb-joins-national-initiative-on-economic-inequality
 ---
 
 

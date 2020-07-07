@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: April 89 film festival transcends borders
 date: April 8 2011
+slug: april-89-film-festival-transcends-borders
 ---
 
 

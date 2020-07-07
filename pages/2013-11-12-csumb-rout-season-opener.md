@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: CSUMB rout in seasonopener
 date: November 12 2013
+slug: csumb-rout-in-seasonopener
 ---
 
 

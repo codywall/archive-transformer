@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Educational programs advance the local tourism industry
 date: September 29 2014
+slug: educational-programs-advance-the-local-tourism-industry
 ---
 
 

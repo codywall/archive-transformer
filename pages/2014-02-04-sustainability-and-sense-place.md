@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Sustainability and a sense of place
 date: February 4 2014
+slug: sustainability-and-a-sense-of-place
 ---
 
 

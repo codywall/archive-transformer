@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: Seed lending library takes root
 date: August 11 2014
+slug: seed-lending-library-takes-root
 ---
 
 

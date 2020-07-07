@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: President Harrison gets national responsibilities
 date: April 12 2011
+slug: president-harrison-gets-national-responsibilities
 ---
 
 

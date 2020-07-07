@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: &apos;Flourish Monterey County&apos; focus of speaker series
+title: Monterey County&apos; focus of speaker series
 date: February 18 2014
+slug: monterey-county&apos;-focus-of-speaker-series
 ---
 
 
