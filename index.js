@@ -39,8 +39,7 @@ const walk = function (dir, done) {
           );
           frontMatter.data.slug = frontMatter.data.title
             .toLowerCase()
-            .replace(/\s+/g, '-')
-            .replace(/,/g, '');
+            .replace(/[^a-zA-Z0-9]/g, '-');
           data = matter.stringify(frontMatter, frontMatter.data);
           console.log(data);
 

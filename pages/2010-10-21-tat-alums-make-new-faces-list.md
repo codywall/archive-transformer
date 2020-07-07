@@ -1,7 +1,7 @@
 ---
 title: TAT alums make &apos;New Faces&apos; list
 date: October 21 2010
-slug: tat-alums-make-&apos;new-faces&apos;-list
+slug: tat-alums-make--apos-new-faces-apos--list
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mural graces library&apos;s main floor
 date: June 5 2014
-slug: mural-graces-library&apos;s-main-floor
+slug: mural-graces-library-apos-s-main-floor
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Saturday&amp;colon; Music students&apos; spring concert
 date: April 29 2011
-slug: saturday&amp;colon;-music-students&apos;-spring-concert
+slug: saturday-amp-colon--music-students-apos--spring-concert
 ---
 
 <span class="date">Posted on Apr 29, 2011 </span>

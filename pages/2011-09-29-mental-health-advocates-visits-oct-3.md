@@ -1,7 +1,7 @@
 ---
 title: Mental health advocate visits campus Oct. 3
 date: September 29 2011
-slug: mental-health-advocate-visits-campus-oct.-3
+slug: mental-health-advocate-visits-campus-oct--3
 ---
 
 

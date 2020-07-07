@@ -1,7 +1,7 @@
 ---
 title: Community invited to Dec. 6 winter concert
 date: November 14 2014
-slug: community-invited-to-dec.-6-winter-concert
+slug: community-invited-to-dec--6-winter-concert
 ---
 
 

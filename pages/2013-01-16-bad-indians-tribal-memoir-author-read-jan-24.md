@@ -1,7 +1,7 @@
 ---
 title: Indians&amp;colon; A Tribal Memoir&apos; author to read Jan. 24
 date: January 16 2013
-slug: indians&amp;colon;-a-tribal-memoir&apos;-author-to-read-jan.-24
+slug: indians-amp-colon--a-tribal-memoir-apos--author-to-read-jan--24
 ---
 
 <span class="date">Posted on Jan 16, 2013 </span>

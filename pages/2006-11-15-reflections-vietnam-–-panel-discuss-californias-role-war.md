@@ -4,7 +4,7 @@ title: &gt;-
   war
 date: November 15 2006
 slug: &gt;-
-  reflections-of-vietnam-&#x2013;-panel-to-discuss-california&apos;s-role-in-the-war
+  reflections-of-vietnam---x2013--panel-to-discuss-california-apos-s-role-in-the-war
 ---
 
 

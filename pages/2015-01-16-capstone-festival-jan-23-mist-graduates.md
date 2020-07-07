@@ -1,7 +1,7 @@
 ---
 title: Capstone Festival Jan. 23 for MIST graduates
 date: January 16 2015
-slug: capstone-festival-jan.-23-for-mist-graduates
+slug: capstone-festival-jan--23-for-mist-graduates
 ---
 
 

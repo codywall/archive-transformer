@@ -1,7 +1,7 @@
 ---
 title: Under pressure&amp;colon; 54 hours to launch a business
 date: December 21 2012
-slug: under-pressure&amp;colon;-54-hours-to-launch-a-business
+slug: under-pressure-amp-colon--54-hours-to-launch-a-business
 ---
 
 <span class="date">Posted on Dec 21, 2012 </span>

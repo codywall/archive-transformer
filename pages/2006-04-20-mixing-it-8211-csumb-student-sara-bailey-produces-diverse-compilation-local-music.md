@@ -4,7 +4,7 @@ title: &gt;-
   of local music
 date: April 20 2006
 slug: &gt;-
-  mixing-it-up-&#x2013;-csumb-student-sara-bailey-produces-a-diverse-compilation-of-local-music
+  mixing-it-up---x2013--csumb-student-sara-bailey-produces-a-diverse-compilation-of-local-music
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: CSUMB named &apos;military friendly school&apos;
 date: September 18 2012
-slug: csumb-named-&apos;military-friendly-school&apos;
+slug: csumb-named--apos-military-friendly-school-apos-
 ---
 
 

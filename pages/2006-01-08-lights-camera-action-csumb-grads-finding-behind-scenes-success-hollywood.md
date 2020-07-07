@@ -1,7 +1,7 @@
 ---
 title: Lights Camera Action! CSUMB grads finding behindthescenes success in Hollywood
 date: January 8 2006
-slug: lights-camera-action!-csumb-grads-finding-behindthescenes-success-in-hollywood
+slug: lights-camera-action--csumb-grads-finding-behindthescenes-success-in-hollywood
 ---
 
 

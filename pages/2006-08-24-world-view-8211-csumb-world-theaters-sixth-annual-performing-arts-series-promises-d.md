@@ -4,7 +4,7 @@ title: &gt;-
   series promises to deliver the world
 date: August 24 2006
 slug: &gt;-
-  world-view-&#x2013;-csumb-world-theater&apos;s-sixth-annual-performing-arts-series-promises-to-deliver-the-world
+  world-view---x2013--csumb-world-theater-apos-s-sixth-annual-performing-arts-series-promises-to-deliver-the-world
 ---
 
 

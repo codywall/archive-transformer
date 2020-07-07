@@ -1,7 +1,7 @@
 ---
 title: Calling all innovators!
 date: February 8 2013
-slug: calling-all-innovators!
+slug: calling-all-innovators-
 ---
 
 

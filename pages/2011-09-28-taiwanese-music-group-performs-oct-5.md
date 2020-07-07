@@ -1,7 +1,7 @@
 ---
 title: Taiwanese music group performs Oct. 5
 date: September 28 2011
-slug: taiwanese-music-group-performs-oct.-5
+slug: taiwanese-music-group-performs-oct--5
 ---
 
 

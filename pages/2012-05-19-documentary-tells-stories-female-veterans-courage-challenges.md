@@ -1,7 +1,7 @@
 ---
 title: Documentary tells stories of female veterans&apos; courage challenges
 date: May 19 2012
-slug: documentary-tells-stories-of-female-veterans&apos;-courage-challenges
+slug: documentary-tells-stories-of-female-veterans-apos--courage-challenges
 ---
 
 

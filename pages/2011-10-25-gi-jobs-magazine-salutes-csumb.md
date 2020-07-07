@@ -1,7 +1,7 @@
 ---
 title: G.I. Jobs magazine salutes CSUMB
 date: October 25 2011
-slug: g.i.-jobs-magazine-salutes-csumb
+slug: g-i--jobs-magazine-salutes-csumb
 ---
 
 

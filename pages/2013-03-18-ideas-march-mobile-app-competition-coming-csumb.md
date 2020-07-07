@@ -1,7 +1,7 @@
 ---
 title: of March&apos; mobile app competition coming to CSUMB
 date: March 18 2013
-slug: of-march&apos;-mobile-app-competition-coming-to-csumb
+slug: of-march-apos--mobile-app-competition-coming-to-csumb
 ---
 
 

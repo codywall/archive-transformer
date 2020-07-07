@@ -1,7 +1,7 @@
 ---
 title: CSUMB included in &apos;green&apos; colleges guide
 date: May 1 2014
-slug: csumb-included-in-&apos;green&apos;-colleges-guide
+slug: csumb-included-in--apos-green-apos--colleges-guide
 ---
 
 

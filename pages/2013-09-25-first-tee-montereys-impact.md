@@ -1,7 +1,7 @@
 ---
 title: First Tee of Monterey&apos;s Impact
 date: September 25 2013
-slug: first-tee-of-monterey&apos;s-impact
+slug: first-tee-of-monterey-apos-s-impact
 ---
 
 

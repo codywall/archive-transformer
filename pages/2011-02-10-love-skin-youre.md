@@ -1,7 +1,7 @@
 ---
 title: the Skin You&apos;re In&apos;
 date: February 10 2011
-slug: the-skin-you&apos;re-in&apos;
+slug: the-skin-you-apos-re-in-apos-
 ---
 
 

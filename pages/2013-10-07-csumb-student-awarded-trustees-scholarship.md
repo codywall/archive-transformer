@@ -1,7 +1,7 @@
 ---
 title: CSUMB student awarded Trustees&apos; scholarship
 date: October 7 2013
-slug: csumb-student-awarded-trustees&apos;-scholarship
+slug: csumb-student-awarded-trustees-apos--scholarship
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Women in jazz&amp;colon; History for the ears
 date: September 26 2013
-slug: women-in-jazz&amp;colon;-history-for-the-ears
+slug: women-in-jazz-amp-colon--history-for-the-ears
 ---
 
 <span class="date">Posted on Sep 26, 2013 </span>

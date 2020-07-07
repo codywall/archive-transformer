@@ -4,7 +4,7 @@ title: &gt;-
   shown at Black History event
 date: February 13 2006
 slug: &gt;-
-  devastating-images-&#x2013;-csumb-student&apos;s-katrina-documentary-to-be-shown-at-black-history-event
+  devastating-images---x2013--csumb-student-apos-s-katrina-documentary-to-be-shown-at-black-history-event
 ---
 
 

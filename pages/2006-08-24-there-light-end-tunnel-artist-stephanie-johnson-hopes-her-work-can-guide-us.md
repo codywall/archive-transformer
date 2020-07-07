@@ -4,7 +4,7 @@ title: &gt;-
   work can guide us
 date: August 24 2006
 slug: &gt;-
-  is-there-a-light-at-the-end-of-the-tunnel?-artist-stephanie-johnson-hopes-her-work-can-guide-us
+  is-there-a-light-at-the-end-of-the-tunnel--artist-stephanie-johnson-hopes-her-work-can-guide-us
 ---
 
 

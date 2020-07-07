@@ -1,7 +1,7 @@
 ---
 title: Setting priorities&amp;colon; CSUMB golfer chooses degree
 date: October 26 2005
-slug: setting-priorities&amp;colon;-csumb-golfer-chooses-degree
+slug: setting-priorities-amp-colon--csumb-golfer-chooses-degree
 ---
 
 <span class="date">Posted on Oct 26, 2005 </span>

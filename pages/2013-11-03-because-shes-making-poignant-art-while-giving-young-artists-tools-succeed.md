@@ -4,7 +4,7 @@ title: &gt;-
   succeed
 date: November 3 2013
 slug: &gt;-
-  because-she&apos;s-making-poignant-art-while-giving-young-artists-tools-to-succeed
+  because-she-apos-s-making-poignant-art-while-giving-young-artists-tools-to-succeed
 ---
 
 

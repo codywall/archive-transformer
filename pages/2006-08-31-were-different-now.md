@@ -1,7 +1,7 @@
 ---
 title: We&apos;re different now
 date: August 31 2006
-slug: we&apos;re-different-now
+slug: we-apos-re-different-now
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Math revealed&amp;colon; Graniterock sponsors sixday Algebra Academy
 date: January 4 2013
-slug: math-revealed&amp;colon;-graniterock-sponsors-sixday-algebra-academy
+slug: math-revealed-amp-colon--graniterock-sponsors-sixday-algebra-academy
 ---
 
 <span class="date">Posted on Jan 04, 2013 </span>

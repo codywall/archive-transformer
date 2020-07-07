@@ -1,7 +1,7 @@
 ---
 title: a Heart&apos; beats on for CSUMB
 date: February 2 2014
-slug: a-heart&apos;-beats-on-for-csumb
+slug: a-heart-apos--beats-on-for-csumb
 ---
 
 

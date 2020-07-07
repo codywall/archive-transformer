@@ -1,7 +1,7 @@
 ---
 title: International Education Week Nov. 1719
 date: November 19 2014
-slug: international-education-week-nov.-1719
+slug: international-education-week-nov--1719
 ---
 
 

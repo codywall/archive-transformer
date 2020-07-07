@@ -1,7 +1,7 @@
 ---
 title: Gamechanging local leaders&amp;colon; Eduardo Ochoa
 date: November 3 2013
-slug: gamechanging-local-leaders&amp;colon;-eduardo-ochoa
+slug: gamechanging-local-leaders-amp-colon--eduardo-ochoa
 ---
 
 <span class="date">Posted on Nov 03, 2013 </span>

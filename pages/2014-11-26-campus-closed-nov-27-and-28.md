@@ -1,7 +1,7 @@
 ---
 title: Campus closed Nov. 27 and 28
 date: November 26 2014
-slug: campus-closed-nov.-27-and-28
+slug: campus-closed-nov--27-and-28
 ---
 
 

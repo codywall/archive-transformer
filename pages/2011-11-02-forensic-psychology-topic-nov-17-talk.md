@@ -1,7 +1,7 @@
 ---
 title: Forensic psychology topic of Nov. 17 talk
 date: November 2 2011
-slug: forensic-psychology-topic-of-nov.-17-talk
+slug: forensic-psychology-topic-of-nov--17-talk
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Classes camps conferences  summer at CSUMB
 date: July 27 2014
-slug: classes-camps-conferences-summer-at-csumb
+slug: classes-camps-conferences--summer-at-csumb
 ---
 
 

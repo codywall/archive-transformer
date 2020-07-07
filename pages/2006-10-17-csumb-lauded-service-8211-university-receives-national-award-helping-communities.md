@@ -4,7 +4,7 @@ title: &gt;-
   helping communities
 date: October 17 2006
 slug: &gt;-
-  csumb-lauded-for-service-&#x2013;-university-receives-national-award-for-helping-communities
+  csumb-lauded-for-service---x2013--university-receives-national-award-for-helping-communities
 ---
 
 

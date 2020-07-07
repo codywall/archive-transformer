@@ -1,7 +1,7 @@
 ---
 title: Student&apos;s artwork promotes First Night Monterey
 date: December 31 2014
-slug: student&apos;s-artwork-promotes-first-night-monterey
+slug: student-apos-s-artwork-promotes-first-night-monterey
 ---
 
 

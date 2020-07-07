@@ -1,7 +1,7 @@
 ---
 title: NoReservations_PresSpeakerSeries
 date: December 20 2007
-slug: noreservations_presspeakerseries
+slug: noreservations-presspeakerseries
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Coastal Cleanup (in Salinas)
 date: September 9 2014
-slug: coastal-cleanup-(in-salinas)
+slug: coastal-cleanup--in-salinas-
 ---
 
 

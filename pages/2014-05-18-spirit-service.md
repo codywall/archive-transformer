@@ -1,7 +1,7 @@
 ---
 title: of service&apos;
 date: May 18 2014
-slug: of-service&apos;
+slug: of-service-apos-
 ---
 
 

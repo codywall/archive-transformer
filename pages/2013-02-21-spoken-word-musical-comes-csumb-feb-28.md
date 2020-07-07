@@ -1,7 +1,7 @@
 ---
 title: Spokenword musical comes to CSUMB Feb. 28
 date: February 21 2013
-slug: spokenword-musical-comes-to-csumb-feb.-28
+slug: spokenword-musical-comes-to-csumb-feb--28
 ---
 
 

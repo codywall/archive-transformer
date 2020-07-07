@@ -1,7 +1,7 @@
 ---
 title: Alumnus&#x2019; work on display in Pacific Grove
 date: January 7 2015
-slug: alumnus&#x2019;-work-on-display-in-pacific-grove
+slug: alumnus--x2019--work-on-display-in-pacific-grove
 ---
 
 

@@ -4,7 +4,7 @@ title: &gt;-
   money
 date: May 10 2007
 slug: &gt;-
-  csumb-wins-energy-efficiency-honor-&#x2013;-effort-improves-gym-lighting-saves-money
+  csumb-wins-energy-efficiency-honor---x2013--effort-improves-gym-lighting-saves-money
 ---
 
 

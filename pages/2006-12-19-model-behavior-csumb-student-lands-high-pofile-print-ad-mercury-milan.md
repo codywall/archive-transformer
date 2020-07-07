@@ -4,7 +4,7 @@ title: &gt;-
   Milan
 date: December 19 2006
 slug: &gt;-
-  model-behavior&amp;colon;-csumb-student-lands-highpofile-print-ad-for-mercury-milan
+  model-behavior-amp-colon--csumb-student-lands-highpofile-print-ad-for-mercury-milan
 ---
 
 <span class="date">Posted on Dec 19, 2006 </span>

@@ -1,7 +1,7 @@
 ---
 title: West&apos; goes East
 date: June 11 2013
-slug: west&apos;-goes-east
+slug: west-apos--goes-east
 ---
 
 

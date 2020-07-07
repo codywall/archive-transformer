@@ -4,7 +4,7 @@ title: &gt;-
   with students from CSUMB who made it into the business
 date: October 19 2006
 slug: &gt;-
-  get-a-reality-job-&#x2013;-writer-leslie-escobar-goes-behind-the-tv-camera-with-students-from-csumb-who-made-it-into-the-business
+  get-a-reality-job---x2013--writer-leslie-escobar-goes-behind-the-tv-camera-with-students-from-csumb-who-made-it-into-the-business
 ---
 
 

@@ -4,7 +4,7 @@ title: &gt;-
   erosion
 date: December 13 2006
 slug: &gt;-
-  sand-dunes-lurk-deep-beneath-bay-&#x2013;-discovery-could-help-limit-beach-erosion
+  sand-dunes-lurk-deep-beneath-bay---x2013--discovery-could-help-limit-beach-erosion
 ---
 
 

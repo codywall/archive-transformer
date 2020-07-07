@@ -1,7 +1,7 @@
 ---
 title: Soccer player earns Trustees&apos; scholarship
 date: September 25 2013
-slug: soccer-player-earns-trustees&apos;-scholarship
+slug: soccer-player-earns-trustees-apos--scholarship
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Keepin&apos; It Reel
 date: March 31 2013
-slug: keepin&apos;-it-reel
+slug: keepin-apos--it-reel
 ---
 
 

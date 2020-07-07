@@ -1,7 +1,7 @@
 ---
 title: Life recorder&amp;colon; Rina Benmayor;
 date: August 25 2005
-slug: life-recorder&amp;colon;-rina-benmayor;
+slug: life-recorder-amp-colon--rina-benmayor-
 ---
 
 <span class="date">Posted on Aug 25, 2005 </span>

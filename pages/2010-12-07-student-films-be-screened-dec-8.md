@@ -1,7 +1,7 @@
 ---
 title: Student films to be screened Dec. 8
 date: December 7 2010
-slug: student-films-to-be-screened-dec.-8
+slug: student-films-to-be-screened-dec--8
 ---
 
 

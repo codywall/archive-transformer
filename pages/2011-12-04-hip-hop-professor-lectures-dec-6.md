@@ -1,7 +1,7 @@
 ---
 title: Hiphop professor lectures on Dec. 6
 date: December 4 2011
-slug: hiphop-professor-lectures-on-dec.-6
+slug: hiphop-professor-lectures-on-dec--6
 ---
 
 

@@ -4,7 +4,7 @@ title: &gt;-
   equivalent of a small city
 date: September 14 2006
 slug: &gt;-
-  enforcement-&amp;-education-&#x2013;-csumb-police-officers-cover-the-equivalent-of-a-small-city
+  enforcement--amp--education---x2013--csumb-police-officers-cover-the-equivalent-of-a-small-city
 ---
 
 

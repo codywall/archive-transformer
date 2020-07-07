@@ -1,7 +1,7 @@
 ---
 title: Student Profile&amp;colon; Andrea Gilliland
 date: November 2 2010
-slug: student-profile&amp;colon;-andrea-gilliland
+slug: student-profile-amp-colon--andrea-gilliland
 ---
 
 <span class="date">Posted on Nov 02, 2010 </span>

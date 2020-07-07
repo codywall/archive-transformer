@@ -4,7 +4,7 @@ title: &gt;-
   Otter athletics
 date: August 15 2006
 slug: &gt;-
-  gauthier-makes-csumb-home-&#x2013;-new-athletic-director-prepared-to-elevate-otter-athletics
+  gauthier-makes-csumb-home---x2013--new-athletic-director-prepared-to-elevate-otter-athletics
 ---
 
 

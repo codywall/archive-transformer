@@ -1,7 +1,7 @@
 ---
 title: Visiting artist series starts Sept. 19
 date: September 10 2013
-slug: visiting-artist-series-starts-sept.-19
+slug: visiting-artist-series-starts-sept--19
 ---
 
 

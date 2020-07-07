@@ -1,7 +1,7 @@
 ---
 title: to Donate&apos; for earthquake relief
 date: April 5 2011
-slug: to-donate&apos;-for-earthquake-relief
+slug: to-donate-apos--for-earthquake-relief
 ---
 
 

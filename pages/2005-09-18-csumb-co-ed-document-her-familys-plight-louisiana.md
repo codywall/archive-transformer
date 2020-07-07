@@ -1,7 +1,7 @@
 ---
 title: CSUMB coed to document her family&apos;s plight in Louisiana
 date: September 18 2005
-slug: csumb-coed-to-document-her-family&apos;s-plight-in-louisiana
+slug: csumb-coed-to-document-her-family-apos-s-plight-in-louisiana
 ---
 
 

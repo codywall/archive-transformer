@@ -4,7 +4,7 @@ title: &gt;-
   policies California college students are coming up with their own attack ads
 date: October 13 2006
 slug: &gt;-
-  arnold-gets-flunked-&#x2013;-upset-over-gov.-schwarzenegger&apos;s-education-policies-california-college-students-are-coming-up-with-their-own-attack-ads
+  arnold-gets-flunked---x2013--upset-over-gov--schwarzenegger-apos-s-education-policies-california-college-students-are-coming-up-with-their-own-attack-ads
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Marine debris&amp;colon; How do you pitch in?
 date: April 11 2014
-slug: marine-debris&amp;colon;-how-do-you-pitch-in?
+slug: marine-debris-amp-colon--how-do-you-pitch-in-
 ---
 
 <span class="date">Posted on Apr 11, 2014 </span>

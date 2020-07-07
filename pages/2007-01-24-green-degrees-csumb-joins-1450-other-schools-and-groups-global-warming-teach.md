@@ -4,7 +4,7 @@ title: &gt;-
   teach in.
 date: January 24 2007
 slug: &gt;-
-  green-degrees-csumb-joins-1450-other-schools-and-groups-for-a-global-warming-teach-in.
+  green-degrees--csumb-joins-1450-other-schools-and-groups-for-a-global-warming-teach-in-
 ---
 
 

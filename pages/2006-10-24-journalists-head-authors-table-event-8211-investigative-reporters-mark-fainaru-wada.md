@@ -4,7 +4,7 @@ title: &gt;-
   reporters Mark FainaruWada and Lance Williams broke open steroid scandal story
 date: October 24 2006
 slug: &gt;-
-  journalists-at-head-of-author&apos;s-table-event-&#x2013;-investigative-reporters-mark-fainaruwada-and-lance-williams-broke-open-steroid-scandal-story
+  journalists-at-head-of-author-apos-s-table-event---x2013--investigative-reporters-mark-fainaruwada-and-lance-williams-broke-open-steroid-scandal-story
 ---
 
 

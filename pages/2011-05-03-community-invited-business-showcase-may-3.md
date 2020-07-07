@@ -1,7 +1,7 @@
 ---
 title: Tonight&amp;colon; School of Business Showcase
 date: May 3 2011
-slug: tonight&amp;colon;-school-of-business-showcase
+slug: tonight-amp-colon--school-of-business-showcase
 ---
 
 <span class="date">Posted on May 03, 2011 </span>

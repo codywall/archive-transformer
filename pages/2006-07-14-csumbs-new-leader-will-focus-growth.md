@@ -1,7 +1,7 @@
 ---
 title: CSUMB&apos;s new leader will focus on growth
 date: July 14 2006
-slug: csumb&apos;s-new-leader-will-focus-on-growth
+slug: csumb-apos-s-new-leader-will-focus-on-growth
 ---
 
 

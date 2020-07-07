@@ -4,7 +4,7 @@ title: &gt;-
   nonprofit
 date: December 4 2006
 slug: &gt;-
-  club-seeks-worn-running-shoes-&#x2013;csumb-students-plan-donation-to-nonprofit
+  club-seeks-worn-running-shoes---x2013-csumb-students-plan-donation-to-nonprofit
 ---
 
 

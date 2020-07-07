@@ -1,7 +1,7 @@
 ---
 title: Rugby Club sponsors &apos;Invictus&apos; on Oct. 7
 date: October 5 2011
-slug: rugby-club-sponsors-&apos;invictus&apos;-on-oct.-7
+slug: rugby-club-sponsors--apos-invictus-apos--on-oct--7
 ---
 
 

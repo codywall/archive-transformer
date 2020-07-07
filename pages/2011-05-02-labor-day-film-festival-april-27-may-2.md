@@ -1,7 +1,7 @@
 ---
 title: Tonight&amp;colon; May Day labor film festival
 date: May 2 2011
-slug: tonight&amp;colon;-may-day-labor-film-festival
+slug: tonight-amp-colon--may-day-labor-film-festival
 ---
 
 <span class="date">Posted on May 02, 2011 </span>
