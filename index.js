@@ -40,7 +40,7 @@ const walk = function (dir, done) {
             .toLowerCase()
             .replace(/\s+/g, '-')
             .replace(/,/g, '');
-          data = frontMatter.stringify({}, { language: 'json', spaces: 2 });
+          data = frontMatter.stringify();
           console.log(data);
           // fs.writeFileSync(file, $.html(), function (err) {
           //   if (err) {
