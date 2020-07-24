@@ -6,6 +6,7 @@ let pages = JSON.parse(rawData).pages;
 let htmlContent = [];
 let pageCounter = 0;
 for (let i = 0; i < pages.length; i++) {
+  htmlContent = [];
   let content = JSON.parse(pages[i].node.pageContent);
   let values = Object.values(content.blocks);
   let title = pages[i].node.title;
@@ -13,7 +14,8 @@ for (let i = 0; i < pages.length; i++) {
     .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w-]+/g, '');
-  let slug = title.toLowerCase()
+  let slug = title
+    .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w-]+/g, '');
 
@@ -46,7 +48,7 @@ ${htmlContent.join('')}
 `;
 
   //   create files
-  fs.writeFileSync(`pages/${fileName}.html`, htmlBlock, (err) => {
+  fs.writeFileSync(`pages/${fileName}.md`, htmlBlock, (err) => {
     console.log(err);
     pageCounter++;
   });
