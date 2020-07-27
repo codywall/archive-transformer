@@ -4,6 +4,7 @@ title: "Students volunteer to 'make a difference' Oct. 22"
 date: January 01 2020
 ---
 
+```html
 <h3>Ribbon-cutting at Republic Café highlights work in Chinatown</h3><p>CSU Monterey Bay students will fan out across the county on Saturday, Oct. 22, to clean up the Chinatown area of Salinas, do restoration work in Natividad Creek Park, collect native seeds on public lands, write holiday cards to service members and help with beautification projects.
 </p><p>The community is invited to join in and lend a hand.
 </p><p>The day of service is part of the national Make a Difference Day, a day set aside to “celebrate neighbors helping neighbors,” according to the organizer.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>For more than two decades, Make a Difference Day has been celebrated on the fourth Saturday in October. It connects people with opportunities to serve, increases the strength of communities and promotes civic engagement. Last year, three million people cared enough about their communities to volunteer on that day, accomplishing thousands of projects in hundreds of cities and towns.
 </p><p>For more information, contact Steven Goings at <a href="&#109;&#97;&#105;&#x6c;&#x74;o&#58;&#115;&#103;&#x6f;&#x69;n&#103;&#115;&#64;&#x63;&#x73;u&#109;&#98;&#x2e;&#x65;&#x64;u">sgoings@csumb.edu</a>.  
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB honored at Student Affairs conference"
 date: January 01 2020
 ---
 
+```html
 <p>The 'O Team' changed Natasha Daly's life</p><p>Pursue a career in archaeology or student affairs? That’s the question facing Natasha Daly.
 </p><p>Daly was recently recognized with a regional Undergraduate Student Leader award from NODA, the Association for Orientation, Transition and Retention in Higher Education.
 </p><p>She received the award at the Region II conference at Cal Poly Pomona. It recognizes undergraduates for their creativity, energy and enthusiasm ­– the backbone of successful orientation programs.
@@ -30,3 +31,4 @@ Daly is majoring in social and behavioral sciences with a concentration in archa
 </p><p>The impact was immediate – more than 96 percent of eligible students took advantage of the waiver compared to 12 percent who used it before the process was automated.
 </p><p><em>Published March 9, 2016</em>
 </p>
+```

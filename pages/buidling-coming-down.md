@@ -4,6 +4,7 @@ title: "Buidling Coming Down"
 date: January 01 2020
 ---
 
+```html
 <h4>Another building to come down</h4><p>Building 207, the unused three-story structure between Building 1 and dorm 208, will come down during the winter break. First, the building will be "cleaned" of any contamination.When the building is certified clean, it will be demolished and hauled away. The demolition contractor is Randazzo Enterprises of Castroville; the abatement contractor is PARC Environmental of Fresno.
 </p><p>Building 207 has been assessed for contamination three times since Fort Ord closed. All three surveys flagged minor contamination that is typical of the materials and methods used in military construction. The contaminated material will be removed by the abatement contractor and disposed of properly.
 </p><p>The technicians working on the project are licensed and trained by the EPA and OSHA and an engineering firm has been hired to monitor and record air quality in the construction site and observe the work practices of the abatement contractor.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The construction fence is there for your protection. No one is allowed within the construction site. If you need access to the construction site, you must contact campus Planning and Development and a visit will be arranged. Hard hats and protective footwear will be necessary within the construction site.
 </p><p><strong>Schedule</strong> The contractor will begin to mobilize on Dec. 11, and abatement will begin Dec. 13 and continue until Jan. 5. The deconstruction will begin on Jan. 8, and is scheduled to be completed no later than Feb. 2.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Campaign targets campus food waste"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 13, 2010
 </p><p><strong>WEIGHING IN ON WASTE</strong>
 </p><p>Americans trash 25 percent of all the food they prepare, leading to 31 million tons of wasted food piling up in landfills each year. That food waste produces methane gas, which breaks down the ozone layer and leads to climate change.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>This is another step in a program that Sodexo started on Earth Day 2008, when it called on its college operations to give up cafeteria trays, a move that reduced waste by 30 percent. To date, about 340 campuses – including CSUMB – have stopped using trays, reducing food waste and saving thousands of gallons of water required to wash them each year.
 </p><p>To learn more, visit <a href="http://www.stopwastingfood.org" title="www.stopwastingfood.org">www.stopwastingfood.org</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Puppet-based animation workshops at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Sam Koji Hale, an animator and puppet maker, will visit CSU Monterey Bay on April 10 for a pair of events open to the public.
 </p><p>Hale has more than a decade of experience making animated films, which combine computer effects with puppetry, and has won numerous awards for his work.
 </p><p>Perhaps his best-known work, “Yamasong,” has been honored at the Atlanta Film Festival, the Graphation Film Festival in Los Angeles and the World Music and Independent Film Festival. His other credits include art director for the Cartoon Network show “Annoying Orange,” lead VFX artist for Disney Jr.’s “Bite-Sized Adventures of Sam Sandwich,” and associate producer for Disney’s pilot, “Team Smithereen.”
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>On April 12, the university and MY Museum will partner to offer a program for the whole family. At 1 p.m., puppet films will be screened, followed by puppet-making activities with Mr. Hale. The program is free with museum admission. MY Museum is located at 425 Washington St., Monterey.
 </p><p>CSUMB is developing an animation curriculum within its <a href="http://csumb.edu/tat">Cinematic Arts and Technology Department.</a> This is the program’s first public event.  
 </p>
+```

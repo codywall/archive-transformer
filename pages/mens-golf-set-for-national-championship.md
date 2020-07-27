@@ -4,6 +4,7 @@ title: "Men's golf set for national championship"
 date: January 01 2020
 ---
 
+```html
 <h3>Follow the Otters at the national championship May 17-20</h3><p>As soon as the members of the Otter men's golf team finished play in last year's NCAA Division II national championship -- where they placed 11th -- they started planning for this year’s title run.
 </p><p>The planning and preparation paid off. A two-stroke win over runner-up Sonoma State in the Central/West Super Regional qualified CSUMB for a spot in the national championship, which kicks off May 17 at the Robert Trent Jones at the Shoals course in Florence, Ala. They will join 14 other teams in the chase for the national title. 
 </p><p>“What an awesome day for CSUMB's Athletic Department, the university and the Monterey Bay community,” said head coach Jason Owen after his team won the super regional. “Five wins in a row is pretty impressive at any level but to do it at this level is amazing.”
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p>Julia Ashen signs her national letter of intent to play volleyball at CSUMB in fall 2011
 </p>
+```

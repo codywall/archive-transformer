@@ -4,6 +4,7 @@ title: "University observes furlough day June 25"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>June 14, 2010
 </p><p>California State University, Monterey Bay will observe the final administrative furlough day of fiscal year 2009-10 on Friday, June 25. The university is observing furlough days to reduce costs as a result of state budget cuts<strong>.</strong>
@@ -37,3 +38,4 @@ date: January 01 2020
 </p><p>Friday, June 11 (A)
 </p><p> 
 </p>
+```

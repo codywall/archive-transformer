@@ -4,6 +4,7 @@ title: "Contest entries get creative with gingerbread"
 date: January 01 2020
 ---
 
+```html
 <p>There are gingerbread bakers and gingerbread artists.
 </p><p>And then there are gingerbread overachievers.
 </p><p>The group representing Focus the Region, the annual teach-in on climate change, fits into the latter category. The faculty and staff members and the single student on the team came up with a “house” they called CandyLEED Campus. Apparently, Leadership in Energy and Environmental Design (LEED®) is flexible enough to apply to all building types – gingerbread as well as wood and cement.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>• <strong>Third-place</strong>: University Police Department; team leader Claudia Velazquez, team members Lupe Cabeca, Maria Amezquita, Nicki Hodges, Stacie Russo, Christine Pressas Cesar Velazquez
 </p><p><strong>People’s Choice Award</strong>: Student Housing and Residential Life; team leader Melody Rico, team members Alexandra Froehlich, Andrea Dominguez-Blanco, Antoinette Olano-Defensor, Gayleene Badiango-Rullan, Jennifer Plueard, Priscilla Alvarez, Tom Burns
 </p>
+```

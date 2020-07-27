@@ -4,6 +4,7 @@ title: "CSUMB celebrates Native American Heritage Month"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay celebrates Native American Heritage Month in November with talks, a film screening, a poetry reading, photography exhibit, musical performance and panel discussion – all around the theme of “generational voices.”
 </p><p>All activities are free and open to the public but parking permits must be purchased from machines on the parking lots or <a href="http://parking.csumb.edu/buy-permit">online</a>.
 </p><p>RSVPs are requested and can be made by e-mailing Brendan Taylor at <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#98;&#x72;&#x65;&#116;&#x61;&#x79;&#108;&#x6f;&#x72;&#64;&#x63;&#115;&#117;&#x6d;&#98;&#46;&#x65;&#100;&#117;">bretaylor@csumb.edu</a> or by calling 582-3890.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>Each of the musicians shares his or her own view of Indian culture with songs about – and by – Indians. Dr. Baldwin (at right, with Anna Davis) has worked for dozens of Native tribes as a social activist, promoting self-determination through tribal reorganization, integration of new technologies, and education. He is a founding faculty member at CSUMB and a professor in the Social, Behavioral, and Global Studies Division. Driving directions and a campus map are available <a href="http://csumb.edu/maps">here</a>.
 </p><p><em>Native American Heritage Month is sponsored by the Division of Social, Behavioral and Global Studies; the Provost’s Special Event Fund; Student Activities and Leadership Development; Associated Students; Otter Cross Cultural Center; the Office of Inclusive Excellence; the College of Arts, Humanities, and Social Sciences’s dean’s office; the Teacher Education Department; the Division of Human Communication; the Department of Psychology; and Sigma Theta Psi.</em>
 </p>
+```

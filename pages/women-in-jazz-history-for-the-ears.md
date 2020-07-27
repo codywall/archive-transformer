@@ -4,6 +4,7 @@ title: "Women in jazz: History for the ears"
 date: January 01 2020
 ---
 
+```html
 <h3>Vocalist Pamela Rose comes to the World Theater</h3><p>Jazz vocalist Pamela Rose has been described by Downbeat Magazine as "playful, sure and sassy."
 </p><p>That's what an ongoing successful run of the multi-media "Wild Women of Song: Great Gal Composers of the Jazz Era" does for a person. In Los Angeles, London, New York and San Francisco, Rose has entertained, enlightened and educated audiences about the mostly anonymous female songwriters from the early days of jazz.
 </p><p>She will bring the show to CSU Monterey Bay’s World Theater on Oct. 17. Showtime is 7:30 p.m.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Said World Theater artistic director Joe Cardinalli: "What really hooked me on presenting Pamela Rose at the World Theater was listening to her album 'Wild Women of Song.' Every song was written by a woman. The songs brought back childhood memories of my mother singing them in the kitchen in our home in Monterey."
 </p><p>Tickets are $40 premium, $29 general. Discounts are available for students, military members and seniors. Tickets can be purchased <a href="http://csumb.edu/worldtheater">online</a> or by calling the box office at 582-4580. The World Theater is located on Sixth Avenue between A and B streets. Driving directions and a campus map are available <a href="http://csumb.edu/maps">here.</a><em>Her multimedia show is equal parts concert and history lesson. Rose and her talented band routinely draw rave reviews from fans and critics ... notably, her set at the Monterey Jazz Festival had people buzzing!</em> –? Jim Harrington, San Jose Mercury News
 </p>
+```

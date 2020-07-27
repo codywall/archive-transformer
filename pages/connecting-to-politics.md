@@ -4,6 +4,7 @@ title: "Connecting to politics"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB student spends semester in Washington, D.C.</h3><p>Hannah Plummer wants to work in a political organization or for an elected official. Washington, D.C., seems like the perfect place for her.
 </p><p>The senior business major will get a head start on her career aspirations as she takes part in the Congressional Internship Program sponsored by the Panetta Institute for Public Policy.
 </p><p>California State University campuses choose one student each year to participate in the program. Interns are selected based on an exemplary academic record as well as an interest in politics and public service. Plummer is this year’s representative from CSU Monterey Bay.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><a href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/">Learn more about the Panetta Institute’s Congressional Internship Program.</a>
 </p><p><em>Photo: Congressman Kevin McCarthy and Hannah Plummer</em>
 </p>
+```

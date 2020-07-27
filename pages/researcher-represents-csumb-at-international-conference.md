@@ -4,6 +4,7 @@ title: "Researcher represents CSUMB at international conference"
 date: January 01 2020
 ---
 
+```html
 <p>A shortage of fish in the ocean, combined with human population growth, means global shortfalls for traditional food sources. Squid may help to fill the gap.
 </p><p>That’s according to Michael Navarro, a National Science Foundation post&#45;doctoral scholar in Science &amp; Environmental Policy at CSUMB.
 </p><p>Navarro recently presented his research at the Cephalopod International Advisory Council &#40;CIAC&#41; conference in Hakodate, Japan. The event is widely considered the most important international conference for cephalopod &#40;or squid&#41; science, with more than 240 participants from 30 countries in attendance.
@@ -16,3 +17,4 @@ This research is aligned with Navarro’s primary focus at CSUMB.
 </p><p>Along with CSUMB, other institutions represented at the <a href="www.ciac2015.com.">CIAC conference</a> included UC Berkeley, UCLA and the Scripps Institution of Oceanography.
 </p><p><em>Published Dec. 8, 2015</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Persistence pays off for this alumnus"
 date: January 01 2020
 ---
 
+```html
 <h3>Lands dream job with basketball team</h3><p>He’s energetic, enthusiastic and cheerfully nervy. Those qualities landed Michael Leslie &#40;TAT 2008&#41; internships with the Golden State Warriors, and, eventually, a staff position with the basketball team. Now, he's on the sidelines for the Warriors' run to the NBA championship.
 </p><p>His is a story of determination and an unwillingness to take no for an answer.
 </p><p>Since the 2010&#45;11 season, he’s been a production assistant with the team, a self&#45;described “jack of all trades.” He helps the team’s radio producer compile sound bites from players and others around the league. He also works on video production, skills he learned in CSUMB's Teledramatic Arts and Technology program.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>He owes a lot to the people at CSUMB, he said, especially TAT faculty members Steven Levinson and Karen Davis.
 </p><p><em>Note: This story was first published in 2013.</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Basketball clinic kicks off Kids Club "
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 1, 2009
 </p><p>CSUMB athletics kicked off a year-round series of "FUN-damental" sports clinics on Nov. 29 when the men's basketball team worked with young athletes at the Otter Sports Center.
 </p><p>Under the direction of head coach Rob Bishop, youngsters learned proper shooting and dribbling as well as good teamwork skills.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>To receive email notices of upcoming clinics, youngsters can sign up for the Otter Pups Kids Club at <a href="http://www.otterathletics.com" title="www.otterathletics.com">www.otterathletics.com</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB hires new dean of students"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 26, 2010
 </p><p><strong><em>Christine Erickson joins staff March 29</em></strong>
 </p><p>Christine Erickson will join the staff at California State University, Montrey Bay as Dean of Students. Her first day will be March 29.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

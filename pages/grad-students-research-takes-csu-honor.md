@@ -4,6 +4,7 @@ title: "Grad student's research takes CSU honor"
 date: January 01 2020
 ---
 
+```html
 <p>Reseach by a CSU Monterey Bay graduate student may prove helpful to managers of former Fort Ord lands. The work took a top honor for Bart Kowalski at the California State University Student Research Competition May 4 and 5 in Long Beach. More than 250 students from 21 CSU campuses were selected by their universities to enter the annual competition, which showcases excellence in scholarly research and creative activity. Kowalski’s research project took first place in the graduate student category of biological and agricultural sciences. The project involved determining the distribution of mammals such as coyotes, raccoons, striped skunks, bobcats and grey foxes that live on former Fort Ord lands. The research was done for his master’s thesis in Coastal and Watershed Science and Policy under the direction of Dr. Fred Watson. Kowalski’s study will provide land managers with information on the factors that impact the distribution of these mammals. “We've found a varied response by these animals to road/trail density and distance to urban edge, which means significant changes in these variables could disproportionally affect certain species,” Kowalski said.
 </p><p>“Grey foxes seem most sensitive to urban edge, while coyotes are quite ubiquitous. We also found that road/trail density seems to be an important predictor for the distribution of raccoons, striped skunks and grey foxes,” he said.
 </p><p>The research can project species distribution before and after hypothetical scenarios for change in trail management or land use, which can be incorporated into the decision-making process surrounding such changes.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Read more about the competition <a href="http://www.calstate.edu/pa/News/2012/Story/studentresearch.shtml">here</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Volunteers keep count of birds"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 11, 2010
 </p><p>*******CSUMB's Return of the Natives project sponsors annual event Jan. 16***
 </p><p>Volunteers will be out at 8 a.m. Saturday, Jan. 16, looking for hawks, geese, ducks, wrens and a variety of other species at the Watershed Institute's fourth annual winter bird count at Upper Carr Lake in Salinas. Everyone is welcome to help during the two-hour count.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>For more information and a map, visit watershed.csumb.edu/ron or call 582-3686.
 </p><p> 
 </p>
+```

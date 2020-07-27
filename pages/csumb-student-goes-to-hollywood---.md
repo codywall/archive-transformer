@@ -4,6 +4,7 @@ title: "CSUMB student goes to Hollywood . . ."
 date: January 01 2020
 ---
 
+```html
 <p>. . . and comes back from fund-raising gala with $75,000 for the Real Food Challenge</p><p>What does it mean to eat healthy, sustainable food? Can universities do a better job of promoting good eating habits while also serving food that is environmentally sound and financially viable?
 </p><p>Stephanie Yee thinks so, and has taken a leadership role in the Real Food Challenge, a national campaign to move colleges and universities away from junk food and toward “real” food.
 </p><p>The junior environmental studies major was a leader in the statewide effort to convince the CSU to approve a sustainable policy that will govern the $100 million spent on food across the 23&#45;campus system. Under the policy adopted by the Board of Trustees last May, each campus has until 2020 to ensure that at least 20 percent of all money spent on food goes to farms and businesses that are local/community based, and the food is fairly traded, ecologically sound and/or humanely raised.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>“These funds will support campus visits, retreats, research, organizers and our campaigns to shift more dollars to a real food economy,” Yee said.
 </p><p><a href="http://www.realfoodchallenge.org">Learn more about Real Food Challenge</a>
 </p>
+```

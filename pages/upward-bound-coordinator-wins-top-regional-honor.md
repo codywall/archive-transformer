@@ -4,6 +4,7 @@ title: "Upward Bound coordinator wins top regional honor"
 date: January 01 2020
 ---
 
+```html
 <p>Cesar Velazquez, coordinator of Cal State Monterey Bay’s Upward Bound program, has been honored by his peers in the Western Association of Educational Opportunity Personnel. 
 </p><p>The Steve Holeman Award, presented to Velazquez at the association’s annual conference in April, honors the memory of one of its founders. It recognizes a director’s dedication to educational excellence and equity, concern for developing students’ potential and professionalism in administration.
 </p><p>"It's a great honor to receive this award, especially because so many of my past mentors and Upward Bound staff and alums contributed to the nomination," he said.
@@ -16,3 +17,4 @@ In nominating Velazquez for the award, former Upward Bound participants and coll
 </p><p>Velazquez grew up in the Salinas Valley and worked in the fields before attending Hartnell College and transferring to CSUMB. His entire professional career has been spent working in TRiO programs.
 </p><p>"I'm most proud of serving in the programs that guided me toward college, especially because I'm a Talent Search TRiO alum," Velazquez said.
 </p>
+```

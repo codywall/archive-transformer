@@ -4,6 +4,7 @@ title: "CSUMB expands its presence in Salinas"
 date: January 01 2020
 ---
 
+```html
 <p>CLASSES TO BE OFFERED AT NORTH MAIN STREET LOCATION</p><p>Cal State Monterey Bay has leased the main building vacated by last year’s closure of Heald College in Salinas and will begin offering classes in that facility later this year.
 </p><p>The lease, which went into effect Feb. 1, is for a 25,000&#45;square&#45;foot building located on North Main Street off Alvin Drive. The building includes 11 classrooms, several of which can serve as labs, and a number of offices. The facility will be known as CSUMB @ North Salinas.
 </p><p>“Leasing the building previously occupied by Heald College will allow us to increase our outreach and our course offerings to Salinas and the Salinas Valley,” said CSUMB President Eduardo Ochoa. “With the space crunch on our main campus, and the need to expand higher education opportunities in Salinas, this seemed to provide an ideal opportunity.”
@@ -21,3 +22,4 @@ The university’s Osher Lifelong Learning Institute &#40;OLLI&#41; will hold tw
 Other CSUMB plans for the building include:
 </p><p><em>Published Feb. 9, 2016</em>
 </p>
+```

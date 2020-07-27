@@ -4,6 +4,7 @@ title: "Commencement 2016"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay &#40;CSUMB&#41; congratulates all the graduates of the class of 2017! Below is a selection of news clips and fun facts related to the 21st annual commencement ceremony scheduled for Saturday, May 20, 2017 in Freeman Stadium.
 </p><h3>Commencement Speaker</h3><p>Farr was a pivotal figure in leading the transition of the former Fort Ord into what is now CSUMB during the early 1990’s.
 
@@ -15,3 +16,4 @@ Farr will also be awarded a Doctorate of Law degree from CSUMB in honor of his 4
 </p><h3><a href='https://csumb.edu/news/commencement-2017-numbers'>By the Numbers</a></h3><p>2,000 chairs rented for the ceremony.
 </p><h3>Social Media</h3><p>Use #MBgrad17 on your posts commemorating this special day!
 </p><h2><a href='https://csumb.edu/commencement'>Commencement FAQ</a></h2>
+```

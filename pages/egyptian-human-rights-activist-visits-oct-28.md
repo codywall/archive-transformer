@@ -4,6 +4,7 @@ title: "Egyptian human rights activist visits Oct. 28"
 date: January 01 2020
 ---
 
+```html
 <p>Egyptian human rights activist, journalist and author Gihan Abou Zeid will speak at CSU Monterey Bay on Oct. 28. Her topic: “Egypt’s women push back against the past.”
 </p><p>The talk will start at 4 p.m. in Room 1180 in the Tanimura and Antle Family Memorial Library located on Divarty Street and Fifth Avenue.
 </p><p>Ms. Zeid is an authority on women’s rights in the Arab world and was part of the revolution of 2011 that brought millions of people to Tahrir Square.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The talk is sponsored by the Division of Social, Behavioral and Global Studies, the College of Arts, Humanities and Social Sciences, the Resource Center for Nonviolence of Santa Cruz and the Monterey Peace and Justice Center.
 </p><p> 
 </p>
+```

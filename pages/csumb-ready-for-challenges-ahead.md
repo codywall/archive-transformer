@@ -4,6 +4,7 @@ title: "CSUMB ready for challenges ahead"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 24, 2009
 </p><p>California State University, Monterey Bay President Dianne Harrison on Sept. 24 presented her 2009 State of the University address, hailing the school's efforts to overcome the state budget cuts, and urging her audience to stay committed to students.
 </p><p>"I am here to tell you: California State University, Monterey Bay remains strong and we are on a steady and positive course in spite of our issues with the state," she said.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

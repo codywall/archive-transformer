@@ -4,6 +4,7 @@ title: "University partners with local colleges on BSN degree"
 date: January 01 2020
 ---
 
+```html
 <h3>Program "a model for a new way of doing nursing education"</h3><p>To help meet a growing demand for bachelor’s-prepared nurses, CSU Monterey Bay has added a Bachelor of Science in Nursing degree program, and the first class of students will start this summer.
 </p><p>The program is launching at a critical time, when the pace of change in nursing has rapidly accelerated.
 </p><p>The health care industry is coping with the “silver tsunami” of aging baby boomers combined with the impact of health care reform, and nurses will play a big role in meeting both challenges.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>“New graduates can’t find jobs because older nurses are working longer,” he said. “When the wave of retirements comes, a big demand will become apparent. It’s a crisis in the making.”
 </p><p>Learn more about the nursing program <a href="http://csumb.edu/nursing">here</a>.  
 </p>
+```

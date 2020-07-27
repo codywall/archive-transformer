@@ -4,6 +4,7 @@ title: "Student needs guide CSUMB budget planning"
 date: January 01 2020
 ---
 
+```html
 <p>July 21, 2009
 </p><h2>Student needs guide CSUMB budget planning</h2><p>A focus on preserving student services and academic quality is guiding plans by California State University, Monterey Bay to close a $9.95 million revenue gap for the 2009-10 fiscal year, President Dianne Harrison said Tuesday, July 21.
 </p><p>CSU Monterey Bay will implement a student fee increase and employee furloughs that were approved Tuesday by the CSU Board of Trustees for all 23 CSU campuses.
@@ -37,3 +38,4 @@ date: January 01 2020
 </p><p>"It's a very difficult situation to be in," Harrison said, "because we pride ourselves on providing education that's accessible to as many students as possible."
 </p><p>About 34 percent of CSU Monterey Bay's students come from the tri-county area of Monterey Bay, San Benito and Santa Cruz counties. Among all CSUMB students, 44 percent have parents who did not attend college, and 28 percent are Latino.
 </p>
+```

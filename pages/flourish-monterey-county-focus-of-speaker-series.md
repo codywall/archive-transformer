@@ -4,6 +4,7 @@ title: "'Flourish Monterey County' focus of speaker series"
 date: January 01 2020
 ---
 
+```html
 <h3>Kicks off March 4 with talk on economic development</h3><p>With the theme, “Flourish Monterey County,” this year’s President’s Speaker Series at California State University, Monterey Bay will get under way on March 4 when Mary Jo Waits visits campus.
 </p><p>Ms. Waits, director of the Economic, Human Services and Workforce Division of the National Governors Association, was one of the most thought-provoking speakers at the recent colloquium on Fort Ord redevelopment. She will expand on her ideas on how to leverage university research to enhance economic development.
 </p><p>One of the messages that emerged from the colloquium was the need to move beyond jurisdictional battles and take a comprehensive look at what makes economic and environmental sense for the area. In her talk, Ms. Waits will continue the discussion begun at the colloquium.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The speaker series is in keeping with Cal State Monterey Bay’s role as a community resource, providing forums for thoughtful and provocative discussions that can impact thought and action on issues important to our community.
 </p><p> 
 </p>
+```

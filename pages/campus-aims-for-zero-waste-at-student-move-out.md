@@ -4,6 +4,7 @@ title: "Campus aims for zero waste at student move-out"
 date: January 01 2020
 ---
 
+```html
 <p>Some CSU Monterey Bay students were surprised at what they saw discarded during last year’s spring rush to clean out dorm rooms and move off campus for the summer.
 </p><p>“Students will leave all kinds of things,” said Max Lorenz, the student recycling coordinator. Spotted last year were video games, computers, television sets and refrigerators.
 </p><p>But more than electronics get tossed aside. Clothing and other useful items are thrown in trash bins when they could be donated to organizations that serve the community.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

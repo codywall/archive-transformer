@@ -4,6 +4,7 @@ title: "Campus responds to Katrina"
 date: January 01 2020
 ---
 
+```html
 <p><strong>Students raise $3,500 for hurricane relief</strong>
 </p><p>Hurricane Katrina's devastation was felt on campus as students, faculty and staff watched and listened helplessly as the story unfolded on TV.
 </p><p>In response to the disaster, the CSUMB student government has held a variety of fundraising activities to benefit the victims. So far, approximately $3,500 has been raised.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>• The United Student Leadership Council -- a group of students representing student government and a variety of clubs and organizations on campus -- held a door-to-door solicitation campaign that resulted in another $373.
 </p><p>Students will be surveyed to determine which organization will receive the money collected.
 </p>
+```

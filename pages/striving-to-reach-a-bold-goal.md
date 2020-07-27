@@ -4,6 +4,7 @@ title: "Striving to reach a bold goal"
 date: January 01 2020
 ---
 
+```html
 <p>Jeff Edmondson, managing director of Strive Together, will speak at CSU Monterey Bay on April 9 as the President’s Speaker Series concludes for the year.
 </p><p>Strive Together is a national initiative that brings together leaders from pre-kindergarten through higher education, business, community organizations, government, parents and others who are committed to helping children succeed from cradle to career. Edmondson served as executive director of The Strive Partnership in Cincinnati and Northern Kentucky. He’ll share lessons learned in that partnership in his talk, “Collective Impact: A New Way of Doing Business to Improve Educational Outcomes.”
 </p><p>Those lessons are currently being applied across the country. The program identifies specific goals, comes up with a common way to measure those goals, and does so by using a rigorous set of data that can be shared with everyone. Each community sets its own priorities for improving education for students "from cradle to career." A Cradle to Career Partnership has recently been established in Monterey County. Edmondson’s presentation will get under way at 3:30 p.m. in the World Theater on Sixth Avenue near A Street. Driving directions and a campus map are available <a href="http://csumb.edu/maps">here</a>.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

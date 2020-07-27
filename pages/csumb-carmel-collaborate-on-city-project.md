@@ -4,6 +4,7 @@ title: "CSUMB, Carmel collaborate on city project"
 date: January 01 2020
 ---
 
+```html
 <p>A Carmel city councilwoman put out a call for help, and CSU Monterey Bay faculty, staff and students responded.
 </p><p>For their work in mapping the city’s trails using geographic information systems, the team was honored at a City Council meeting in early July.
 </p><p>The project came about when Councilwoman Victoria Beach wanted to have an alternative transportation mapping project done. She contacted Megan Tolbert, CSUMB’s transportation planner. Tolbert knew that GIS technology was needed, and approached Professor Yong Lao to see if his students would take on the project.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><a href="http://catalog.csumb.edu/undergrad-education/majors/social-behavioral-sciences/course-pathways/geographic-information-systems">Learn about GIS classes at CSUMB</a>
 </p><p><em>Carmel Mayor Jason Burnett presents CSUMB President Eduardo Ochoa a proclamation thanking the university for its help with a city project</em>  
 </p>
+```

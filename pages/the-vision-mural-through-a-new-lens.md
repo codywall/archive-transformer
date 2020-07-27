@@ -4,6 +4,7 @@ title: "The vision mural, through a new lens"
 date: January 01 2020
 ---
 
+```html
 <p>A new vision mural is taking shape on campus.
 </p><p>Students in Juan Luna&#45;Avin’s painting and mural class have completed much of the work on the mural along Inter&#45;Garrison Road and Fifth Avenue, across from the Visual and Public Art complex. Detail work on the mural will be completed next semester.
 </p><p>The original Signs and Symbols mural that graced the wall for years was removed last January to abate lead in the paint. During the spring 2014 semester, Professor Johanna Poethig’s painting and mural class, along with alumni muralists and faculty members, designed a new mural to replace it.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>In the layering of the composition, the easily perceived and hidden elements complement each other. The lenses at each side of the compass magnify the values on which CSUMB is founded as we acknowledge the past and look toward the future.
 </p><p>On the left is a reflection of the original Fort Ord military symbol that was the centerpiece of the wall. On the right, the lens is a camera, a telescope or beacon and through both lenses light shines through toward the sky of unlimited possibility.
 </p>
+```

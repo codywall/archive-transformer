@@ -4,6 +4,7 @@ title: "Storytelling was hallmark of World Theater season"
 date: January 01 2020
 ---
 
+```html
 <p>June 1, 2010
 </p><p><strong>Paul Taylor Dance Company highlights upcoming season</strong>
 </p><p>The best art tells a story, and CSU Monterey Bay's Performing Arts Series at the World Theater just completed a season that told a variety of them. And there are more to come.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>And, take advantage of a special early-bird special: buy tickets to either Noche Flamenca or Paul Taylor Dance Company by June 9 for $25 each, or get a ticket to both shows for $45. Tickets will certainly cost more when they go on sale in August and will likely sell out, so now is the best time to get tickets to the two hottest dance shows of the fall.
 </p><p><em> </em>
 </p>
+```

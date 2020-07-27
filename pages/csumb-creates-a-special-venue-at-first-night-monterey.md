@@ -4,6 +4,7 @@ title: "CSUMB Creates! A special venue at First Night Monterey"
 date: January 01 2020
 ---
 
+```html
 <p>Works by CSU Monterey Bay students,faculty, staff and alumni will be showcased at <a href="www.firstnightmonterey.org">First Night Monterey</a>, the family&#45;friendly celebration of New Year’s Eve.
 </p><p>CSUMB Creates! will include music, visual art and film and will be held at the Middlebury Institute of International Studies’ McGowan Center at Pacific and Franklin streets in downtown Monterey.
 
@@ -30,3 +31,4 @@ New Year’s Eve performers aren’t the only CSUMB community members involved w
 </p><p>About the photo:
 </p><p><em>"Post for Peace and Justice – Art Will Save the World" created by students at San Lucas School with CSUMB Gear Up staff, Liberal Studies students and artists Jennifer Colby and Kira Corser</em>
 </p>
+```

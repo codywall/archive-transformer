@@ -4,6 +4,7 @@ title: "Is citizenship a birthright?"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 14, 2010
 </p><p> 
 </p><p><strong><em>Panel discussion commemorates Constitution Day at CSUMB</em></strong>
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><em> </em>
 </p><p> 
 </p>
+```

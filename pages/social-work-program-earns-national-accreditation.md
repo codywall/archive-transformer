@@ -4,6 +4,7 @@ title: "Social work program earns national accreditation"
 date: January 01 2020
 ---
 
+```html
 <p>California State University, Monterey Bay’s master’s degree in social work (MSW) program passed an extensive accreditation process recently, and is now nationally accredited.
 </p><p>Last fall, CSUMB played host to the fourth site visitor over the past four years from the Council of Social Work Education (CSWE). Each met with administrators, faculty, students, and community advisory board members on campus, poring over the school’s programs, reviewing benchmark documents, and making suggestions for program improvement. The program submitted its final three-volume, 1,000-page report on April 1.
 </p><p>The visit was the culmination of four years of preparatory work by CSUMB faculty and staff. Evaluators recently issued their report, granting initial accreditation through February, 2018.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

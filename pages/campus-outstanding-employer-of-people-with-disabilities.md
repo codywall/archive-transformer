@@ -4,6 +4,7 @@ title: "Campus 'outstanding employer' of people with disabilities"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay began with infrastructure built for able-bodied military members. Those facilities were in place decades before the Americans with Disabilities Act passed in 1990.
 </p><p>The university’s challenge to provide access – physical, programmatic, intellectual – far exceeds that of other employers in the area.
 </p><p>Because it has done such a good job meeting that challenge, and because of its inclusive philosophy and culture, CSUMB has been recognized by the Monterey County Committee for the Employment of People with Disabilities as an outstanding employer.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

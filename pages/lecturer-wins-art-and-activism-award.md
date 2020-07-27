@@ -4,6 +4,7 @@ title: "Lecturer wins Art and Activism Award"
 date: January 01 2020
 ---
 
+```html
 <p>June 18, 2010
 </p><p>Jennifer Colby, a lecturer in the <a href="https://csumb.edu/liberalstudies">Liberal Studies Department</a>, has won an Art and Activism Award from the Women's Caucus for Art, Pacific Region.
 </p><p>Called the Catalyst Award, it is given for exemplary projects, artworks or collaborations that make an impact in support of the environment. Awards will be presented at an eco&#45;art conference in Berkeley on June 25.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>She has taught studio art and art history in K&#45;12 settings, colleges and universities, including the Pacific School of Religion, where she directed contemporary art exhibits at the Bade Museum.
 </p><p>At CSUMB, she teaches classes in culture and cultural diversity, introduction to teaching and learning, and service learning courses.
 </p>
+```

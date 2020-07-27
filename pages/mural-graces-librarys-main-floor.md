@@ -4,6 +4,7 @@ title: "Mural graces library's main floor"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay has recently added to its collection of historically significant works of art.
 </p><p>“The Pageant of Transportation in California,” a sweeping depiction of industrialization in the state, was installed in the library in May as a long-term loan from the Monterey Museum of Art.
 </p><p>The mural, by Dean Cornwell, includes images of Spanish colonization, pioneers crossing the desert in covered wagons, construction of the railroad and an urban environment.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Murals highlight new neighborhood park"
 date: January 01 2020
 ---
 
+```html
 <p>Students in Professor Johanna Poethig’s painting and mural class at Cal State Monterey Bay are helping to brighten a park and learning valuable lessons in the process.
 </p><p>They are creating a series of murals that will cover a 300-foot wall at the new Pajaro Neighborhood Park – a 4.9-acre parcel in the largely farm worker community that straddles Monterey and Santa Cruz counties.
 </p><p>CSUMB students are creating nine of the 14 murals; local artist and muralist Jose Ortiz is working on the other five. Children from local schools are also contributing their talents to the effort.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The Arts Council for Monterey County is sponsoring the project.
 </p><p><a href="http://news.csumb.edu/gallery/murals-highlight-pajaro-park">See more photos here.</a>
 </p>
+```

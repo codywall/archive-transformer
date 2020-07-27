@@ -4,6 +4,7 @@ title: "Alumni Class Notes"
 date: January 01 2020
 ---
 
+```html
 <h4>2010</h4><p>**KATY BJERKE **(2010, B.A., Visual and Public Art) is the guest services manager and museum store manager at the National Steinbeck Center in Salinas. She has volunteered for the Women Alive! project at Dorothy’s Place and the Chinatown Renewal Project. Her fiancé, Paul VandeCarr (B.A., ’06 Visual and Public Art), is the collections curator at the Pacific Grove Natural History Museum. Bjerke lives in Pacific Grove.
 </p><p><strong>DENISSE URIBE</strong> (B.S.,  Business Administration) is a business consultant at the CSUMB Small Business Development Center in Gonzales. She helps small business owners succeed by assisting them with planning and budgeting. Uribe volunteers at the Alisal Center for the Fine Arts, El Sausal Middle School and Saint Theodore’s Church. She and her husband, Raul Mariscal, have a son, Joshua Mariscal, 2. They live in Gonzales.
 </p><h4>2009</h4><p><strong>ROBERT CAMPBELL</strong> (B.S., Business Administration) is a financial adviser for Merrill Lynch. His duties include financial planning and portfolio management for high net worth individuals. He’s a member of the Rotary Club of Seattle and volunteers for a PGA professional who runs a children’s golf camp each summer. Campbell lives in Seattle.
@@ -34,3 +35,4 @@ date: January 01 2020
 </p><h4>1998</h4><p><strong>JOEL ALEXANDER</strong> (B.S., Management and International Entrepreneurship) is self-employed as a licensed real estate and insurance broker. He volunteers for the YMCA, is scholarship administrator for the Alcala Scholarship Fund and is a traffic safety volunteer for Cali Calmecac Charter School. He and his wife, Irma Alexander, have a son, Robert, 7. They live in Santa Rosa.
 </p><h4>1997</h4><p><strong>ASHANTI THOMPSON</strong> (B.A., Teledramatic Arts &amp; Technology) is a security officer with the Transportation Security Administration at Monterey Peninsula Airport. She earned an M.S. in entertainment business from Full Sail University in 2010 and is an intern at the Digital Media Learning Foundation in Santa  Cruz. Thompson lives in Marina.  
 </p>
+```

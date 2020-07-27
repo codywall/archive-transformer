@@ -4,6 +4,7 @@ title: "CSUMB featured in book on undergraduate research"
 date: January 01 2020
 ---
 
+```html
 <p>Whether at a field site or in a lab, the chance to conduct research is a game-changer when it comes to earning a degree. Staff members of CSU Monterey Bay’s Undergraduate Research Opportunities Center – or UROC – believe that passionately, and work to offer all students that chance.
 </p><p>Research, they say, can ignite a passion, build and reinforce confidence and keep students on track for graduation and success beyond commencement – in graduate school or the workplace.
 </p><p>UROC was established in 2009, and since then it has earned a national reputation for excellence, achievement and leadership.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Learn more about UROC at CSUMB <a href="http://csumb.edu/uroc">here</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Faculty members present research at ocean conference"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 2, 2010
 </p><p>Two CSUMB scientists will make presentations at the California and the World Ocean Conference Sept. 7-10 in San Francisco.
 </p><p>The conference focuses on management, policy, assessment and communication regarding marine and ocean issues. It was organized by California's Ocean Protection Council, Natural Resources Agency and Environmental Protection Agency.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

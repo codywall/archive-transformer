@@ -4,6 +4,7 @@ title: "University commemorates World AIDS Day"
 date: January 01 2020
 ---
 
+```html
 <h3>Activities expanded to a full week</h3><p>World AIDS Day, a global initiative to encourage countries and communities to take a stand against HIV/AIDS, will be commemorated on Dec. 1.
 </p><p>At CSU Monterey Bay, the observance has been expanded to a week of activities around the theme of "Getting to zero: We are our brothers' and sisters' keeper" – a reference to both the World Health Organization's theme and that of National Black HIV/AIDS Awareness Day. The theme was chosen to highlight the fact that the highest rates of new infections in the U.S. are in the African American community. 
 </p><p>Events include:
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Events are sponsored by the university’s Health and Wellness Services, the Service Learning Institute, Campus Dining Services and AmeriCorps; presented by Black Students United, NAACP@CSUMB and Out and About; and supported by community partners Central Coast HIV/AIDS, African American HIV/Wellness and the Village Project.
 </p><p>For more information, to volunteer or to request disability accommodations, please contact Steven Goings, service opportunities coordinator, at 582-4659.
 </p>
+```

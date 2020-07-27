@@ -4,6 +4,7 @@ title: "COLLEGE SENIORS"
 date: January 01 2020
 ---
 
+```html
 <p>College students aren’t the only ones being educated on the Cal State Monterey Bay campus.</p><p>What do <em>The Arabian Nights</em>, John Steinbeck and Monterey Peninsula history have in common?
 </p><p>They are among a diverse range of classes that will be offered in the fall through the Osher Lifelong Learning Institute – OLLI – at California State University, Monterey Bay. The courses and speakers are specifically geared for those over 50.
 </p><p>OLLI at CSU Monterey Bay, with support from the Bernard Osher Foundation, is part of a national network that recognizes learning and exploration have no age limits. Members are inspired to take a fresh look at themselves, their world, and the possibilities that await them.
@@ -16,3 +17,4 @@ Also offered is a talk on the changing lens of nursing by Dr. Savitri Singh&#45;
 Individual class offerings can be purchased, or attendees can sign up for a fall semester membership – which includes up to three courses for $105.
 </p><p>For more information or to register for classes, call 582&#45;5500 or visit OLLI <a href="https://csumb.edu/olli">online</a>.
 </p>
+```

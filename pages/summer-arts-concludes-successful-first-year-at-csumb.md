@@ -4,6 +4,7 @@ title: "Summer Arts concludes successful first year at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h2>Student evaluations the best they've ever been</h2><p><em><a href="http://blogs.calstate.edu/voicesviews/?p=1510">View a photo blog of Summer Arts</a></em>
 </p><p>Students from throughout the California State University system and beyond came to Cal State Monterey Bay in July for the annual Summer Arts program.
 </p><p>CSU Summer Arts kicked off the first year of a five-year run at the Seaside campus with more than three hundred students taking the opportunity to explore and master the arts in 13 for-credit classes. Another class was offered in Florence, Italy.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p> 
 </p><p>Photos – top to bottom: • Culmination performance by students in The Actors Gang workshop • A student in the TypoGraphic Design class shows off his work • Essence and Spirit of Hip-Hop was a popular class • A guitar concert was one of many public performances presented as part of Summer Arts. This one was held at the National Steinbeck Center in Salinas
 </p>
+```

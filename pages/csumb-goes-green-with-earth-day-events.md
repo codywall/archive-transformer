@@ -4,6 +4,7 @@ title: "CSUMB goes green with Earth Day events"
 date: January 01 2020
 ---
 
+```html
 <h3>Mammoth comes back from extinction – at least for awhile</h3><p>Education is at the heart of Earth Day – which is really Earth <em>Week</em> at CSU Monterey Bay.
 </p><p>The university will celebrate with eight days of activities intended to educate the community about the planet, sustainability and how we can make the world a better place.
 </p><p>Earth Day was first observed on April 22, 1970, when 20 million Americans took to the streets, parks and classrooms across the country to demonstrate for a healthy environment and a sustainable way of life. That led to the creation of the U.S. Environmental Protection Agency and the passage of the clean air, clean water and endangered species acts. It was the birth of the modern environmental movement.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><a href="http://ideals.csumb.edu/sustainability">Learn more about sustainability at CSUMB</a>  
 </p><p> 
 </p>
+```

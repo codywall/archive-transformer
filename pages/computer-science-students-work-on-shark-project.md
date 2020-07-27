@@ -4,6 +4,7 @@ title: "Computer science students work on shark project"
 date: January 01 2020
 ---
 
+```html
 <p>Students in the CSIT-in-3 program know a good opportunity when they see it.
 </p><p>CSIT-in-3 is a collaboration between CSU Monterey Bay and Hartnell College that enables students to earn a bachelor’s degree in computer science in three years. The program started in 2013 and has just admitted its second cohort of 32 students.
 </p><p>The university’s <a href="http://uroc.csumb.edu">Undergraduate Research Opportunities Center</a> was notified of an unpaid position for a student volunteer to work with Hopkins Marine Station’s <a href="http://baseline.stanford.edu">Shark Baselines Project</a>. When students learned of it, many of them wanted to participate.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

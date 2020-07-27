@@ -4,6 +4,7 @@ title: "Come on down to the Old West"
 date: January 01 2020
 ---
 
+```html
 <h3>‘Don’t Fence Me In’ offers a glimpse of Americana on Feb. 29</h3><p>Fans of the American West will take a step back in time and enjoy an authentic Old West experience on Feb. 29 when the World Theater Performing Arts Series presents “Don’t Fence Me In” at CSU Monterey Bay. The evening will feature five great acts in the newly renovated University Center.
 </p><p><em>Hearing the Quebe Sisters sing is nothing short of mesmerizing</em>. – The Washington Post
 </p><p>Few places in the world capture the imagination like the American West. From the range, ranch, reservation and roadhouse, from the valley of the Rio Grande to the Bitteroot Mountains in Montana, "Don’t Fence Me In: Songs, Music and Poetry of the American West" explores the region’s celebrated musical and oral culture.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>NCTA programs celebrate and honor arts that are deeply rooted cultural expressions – music, crafts, stories and dance passed down through time by families, communities, tribal, ethnic and occupational groups. Bring the entire family for this evening of fiddling, song, poetry and Native American drumming. Tickets are $50 for reserved table seats with beverage service; all other seats at first-come, first-seated and range from $35 for general admission to $10 for children. Senior citizens, military and student discounts are available. Tickets can be purchased by calling the World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater.">online</a>. The University Center is located on Sixth Avenue on the CSUMB campus. Driving directions and a campus map are available <a href="http://csumb.edu/map.">here</a>.  IF YOU COME • WHAT: Don’t Fence Me In, Music and Poetry of the American West • WHERE: CSUMB’s University Center • WHEN: 7:30 p.m., Feb. 29 • TICKETS: $10 to $50; reserve <a href="http://csumb.edu/worldtheater">online</a> or by calling the box office at 582-4580 • INFORMATION: (831) 582-4580 
 </p><p>Photos (from top) (1) Wylie Gustafson photo by Michael Stewart (2) The Quebe Sisters (3) Los Texmaniacs
 </p>
+```

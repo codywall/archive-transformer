@@ -4,6 +4,7 @@ title: "Learning for the fun of it"
 date: January 01 2020
 ---
 
+```html
 <p>What do U.S. foreign policy, Don DeLillo and the physiology and disorders of sleep have in common?</p><p>They are among a diverse range of classes that will be offered in the spring through the Osher Lifelong Learning Institute – OLLI – at California State University, Monterey Bay. The courses and speakers are specifically geared for those 50 and better.
 </p><p>And the classes are filling up quickly.
 </p><p>OLLI at CSU Monterey Bay, with support from the Bernard Osher Foundation, is part of a national network that recognizes learning and exploration have no age limits. Members are inspired to take a fresh look at themselves, their world, and the possibilities that await them.
@@ -16,3 +17,4 @@ New this semester is a look at climate change, and an examination of brain chemi
 
 For more information or to register for classes, call 582&#45;5500 or visit OLLI online at csumb.edu/olli.
 </p>
+```

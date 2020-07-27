@@ -4,6 +4,7 @@ title: "Art meets sustainability"
 date: January 01 2020
 ---
 
+```html
 <p>By the end of the semester, the capstone project of two Visual and Public Art students will grace a wall of CSUMB’s Dining Commons.</p><p><strong>UPDATE: An opening reception and artists' presentation will be held from 6 to 8 p.m., May 11 in the Dining Commons</strong>
 </p><p>Tanya Carbajal and Mercedes Maciel won the Earth Award, an opportunity to create a 7 feet by 20 feet mural and a stipend to pay for the materials. Professor Dio Mendoza worked with the Dining Commons staff to create the award.
 </p><p>Carbajal and Maciel had to complete a rigorous application process that included a 10&#45;image portfolio, letters of recommendation and a letter of intent. The VPA faculty selected the winners.
@@ -25,3 +26,4 @@ The design has what the artists call a “humanistic tone.”
 “We have chosen to depict the agricultural workers, kitchen staff, students,” Maciel said.
 </p><p>The mural will be completed in the VPA complex – painted on several tyvek panels – and installed in the Dining Commons the first week of May.
 </p>
+```

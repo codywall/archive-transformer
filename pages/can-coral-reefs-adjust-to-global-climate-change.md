@@ -4,6 +4,7 @@ title: "Can coral reefs adjust to global climate change?"
 date: January 01 2020
 ---
 
+```html
 <h4>CSUMB professor's research indicates the possibility of survival </h4><p>A study by scientists at Cal State University Monterey Bay, the University of British Columbia and the National Oceanic and Atmospheric Administration provides evidence that coral reefs may be able to adapt to moderate climate warming, improving their chance of surviving through the end of this century. Results suggest corals have already adapted to part of the warming that has already occurred.
 </p><p>Warm water can cause a potentially fatal process known as coral “bleaching,” in which the beautiful reef-building corals eject algae living inside their tissues. Corals bleach when oceans warm only 1-2°C (2-4°F) above normal summertime temperatures. Because those algae supply the coral with most of its food, prolonged bleaching and associated disease often kills corals.
 </p><p>“While earlier modeling work suggested that coral reefs would be gone by the middle of this century, our study shows that if corals can adapt to warming over the past 40-60 years some coral reefs may persist through the end of this century,” said study lead author Cheryl Logan, an assistant professor in CSUMB’s Department of Science and Environmental Policy.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

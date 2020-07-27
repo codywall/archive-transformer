@@ -4,6 +4,7 @@ title: "MacArthur Fellows to visit CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>Award-winners hope to inspire students</h3><p>The MacArturos – well, some of them – are coming to Cal State Monterey Bay.
 </p><p>Each year since 1981, the MacArthur Foundation has given no-strings-attached grants to individuals who show exceptional merit and promise of continued creative work. The recipients come from all fields. The awards have become known as “genius grants.”
 </p><p>Latino awardees banded together as the MacArturos, with the goal of supporting each other’s activist efforts and sharing their work with <em>la comunidad</em>, according to the website of writer Sandra Cisneros, who organized the first meeting in San Antonio in 1997.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em>Photos, top to bottom: Amalia Mesa-Bains, Ruth Behar, Camilo Vergara, Hugo Morales</em>  
 </p>
+```

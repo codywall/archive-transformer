@@ -4,6 +4,7 @@ title: "Another national honor for Service Learning program"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay was a finalist for the Presidential Award as part of the 2012 President’s Higher Education Community Service Honor Roll, the highest federal recognition a college or university can receive for its commitment to community service.
 </p><p>The Corporation for National and Community Service received applications from more than 640 colleges and universities. Five received the Presidential Award; 14 were named finalists.
 </p><p>In 2006, the program’s inaugural year, CSU Monterey Bay was one of three recipients of the top award. It has been named to the Honor Roll each year since then. The university earned the top honor again last year, making it the only two-time recipient of the President’s Award.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The awards ceremony was held March 12 in Los Angeles.
 </p><p>According to the Corporation for National and Community Service, honorees are chosen based on a series of selection factors, including the scope and innovation of service projects, the extent to which service-learning is embedded in the curriculum, the school’s commitment to long-term campus-community partnerships, and measurable community outcomes as a result of the service. <a href="http://service.csumb.edu/">Learn more about the Service Learning Institute at CSUMB</a>.
 </p>
+```

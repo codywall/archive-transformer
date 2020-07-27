@@ -4,6 +4,7 @@ title: "Illustrator, biologist create unique field guide"
 date: January 01 2020
 ---
 
+```html
 <h4>Slime... mold?</h4><p>You might find them in your garden, or spot them on the sides of rotting logs as you hike. They are slime molds: found just about everywhere, colorful, gelatinous, diverse, adaptable.
 </p><p>And Angela Mele is determined to get them some recognition.
 </p><p>Mele, a 2010 graduate of CSU Monterey Bay’s Science Illustration program, is working with slime mold researcher Dr. Steven Stephenson of the University Arkansas on his field guide to Australian myxomycetes (the scientific name for the organisms). Her job: fill the guide with 40 beautiful illustrations.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><a href="http://scienceillustration.org/">Read about CSUMB's Science Illustration program</a>
 </p><p> 
 </p>
+```

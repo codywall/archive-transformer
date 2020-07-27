@@ -4,6 +4,7 @@ title: "Alumnus gets surprised – on national TV"
 date: January 01 2020
 ---
 
+```html
 <p>CSUMB graduate David Bennion (Biology, 2012) and his wife, Kristen, got a big surprise June 3 when the phone rang in their Troy, Michigan, home and Ellen DeGeneres was on the other end of the line.</p><p>The surprise was magnified when Ellen’s correspondent, Andy Zenor, knocked on the door with a camera crew in tow and said they were going to be part of the show’s recurring segment, “Cash at Your Door.”
 </p><p>The couple was chosen, Ellen said on camera, because Kristen had written to the show more than 30 times in the last year. During their segment, the couple answered a series of questions and performed a “skill” challenge. By the end of the 7&#45;minute segment, the couple had won $15,000.
 </p><p>They plan to use the money to help with school expenses since both are students.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“Set goals, don’t give up &#40;EVER&#41;, and take Biology 414.”
 </p><p><em>At the 6:24 mark, you’ll see a reminder of David’s days at CSUMB</em>
 </p>
+```

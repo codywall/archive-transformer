@@ -4,6 +4,7 @@ title: "'Go Green' winning theme for TAT students"
 date: January 01 2020
 ---
 
+```html
 <p>Two students in Luis Camara’s directing class have taken top honors in a New York-based film contest. The results were announced online July 7.
 </p><p>Joey Blackburn won first place and a $1,000 prize in the most recent 360/365 Shorts contest sponsored by the George Eastman House Film Festival. Lauren Hurdle took third. Their work will be shown at the organization’s festival next May in Rochester, New York.
 </p><p>Every three months, the contest organizers release a theme. Filmmakers have 12 weeks to produce a film that’s three minutes or less. Contestants capture their thoughts, imagination and interpretation of the theme and submit their films online. Three winners are then selected. In the most recent contest, the challenge was to “Go Green” by creating a film that incorporated the theme of Reduce, Reuse and Recycle. The filmmakers had to: REDUCE the cast by having one actor play more than one role; REUSE the dialogue by having one line used twice; And RECYCLE a shot by having it appear at least three times. The winning entries can be seen <a href="http://film360365.com/shorts/award-winning-films">here</a>.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>“I’ve never been to a film festival,” she said. “I think it would be awesome to see my film played. Luis told us that the most honest critique of a film is to see the expressions and reactions of the people who watch it for the first time.”
 </p><p>Learn more about the festival <a href="http://film360365.com/festival/">here</a>.  
 </p>
+```

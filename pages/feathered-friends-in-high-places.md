@@ -4,6 +4,7 @@ title: "Feathered friends in high places"
 date: January 01 2020
 ---
 
+```html
 <p>For a mother who recently watched an offspring hatch, the red&#45;shouldered hawk that has taken up residence at the Tanimura &amp; Antle library seems to be in good shape.
 </p><p>She and her partner are the proud parents of one chick, and the mother has gotten a bit protective.
 </p><p>"She's swooped at someone working up there," said Mardi Chalmers, a librarian who has an interest in birds. "Hawks are aggressive in protecting their territory and their young."
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>On that point, Chalmers is emphatic.
 </p><p>"We don't have names for them; they're not mascots," she said. "They're wild. We're admiring them from afar. We're pleased the hawks chose the library to build their nest."
 </p>
+```

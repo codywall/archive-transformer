@@ -4,6 +4,7 @@ title: "AVP Hired"
 date: January 01 2020
 ---
 
+```html
 <p>Tony Boles has joined California State University, Monterey Bay as associate vice president of Campus Development and Operations.
 </p><p>He will oversee campus master planning and building space management, all campus design and construction services, environmental protection and facilities maintenance.
 </p><p>" I see coming to the CSU MB as a great opportunity to be part of the growth and development of a new and exciting campus in one of the most beautiful places in the world," Mr. Boles said.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>He holds bachelor's and master's degrees in architecture from Cal Poly Pomona and also earned a master's degree in city and regional planning from San Diego State University. He is a registered architect in California.
 </p><p>Mr. Boles joined the university on Oct. 18. He replaces Niraj Dangoria, who left CSUMB earlier this year to become assistant dean, facilities planning and management, at Stanford University.
 </p>
+```

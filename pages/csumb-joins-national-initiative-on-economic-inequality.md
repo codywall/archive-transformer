@@ -4,6 +4,7 @@ title: "CSUMB joins national initiative on economic inequality"
 date: January 01 2020
 ---
 
+```html
 <p>The American Association of State Colleges and Universities (AASCU) is spearheading a national effort to engage students in the topic of economic inequality and its impact on democracy. CSU Monterey Bay, which has long been a leader in the area of service learning in higher education, is one of 31 institutions participating in the effort.
 </p><p>“AASCU is excited to assemble this group of two- and four-year institutions that together will examine and address the growing economic inequality in this county, a trend that poses a serious threat to our democracy,” said George Mehaffy, AASCU’s vice president of academic leadership and change.
 </p><p>According to Dr. Seth Pollack, director of CSUMB’s Service Learning Institute, Cal State Monterey Bay plans to strengthen its 100-plus service learning courses and curriculum so they are more effective in helping students think about and address issues of economic inequality; develop new partnerships with community organizations to enhance student involvement with local economic development initiatives; and work together with Hartnell and Monterey Peninsula colleges to develop a dialogue about issues of economic inequality in our region.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><strong>About AASCU</strong> AASCU is a Washington-based higher education association of more than 400 public colleges, universities and systems whose members share a learning- and teaching-centered culture, a historic commitment to underserved student populations and a dedication to research and creativity that advances their regions’ economic progress and cultural development. <em>Photo: Dr. Manuel Pastor</em>
 </p><p> 
 </p>
+```

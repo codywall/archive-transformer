@@ -4,6 +4,7 @@ title: "Making a habit of victory"
 date: January 01 2020
 ---
 
+```html
 <p>***The Cal State Monterey Bay women’s basketball team celebrates its California Collegiate Athletic Association championship on March 1 following a victory over Sonoma State in the Kelp Bed at the Otter Sports Center. ***
 </p><p>For months, it seemed they couldn’t lose.
 </p><p>Even when the Otters women’s basketball team finally fell to top rival Cal Poly Pomona after 16 straight victories, they bounced back to win 11 of their next 14.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>”She’s not betting on another 16-0 start, but a dozen returning players and strong freshmen will create a fun, exciting and successful team next season, she said.
 </p><p>“I do think that next year’s team is going to peak at just the right time to make a run through the NCAA tournament,” Jimenez said.  
 </p>
+```

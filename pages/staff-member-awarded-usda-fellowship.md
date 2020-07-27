@@ -4,6 +4,7 @@ title: "Staff member awarded USDA fellowship"
 date: January 01 2020
 ---
 
+```html
 <p>Omar Murillo, interim coordinator of the TRiO Student Support Services program, was named a Kika de la Garza Education Fellow for 2015.
 </p><p>The program, sponsored by the U.S. Department of Agriculture, is named for the Texas Congressman and former chairman of the House Agriculture Committee.
 </p><p>Faculty and staff from Hispanic Serving Institutions &#40;HSI&#41; have the opportunity to experience first&#45;hand the policymaking process by meeting with USDA staff members and connecting with federal agencies such as the departments of Education and Housing and Urban Development, and the National Science Foundation.
@@ -18,3 +19,4 @@ Kelly Locke, a member of the math faculty and director of Title V grants at Hart
 </p><p>His previous work experience includes a stint as a content specialist with the Homeland Security Digital Library at the Naval Postgraduate School.
 </p><p>CSUMB’s Student Support Services contributes to the success of first&#45;generation, low&#45;income students and individuals with disabilities by helping them overcome barriers to higher education.
 </p>
+```

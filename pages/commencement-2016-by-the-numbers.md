@@ -4,6 +4,7 @@ title: "Commencement 2016 by the numbers"
 date: January 01 2020
 ---
 
+```html
 <p>One year of planning and countless staff hours create this unforgettable day</p><p>14,400: Graduation tickets printed
 
 11,500: Friends and family attending
@@ -40,3 +41,4 @@ date: January 01 2020
 </p><p><em>Some numbers are approximate</em>
 </p><p><em>Published May 13, 2016</em>
 </p>
+```

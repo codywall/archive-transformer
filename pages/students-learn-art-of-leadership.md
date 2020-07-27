@@ -4,6 +4,7 @@ title: "Students learn art of leadership"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 15, 2009
 </p><p>CSU Monterey Bay will hold its annual Student Leadership Conference on Saturday in the University Center.
 </p><p>"By teaching students how to think ethically, make good decisions, be socially and emotionally intelligent, communicate effectively and manage their time and stress level, they will have the tools to be leaders," said Kelly Mailly, coordinator of leadership development.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>A variety of other workshops will be offered throughout the day. Cost is $10 for CSUMB students and $15 for other students. To register, call 582-4625.
 </p><p> 
 </p>
+```

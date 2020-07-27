@@ -4,6 +4,7 @@ title: "Catch CSUMB on public access TV"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 6, 2009
 </p><p>CSU Monterey Bay takes to the airwaves on Aug. 10.
 </p><p>The university's regular interview program airs live from 5 to 6 p.m. the second Monday of each month on Access Monterey Peninsula.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>AMP is available on channel 27 on the campus cable system. Off campus, it can be found on Comcast channel 24. The program can also be heard on KNRY 1240 AM; can be found online at <a href="http://www.ampmedia.org;" title="www.ampmedia.org;">www.ampmedia.org;</a> and is rebroadcast at midnight on AMP.
 </p><p> 
 </p>
+```

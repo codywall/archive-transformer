@@ -4,6 +4,7 @@ title: "Islam topic of Social Justice Colloquium "
 date: January 01 2020
 ---
 
+```html
 <h2>Islam in Dialogue: Feminism, Interfaith</h2><p>This year’s Social Justice Colloquium at CSU Monterey Bay will feature a pair of dialogues focusing on Islam.
 </p><p>The keynote event, “Muslim Feminisms: Reading the Texts, Advocating for Rights,” will be held at 6:30 p.m., March 7, in the Alumni and Visitors Center.
 </p><p>Dr. Aysha Hidayatullah (at left), a faculty member in the Department of Theology and Religious Studies at the Jesuit University of San Francisco, and Rini Iswarini, an Indonesian public interest lawyer, will reflect on contemporary developments in Muslim feminist activism in the U.S. and Asia.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>For more information or for disability accommodations, call Heather Wilde at 582-4332.
 </p><p>                                                                Photo at right: Rini Iswarini  
 </p>
+```

@@ -4,6 +4,7 @@ title: "Alum helps others heal war wounds through environmental activism"
 date: January 01 2020
 ---
 
+```html
 <h3>Former Marine works to establish Veterans’ Conservation Corps</h3><p>You could say that being called to active duty following the 9/11 terrorist attacks interrupted Ben Haberthur’s education at Cal State Monterey Bay. Or you might say that his active military service refocused it.
 </p><p>Either way, Haberthur’s work both as a restoration ecologist and a veterans’ advocate received a major boost recently when he was recognized with a TogetherGreen Fellowship Award from Toyota and the National Audubon Society.
 </p><p>Haberthur, who works for the Forest Preserve District of Kane County near Chicago, will use the $10,000 grant on an effort to encourage veterans dealing with the aftermath of their war experiences to work with nature.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>“I was inspired by the story of local hero Dick Young,” Haberthur told the TogetherGreen organization. “He was a World War II Marine veteran turned conservationist who was able to overcome all he saw on Iwo Jima to become a leader in the fight to save our region’s natural areas.
 </p><p>"He embodied the belief that a country worth protecting is worth preserving.”  
 </p>
+```

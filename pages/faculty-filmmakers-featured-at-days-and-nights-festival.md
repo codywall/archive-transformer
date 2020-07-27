@@ -4,6 +4,7 @@ title: "Faculty filmmakers featured at Days and Nights Festival"
 date: January 01 2020
 ---
 
+```html
 <p>Work by CSU Monterey Bay faculty members Soyeon Kim and Luis Camara will be part of the program of locally made films when their work screens as part of the Philip Glass Center for the Arts, Science and Environment’s annual <a href="http://daysandnightsfestival.com/">Days and Nights Festival</a>. Both films explore primary connections between parents and children in relation to specific landscapes.
 </p><p>Created by international award-winning animator Kim, <em>Ahco on the Road</em> is a rich and haunting animation that draws its inspiration from a nature documentary. Ahco, a baby elephant, is separated from her mother, and must make a perilous journey to try to find her way back home. <a href="http://daysandnightsfestival.com/festival/ahco-on-the-road/">Read more about the film here</a>. Directed by international independent filmmaker Camara (and starring his son and wife, who also co-wrote the script), <em>Silencio</em> is a poetic, magical and sometimes tragic immersion into the imagination of a child whose mother is about to abandon him. Drawn into a restaging of the Don Juan story in Qeuratero, Mexico, the characters navigate a world re-arranged by a child’s consciousness. <a href="http://daysandnightsfestival.com/festival/silencio-film/">Read more about the film here</a>.
 </p><p>Both films will be screened on Oct. 4 starting at 3 p.m. in Sunset Center’s Studio 105.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://news.csumb.edu/news/2013/sep/24/acclaimed-director-screens-film-oct-1">Godfrey Reggio will visit CSUMB on Oct. 1.</a>
 </p><p><a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"><em>More faculty news</em></a>
 </p>
+```

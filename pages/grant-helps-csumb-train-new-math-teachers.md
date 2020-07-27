@@ -4,6 +4,7 @@ title: "Grant helps CSUMB train new math teachers"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 24, 2009
 </p><p>CSU Monterey Bay and two partners have been awarded $900,000 to help prepare future math teachers.
 </p><p>The university worked with Humboldt State and CSU Channel Islands to create the California Coast Noyce Scholarship Partnership. Funded by the National Science Foundation, the Robert Noyce Scholarship program provides support to outstanding students who are committed to teach math once they earn a credential.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Congress passed the Robert Noyce National Math and Science Teachers Corps Act in 1990 as a tribute to the late Robert N. Noyce, co-inventor of the computer chip and founder of Intel.
 </p><p> 
 </p>
+```

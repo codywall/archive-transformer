@@ -4,6 +4,7 @@ title: "Ground Zero Mosque, Islam topic of lecture"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 21, 2010
 </p><p>Shaikh Kabir Helminski will deliver a lecture on the Ground Zero Mosque, Islam and Sufism on Sept. 23 at CSU Monterey Bay.
 </p><p>The free event will be held from 4 to 6 p.m. in the University Center on Sixth Avenue.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>For more information, contact Cheryl Abbott at 582-4189.
 </p><p> 
 </p>
+```

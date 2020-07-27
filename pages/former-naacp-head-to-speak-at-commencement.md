@@ -4,6 +4,7 @@ title: "Former NAACP head to speak  at commencement"
 date: January 01 2020
 ---
 
+```html
 <p>Two ceremonies will be held May 21</p><p>Ben Jealous, former head of the NAACP, will be the keynote speaker at CSU Monterey Bay’s <a href="https://csumb.edu/commencement">commencement</a> ceremonies May 21.
 </p><p>This year marks two milestones for CSUMB – the university celebrates its 20th commencement, and for the first time, two ceremonies will be held.
 </p><p>Graduates from the College of Arts, Humanities and Social Sciences and the College of Business will be celebrated at 10 a.m. The 3 p.m. ceremony will honor graduates from the College of Education, the College of Health Sciences and Human Services and the College of Science. Both will be held at Freeman Stadium on campus.
@@ -20,3 +21,4 @@ The institute works to attract young people to lives of public service, helping 
 
 <em>Published Feb. 17, 2016</em>
 </p>
+```

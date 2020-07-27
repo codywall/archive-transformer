@@ -4,6 +4,7 @@ title: "Summer Arts returns to campus"
 date: January 01 2020
 ---
 
+```html
 <p>After an exciting debut in 2012, CSU Summer Arts returns to campus in July with a lineup of 17 classes and 52 public events.
 </p><p>Students – who come from CSU campuses, other four-year and two-year colleges as well as the local community – are immersed in rigorous training 12 hours a day during the two-week sessions. Classes will be offered in dance, music, theater, creative writing, visual arts, filmmaking and animation.
 </p><p>The guest artists/teachers include actors from the Steppenwolf Theatre Company; Eliot Fisk, who will be among the classical guitar instructors; and professionals from DreamWorks, who will lead the animation session.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p>A list of classes as well as the schedule of public performances is available <a href="http://www.csusummerarts.org">here</a>. <em><strong>Here’s a preview of the kinds of events that will be open to the public during July</strong>:</em>
 </p><p>On July 2, DreamWorks animator Rex Grignon will talk about the process of animation, and how cool it is to work on films such as the Shrek series, the Madagascar series, Kung Fu Panda, Megamind, and the soon-to-be-released Turbo. The 7 p.m. talk will be held in the Tanimura and Antle library on campus. Tickets are $8 for general admission; $5 for students and seniors.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Four undergraduates win prestigious fellowships"
 date: January 01 2020
 ---
 
+```html
 <p>As they wrap up impressive undergraduate careers and receive their degrees on May 19, four science students are looking ahead with lofty goals of what they want to accomplish.
 </p><p>With a couple of years of research already completed, Isael Rubio of Salinas, Kevin Johnson of Hollister, Eric Ross of Los Osos and Alexandra Davis of Albuquerque, N.M., are poised to make contributions in their fields.
 </p><p>All four are headed to graduate school courtesy of National Science Foundation fellowships, which provide $90,000 plus tuition and fees, to support three years of graduate education.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><em>Photo: Alexandra Davis conducts research in the Florida Keys as part of a team of aquanauts working on Aquarius, the world's only underwater research station.</em>
 </p><p> 
 </p>
+```

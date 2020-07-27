@@ -4,6 +4,7 @@ title: "CSUMB offers up a taste of Rio"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 16, 2009
 </p><p>The intricate, throbbing rhythms, colors and excitement of contemporary Brazil will be on display at CSU Monterey Bay's University Center on Dec. 3 when master percussionist Jorge Alabe and his group Samba Rio present "The Story of Brazilian Samba."
 </p><p>The public is invited to the 7 p.m. event. Admission is free.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The 75-minute performance will conclude with a short question-and-answer session.
 </p><p>Driving directions and a campus map are available at csumb.edu/map. For more information, contact Dr. Vaughan at 582-3116.
 </p>
+```

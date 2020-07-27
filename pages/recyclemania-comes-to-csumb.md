@@ -4,6 +4,7 @@ title: "RecycleMania comes to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>Glass, Plastic, Paper, Oh My</h3><p>Glass, plastic containers, paper and aluminum cans – they all have their place at CSU Monterey Bay. And it’s not in trash cans.
 </p><p>Campus recycling efforts got a big boost in the fall of 2009, when each room in the residence halls and all East Campus apartments were equipped with bright blue recycling bins – 3,100 in all. That’s about the time the university’s custodial contract was updated to include emptying of employees’ desk-side recycling bins.
 </p><p>This year, CSUMB is measuring itself against other universities when it comes to recycling. As part of a commitment to reduce its carbon footprint, the university is making its first competitive appearance in the annual RecycleMania competition. (It participated last year, but in the non-competitive benchmark division.)
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>The Environmental Affairs committee has established a group called the Green Team that will handle the recycling efforts and tabulate the weekly results. The Green Team also plans to work to make campus events such as homecoming and commencement zero waste. And it intends to hold random “awareness walks” around campus, where students spotted recycling – “caught green-handed” – will be given prizes.
 </p><p>For more information, visit the RecycleMania website or CSUMB's <a href="http://ideals.csumb.edu/news/students-work-make-university-green">webpage</a>. To view the weekly results compiled by residence hall, check the display cases in front of the Otter Express.  
 </p>
+```

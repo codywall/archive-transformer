@@ -4,6 +4,7 @@ title: "TAT alumni nominated for indie film honors"
 date: January 01 2020
 ---
 
+```html
 <p>A feature film written and directed by a pair of CSU Monterey Bay graduates will compete at the 2016 Film Independent Spirit Awards.</p><p>In nominations announced Nov.23, Robert Machoian &#40;TAT 2007&#41; and Rodrigo Ojeda&#45;Beck &#40;TAT 2009&#41; received a nod in the Someone to Watch category for <em>God Bless the Child,</em> a 94&#45;minute narrative feature film. The category recognizes filmmakers of “singular vision who have not yet received appropriate recognition,” according to the event’s website. The winner will receive a $25,000 grant.
 </p><p><em>God Bless the Child</em> features Machoian’s five children, who range in age from 1&#45;year&#45;old Jonah to 13&#45;year&#45;old Harper, as a quintet of kids left to their own devices when it appears their mother may have abandoned them. Harper, the only girl, looks after her brothers as their day descends into fantasy and chaos.
 
@@ -23,3 +24,4 @@ The Independent Spirit Awards ceremony will be held Feb. 27 in Santa Monica.
 </p><p>The film is available on <a href="https://www.netflix.com/watch/80062688">Netflix</a>
 </p><p><em>Published Nov. 25, 2015</em>
 </p>
+```

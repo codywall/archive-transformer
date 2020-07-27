@@ -4,6 +4,7 @@ title: "CSUMB presents an evening with Lea DeLaria"
 date: January 01 2020
 ---
 
+```html
 <h3>Orange is the New Black actress visits Oct. 15</h3><p>An evening with Lea DeLaria will highlight Cal State Monterey Bay’s celebration of LGBTQ history month.
 </p><p>DeLaria’s talk, followed by a question&#45;and&#45;answer session, will get under way at 7 p.m., Oct. 15, in the University Center ballroom.
 </p><p>Featured in Netflix’s hit series &#42;Orange is the New Black&#42;, DeLaria is an out&#45;and&#45;proud lesbian actress, comedian, writer and blues/jazz musician who has spent her career advocating for LGBTQ rights.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p>The University Center is located on Sixth Avenue at B Street. <a href="http://csumb.edu/maps">Driving directions and a campus map</a>.
 </p><p>Complete schedule of <a href="http://activities.csumb.edu/out&#45;ober&#45;history&#45;month">LGBTQ history month events</a>.
 </p>
+```

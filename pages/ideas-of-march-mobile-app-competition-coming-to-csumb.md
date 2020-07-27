@@ -4,6 +4,7 @@ title: "'Ideas of March' mobile app competition coming to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>Opportunity for participants to create the next killer app</h3><p>It’s innovative, intense and for those who thrive on creative competition, a shot at fame and fortune.
 </p><p>It’s the “Ideas of March,” a three-day Android development competition open to college students with basic programming skills, software engineers and programming professionals from the tri-county area who are interested in producing mobile apps.
 </p><p>Small businesses, non-profits and government agencies are encouraged to submit ideas for apps that would benefit their organizations.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p>  
 </p>
+```

@@ -4,6 +4,7 @@ title: "Grant to fund Asian Cultural Center"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 17, 2009
 </p><p><strong>HUD program will fund more work on Chinatown project</strong>
 </p><p>The Service Learning Institute at California State University, Monterey Bay has received another three-year grant from the U.S. Department of Housing and Urban Development to continue work on the Chinatown Renewal Project.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

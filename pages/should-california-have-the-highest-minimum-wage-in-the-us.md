@@ -4,6 +4,7 @@ title: "Should California have the highest minimum wage in the U.S.?"
 date: January 01 2020
 ---
 
+```html
 <h3>Ethics panel examines the topic March 27</h3><p>Tens of thousands of California’s hourly workers will become the best paid in the country when a new minimum wage law goes into effect.
 </p><p>Last September, the state Legislature voted to raise the minimum wage from $8 to $9 on July 1, and to $10 on Jan. 1, 2016. Gov. Jerry Brown and state lawmakers said the increase is needed to keep up with rising costs.
 </p><p>According to a statement issued by Sen. Darrell Steinberg, more than 90 percent of minimum-wage workers in the state are over the age of 20, while nearly 2.4 million children live in a household with a parent who earns the current minimum of $8 per hour. The pay bump will boost a full-time worker’s income by about $4,000, to around $20,000 a year.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>• Will businesses flee California? • Will low-wage employees flock to the state? • Will the economy benefit as workers’ purchasing power increases? • How will the increase impact Monterey County’s two biggest industries – agriculture and hospitality?
 </p><p>The <a href="http://business.csumb.edu">College of Business</a> and the <a href="http://itcd.csumb.edu">School of School of Computing and Design</a> are sponsors of the forum, with support from <a href="http://as.csumb.edu/">Associated Students</a>.
 </p>
+```

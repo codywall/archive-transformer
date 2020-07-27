@@ -4,6 +4,7 @@ title: "CSUMB ranks high in national survey of diversity"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 19, 2010
 </p><p><strong><em>U.S. News ranks the university 11th in nation, fourth in state</em></strong>
 </p><p>CSU Monterey Bay is one of the most racially diverse schools in its category, according to U.S. News &amp; World Report in its 2011 edition of America's Best Colleges.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><em> </em>
 </p><p> 
 </p>
+```

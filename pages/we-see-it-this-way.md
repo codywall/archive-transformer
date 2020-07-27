@@ -4,6 +4,7 @@ title: "'We See It This Way'"
 date: January 01 2020
 ---
 
+```html
 <h3>Student capstones on display at Steinbeck Center</h3><p>While most capstone projects are displayed during the end-of-semester campus-wide festival at Cal State Monterey Bay, for years a few have been exhibited at the National Steinbeck Center in Salinas.
 </p><p>This year, the center showcased the work of three Visual and Public Art students, two Human Communication students and an Integrated Studies major who combined art and psychology.
 </p><p>“The students conceptualize, design, create and install their work for public viewing,” said Deborah Silguero, curator of exhibitions and collections and a lecturer in CSUMB’s museum studies program. “This is their first time presenting in a museum setting.”
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>“I’m proud to say that many of these students go successfully off to work in the museum field, education and art.”
 </p><p><a href="http://news.csumb.edu/news/2014/may/12/news/capping-college-senior-projects">Read more about the Capstone Festival at CSUMB</a>  
 </p>
+```

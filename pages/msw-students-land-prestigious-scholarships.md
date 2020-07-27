@@ -4,6 +4,7 @@ title: "MSW students land prestigious scholarships"
 date: January 01 2020
 ---
 
+```html
 <h3>First class of social workers to graduate in May</h3><p>The first graduates of Cal State Monterey Bay’s Master of Social Work program will cross the stage at commencement in May 2013. They will represent the culmination of years of planning and community support.
 </p><p>The program started with 40 students in the fall of 2010.
 </p><p>One of those students, Petra Mansfield, has received an $18,500 stipend through the California Social Work Education Center program to help pay for her final year of school. The program is designed to support social work students who are pursuing a career in community mental health services.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

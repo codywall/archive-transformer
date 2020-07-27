@@ -4,6 +4,7 @@ title: "Businesses donate to scholarship fund"
 date: January 01 2020
 ---
 
+```html
 <p>C.H. Robinson and FoodSource recently showed their support of CSU Monterey Bay with a donation to the university’s School of Business.
 </p><p>FoodSource general manager Ray Griffin presented a check for $10,000 to Dr. Marylou Shockley, head of the business program, and other university officials at a ceremony on Feb. 13 in the university’s Alumni and Visitors Center. The money will be used for scholarships for students studying agribusiness, marketing and management.
 </p><p>“We’re very pleased to be here to present this check,” said Ray Griffin, general manager of FoodSource, a C.H. Robinson company.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Through the company and its foundation, C.H. Robinson and its employees contribute millions of dollars annually to a variety of organizations.
 </p><p>Photo by George Machun Left to right: Marylou Shockley, chair of the School of Business; Kathy Kobata, chair of the Business Advisory Council; Brian Simmons, dean of the College of Professional Studies; Wyatt Meiggs, account manager at FoodSource and CSUMB alumnus; Laura Grossman, sales and marketing manager at FoodSource; Ray Griffin, FoodSource general manager; Janie Fanoe, assistant marketing manager at FoodSource; Margaret Hill, district manager for C.H. Robinson Co.; Barbara Zappas, assistant vice president for university development
 </p>
+```

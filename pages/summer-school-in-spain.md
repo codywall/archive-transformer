@@ -4,6 +4,7 @@ title: "Summer school in Spain"
 date: January 01 2020
 ---
 
+```html
 <p>STUDENTS PARTICIPATE IN ETHNOGRAPHIC FIELD RESEARCH, GLOBAL SERVICE LEARNING</p><p>A group of CSU Monterey Bay students is spending June in Spain, studying the life and customs of people in the northwest part of the country, earning academic credit, and completing service learning requirements.
 </p><p>The <a href="https://csumb.edu/educationabroad/csumb&#45;faculty&#45;led&#45;program&#45;le%C3%B3n&#45;summer?_search=Leon%2C+Spain">ethnographic field research summer school</a> is sponsored by the College of Arts, Humanities and Social Sciences and CSUMB’s <a href="https://csumb.edu/educationabroad">Office of International Programs</a>. This is the fourth year of the program, under the leadership of Professor Juan Jose Gutierrez.
 </p><p>During the first week, students traveled to villages where they are conducting research and living in a field station – a rural house in the community of Bonar in Leon Province. They mapped their communities, met with local people and explored topics that will become the subject of their final reports.
@@ -18,3 +19,4 @@ During their second and third weeks, students are applying additional methods of
 </p><p>Sophie Faulkner, Ishtar Najem, Valerie Sanchez, Jena Barrera, Christine Bergdoll, Susan Dyar &#40;Global Studies majors&#41;; Luis Canett, Michell Figueroa, Osanna Bertsch, Selena Miranda &#40;Social andBehavioral Sciences&#41;; Alana Daly &#40;Psychology&#41;; Karina Ruiz &#40;Humanities and Communication&#41; and Jonah Platt of Humboldt State University
 </p><p><em>Photo courtesy of Professor Gutierrez</em>
 </p>
+```

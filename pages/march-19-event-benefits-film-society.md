@@ -4,6 +4,7 @@ title: "March 19 event benefits film society"
 date: January 01 2020
 ---
 
+```html
 <h2>‘Carmel-by-the-Sea’ gets first local screening</h2><p>The newly launched Monterey Bay Film Society will hold its first big public event – a screening of “Carmel-by-the-Sea” – on March 19 at Sunset Center.
 </p><p>The film was shot on the Monterey Peninsula in 2009, with additional on-location shots filmed recently to give it more of the flavor of Carmel. The movie is about a 15-year-old boy who becomes embroiled in a tale of international art forgery. It stars Alfred Molina, Lauren Bacall, Josh Hutcherson, Hayden Panettiere, and Dina Eastwood (pictured at left, with cinematographer Walt Lloyd), and includes many local residents as extras.
 </p><p>This will be the film’s first local showing; it premiered earlier this month in Los Angeles.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

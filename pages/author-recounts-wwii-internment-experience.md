@@ -4,6 +4,7 @@ title: "Author recounts WWII internment experience"
 date: January 01 2020
 ---
 
+```html
 <p>Unlike many of her fellow internees, Kiyo Sato is willing to discuss her family’s experience during World War II.
 </p><p>For years, she has spoken to students, church groups and other gatherings about how a frightened nation looking for scapegoats in the hysteria after Pearl Harbor resulted in 120,000 of its Japanese&#45;American residents – most of them American citizens – being thrown into heavily guarded camps in remote and desolate places such as Poston, Ariz.
 </p><p>“I believe in everybody talking about it,” Sato told the Sacramento Bee in 2007. “I don’t think it’s something you forget.”
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map can be found <a href="http://csumb.edu/map">here</a>. "It is a magnificent memoir, fully worthy of being compared to Farewell to Manzanar. I cannot praise its pointillist realism, its Zen&#45;like austerity, highly enough. Exquisite."
 </p><p>&#42;– Kevin Starr, author of California: A History&#42;
 </p>
+```

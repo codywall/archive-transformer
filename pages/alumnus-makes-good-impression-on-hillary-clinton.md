@@ -4,6 +4,7 @@ title: "Alumnus makes good impression on Hillary Clinton"
 date: January 01 2020
 ---
 
+```html
 <p>Mac Clemmens (TMAC 2005) got to hang out with a presidential candidate recently.</p><p>On Nov. 4, the CEO of Sacramento web development firm Digital Deployment attended a $2,700&#45;a&#45;plate fundraising lunch for Hillary Clinton, where the two chatted about tax policy.
 </p><p>As reported in the Sacramento Business Journal, Clemmens – who started his company in 2004 as his capstone project at CSUMB – told Clinton that he pays "three times more" in taxes than Apple.
 
@@ -16,3 +17,4 @@ Digital Deployment has grown into a multimillion&#45;dollar business. It has hel
 </p><p>In 2013, the Business Journal named him one of Northern California’s most promising CEOs under 40.
 </p><p><em>Nov. 5, 2015</em>
 </p>
+```

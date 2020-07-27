@@ -4,6 +4,7 @@ title: "Students use language ability to help non-profit"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 16, 2009
 </p><p>Thanks to a collaboration between students at California State University, Monterey Bay and a non-profit organization serving children with disabilities, some local families now have a valuable tool available to them.
 </p><p>The Monterey-based Special Kids Crusade started work on a family resource directory in 2007. The directory was intended to help families identify regional advocacy and legal services, educational and vocational providers, public agencies, family support services, therapy and treatment providers, and recreational activities that support children with developmental disabilities in Monterey County. The 256-page directory was printed in August 2008.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>"The students did the work on this project," Professor Zielina said. "My role was helping them, encouraging them and staying in touch with then frequently.
 </p><p>"We're all proud of what we did. It's the university's Vision at work."
 </p>
+```

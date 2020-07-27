@@ -4,6 +4,7 @@ title: "Grant supports Imagine College"
 date: January 01 2020
 ---
 
+```html
 <h3>Monterey Peninsula foundation gift helps students get to college</h3><p>California State University, Monterey Bay has received a grant from the Monterey Peninsula Foundation to support the Imagine College Summer Scholar Institute.
 </p><p>The $380,000 grant will help Imagine College toward its goal of encouraging high school students to think that college is a realistic possibility and help them pay for it.
 </p><p>Students from Seaside, Monterey and Marina high schools who have completed the ninth or 10th grade are invited to participate. Each student enrolls for a five-day session and can choose one of three courses to pursue during the week. Technology, environment or arts-related classes are offered.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>To read more about Imagine College, click <a href="http://csumb.edu/site/x24396.xml">here</a> and <a href="http://csumb.edu/site/x22184.xml">here</a>.
 </p><p> 
 </p>
+```

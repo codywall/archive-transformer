@@ -4,6 +4,7 @@ title: "Student government president learns about leadership"
 date: January 01 2020
 ---
 
+```html
 <p>“It changed my life.”
 </p><p>That’s how CSU Monterey Bay student body president Brett Roberts summed up his time at the Panetta Institute for Public Policy’s student leadership seminar.
 </p><p>Nearly 30 student body presidents and other elected student leaders from throughout the California State University system, Santa Clara University, Dominican University of California and St. Mary’s College attended the seminar June 16-23 on the CSUMB campus.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p><a href="http://www.panettainstitute.org/about-us/">Learn more about the Panetta Institute for Public Policy and its programs.</a>
 </p><p> 
 </p>
+```

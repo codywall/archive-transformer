@@ -4,6 +4,7 @@ title: "Move over, Masters"
 date: January 01 2020
 ---
 
+```html
 <p>
 </p><p><strong>CSUMB to compete in national disc golf championship</strong>
 </p><p>While the world tuned in to see Tiger Woods' return to golf at The Masters tournament at Augusta National, the disc golf community prepared for its national collegiate championship this week, in North Augusta.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>"Because multiple Otters have ratings higher than that, we feel we stand a good chance of bringing home a national title," Lustenader said.
 </p><p>To learn more about disc golf at CSUMB, visit the club <a href="http://clubs.csumb.edu/discgolf/">online.</a>
 </p>
+```

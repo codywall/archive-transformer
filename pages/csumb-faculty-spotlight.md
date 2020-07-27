@@ -4,6 +4,7 @@ title: "CSUMB faculty spotlight"
 date: January 01 2020
 ---
 
+```html
 <p><strong>RECOGNITION</strong>
 </p><p><strong>Dr. Barbara Mossberg</strong>, director of the Integrated Studies program, was an official guest at the inauguration of Poet Laureate W.S. Merwin, held at the Library of Congress. While on sabbatical this year, Dr. Mossberg is Poet in Residence for Pacific Grove. She is working with Pacific Grove High School on “poetry that changed the world” and presented her play honoring Emily Dickinson in December at the Pacific Grove Library.
 </p><p><strong>Dr. Forrest Melton</strong>, a research scientist at CSUMB who is working with NASA Ames, was recently honored by the state Department of Water Resources for his ongoing research assistance on climate change. He was recognized for his work on a project funded by the American Reinvestment and Recovery Act to explore the potential for developing water resources applications from NASA remote-sensing data.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><strong>ART</strong> Work by <strong>Johanna Poethig</strong>, professor of painting and public art, was included in an exhibit at the Skyline College Art Gallery in San Bruno on display in February and March. Entitled “Private = Public,” the works looked at the connections – physical, stylistic and conceptual – between public art projects and private studio practice. Poethig’s work reflects an interest in establishing a dialogue between the public and personal.
 </p><p><strong>Dr. Umi Vaughan</strong>, assistant professor of Africana Studies, was invited to Peru by the Peruvian North American Cultural Institute during Black History Month. He spoke on the African Diaspora, music and dance. The U.S. embassy took him on tour, where he gave presentations in Afro-Peruvian communities.  
 </p>
+```

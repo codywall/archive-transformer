@@ -4,6 +4,7 @@ title: "Steppenwolf role reprised at CSU Summer Arts"
 date: January 01 2020
 ---
 
+```html
 <h4>Steppenwolf Theatre Company co-founder Jeff Perry joins forces with guest artists to educate the next generation at Summer Arts</h4><p>Trading the winds of Chicago for the gentler breezes of Monterey Bay, Jeff Perry, the celebrated co-founder of the Steppenwolf Theatre Company, has again assembled a tremendous ensemble of artists for Steppenwolf Classes West – instructing, engaging and inspiring the next generation of artists enrolled in California State University Summer Arts.
 </p><p>Perry brings tremendous performance experience as a member of Tony award-winning casts of <em>August: Osage County</em> and <em>The Grapes of Wrath</em>. <em>August: Osage County</em> also secured a Pulitzer Prize.
 </p><p>“The opportunity for our Summer Arts’ students to work with Jeff and members of the world-renowned Steppenwolf Theatre Company though their Steppenwolf Classes West program is truly remarkable,” said John Mayer, chair of the Theatre Department at CSU Stanislaus. “This once-in-a-lifetime experience deeply affects students as both collaborative artists and human beings.”
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

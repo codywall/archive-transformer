@@ -4,6 +4,7 @@ title: "Student work at First Night Film Fest Dec. 31"
 date: January 01 2020
 ---
 
+```html
 <h2>FIRST THINGS LAST 
 	So long 2011, hello CSUMB First Night Film Fest</h2><p>First Night Monterey, the community New Year's Eve celebration, will offer the opportunity to catch the work of filmmakers who studied at CSU Monterey Bay's Teledramatic Arts and Technology program.
 </p><p>Amid family-friendly art workshops, music – classical to jazz, blues to rock, hip-hop to folk – and the pageantry and puppetry of the Twilight Procession parade, is the CSUMB First Night Film Fest.   Starting at 3:30 p.m. in the Museum of Monterey – formerly the Maritime Museum – nine short films will be screened. They include documentaries, animation and narratives. A lising of the films to be screened can be found <a href="http://www.firstnightmonterey.org/FNM2012/Film.html">here</a>.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Learn more about the Teledramatic Arts and Technology program <a href="http://tat.csumb.edu">here</a>.
 </p><p>Learn more about the communication design program <a href="http://itcd.csumb.edu/bs-cd">here</a>.
 </p>
+```

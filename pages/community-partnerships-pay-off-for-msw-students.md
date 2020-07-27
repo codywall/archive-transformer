@@ -4,6 +4,7 @@ title: "Community partnerships pay off for MSW students"
 date: January 01 2020
 ---
 
+```html
 <h3>University ‘grows its own’ with on-campus placement</h3><p>When Veronica Gonzalez, who counsels young people in her job at Monterey County’s Division of Behavioral Health, heard about the opportunity to earn a master’s degree in social work at CSU Monterey Bay, she was eager to sign up.
 </p><p>Gonzalez (at left) was among the first group of students accepted into the program when it started in the fall of 2010. Now those students are about to start their internships as part of the second-year curriculum.
 </p><p>Gonzalez will work with the university’s Personal Growth and Counseling Center (PGCC). She chose that location in part because she’s an alumna of CSUMB and liked the idea of helping students.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>"I think this internship position is going to allow me to build on my social work skills, allow me to learn new therapeutic skills and allow me to work with a diverse population of young adults," she said.
 </p><p> 
 </p>
+```

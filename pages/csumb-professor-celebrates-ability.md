@@ -4,6 +4,7 @@ title: "CSUMB professor celebrates 'ability'"
 date: January 01 2020
 ---
 
+```html
 <h3>San Francisco public art project unveiled</h3><p>Johanna Poethig, whose “Celebrate Ability” project is about to be unveiled at the Hamilton Recreation Center, has been making public art in San Francisco and around the world since the 1980s.
 </p><p>The six mosaic medallions that make up the project play with words and images of California native species to highlight shared abilities. The goal was to come up with designs that would appeal to the broad range of community members who use the center.
 </p><p>Poethig, an associate professor in CSU Monterey Bay’s Visual and Public Art Department, explained that Hamilton Rec Center is located near San Francisco’s Japantown, the Western Addition, and the Fillmore District. Asian American families and elderly residents are drawn to the special programs at the center. Youngsters use the basketball courts, swimming pool and playground.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Her paintings, sculpture, video and installations explore surfaces, symbols and artifacts of culture, history, archeology and futurist narratives, human nature, political satire and the colonizing metaphors used by consumerist, capitalist marketing.  <a href="http://johannapoethig.com/">Learn more about Poethig’s work</a>
 </p><p><a href="http://csumb.edu/art">Learn more about the Visual and Public Art Department</a> <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">Read more faculty news</a>  
 </p>
+```

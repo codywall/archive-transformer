@@ -4,6 +4,7 @@ title: "Migrant program earns national recognition"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay has been honored as among the best campuses in the country at helping migrant students succeed in college.
 </p><p>The university’s College Assistance Migrant Program, a federally funded project designed to help students from migrant farm worker families pursue higher education, has been named one of the top 10 at helping them complete the first year of university studies.
 </p><p>In 2009-10, 98 percent of CAMP students – 64 of 65 – successfully completed the academic year. Only five schools in the country had a higher success rate. And of those 65 participants, 58 enrolled for their sophomore years, beating the national target in that category by four percentage points.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>"The directors meeting is a great opportunity for all CAMP projects to meet directly with the Office Of Migrant Education directors and staff," Gonzales-Lujan said. "It allows us to ask direct 'how to' questions about services and eligibility and to look at best practices.
 </p><p>"The first year I attended was 2008. When I saw the Top 10 list I said to myself, 'CSUMB CAMP will be on that list one day.' And we made it in the third year. It is exciting to see our program succeed tremendously in such a short time."  To learn more about CAMP at CSUMB, and to view a video about the program, click <a href="http://csumb.edu/camp">here</a>. 
 </p>
+```

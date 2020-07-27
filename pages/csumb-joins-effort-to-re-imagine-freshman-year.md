@@ -4,6 +4,7 @@ title: "CSUMB joins effort to re-imagine freshman year"
 date: January 01 2020
 ---
 
+```html
 <p>SCHOOLS WILL TEST PROGRAMS FOR HELPING STUDENTS SUCCEED</p><p>Cal State Monterey Bay is one of 44 colleges nationwide selected for a pilot program coordinated by the Association of American State Colleges and Universities &#40;AASCU&#41;.
 </p><p>The three&#45;year program, Re&#45;imagining the First Year of College &#40;RFY&#41;, aims to transform the freshman year in order to improve students’ chances of success in school and in the 21st century workplace. It is funded through the Bill and Melinda Gates Foundation and USA Funds.
 </p><p>“We are honored to be involved in such a prestigious and worthwhile project,” said CSUMB Provost Bonnie Irwin. “The Re&#45;imagining the First Year of College project will allow CSUMB to continue to work on student success on campus and it will align nicely with Monterey County's cradle&#45;to&#45;career partnership, Bright Futures.”
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“Our graduation rates are rising,” Dr. Irwin said, “but with this extra effort and the collaboration of our colleagues across the country, we will be able to provide even better support for students. The CSUMB project team is passionate about this work and excited to get started.”
 </p><p><em>Published Feb. 11, 2016</em>
 </p>
+```

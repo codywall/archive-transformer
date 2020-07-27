@@ -4,6 +4,7 @@ title: "School reformer to speak in Salinas"
 date: January 01 2020
 ---
 
+```html
 <p>May 4, 2010
 </p><p>***May 17 talk sponsored by Rethinking Schools of CSUMB ***
 </p><p>Renowned school reformer Deborah Meier will present a talk at Oasis Charter Public School in Salinas at 6 p.m., May 17. The talk is free and open to the public.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>More information is available from Nicholas Meier at 582-3536 or Miguel Lopez at 582-3997.
 </p><p><em> </em>
 </p>
+```

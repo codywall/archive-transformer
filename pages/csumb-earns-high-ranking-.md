@@ -4,6 +4,7 @@ title: "CSUMB earns high ranking "
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 24, 2010
 </p><p>CSU Monterey Bay is ranked second among the nation's public liberal arts colleges in its contribution to the public good, according to The Washington Monthly 2010 College Guide.
 </p><p>Unlike the better-known U.S. News rankings, which focus on measures of academic reputation, The Washington Monthly rates schools based in three broad categories: social mobility, which emphasizes recruiting and graduating low-income students; research, with a focus on producing cutting-edge scholarship and Ph.D.s; and service, which emphasizes encouraging students to give something back to their country. The magazine says it seeks to reward those colleges that do a good job of educating students. And unlike other rankings systems, no one category is weighted more highly than another.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

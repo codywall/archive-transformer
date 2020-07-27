@@ -4,6 +4,7 @@ title: "Earthbound Farms"
 date: January 01 2020
 ---
 
+```html
 <p><strong>Earthbound Farm brings organic produce into campus food service</strong>
 </p><p>Menus have taken on a whole new flavor at CSUMB since an effort to bring organic food to campus got cooking. The school's dining facilities, which are operated by Sodexho, serve more than 2,400 meals a day - about 57,600 meals per year. Starting this semester, some of those meals are made from organic produce grown by a local business, Earthbound Farm.
 </p><p>The school has long purchased produce from local growers - 17 of 21 campus's food service suppliers are from the surrounding area. But the partnership with Earthbound Farm marks the school's first venture into organics.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Founded on two acres in Carmel Valley more than 21 years ago, Earthbound Farm is now one of the largest growers of organic produce in the world and uniquely capable of meeting the year-round demand for the wide variety of organic produce needed by the Sodexho operation at CSUMB to make the program truly viable. CSUMB's dining facilities will use Earthbound Farm organic salad greens, vegetables and fruits in various menu items, as well as offering a variety of Earthbound Farm's conveniently packaged organic "Grab &amp; Go" items such as salads with dressings and toppings, apple slices, carrot dippers and raisins.
 </p><p>"This partnership between CSUMB and Earthbound Farm to bring fresh and delicious organic produce onto the university campus is extremely gratifying," said Myra Goodman, co-founder of Earthbound Farm. "Since my husband Drew and I started Earthbound Farm more than 21 years ago, our passion has been to bring the benefits of organic food to as many people as possible and serve as a catalyst for positive change. It's exciting to be able to bring these students organic produce, while simultaneously creating an opportunity for them to learn the importance of choosing fresh, unprocessed and sustainably produced food. Historically, 'dorm food' has not been known for its healthfulness or deliciousness and we're eager to help change both that perception and reality."
 </p>
+```

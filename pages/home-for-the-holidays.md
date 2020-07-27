@@ -4,6 +4,7 @@ title: "Home for the holidays"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 17, 2009
 </p><p><strong><em>CSUMB invites community to winter concert</em></strong>
 </p><p>CSU Monterey Bay's Music and Performing Arts Department will present its annual winter concert  at 3 p.m. on Dec. 6. This year's theme is "home for the holidays."
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "National award for kinesiology student"
 date: January 01 2020
 ---
 
+```html
 <h3>UROC sets Orozco on career path</h3><p><a href="http://kinesiology.csumb.edu/">Kinesiology</a> student Breanna Orozco has earned a prestigious scholarship from the American College of Sports Medicine, one of only two students in the country to earn the award.
 </p><p>The scholarship is named for Lawrence Golding, a former editor of ACSM’s journal. According to CSUMB Professor Bill Head, Dr. Golding believed applicants should be able to summarize in three sentences their responses to a trio of questions. He wanted to capture intent, spirit, commitment, leadership, professional values and the ambitions of the candidate in a brief statement.
 </p><p>The awards go to students who have made significant contributions to their community’s health, fitness or education, and that’s where Orozco shines.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Orozco, a junior, will graduate in May 2015, and plans to pursue a doctorate in biokinesiology at USC.
 </p><p>“As an aspiring Latina research professor, I will serve as an example for underrepresented minorities in science, technology, engineering and mathematics,” she said.
 </p>
+```

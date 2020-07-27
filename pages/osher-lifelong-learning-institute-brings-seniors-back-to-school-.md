@@ -4,6 +4,7 @@ title: "Osher Lifelong Learning Institute brings seniors back to school "
 date: January 01 2020
 ---
 
+```html
 <p>  Jan. 3, 2010****
 </p><p>
 </p><p>If one of your New Year's resolutions involves learning something new, the Osher Lifelong Learning Institute (OLLI) at CSU Monterey Bay has just the opportunity.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Community members can purchase individual OLLI class offereings (most cost $50) or a $99 semester fee which includes complimentary tuition for three OLLI courses per semester as well as many other benefits including a parking pass, invitations to social events, discounts to the university's sports center, swimming pool, athletic events and World Theater performances. 
 </p><p>For details or to register for classes, call 582-5500 or visit <a href="http://csumb.edu/olli">csumb.edu/olli</a>. 
 </p>
+```

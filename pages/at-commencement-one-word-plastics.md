@@ -4,6 +4,7 @@ title: "At commencement, one word: Plastics"
 date: January 01 2020
 ---
 
+```html
 <p>Class of 2016 dons regalia made from recycled bottles</p><p>The gowns worn by CSU Monterey Bay’s graduates will still be black, but they’ll also be green.
 </p><p>The graduation regalia is manufactured from Repreve, a fiber made of recycled materials, including plastic bottles. It takes approximately 27 bottles to make a gown.
 </p><p>This year, students at 1,250 colleges and universities will wear robes made of Repreve.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p>Not only is it smart for the environment, but CSUMB commencement coordinator Phyllis Grillo said the recycled gowns look better than the non&#45;recycled options.
 </p><p>"They wrinkle less," Grillo said.
 </p>
+```

@@ -4,6 +4,7 @@ title: "NATIONAL BOOK AWARD WINNER HIGHLIGHTS SPRING SPEAKER SERIES"
 date: January 01 2020
 ---
 
+```html
 <p>National Book Award winner Sherman Alexie highlights the spring lineup for President Dianne
 </p><p>Alexie, who was honored for his highly autobiographical novel for young people, "The Absolutely True Diary of a Part&#45;Time Indian," will visit campus April 15.
 </p><p>He credits a creative writing teacher at Washington State University, who gave him an anthology of American Indian writing. In the two decades since then, he's written 19 books of fiction, poetry and essays, although "Absolutely True Diary" is his first work for young adults.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>Dr. Hays' subjects tell stories of poverty, broken families, sexual abuse, homelessness, and the lengths to which they go in attempts to juggle part&#45;time, low&#45;paying jobs in an attempt to feed their children.
 </p><p>All lectures are free and open to the public. All will start at 7 p.m. in the World Theater, located on the CSUMB campus. To reserve seats, visit the web at <a href="http://csumb.edu/speakers">csumb.edu/speakers</a>. For a map of campus and driving directions, visit <a href="http://csumb.edu/map">csumb.edu/map</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "The long and short of it . . . "
 date: January 01 2020
 ---
 
+```html
 <h2>Author Tobias Wolff lectures at CSUMB Nov. 1</h2><p>Master storyteller, award-winning author and Stanford University professor Tobias Wolff will lecture at California State University, Monterey Bay’s World Theater on Nov. 1 as part of the President’s Speaker Series.
 </p><p>The talk will start at 7 p.m., followed by a question-and-answer session. No tickets are required for this free event, but reservations are strongly recommended and can be made online at csumb.edu/speakers or by calling the World Theater box office at 582-4580.
 </p><p>Wolff chronicled his early life in two memoirs. “This Boy’s Life” (1989) deals with his adolescence in Seattle and Newhalem, a remote company town in the North Cascade Mountains of Washington State. The memoir describes the nomadic and uncertain life he and his mother experienced after the divorce of his parents and then his mother's subsequent marriage to an abusive husband and stepfather. “In Pharaoh’s Army” (1994) he wrote about his year in Vietnam as a member of the Special Forces.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

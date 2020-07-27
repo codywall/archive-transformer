@@ -4,6 +4,7 @@ title: "Challenges facing women entrepreneurs topic of forum"
 date: January 01 2020
 ---
 
+```html
 <p>This semester’s Entrepreneurship Forum at Cal State Monterey Bay, set for Feb. 11, features a discussion on the challenges and rewards women face in startups and tech companies.</p><p>The small number of women in tech companies and startups has been the subject of much discussion in the media and in the companies themselves. The increasing importance of the technology sector in the economy makes this a challenge that must be addressed. The forum will look at ways to encourage women and to create more opportunities to participate in these companies.
 </p><p>Panel members include:
 </p><p>• Theresa Ream, owner of Disaster Kleenup Specialists, Excel Carpet Care, Cypress Cabinets and Floor Store USA
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Each semester, the Institute for Innovation and Economic Development of the College of Business hosts an Entrepreneurship Forum. Past forums have addressed topics including how startups quickly nail the product that sells; advice from lenders; a look at crowd funding; and protecting intellectual property.
 </p><p><em>Published Feb. 7, 2016</em>
 </p>
+```

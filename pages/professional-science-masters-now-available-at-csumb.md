@@ -4,6 +4,7 @@ title: "Professional Science Master's now available at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Posted on Sept. 9, 2010
 </p><p>Think of it as "science plus."
 </p><p>CSU Monterey Bay now offers a Professional Science Master's degree in Coastal and Watershed Science and Policy. The new program complements the traditional, thesis-based Master of Science degree in applied marine and watershed science that has been offered at CSUMB for five years.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

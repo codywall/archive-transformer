@@ -4,6 +4,7 @@ title: "Trio of employees honored with President's Medal for 2011"
 date: January 01 2020
 ---
 
+```html
 <p>Kevin Miller, Dr. Kathy Cruz-Uribe and Dr. Ilene Feinman were honored for their leadership and dedication to the CSU Monterey Bay Vision at the Day of Welcome gathering Aug. 17 in the World Theater.
 </p><p>President Dianne Harrison welcomed the campus community back for the fall semester, delivered her annual State of the University address, and then introduced the President’s Medal recipients.
 </p><p>Last spring, the university community was invited to make nominations, and then a committee selected finalists for Dr. Harrison’s consideration.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

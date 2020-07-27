@@ -4,6 +4,7 @@ title: "'Spirit of service'"
 date: January 01 2020
 ---
 
+```html
 <h3>Commencement remarks by Cecilia Muñoz</h3><p>Cecilia Muñoz, an adviser to President Obama and director of the Domestic Policy Council, delivered the commencement speech at CSU Monterey Bay on May 17, 2014.
 </p><p>Here are her remarks:
 </p><p>I’d like to start by congratulating the Class of 2014 — you look pretty good!
@@ -36,3 +37,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

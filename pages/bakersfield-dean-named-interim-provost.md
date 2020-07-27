@@ -4,6 +4,7 @@ title: "Bakersfield dean named interim provost"
 date: January 01 2020
 ---
 
+```html
 <p>Julio Blanco, dean of the School of Natural Sciences, Mathematics and Engineering and professor of physics at CSU Bakersfield, has been named interim provost and vice president for academic affairs for Cal State Monterey Bay.
 </p><p>Blanco succeeds Kathryn Cruz-Uribe, who is leaving CSUMB to become chancellor of Indiana University East.
 </p><p>“I am pleased that Dr. Blanco has agreed to come to Cal State Monterey Bay to fill this leadership role. He has a strong academic background and excellent experience within the CSU system. I am confident he will be a great addition to our campus,” said Eduardo M. Ochoa, interim president of Cal State Monterey Bay.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>“CSUMB is a great university and I feel privileged to join it and to get to know everyone on campus and in the community. I look forward to working with President Ochoa and the administration leadership, faculty, staff and students,” Dr. Blanco said.
 </p><p>The university plans to launch a nationwide search for a permanent successor to Cruz-Uribe at the beginning of the 2013-14 academic year.  
 </p>
+```

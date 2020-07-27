@@ -4,6 +4,7 @@ title: "Students celebrate TRiO Day with service projects"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 22 is National TRiO Day, a day set aside to celebrate the positive impact of federal programs that help low-income and first-generation students enter college and earn degrees.
 </p><p>At CSU Monterey Bay, it’s also an opportunity to give back to the community.
 </p><p>Sponsored by TRiO Student Support Services, students are collecting clothing throughout the month of February to be donated to the Clothes Closet, which is affiliated with First United Methodist Church in Salinas. The church provides services to the homeless.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

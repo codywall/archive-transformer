@@ -4,6 +4,7 @@ title: "'Help others achieve their dreams,' graduates told"
 date: January 01 2020
 ---
 
+```html
 <h3>Obama administration official is commencement keynote speaker</h3><p>On a breezy, sunny morning, Cecilia Muñoz urged the graduates of California State University, Monterey Bay to maintain the quest for learning that brought them to the university.
 </p><p>Ms. Muñoz, an adviser to President Obama and director of the Domestic Policy Council, was the keynote speaker at the university’s May 17 commencement.
 </p><p>Approximately 1,440 students were awarded bachelor’s and master’s degrees and teaching credentials before a capacity crowd of 8,000 in the university’s stadium.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

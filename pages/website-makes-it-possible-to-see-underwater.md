@@ -4,6 +4,7 @@ title: "Website makes it possible to see underwater"
 date: January 01 2020
 ---
 
+```html
 <p>April 20, 2010
 </p><p>Through a partnership between CSUMB and the Monterey Bay National Marine Sanctuary, it's now possible to see what's going on beneath the cold waters of the bay via the web.
 </p><p>The Sanctuary Characterization &amp; Image Display or SCID allows students, scientists and members of the public to study the sanctuary seafloor without leaving their dorm room, office or home.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

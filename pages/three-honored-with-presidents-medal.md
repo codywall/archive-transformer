@@ -4,6 +4,7 @@ title: "Three honored with President's Medal"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 18, 2009
 </p><p>Left to right: President Dianne Harrison with President's Medal honorees Melissa Mercado, Laura Lee Lienk and Rikk Kvitek
 </p><p>Melissa Mercado, Laura Lee Lienk and Rikk Kvitek were honored for their leadership and dedication to the CSU Monterey Bay vision at the Day of Welcome and President's Medal Ceremony Aug. 17.
@@ -28,3 +29,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

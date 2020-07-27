@@ -4,6 +4,7 @@ title: "Need help with technology?"
 date: January 01 2020
 ---
 
+```html
 <p> Digital Otter Center offers pro bono assistance to community</p><p>Computer science students will provide free assistance to members of the community weekly starting March 11.
 </p><p>At the Digital Otter Center, Cal State Monterey Bay’s newest community outreach program, students will provide a variety of technology services on a drop&#45;in basis to individuals, startups and non&#45;profits. High school computer clubs and senior centers are also invited to take advantage of the service.
 </p><p>Free services include:
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>For more information, contact Cassandra Humphrey at <a href="&#x6d;&#97;&#105;l&#x74;&#x6f;&#58;&#99;&#x68;&#x75;&#109;&#112;h&#x72;&#101;&#121;&#64;&#x63;&#x73;&#117;&#109;&#x62;&#x2e;&#101;&#100;u">chumphrey@csumb.edu</a> or Dr. Eric Tao at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x65;&#116;&#x61;o&#64;&#x63;&#115;&#x75;&#109;&#x62;&#46;&#x65;&#100;&#x75;">etao@csumb.edu</a>
 </p><p><em>Published March 7, 2016</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Faculty member honored as Arts Champion"
 date: January 01 2020
 ---
 
+```html
 <p>The Arts Council for Monterey County will honor Enid Baxter Blader at its annual Champions of the Arts gala on Jan. 21.
 </p><p>Associate professor and chair of CSU Monterey Bay’s Teledramatic Arts and Technology Department, she will be recognized in the education category. Other honorees are Beach Boys founding member Al Jardine (lifetime achievement award); Garland Thompson (luminary); Alisal Center for the Fine Arts (nonprofit); Eric and Teresa Del Piero (philanthropist); Mari Kloeppel (professional); and Sonia Chapa (volunteer).
 </p><p>According to the Arts Council, the event is a “tribute to the great work and inspiring spirit of our champions.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>To learn more about Professor Blader, visit her <a href="http://enidbaxterblader.com/">website</a>.
 </p><p>To learn about CSUMB’s Teledramatic Arts and Technology Department, click <a href="http://tat.csumb.edu/">here</a>.
 </p>
+```

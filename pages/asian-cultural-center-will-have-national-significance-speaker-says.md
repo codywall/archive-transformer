@@ -4,6 +4,7 @@ title: "Asian Cultural Center will have national significance, speaker says"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 18, 2010
 </p><p>Dr. Jack Tchen, keynote speaker at the Salinas Chinatown: Once and Again Symposium on Oct. 15,  told the gathering of 200 people at CSU Monterey Bay, "We, too, are in search of America."
 </p><p>He was referring to the subtitle of John Steinbeck's book, <em>Travels with Charley</em>. "In some ways," he said, "the legacy of Steinbeck's writing is what keeps us going."
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>"You guys are going to get there. It's just a matter of time," he told the group.
 </p><p>To read more about the symposium, click <a href="http://csumb.edu/site/x25524.xml">here</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "New faculty members join CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 17, 2009
 </p><p> 
 </p><p>
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

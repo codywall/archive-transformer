@@ -4,6 +4,7 @@ title: "Social Justice and CSUMB@20"
 date: January 01 2020
 ---
 
+```html
 <p>To recognize the 20th anniversary of the founding of Cal State Monterey Bay, the university will examine and celebrate its social justice work at a daylong event on April 25.</p><p>The community is invited to join students, staff and faculty – including some who were involved at the beginning – for the 19th annual Social Justice Colloquium, which will take a look at these topics:
 </p><p><strong>• Where have we been?</strong> An opening panel discussion with some of the pioneers in CSUMB's history about the role of social justice on campus and in the community.
 </p><p><strong>• Where are we now?</strong> Breakout sessions focusing on critical social justice issues of our time with local activists, students, faculty and community members. Topics include criminal justice, environmental justice, labor, the arts and education.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Updates will be posted on the Social Justice Colloquium’s <a href="https://www.facebook.com/pages/CSUMB&#45;Social&#45;Justice&#45;Colloquium/645046742294022">Facebook page</a>.
 </p><p>The events are sponsored by CSUMB’s Special Events Funding; the College of Arts, Humanities and Social Science; the Division of Social, Behavioral and Global Studies; the Department of Psychology; the Division of Humanities and Communication; the Otter Cross Cultural Center; Residential Life; Student Activities and Leadership Development; and the Otter Student Union.
 </p>
+```

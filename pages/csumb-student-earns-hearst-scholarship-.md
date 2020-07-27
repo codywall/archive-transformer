@@ -4,6 +4,7 @@ title: "CSUMB student earns Hearst Scholarship "
 date: January 01 2020
 ---
 
+```html
 <p>Linnea Hoffmann, a sophomore at California State University, Monterey Bay, has won a William Randolph Hearst/CSU Trustees' Award for Outstanding Achievement. The award is among the highest forms of recognition for students in the CSU.
 </p><p>The award provides $3,000 scholarships to students based on academic and personal achievement, financial need and community service. The winners will be honored Sept. 22 at the CSU Chancellor's Office in Long Beach.
 </p><p>A resident of Riverside, Hoffmann is majoring in liberal studies with a 4.00 grade-point average.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

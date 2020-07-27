@@ -4,6 +4,7 @@ title: " Mariachi Reyna at World Theater"
 date: January 01 2020
 ---
 
+```html
 <h3>All-female group visits April 30, May 1</h3><p>In a musical genre dominated by men, Mariachi Reyna de Los Angeles has been breaking stereotypes and shaping new cultural traditions since 1994.
 </p><p>The 12-member all-female group brings sensitivity, beauty and warmth to Mexico’s musical heritage and has earned a reputation in the industry as a pioneer. Back by pipular demand after thrilling sold-out performances the last three years, Mariachi Reyna will return to CSU Monterey Bay's World Theater for performances on April 30 and May 1. Both shows will start at 7:30 p.m.
 </p><p>Now there are other all-female mariachi groups, proving that when maestro Jose Hernandez created Reyna de Los Angeles, it wasn’t a novelty – it was a genre. Reyna has expanded the role of women in mariachi from singers to a full complement of musical performers. In a musical landscape where songs are often written by men and about male perspectives, Reyna has created its own history.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Tickets prices: $40 Gold Circle, $29 general admission, with discounts available for senior citizens, students, military and children. They can be purchased by calling the World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater">online</a>.
 </p><p>The World Theater is located on Sixth Avenue between A and B streets on the CSUMB campus. Driving directions and a campus map are available <a href="http://csumb.edu/worldtheater">here</a>. 
 </p>
+```

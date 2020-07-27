@@ -4,6 +4,7 @@ title: "Putting some energy into saving water"
 date: January 01 2020
 ---
 
+```html
 <p>Gone are the days when water could be wasted. And while that applies to the entire region, it’s especially important on the campus of California State University, Monterey Bay.
 </p><p>Across campus, faculty, students and staff members are working together to make CSUMB more sustainable. Their work has been recognized by organizations such as the Association for the Advancement of Sustainability in Higher Education and the U.S. Green Building Council.
 </p><p>The latest efforts involve two East Campus housing areas.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>These small steps add up when it comes to conserving water and reducing the university’s carbon footprint.
 </p><p><a href="http://sustainability.csumb.edu/">Learn more about sustainability at CSUMB</a>. 
 </p>
+```

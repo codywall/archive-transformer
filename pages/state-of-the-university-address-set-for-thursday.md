@@ -4,6 +4,7 @@ title: "State of the University address set for Thursday"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 21, 2009
 </p><p>President Dianne Harrison will deliver her fourth annual State of the University address at 2 p.m. Thursday, Sept. 24, in the World Theater.
 </p><p>Dr. Harrison will emphasize the university's commitment to continue developing as a comprehensive university, despite the tough economic climate. She will review the highlights of the last year and set priorities for the coming year.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The State of the University address is open to the campus community. It will be shown on cable channel 71 and broadcast live via the web, accessible from <a href="http://csumb.edu/site/x12349.xml" title="http://csumb.edu/site/x12349.xml">http://csumb.edu/site/x12349.xml</a>.
 </p><p> 
 </p>
+```

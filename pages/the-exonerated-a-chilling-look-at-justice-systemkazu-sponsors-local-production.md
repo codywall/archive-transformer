@@ -4,6 +4,7 @@ title: "'The Exonerated' a chilling look at justice systemKAZU sponsors local pr
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 8, 2009
 </p><p>*Imagine everything you did between 1976 and 1992. *
 </p><p><em>Now remove all of it.</em>
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

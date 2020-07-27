@@ -4,6 +4,7 @@ title: "Women golfers win Grand Canyon Invitational"
 date: January 01 2020
 ---
 
+```html
 <h3>Otters best four top-ranked teams en route to victory</h3><p>CSUMB’s women’s golf team shot 604 to win this week’s Grand Canyon Invitational at Palm Valley Golf Course in Phoenix, defeating runner-up and host Grand Canyon University by a stroke. Eighteen teams competed in the two-day event.
 </p><p>En route to the victory, the Otters outperformed four teams ranked in the top 10 nationally. In addition to No. 8 Grand Canyon, CSUMB bested No. 3-ranked Tarleton State, sixth-ranked St. Edwards and No. 5 Western Washington.
 </p><p>All five CSUMB golfers finished in the top 25. Courtney Soekland shot 74-74–148 to tie for third, the best individual finish by an Otter.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p>The Otters conclude regular-season tournament play on April 11 and 12 at Tarleton State’s George Housewright Invitational in Granbury, Texas.
 </p><p> 
 </p>
+```

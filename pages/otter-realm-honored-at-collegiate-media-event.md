@@ -4,6 +4,7 @@ title: "Otter Realm honored at collegiate media event"
 date: January 01 2020
 ---
 
+```html
 <p>Paper earns 10 awards – including a trio of firsts</p><p>For the second straight year, the <a href="http://otterrealm.com/wp&#45;content/uploads/2015/09/spring2015ROMP.pdf">Otter Romp</a>, a year&#45;end issue of the Otter Realm that features investigative reporting, was named best special section at the California College Media Association’s annual Excellence in Student Media Awards ceremony on Feb. 20.
 </p><p>It was one of nine awards – and three first&#45;place honors – earned by CSU Monterey Bay’s student newspaper and presented at the annual college journalism conference.  Members of the paper’s staff, along with faculty advisers Estella Porras and Sam Robinson, attended the conference and awards ceremony at the Sheraton Universal Hotel in Los Angeles.
 
@@ -45,3 +46,4 @@ The judges complimented the site’s “clean design” and “inviting and visu
 
 <em>Published Feb. 23, 2016</em>
 </p>
+```

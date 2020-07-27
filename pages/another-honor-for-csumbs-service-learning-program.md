@@ -4,6 +4,7 @@ title: "Another honor for CSUMB's Service Learning program"
 date: January 01 2020
 ---
 
+```html
 <h3>Most decorated service learning program in the country</h3><p>CSU Monterey Bay was named to the 2013 President’s Higher Education Community Service Honor Roll. This designation is the highest honor a college or university can receive for its commitment to service learning and civic engagement.
 </p><p> The Corporation for National and Community Service received applications from more than 1,000 colleges and universities. Five received the Presidential Award; 14, including CSUMB, were named finalists.
 </p><p>In 2006, the program’s inaugural year, CSU Monterey Bay was one of three recipients of the top award. The university earned the top honor again in 2011, making it the only two-time recipient of the President’s Award. Since the program’s inception, CSUMB has received the top award or has been a finalist each year; it is the most decorated service learning program in the country.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>According to the Corporation and National and Community Service, honorees are chosen based on a variety of criteria, including the scope and innovation of service projects, the extent to which service-learning is embedded in the curriculum, the school’s commitment to long-term campus-community partnerships, and measurable community outcomes as a result of the service.
 </p><p><a href="http://csumb.edu/service">Learn more about Service Learning at CSUMB.</a>
 </p>
+```

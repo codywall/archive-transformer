@@ -4,6 +4,7 @@ title: "Scholarship fund makes headlines"
 date: January 01 2020
 ---
 
+```html
 <h3>Awards surpass $1 million mark</h3><p>After former Los Angeles Times photojournalist Alwin Krause died in 2002, his wife, Marian Krause, thought about how she could honor him.
 </p><p>She also wanted to pay tribute to her husband’s great&#45;aunt, Florence Campbell Rathom, one of the first female journalists to work at the Providence Journal in Rhode Island.
 </p><p>She accomplished both by creating a scholarship fund to help students in the Division of Humanities and Communication, which houses CSUMB’s program in journalism and media studies as well as philosophy, ethnic studies, ethics, peace studies, literature, history, creative writing and English teacher preparation.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>The grant has helped him maintain a near&#45;perfect grade point average at CSUMB. “I know that would have been a much harder task without the security I gained from the scholarship,” he said.
 </p><p>Read <a href="http://hcom.csumb.edu/students">more information about the Krause scholarship</a>, including the application deadline.
 </p>
+```

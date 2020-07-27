@@ -4,6 +4,7 @@ title: "CSUMB scientist surveys marine ecosystems"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 10, 2010
 </p><p>"Most Californians don't think about how colorful and vibrant the rocky reefs are," CSUMB Professor James Lindholm said in late July as he and other researchers surveyed areas of the North Coast.
 </p><p>Dr. Lindholm, Rote Professor of Science and Policy, is collaborating with Dirk Rosen of Marine Applied Research and Exploration of Oakland to survey deep-water habitats using a remotely operated vehicle.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

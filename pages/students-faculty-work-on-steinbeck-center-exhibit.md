@@ -4,6 +4,7 @@ title: "Students, faculty work on Steinbeck Center exhibit"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay students and faculty members have played a key role in an exhibit at the National Steinbeck Center in Salinas.
 </p><p>Art Department chair Lila Staples co-curated an exhibit with the center’s Deborah Silguero that showcases the works of artists Belle Yang and her father, Joseph Yang.
 </p><p>Students in Professor Angelica Muro’s digital art class were involved in the design and fabrication of the exhibition.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>“Her characters come to life though projected and digital images, a children’s reading interactive area, kinetic art, and much more,” Silguero said. One installation features a koi pond with projections of fish moving around. A winged image of Belle Yang hangs from the ceiling, taken from one of her own visuals. The wings flap and move. The children’s reading area includes a metal installation with magnetized models of her animal characters.
 </p><p>For more information on the exhibit and the lecture by Dr. Staples, visit the Steinbeck Center <a href="http://www.steinbeck.org/pages/belle-yang-forget-sorrow-exhibition">online</a>. <a href="http://vpa.csumb.edu/">Learn about CSUMB’s Visual and Public Art Department.</a>  
 </p>
+```

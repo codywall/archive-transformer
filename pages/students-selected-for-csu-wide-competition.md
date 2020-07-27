@@ -4,6 +4,7 @@ title: "Students selected for CSU-wide competition"
 date: January 01 2020
 ---
 
+```html
 <h3>Event highlights excellence in research</h3><p>Outstanding work by CSU Monterey Bay students on topics including the changing media landscape, the effectiveness of a workplace exercise program and nitrous oxide emissions of lettuce crops will be presented at a systemwide competition in May.
 </p><p>Six projects were selected by a committee of CSUMB’s Faculty Senate to represent the university at the 28th annual Student Research Competition at CSU East Bay May 2 and 3.
 </p><p>At the Hayward campus, students will make oral presentations before juries of professional experts from major corporations, foundations, public agencies, college and universities in California. The judges also review each student’s research paper.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>More information can be found <a href="https://www20.csueastbay.edu/orsp/csr/research-competition.html">here</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB student wins film commission scholarship"
 date: January 01 2020
 ---
 
+```html
 <p>Jessica Moss is this year’s recipient of the Monterey County Film Commission’s student scholarship.
 </p><p>Moss is a senior at Cal State Monterey Bay, where she studies Cinematic Arts and Technology. She plans to use the $2,000 grant to help with expenses for her capstone project, “The Maw,” an animated film short.
 </p><p>She chose the challenge of an animated film, which entails doing frame-by-frame traditional animation in addition to digital animation. It requires specialized equipment as well as an extended time commitment.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/tat">Learn more about the Cinematic Arts and Technology Department</a> <a href="http://www.FilmMonterey.org">Learn more about the Monterey County Film Commission</a>
 </p><p><em>Photo courtesy of the Monterey County Film Commission Jeff Clark, scholarship program chair and film commission board member, and winner Jessica Moss</em>  
 </p>
+```

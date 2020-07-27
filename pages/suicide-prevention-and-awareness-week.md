@@ -4,6 +4,7 @@ title: "Suicide Prevention and Awareness Week"
 date: January 01 2020
 ---
 
+```html
 <p>March 12, 2010
 </p><p>Census on Campus Frequently Asked Questions
 </p><p>CSU Monterey Bay has designated March 15-19 as Suicide Prevention and Awareness Week.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>To request disability-related accommodations, contact Gary Rodriguez at 582-4437 or <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#103;&#114;&#x6f;&#x64;&#x72;&#105;&#103;&#x75;&#x65;&#x7a;&#64;&#99;&#x73;&#x75;&#x6d;&#98;&#46;&#x65;&#x64;&#x75;">grodriguez@csumb.edu</a>.
 </p><p> 
 </p>
+```

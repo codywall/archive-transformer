@@ -4,6 +4,7 @@ title: "Katrina Aftermath"
 date: January 01 2020
 ---
 
+```html
 <p>When Estée Blancher came to CSUMB in the spring of 2002, she knew that her New Orleans roots would one day be the focus of the filmmaking skills she hoped to acquire as a student in the Department of Teledramatic Arts and Technology. She wanted to make a film that would capture the culture of her hometown, its stories and the personalities who populate the place.
 </p><p>Then Hurricane Katrina ravaged the city in the heart of the Mississippi River Delta, and everything changed for her.
 </p><p>On Sept. 18, the 29-year old junior packed up a bus with filmmaking equipment and aid supplies and headed to Louisiana to document the devastation, and to help in any way she could.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>According to Steven Levinson, one of Estee's teachers, "She's expanding her teledramatic skills and serving the community." He added that her personal connection will allow her to document people's lives in a way that an outsider couldn't. "She'll have people opening up to her."
 </p><p>Blancher traveled with a crew of six: friends, professional documentary filmmakers, and a freelance journalist. She plans to update her website (<a href="http://www.filmkatrina.com">http://www.filmkatrina.com</a>) with progress reports.
 </p>
+```

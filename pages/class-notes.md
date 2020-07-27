@@ -4,6 +4,7 @@ title: "Class Notes"
 date: January 01 2020
 ---
 
+```html
 <h2>2010</h2><p><strong>ALEXIS HALL</strong> (B.S., Environmental Science, Technology &amp; Policy) is pursuing a Ph.D. at the University of Alaska, Fairbanks. Her research involves the field of marine ecosystem-based management, studying the relationship among flatfish, crabs and trawling in the eastern Bering Sea. Her graduate education is being funded with a National Science Foundation MESAS (Marine Ecosystem Sustainability in the Arctic and Subarctic) Ph.D. fellowship. At the Surfrider Foundation, she volunteers as an environmental educator. Hall lives in Juneau.
 </p><p><strong>CHRIS SENTIERI</strong> (Master of Public Policy) is the director of Competitive Clusters for the Monterey County Business Council, a partnership with the County of Monterey designed to strengthen the county’s ability to attract businesses and create jobs. He earned a B.A. in community studies from UC Santa Cruz in 2007. Sentieri volunteers for the Monterey Bay Electric Vehicle Alliance, the Monterey Museum of Arts’ Monterey Contemporaries, the Monterey Bay Climate Action Compact and several other organizations. He and his wife, Katrina Dawn Sentieri, have three children, April, 21, Forest, 19, and Cole, 2. They live in Marina.
 </p><p><strong>ADAN ROMERO</strong> (B.S., Biology) is pursuing a Ph.D. in biological engineering at the Massachusetts Institute of Technology. A Medtronic Graduate Fellowship and the National Institutes of Health Chemistry-Biology NIH Chemistry-Biology Interface Graduate Training Program are funding his graduate education. He was a McNair Scholar while attending CSUMB. Romero lives in Boston.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><h2>1999</h2><p><strong>KELLEE (HUMPHREY) LUSK</strong> (B.A., Liberal Studies) is a first-grade teacher at Edenvale Elementary School, where she also trains a teacher intern from San José State three days a week. She earned an M.A. in education from UC Berkeley in 2005. Lusk volunteers at Paradise Baptist Church and belongs to Delta Sigma Theta Sorority, Inc. With her children, Hallee, 9, and LJ, 3, she lives in Hayward.
 </p><h2>1998</h2><p><strong>KATIE ANGARANO</strong> (B.A., Liberal Studies) is a second-grade teacher. She earned a teaching credential from CSUMB in 1999 and an M.A. in education in 2005 from San José State. Angarano volunteers for the American Red Cross and Kaiser Hospital Volunteer Services. With her daughter, she lives in the Bay Area.  
 </p>
+```

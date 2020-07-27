@@ -4,6 +4,7 @@ title: "The Woman Behind Integrated Studies at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Teacher, thespian, poet, environmentalist, lecturer, scholar - Dr. Barbara Mossberg is a living example of integrated studies and the potential for interdisciplinary. Or, as she describes it, living purple.
 </p><p>"Purple is the color of Integrated Studies," says Dr. Mossberg (or "Dr. B," as her students call her), who directs the IS program at CSUMB. "Just as red and blue make purple, purple represents the creativity which is forged through the fusion of arts and sciences and the disciplines that make up our students' academic dream plans."
 </p><p>One example of Dr. B's purple lifestyle is her scholarship on the life of Sierra Club founder John Muir. In numerous articles, public presentations, and an upcoming book, she examines how Muir, a geologist, used language arts to influence environmental public policy.
@@ -27,3 +28,4 @@ date: January 01 2020
 By Liz MacDonald, senior writer/web editor
 
 </p>
+```

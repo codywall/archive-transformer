@@ -4,6 +4,7 @@ title: "2016 CSUMB Holiday Donation Guide"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 1, 2016 --Whether you’re looking to donate toys or time, here is a list of all the opportunities around CSUMB to help everyone in our community enjoy this 2016 holiday season. 
 </p><p>The <a href="https://csumb.edu/police/holiday&#45;toy&#45;drive&#45;2016">University Police Department is hosting a holiday toy drive</a> in conjunction with the Crime Prevention Officers' Association of Monterey County &#40;CPOAMC&#41;. Toys from this drive will be given to those in need residing in the Salinas area.
 </p><p>University Personnel invites you to participate in the <a href="https://csumb.edu/up/2016&#45;giving&#45;tree">2016 Giving Tree project</a>, which is run in support of the Monterey County Salvation Army.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>On Nov. 17, CSUMB student Tony Colin walked barefoot for more than 10 miles from Dorothy's Place to campus to raise awareness of homelessness in Monterey County. Tony worked with the Guardian Scholars and Early Outreach and Support Programs to collect 128 pairs of shoes for clients of Dorothy's Place in Salinas.
 </p><p>The World Theater's “<a href="https://csumb.edu/worldtheater/december&#45;people&#45;perform&#45;classic&#45;rock&#45;christmas">Classic Rock Christmas</a>” event brought in 8 barrels of food to be donated to the Monterey County Food Bank along with 2 barrels of pet food to be donated to the Santa Cruz County Animal Shelter.
 </p>
+```

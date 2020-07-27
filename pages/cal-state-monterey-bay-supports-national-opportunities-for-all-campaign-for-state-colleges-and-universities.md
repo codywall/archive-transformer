@@ -4,6 +4,7 @@ title: "Cal State Monterey Bay supports national Opportunities for All campaign 
 date: January 01 2020
 ---
 
+```html
 <p>Accessibility, affordability and quality – like all state colleges and universities, Cal State Monterey Bay embodies those values for students. To reinforce this, CSUMB President Eduardo M. Ochoa has signed a pledge supporting the national Opportunities for All campaign launched by the American Association of State Colleges and Universities &#40;AASCU&#41;.
 </p><p>Created by the AASCU, the campaign aims to raise awareness and understanding of the shared values of the important role of state colleges and universities nationwide.
 </p><p>“State colleges are a smart investment, not only for students, but for the regions they serve,” said Ochoa. “Students have access to a quality, affordable education. The job skills they obtain, and the education they receive from outstanding faculty, advances economic progress and cultural development in their respective regions.”
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>CSUMB strives to create a skilled workforce to support local businesses in the Monterey Bay region, along with advancing cultural development said Ochoa. The institution is a gateway for traditionally underserved populations. Seventy&#45;two percent of CSUMB students receive some form of financial aid. Fifty&#45;six percent of CSUMB students are among the first generation of their family to go to college.
 </p><p>For more information on AASCU’s Opportunities for All campaign, go to http://www.aascu.org/Opps4All/.
 </p>
+```

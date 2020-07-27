@@ -4,6 +4,7 @@ title: "CSUMB earns gold for sustainability efforts"
 date: January 01 2020
 ---
 
+```html
 <p>With a computer keystroke on July 29, President Dianne Harrison filed a report that earned CSU Monterey Bay a gold rating from the nation’s leading advocacy group for sustainability in higher education. The university is one of only 18 institutions to receive that distinction.
 </p><p>CSUMB becomes the first campus in the California State University system and the second public university in California to qualify for the gold rating from the Association for the Advancement of Sustainability in Higher Education.
 </p><p>The rating, awarded in the organization's STARS program, signifies that the university is doing an outstanding job of going “green” in areas ranging from curriculum and construction to conservation of resources. STARS – which stands for Sustainability Tracking, Assessment and Rating System – measures and encourages sustainability in education and research, operations, and planning, administration and engagement.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>With the evaluation complete, CSUMB will continue to seek further gains in such areas as energy management, alternative transportation and waste reduction.
 </p><p>“This is a starting point,” President Harrison said. “We know there are many more things we can do."  
 </p>
+```

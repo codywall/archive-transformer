@@ -4,6 +4,7 @@ title: "Grants help students GEAR UP for college"
 date: January 01 2020
 ---
 
+```html
 <p>Middle school students in Monterey County will be better equipped for college thanks to federal grants awarded to Cal State Monterey Bay.
 </p><p>The money will allow 3,620 students to be served in San Ardo, San Lucas, Greenfield, King City, Salinas and Seaside.
 </p><p>The grants, which amount to $2.1 million per year for six years, with another $1.4 million in year seven, were awarded under the Gaining Early Awareness and Readiness for Undergraduate Programs – GEAR UP – administered by the U.S Department of Education.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Seventh-graders inspired at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Annual summit teaches students about college requirements</p><p>More Santa Cruz County students are preparing for college, and Cal State Monterey Bay is part of the process.
 </p><p>On April 22, half of the county’s seventh&#45;graders – about 1,400 students – will visit CSUMB to attend a summit on college eligibility requirements and to learn about the college experience. The university’s office of Early Outreach and Support Programs will host the visit to campus. The rest of the seventh&#45;graders in the county recently attended a similar event at UC Santa Cruz.
 </p><p>The Seventh&#45;Grade College and Career Summit, now in its third year, is part of the Santa Cruz County College Commitment &#40;S4C&#41;. Partners include CSUMB, Cabrillo College, UC Santa Cruz and school districts throughout the county. The summit is intended to foster a college&#45;going culture and to promote the higher&#45;ed campuses in the area.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><strong>A&#45;G requirements:</strong>
 </p><p><em>Published April 20, 2016</em>
 </p>
+```

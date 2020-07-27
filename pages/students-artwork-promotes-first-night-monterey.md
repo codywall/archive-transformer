@@ -4,6 +4,7 @@ title: "Student's artwork promotes First Night Monterey"
 date: January 01 2020
 ---
 
+```html
 <p>Images of musicians and dancers are popping up around the local area as publicity for First Night Monterey. The artwork was produced by CSU Monterey Bay student Carly Allen, the result of a partnership between the university and the event’s organizers.</p><p>Since 2004, First Night has worked with students in Professor Bobbi Long’s design class to develop the art that goes into the buttons, posters and on the Web to promote the annual New Year’s Eve festival.
 </p><p>“The theme this year is Art Connecting Communities,” Allen said. “I wanted to approach it in a bit more of a literal sense, and Bobbi helped steer me toward the idea of using actual figures to represent the arts.”
 
@@ -16,3 +17,4 @@ According to its website, First Night Monterey seeks to foster the public's appr
 
 Published Dec. 2, 2015
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB ready to serve those who served"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 4, 2009
 </p><p>The Post-9/11 Veterans Education Assistance Act went into effect Aug. 1, creating a new GI Bill benefit program designed for those who served in the Iraq and Afghanistan wars. CSU Monterey Bay is ready to assist current and new student-veterans in taking advantage of this program.
 </p><p>During a ceremony at George Mason University in Fairfax, Va., President Barrack Obama said helping veterans who have served since the 9/11 attacks with college tuition and housing is more than a "moral obligation."
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>For fall 2009, 24 students will be using the new program, and more are expected to sign up in the months to come.
 </p><p>To learn more about veterans educational benefits, visit <a href="http://www.gibill.va.gov/">http://www.gibill.va.gov</a>. CSUMB's veterans information is available at csumb.edu/veterans or by e-mailing <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#x76;&#101;&#x74;&#101;&#x72;&#97;&#x6e;&#95;&#115;&#x65;&#114;&#x76;&#105;&#x63;&#101;&#115;&#x40;&#99;&#x73;&#117;&#x6d;&#98;&#46;&#x65;&#100;&#x75;">veteran_services@csumb.edu</a>
 </p>
+```

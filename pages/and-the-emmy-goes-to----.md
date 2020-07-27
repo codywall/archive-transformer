@@ -4,6 +4,7 @@ title: "And the Emmy goes to . . . "
 date: January 01 2020
 ---
 
+```html
 <p>Did you know there are Emmy awards for sports broadcasting? 
 </p><p>Several dozen of them were handed out in New York on May 7 at the annual Sports Emmy Awards event.
 </p><p>One of them went to Casey Richards (TAT ’02). Richards, a resident of Atlanta, received an Emmy from the National Academy of Television Arts and Sciences in the category of outstanding playoff coverage.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

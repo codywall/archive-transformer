@@ -4,6 +4,7 @@ title: "More support for Chinatown museum"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB faculty members land humanities grant</h3><p>A grant from the National Endowment for the Humanities will help move the Salinas Chinatown Cultural Center and Museum another step closer to reality.
 </p><p>The $40,000 grant will be used to plan and design three public programs for the future museum.
 </p><p>Those programs are:
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

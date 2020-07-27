@@ -4,6 +4,7 @@ title: "Diving into the subject"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 21, 2009
 </p><p>Dr. James Lindholm (second from right) and student divers at Monterey Beach
 </p><p> 
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Students who complete the program will be eligible for letters of reciprocity that will allow them to dive with other university programs and research organizations.
 </p><p>"We're interested in giving students tools - and scientific diving is a critical tool," Dr. Lindholm said. "With scientific diving training on their resumes, our students will have a huge advantage when they look for a job. It means they'll be ready to work on day one."
 </p>
+```

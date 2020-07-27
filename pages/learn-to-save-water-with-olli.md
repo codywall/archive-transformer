@@ -4,6 +4,7 @@ title: "Learn to save water with OLLI"
 date: January 01 2020
 ---
 
+```html
 <h4>Public invited to free workshop Dec. 6</h4><p>“Save the Carmel River – Conserve Water Today” is the topic of the last class of the year offered by the Osher Lifelong Learning Institute (OLLI) at Cal State Monterey Bay.
 </p><p>The free, hourlong class will be held at 6:30 p.m. on Monday, Dec. 6 in the OLLI annex, located on the corner of Inter-Garrison Road and Sixth Avenue on the CSUMB campus.
 </p><p>The session will be led by CSUMB students Erin Frolli, Jessica Chapman, Kat Miller and Sarah Jeffries. The class will consist of a short lecture and tips on how to get rebates for household items (information will be specific for local water districts) and how to garden using drought-tolerant plants. Free plants – provided by CSUMB’s Return of the Natives project – will be given out.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Monologues tell women's stories"
 date: January 01 2020
 ---
 
+```html
 <p>The Vagina Monologues returns to CSU Monterey Bay Feb. 11, 12 and 13.
 
 The play has received rave reviews in San Francisco, Los Angeles and New York. Written by Eve Ensler, the Vagina Monologues tells the stories of a variety of women, their connections with each other and with the world. CSUMB's production is directed and produced by students – Annette Prieto and Mirella Leyva, respectively – and features 22 student actors.
@@ -14,3 +15,4 @@ Benefit performances are scheduled around the world in connection with Valentine
 
 Parents, please note the mature content and graphic language used in the play.
 </p>
+```

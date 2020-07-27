@@ -4,6 +4,7 @@ title: "Showcase for budding entrepreneurs"
 date: January 01 2020
 ---
 
+```html
 <p>An ag tech business, a company producing a healthy alternative to soda, and an urban homesteader are among the business startup ideas that will vie for cash and services at the Venture Showcase on May 1 at Cal State Monterey Bay.</p><p>More than 60 applicants presented their ideas to a panel of judges in March. Twenty&#45;three were selected to develop their ideas further and pitch them to an investor panel at the Startup Challenge Finals on May 1.  From that group, three will be selected to compete in the “Otter Tank”competition at the Venture Showcase.
 </p><p>“The idea of the awards is to motivate entrepreneurs and to educate and connect them with the business community,” said Dr. Brad Barbeau, an associate professor of economics and entrepreneurship at the university and executive director of the Institute for Innovation and Economic Development.
 </p><p>The Startup Challenge is an annual competition that provides an opportunity for prospective entrepreneurs, start&#45;ups and emerging companies to showcase their ideas and business concepts. The Challenge connects regional entrepreneurs to funders, consultants, support programs and venture capitalists.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><strong>4&#45;6 p.m.</strong> – Watch the three finalists in the Venture Division compete in the “Otter Tank”
 </p><p><strong>6&#45;7 p.m.</strong> – Reception
 </p>
+```

@@ -4,6 +4,7 @@ title: "GEEKING OUT"
 date: January 01 2020
 ---
 
+```html
 <h3>Students, professors put pie in Pi Day</h3><p>It's not likely anyone is getting the day off from school or work for it, but National Pi Day is Friday. Since 1988, when the first celebration was held at the San Francisco Exploratorium, the day has been commemorated around the world. Pi Day is celebrated on the 14th day of the third month, which aligns with the first three digits of pi – 3.14 – the ratio of a circle's circumference to its diameter.
 </p><p>CSU Monterey Bay is celebrating a day early this year. Since spring break is next week, many students will leave campus on Friday.
 </p><p>Albert Einstein was born on Pi Day in 1879 
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><em>• Pi has been studied by humans for almost 4,000 years</em>
 </p><p> 
 </p>
+```

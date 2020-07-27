@@ -4,6 +4,7 @@ title: "CSUMB student headed for nation's capital"
 date: January 01 2020
 ---
 
+```html
 <p>July 22, 2010
 </p><p>Steven Avila has a passion for politics and government, and that passion will soon take him to Washington, D.C.
 </p><p>The 21&#45;year&#45;old senior business major at CSU Monterey Bay will spend the fall semester working in the office of a member of the California delegation through the Panetta Institute for Public Policy's Congressional Internship program.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p>"Someday I would love to run for office," he said. "When my third&#45;grade teacher told the class that anyone could be President of the United States, it really resonated with me. I'm not saying I want to be president, but I believe that if you work hard and do the right thing, there is opportunity to be had."
 </p><p>More information on the <a href="http://www.panettainstitute.org/programs/study&#45;with&#45;us/congressional&#45;intern&#45;training/">Panetta Institute's Congressional Internship program</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "VPA professor gets her day in Berkeley"
 date: January 01 2020
 ---
 
+```html
 <p>Stephanie Johnson, associate professor in the Visual and Public Art Department, has been honored by her home town of Berkeley.
 </p><p>Berkeley Mayor Tom Bates has declared Oct. 30 Stephanie Anne Johnson Day in the city. The City Council will present her a certificate at its meeting that night.
 </p><p>She is being honored for her work on the Civic Arts Commission, where she chairs the education committee, and for her contributions as a visual artist and internationally known theatrical lighting designer. 
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>do hereby declare October 30, 2012, as
 </p><p>STEPHANIE ANNE JOHNSON DAY in the City of Berkeley in thanks for her many contributions to the city and the community.
 </p>
+```

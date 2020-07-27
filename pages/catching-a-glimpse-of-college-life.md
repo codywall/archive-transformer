@@ -4,6 +4,7 @@ title: "Catching a glimpse of college life"
 date: January 01 2020
 ---
 
+```html
 <p>May 5, 2010
 </p><p>*******CSU's Road to College Tour visits Salinas***
 </p><p>Paulina is in eighth grade and already she's starting to prepare for college.
@@ -34,3 +35,4 @@ date: January 01 2020
 </p><p><em> </em>
 </p><p> 
 </p>
+```

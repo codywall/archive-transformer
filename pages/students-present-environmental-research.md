@@ -4,6 +4,7 @@ title: "Students present environmental research"
 date: January 01 2020
 ---
 
+```html
 <p>A contingent of CSU Monterey Bay students and faculty members will be among those presenting research at the annual meeting of the <a href="http://www.esa.org/esa/">Ecological Society of America</a>.
 </p><p>More than 3,000 environmental scientists will attend the meeting in Sacramento, scheduled for Aug. 10-15. The theme: “From oceans to mountains: It’s all ecology.”
 </p><p><a href="http://eco.confex.com/eco/2014/webprogram/Paper47767.html">Miles Daniels</a>, who just graduated with a Master of Science in Coastal and Watershed Science and Policy, worked with Professor Fred Watson. They explored ways to protect human and wildlife health in the Monterey Bay region from waterborne diseases by using wetlands as a filter. The wetlands filter out dangerous disease-causing organisms before people and animals come into contact with them.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Makukhov was recently named a CSU Pre-Doctoral Fellow, and awarded $3,000. The biology major is working with Professor Cheryl Logan this summer, investigating the impacts of ocean acidification on juvenile rockfish.
 </p><p>Scott Blanco, who earned a master's in applied marine and watershed science in May, will present his thesis research about the eological control of toxic algae in Watsonville's Pinto Lake.
 </p>
+```

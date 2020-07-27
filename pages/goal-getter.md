@@ -4,6 +4,7 @@ title: "GOAL GETTER"
 date: January 01 2020
 ---
 
+```html
 <h4>CSUMB student spends semester in Washington, D.C.</h4><p>Jillian Shweiki wants to get involved in national politics as a campaign manager or political adviser. That’s after she finishes law school.
 </p><p>The senior global studies major is getting a head start on her career aspirations as she takes part in the Congressional Internship Program hosted by the Panetta Institute.
 </p><p>California State University campuses choose one student each year to participate in the program. Each intern is selected based on an exemplary academic record as well as an interest in politics and service. Shweiki is this year’s representative from CSU Monterey Bay.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>“This will be one of the most incredible and rewarding learning experiences of my life,” she said. To learn more about the Panetta Institute’s Congressional Internship Program, click <a href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/">here</a>.
 </p><p> 
 </p>
+```

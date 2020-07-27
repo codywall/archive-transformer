@@ -4,6 +4,7 @@ title: "Dorm residents return to campus"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 21, 2009
 </p><p>Well-organized chaos was the scene at CSU Monterey Bay Aug. 21 as many of the nearly 1,900 students who live on campus wheeled, carried and dragged their belongings into the residence halls that will be their home for the next year.
 </p><p>"This is one of the two best days in the year – commencement is the other," President Dianne Harrison said as she greeted new students and their parents.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p>President Harrison talks with parents of a freshman during move-in day Aug. 21.
 </p>
+```

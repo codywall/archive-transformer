@@ -4,6 +4,7 @@ title: "Softball player becomes CSUMB's first Academic All-American"
 date: January 01 2020
 ---
 
+```html
 <h4>Jamie Moon named to the Capital One Academic All-America® third team</h4><p>By Kevin Gilmore
 </p><p>Apparently, the 2012 season couldn't end until the California State University, Monterey Bay women's softball team broke new ground one last time. Once again, it is senior centerfielder Jamie Moon of Torrance doing the honors.
 </p><p>Moon became the first student-athlete in the history of the Cal State Monterey Bay athletics program to earn Academic All-America® honors by being named to the Capital One Academic All-America® Softball team as selected by the College Sports Information Directors of America (CoSIDA).
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The Academic All-American® award is the fifth major award for Moon this spring. Included among those accolades were selection to the All-CCAA first team in April and the All-America third team by the National Fastpicth Coaches Association.
 </p><p>“Playing collegiate softball has been an experience I will never forget,” Moon said. “To go out with an accolade such as this is incredible. I am extremely proud and hope to be as successful in nursing as I was in softball.”  
 </p>
+```

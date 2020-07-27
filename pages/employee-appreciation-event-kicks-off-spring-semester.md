@@ -4,6 +4,7 @@ title: "Employee appreciation event kicks off spring semester"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay kicked off the spring semester on Jan. 25 with a staff and faculty appreciation breakfast, and even a massive snowstorm didn’t derail the event.
 </p><p>President Eduardo Ochoa and Provost Bonnie Irwin were forced to miss the breakfast when their flights were cancelled due to the storm that hit Washington, D.C., where they were attending an academic conference. Other administrations filled in and the breakfast went on as planned.
 </p><p>Honorees include:
@@ -104,3 +105,4 @@ date: January 01 2020
 </p><p>Andre Lewis, associate vice president for University Affairs, brought the breakfast to a close. “I hope that each of you can find a little time in your busy day to reach out to a colleague who is doing good work, and tell him or her that those efforts are appreciated,” he said.
 </p><p><em>Published Jan. 25, 2016</em>
 </p>
+```

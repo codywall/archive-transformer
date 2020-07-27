@@ -4,6 +4,7 @@ title: "CSUMB Celebrates the Class of 2016"
 date: January 01 2020
 ---
 
+```html
 <p>'You will never be in a better place to take risks that will ensure lives of future generations,' graduates told</p><p><em>Photos by Richard Green</em>
 </p><p>California State University, Monterey Bay celebrated its 20th annual commencement on May 21. This year’s celebration took place during two separate ceremonies. Approximately 1,500 graduates were honored. More than 11,000 friends and family members were in attendance during the day.
 </p><p>Graduates of the College of Arts, Humanities and Social Sciences, and College of Business were honored during the 10 a.m. ceremony.  Graduates of the College of Science, College of Education, and College of Health Sciences and Human Services were honored at the 3 p.m. ceremony.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>“We wanted to turn swords into plowshares. The creation of this university is the result of that dream,” she said. “Now it is your dream. This university is not only responsible for your education but for inspiring hope throughout the entire tri&#45;county area.”
 </p><p>Later during the afternoon ceremony, Marsha Moroh, former dean of the College of Science, was awarded emeritus status for her outstanding service to the university.
 </p>
+```

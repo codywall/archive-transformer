@@ -4,6 +4,7 @@ title: "Alum creates 'robot' friends in Santa Cruz"
 date: January 01 2020
 ---
 
+```html
 <p>CSUMB graduate Margo Mullen has just completed a public art project in Santa Cruz. Her canvas: a square traffic controller box located at the busy intersection of Soquel Avenue and Morrissey Boulevard.
 </p><p>Mullen, best known on campus as the artist behind the mural at the Aquatic Center, was one of five artists chosen from 150 applicants to participate in phase two of the Outside the Box public art project.
 </p><p>The project was part of an effort by the Santa Cruz County Parks Department to transform traffic control boxes in the region. The boxes house the equipment that operates traffic signals.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>To read about the Visual and Public Art Department, click <a href="http://csumb.edu/art">here</a>.
 </p><p><em>Photos courtesy of Margo Mullen  </em>
 </p>
+```

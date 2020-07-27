@@ -4,6 +4,7 @@ title: "Another CSUMB alum goes indie at Sundance"
 date: January 01 2020
 ---
 
+```html
 <p>Graduates of the Teledramatic Arts and Technology program at CSU Monterey Bay continue to earn recognition and accolades for their work.
 </p><p>For the second consecutive year, the university will be represented at the Sundance Film Festival – the biggest independent film gathering in the U.S.
 </p><p>“Prairie Love,” produced by 2003 graduate Douglas Mueller, will have its world premiere in the festival’s NEXT competition. Eight films were selected for their innovative and original work on a budget of less than $500,000 – a pittance in the movie industry. Although the NEXT category is non-competitive, an audience choice award is up for grabs.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>They were named to Filmmaker Magazine’s list of “25 New Faces” for 2010, a list recognizing the top up-and-coming talent in the independent film industry.
 </p><p> 
 </p>
+```

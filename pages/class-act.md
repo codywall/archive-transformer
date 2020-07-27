@@ -4,6 +4,7 @@ title: "CLASS ACT"
 date: January 01 2020
 ---
 
+```html
 <p>Students help with one city’s move toward a more sustainable future</p><p>The city of Salinas is getting help from Cal State Monterey Bay students and faculty members.
 </p><p>The city was chosen as the partner for CSUMB’s first Sustainable City Year Program, a collaboration involving a handful of classes working with city officials toward a more sustainable, livable city.
 </p><p>“Students bring enthusiasm and get real&#45;world experience, faculty members bring expertise,” said Professor Dan Fernandez, who is coordinating the yearlong effort. In addition, the program provides opportunities for community engagement and interdisciplinary collaboration.
@@ -20,3 +21,4 @@ The Sustainable City Year Program started at the University of Oregon in 2009 wh
 </p><p>While the program is in its first year at CSUMB, Dr. Fernandez wants it to continue. “I hope the Sustainable City Year Program goes on indefinitely,” he said.
 </p><p><em>Published Jan. 12, 2016</em>
 </p>
+```

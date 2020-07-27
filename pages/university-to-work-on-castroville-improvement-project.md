@@ -4,6 +4,7 @@ title: "University to work on Castroville improvement project"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay’s School of Business and the local Small Business Development Centers are about to begin work on a project to improve the economic vitality of Castroville.
 </p><p>Monterey County’s Redevelopment Agency has contracted with the university and its small business development center for work on the Castroville Commercial Improvement Project.
 </p><p>The first stage involves surveying residents and businesses. Dr. Murray Millson, professor of marketing at CSUMB, has designed a pair of surveys that will be carried out by university students beginning Feb. 12. The surveys are designed to identify residents’ shopping behavior, and find out what would encourage them to shop locally. Then, business owners will be surveyed to see what they identify as opportunities for improvement and as barriers to their success.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The project is scheduled to be finished in June.
 </p><p>*This cooperative agreement is partially funded by the U.S. Small Business Administration and the University of California, Merced. SBA's funding is not an endorsement of any products, opinions or services. SBA funded programs are extended to the public on a non-discriminatory basis. This material is based on work supported by the U.S. Small Business Administration. Any opinions, findings, conclusions and recommendations expressed are those of the author(s) and do not necessarily reflect the view of the U.S. Small Business Administration (SBA). *
 </p>
+```

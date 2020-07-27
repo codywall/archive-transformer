@@ -4,6 +4,7 @@ title: "Study hall: new library is all things to all people "
 date: January 01 2020
 ---
 
+```html
 <p>From the moment it opened at 8 a.m. on Dec. 1, 2008, the Tanimura &amp; Antle Family Memorial Library has been the center of student life at Cal State Monterey Bay.
 </p><p><strong>Library at a glance</strong> The Tanimura &amp; Antle Family Memorial Library is at the intersection of Fifth Avenue and Divarty Street, with parking accessible from Divarty. <strong>Ways to help</strong> • To buy a book for the library from its wish list, visit the Alumni <a href="http://csumb.edu/alumni/giving-back">"giving back" page</a>. • Naming opportunities still exist for library spaces. Contact Executive Director of University Development Mike Mahan at 582-3366 or <a href="m&#97;&#105;&#108;&#116;&#111;&#x3a;&#x6d;&#x6d;&#x61;&#x68;&#x61;n&#64;&#99;&#115;&#117;&#109;&#98;&#x2e;&#x65;&#x64;&#x75;">mmahan@csumb.edu</a>. <strong>Hours and parking</strong> • During the school year, the library is open 8 a.m. to midnight Monday through Thursday; 8 a.m. to 5 p.m. on Friday; 10 a.m. to 5 p.m. on Saturday; and 2 p.m. to midnight on Sunday. • Hours vary during finals, the summer and holidays. A schedule is available at the <a href="http://csumb.edu/library">CSUMB library page</a>. • Public visitors must purchase a parking pass from machines on the lots. Cost is 50 cents per hour.
 </p><p>Having watched construction for two years, students lined up to get their first look inside the 136,000-square-foot structure. They rolled through the doors in numbers that shattered records at the old library. Those numbers have been climbing ever since.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Many students are pleased with the library just the way it is.
 </p><p>“The other library – we’d go in there to study and it was dark and uninviting,” said junior Madison Gipe. “This one is really geared for students. And they serve the best coffee. I’m in here nearly every day.”
 </p>
+```

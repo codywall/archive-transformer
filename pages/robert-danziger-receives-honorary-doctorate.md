@@ -4,6 +4,7 @@ title: "Robert Danziger receives honorary doctorate"
 date: January 01 2020
 ---
 
+```html
 <p>Robert Danziger, a sustainable energy pioneer, lawyer, inventor and musician, was honored Sept. 14 by California State University, Monterey Bay and the CSU.?
 </p><p>CSU Monterey Bay President Dianne Harrison conferred the honorary degree of Doctor of Fine Arts on the Carmel resident at a ceremony on campus in recognition of his accomplishments as an innovative and cross-disciplinary thinker.?
 </p><p>?“This honor recognizes excellence and extraordinary achievement in significant areas of human endeavor,” President Harrison said.?
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><em>Photo: President Dianne Harrison confers honorary degree of Doctor of Fine Arts on Robert Danziger while chair of CSUMB's Faculty Senate, Carl Ferguson, looks on</em>  
 </p><p> 
 </p>
+```

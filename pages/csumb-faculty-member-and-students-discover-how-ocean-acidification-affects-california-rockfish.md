@@ -4,6 +4,7 @@ title: "CSUMB Faculty Member and Students Discover How Ocean Acidification Affec
 date: January 01 2020
 ---
 
+```html
 <p>SEASIDE, Calif., Jan. 23, 2017 – A new study examining how ocean acidification may negatively affect some juvenile rockfish, a key marine prey base to the California ecosystem, was published by researchers from Moss Landing Marine Labs of SJSU, CSUMB and UC Santa Cruz.</p><p>The research, which suggests potential negative affects to the structure and function of marine ecosystems that support coastal fisheries and communities, was conducted in collaboration with researchers at the National Oceanic and Atmospheric Administration’s Southwest Fisheries Science Center and the Monterey Bay Aquarium Research Institute.
 </p><p>This study is the first to examine a comprehensive suite of physiological, behavioral and genomic responses to ocean acidification in temperate fishes. Published in <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169670">PLOS ONE</a>, this paper is the first of several that will come out of this collaborative team funded by the National Science Foundation and California SeaGrant.
 </p><p>The implications of the new publication are that the fish communities inhabiting rocky reefs and kelp beds may change in the future, in favor of species more tolerant of changing ocean chemistry. Rockfish are the most diverse group of fishes living on the U.S. West Coast, comprising more than 65 species that support important recreational and commercial fisheries. Changes in the prey base due to climate change are likely to affect marine food webs, with potentially negative effects on coastal fisheries and communities.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>This semester, students will continue investigating the combined effects of ocean acidification and hypoxia on rockfish physiology and genomics and will be presenting their findings at the capstone festival this May.
 </p><p><em>Story contains contributions by the Monterey Bay Aquarium Research Institute.</em>
 </p>
+```

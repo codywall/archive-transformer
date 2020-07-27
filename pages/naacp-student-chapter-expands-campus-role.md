@@ -4,6 +4,7 @@ title: "NAACP student chapter expands campus role"
 date: January 01 2020
 ---
 
+```html
 <h3>Group works to connect with cultural clubs</h3><p>They have no memories of the civil-rights milestones of the mid-1960s, but that didn’t prevent students at Cal State Monterey Bay from starting a campus chapter of the NAACP last year.
 </p><p>At the chapter’s inaugural meeting in September of 2013, students heard community members – all veterans of the civil rights struggle – talk about the movement’s history and urge them to continue the work.
 </p><p>The students took that message to heart.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Said Goodie: “I want people to know that the NAACP is diligently working to uphold and embody CSUMB’s vision and diversity statements. . . . We are in another civil rights movement with all these social issues going on and the NAACP’s job is to make sure people know,” she said.
 </p><p>“Our job on campus is to protect students’ rights and speak out when we see injustices. We will continue to do that as we continue to grow.” <em>Photo of NAACP campus chapter charter members by Kevin Garcia Left to right: Janelle Pichon, Shiyla Goodie, Charity Hawkins, adviser Steven Goings, Bridgette Johnson, Larenz Tolson, Sheena Nickerson, Asia Goodall, Kymberly Shavers</em>  
 </p>
+```

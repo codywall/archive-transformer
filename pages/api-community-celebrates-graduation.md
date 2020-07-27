@@ -4,6 +4,7 @@ title: "API community celebrates graduation"
 date: January 01 2020
 ---
 
+```html
 <p>Patti Hiramoto, vice president of University Advancement, reminded the gathering at CSU Monterey Bay’s first Asian Pacific Islander American community graduation celebration about the importance of community.
 </p><p>“The API community can be an anchor, a place to return to, when life gets difficult and when life’s joys are to be shared,” she said.
 </p><p>The event, held the day before commencement, marked an important milestone for the university’s Asian Pacific Islander community and the 21 students who participated. It celebrated their achievements and the people who helped them along the way.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><em>Patti Hiramoto, vice president of University Advancement at CSUMB (far left) and members of CSUMB's API community celebrate commencement on May 17.</em>
 </p><p><a href="http://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement">Read about the May 18 commencement ceremony</a>.
 </p>
+```

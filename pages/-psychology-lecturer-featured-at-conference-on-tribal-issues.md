@@ -4,6 +4,7 @@ title: " Psychology lecturer featured at conference on tribal issues"
 date: January 01 2020
 ---
 
+```html
 <p>Kathryn England-Aytes, a lecturer in psychology at Cal State Monterey Bay, will travel to Oklahoma in June to participate in a conference on tribal issues.  </p><p>The annual Sovereignty Symposium features tribal leaders and cultural and legal experts from across the country. Sponsored by the Oklahoma Supreme Court, it provides a forum where ideas concerning Indian law can be exchanged in a scholarly, non&#45;adversarial environment.
 </p><p>This is the first year she has been invited.
 
@@ -20,3 +21,4 @@ Dr. England&#45;Aytes works with the Native American Children’s Alliance &#40;
 </p><p>Born and raised in Oklahoma, Dr. England&#45;Aytes received bachelor of science in psychology and master of science in social science degrees from Southern Oregon University and an Ed.D. from Fielding Graduate University in Santa Barbara.
 </p><p>“As a Native educator, my goal is always to honor and integrate the cultures, values and traditions of Native students with learning opportunities for full participation in the larger community,” she said.
 </p>
+```

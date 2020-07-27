@@ -4,6 +4,7 @@ title: "Counting on students"
 date: January 01 2020
 ---
 
+```html
 <p>March 12, 2010
 </p><p><strong>The Census comes to campus</strong>
 </p><p>When the U.S. Census Bureau rolls through college campuses once every decade, many students slip through the cracks.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><strong>Q. Can I complete the census online?A.</strong> No, questionnaires are not available online. In September 2008, a Census Bureau data collection team completed a thorough analysis of implementing an Internet reporting option. From a technical perspective, they found using the Internet was feasible; however, without time to fully test the entire system, security concerns led the Census Bureau to decide not to offer the 2010 Census questionnaire online. However, the Census Bureau plans to introduce an Internet data collection option in the 2020 Census.
 </p><p><strong>Q. Will the census share my information with anyone?****A.</strong> No. By law, the Census Bureau cannot share an individual's census questionnaire responses with anyone, including the FBI, welfare, immigration, other government agencies, or law enforcement entities. All Census Bureau employees have taken an oath to protect confidentiality and know that they are subject to a federal prison sentence of up to five years, a fine of up to $250,000, or both, for disclosing any information that could identify a respondent or household.
 </p>
+```

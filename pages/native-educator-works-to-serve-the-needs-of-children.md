@@ -4,6 +4,7 @@ title: "Native educator works to serve the needs of children"
 date: January 01 2020
 ---
 
+```html
 <p>Kathryn England&#45;Aytes, a lecturer in psychology, has joined a newly created national organization that serves the needs of children.
 </p><p><a href="http://sbgs.csumb.edu/faculty/kathryn&#45;england&#45;aytes">Dr. England&#45;Aytes</a> will serve as a consultant with the National Center on Adoption and Permanency, an organization that provides information, resources and services relating to adoption, foster care and child welfare.
 </p><p>Former Kinship Center CEO Carol Biddle is the managing director; Adam Pertman, former president of the Donaldson Adoption Institute, is the founder and president.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>And good reviews continue to be published about the book “Teaching Truly: A Curriculum to Indigenize Mainstream Education” by Four Arrows, to which Dr. England&#45;Aytes contributed a chapter.
 </p><p>According to a review in Education Review/Reseñas Educativas, her chapter on historical trauma and its prevention in the classroom established the first and most critical part of the book.
 </p>
+```

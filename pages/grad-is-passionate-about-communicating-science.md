@@ -4,6 +4,7 @@ title: "Grad is passionate about communicating science"
 date: January 01 2020
 ---
 
+```html
 <p>Jane Kim’s artwork turns up in unusual places.
 </p><p>The graduate of CSU Monterey Bay’s science illustration program has displayed her art in restaurants, laboratories, the San Francisco dump, and along highways, as well as in the more traditional galleries and museums.
 </p><p>During June, her hand&#45;painted 10&#45;foot section of intricately detailed roses is on display at Rise Above Gallery in Oakland, part of an exhibit called “Roses are Red.” The exhibit explores botanical influences on human culture. Kim’s piece illustrates the flower’s evolution from wild to domesticated plants, which drive a multi&#45;million dollar floral industry.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><a href="http://scienceillustration.org/">Learn about the science illustration program here</a>.
 </p><p>&#42;Roses from Discovery Channel website; photo by Jane Kim Portrait of Kim from National Geographic website&#42;
 </p>
+```

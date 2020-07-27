@@ -4,6 +4,7 @@ title: " A Greater Vision: CSUMB forum on 'Our Shared Legacy - Land and Water'"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 10, 2010
 </p><p>The Greater Vision series of public forums on topics relevant to local agriculture continues Oct. 22, when industry professionals, educators and elected officials meet at California State University, Monterey Bay to discuss "Our Shared Legacy: Land and Water."
 </p><p>The forum will be held in the University Center on Sixth Avenue, starting at 1 p.m.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p><em> </em>
 </p>
+```

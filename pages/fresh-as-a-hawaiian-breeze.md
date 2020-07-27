@@ -4,6 +4,7 @@ title: "Fresh as a Hawaiian breeze"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 10, 2010
 </p><h4>Slack key maestro George Kahumoku presents holiday concert</h4><p>“Slackheads” will get a rare treat on Dec. 11, when Grammy-winning slack-key guitarist George Kahumoku brings a bit of the islands to Cal State Monterey Bay’s World Theater for a Hawaiian holiday show.
 </p><p>And in the true spirit of Hawaiian family tradition, Kahumoku will be joined on stage by his wife and son, Keoki, an accomplished musician and entertainer.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Bring the entire family for this evening of story, song and dance from the enchanting islands. Tickets range from $10 to $33 and can be purchased by calling the World Theater box office at (831) 582-4580 or online at csumb.edu/worldtheater. The World Theater is located on Sixth Avenue on the CSUMB campus. Driving directions and a campus map are available at csumb.edu/map. IF YOU GO • WHAT: Hawaiian Family Holiday featuring George Kahumoku Jr. • WHERE: CSUMB’s World Theater • WHEN: 7:30 p.m., Dec. 11 • TICKETS: $10 to $33; reserve online at <a href="http://csumb.edu/worldtheater" title="http://csumb.edu/worldtheater">http://csumb.edu/worldtheater</a> or by calling the box office at 582-4580 • INFORMATION: 582-4580
 </p><p> 
 </p>
+```

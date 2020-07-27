@@ -4,6 +4,7 @@ title: "Living Memorial for Women and War"
 date: January 01 2020
 ---
 
+```html
 <p>Three academic departments at Cal State Monterey Bay have joined forces to present a “Living Memorial,” a series of public art installations, performances and discussions called “Songs for Women Living with War.”
 </p><p>The Visual and Public Art, Global Studies and Humanities and Communication programs are collaborating on the semester&#45;long project.
 </p><p>“I picked this theme because there are so many public memorials that commemorate wars, victors – primarily men. Though women suffer so much in conflict, there are hardly any public sites that acknowledge this,” said Johanna Poethig, who teaches in the Visual and Public Art Department.
@@ -25,3 +26,4 @@ These feminist activists will localize this issue, and refer to"war" as many kin
 </p><p>For more information, contact Professor Poethig at jpoethig@csumb.edu.
 </p><p><em>Published Feb. 19, 2016</em>
 </p>
+```

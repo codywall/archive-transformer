@@ -4,6 +4,7 @@ title: "Native American student group formed"
 date: January 01 2020
 ---
 
+```html
 <p>Of the 7,100 students enrolled at Cal State Monterey Bay last fall, fewer than 1 percent identified themselves as Native American.
 </p><p>With support from Dr. Browning Neddeau, a professor in the Liberal Studies Department, some of those students have organized Native American Students United &#40;NASU&#41;. Dr. Neddeau and Mark Alabanza, assistant director for academic personnel, are club advisers. The group meets monthly and is open to Native American students, faculty and staff.
 </p><p>NASU has invited a group of students from McKinleyville High School in Humboldt County to visit campus on April 11. “To my knowledge, this is the first time that CSUMB has hosted a Native high school student club visit,” Dr. Neddeau said.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Follow the group on <a href="https://www.facebook.com/groups/1630405050568386/">Facebook</a>
 </p><p><em>Published March 29, 2016</em>
 </p>
+```

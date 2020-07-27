@@ -4,6 +4,7 @@ title: "Life-saving devices installed on campus"
 date: January 01 2020
 ---
 
+```html
 <h3>Automated exteral defibrillators: there when you need them</h3><h3></h3><p>Over the summer, the campus became a safer place . . . for victims of a heart attack.
 </p><p>Lifesaving devices called Automated External Defibrillators – or AEDs – were installed in a dozen buildings, courtesy of the University Police Department’s Otter Public Access AED Program.
 </p><p>AEDs have proven to save lives when used on a heart attack victim within the first few minutes of cardiac arrest.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>For more information about the AED program or to schedule a training session, contact Bower at 582-3589 or <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x64;&#98;&#x6f;&#119;e&#x72;&#64;&#x63;&#115;u&#x6d;&#98;&#x2e;&#101;&#x64;&#x75;">dbower@csumb.edu</a>.
 </p><p> 
 </p>
+```

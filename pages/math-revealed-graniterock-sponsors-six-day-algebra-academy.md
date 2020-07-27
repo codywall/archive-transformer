@@ -4,6 +4,7 @@ title: "Math, revealed: Graniterock sponsors six-day Algebra Academy"
 date: January 01 2020
 ---
 
+```html
 <p>Dozens of students from Rolling Hills Middle School in Wattsonville voluntarily spent their last week of winter break studying algebra – and having fun.
 </p><p>The Algebra Academy was held at the headquarters of the Graniterock company in Watsonville from Jan. 3 through 6. On Friday of that week, the youngsters spent the day on the campus of Cal State Monterey Bay and then returned to Graniterock for a graduation ceremony on Saturday.
 </p><p>CSUMB math faculty member Dr. Hongde Hu and lecturer Lorraine O’Shea taught the classes, assisted by four university students.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>He also complimented the work of the CSUMB students.
 </p><p>“The four teaching assistants really made a connection with the students,” Ito said. “They’re a bridge between the professors and the youngsters, and they’ve done a great job.”
 </p>
+```

@@ -4,6 +4,7 @@ title: "47 athletes earn all-academic honors"
 date: January 01 2020
 ---
 
+```html
 <p>Nearly four dozen CSUMB student-athletes earned California Collegiate Athletic Association All-Academic honors, a reminder that Otter success extended beyond the arean of athletic competition in 2010-11.
 </p><p>A total of 451 student-athletes from the 12 conference institutions were named CCAA All–Academic winners, an average of 37 per school – putting CSUMB ahead of the curve with 47.
 </p><p>“Being strong competitors in the classroom is one of Otter Athletics' top priorities,” said CSUMB Director of Athletics Vince Otoupal.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Also noteworthy – the Otter triumvirate of James Albert of San Bernardino, Brenden Fripp of Santa Barbara and Brandon Ward of Riverside made CSUMB the only school to place three men's basketball players on the list.
 </p><p>Overall, only UC San Diego (84) had more honorees than the Otters.  
 </p>
+```

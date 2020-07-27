@@ -4,6 +4,7 @@ title: "MAD ABOUT MARIACHI"
 date: January 01 2020
 ---
 
+```html
 <p>In a musical genre dominated by men, Mariachi Reyna de Los Angeles has been breaking stereotypes and shaping new cultural traditions since 1994</p><p>The 12&#45;member all&#45;female group brings sensitivity, beauty and warmth to Mexico’s musical heritage and has earned a reputation in the industry as a pioneer.
 </p><p>Back by popular demand after thrilling sold&#45;out performances the last four years, Mariachi Reyna will return to CSU Monterey Bay’s <a href="https://csumb.edu/maps">World Theater</a> for performances on April 29 and 30. Both shows will start at 7:30 p.m.
 </p><p>Now there are other all&#45;female mariachi groups, proving that when maestro Jose Hernandez created Reyna de Los Angeles, it wasn’t a novelty – it was a genre. Reyna has expanded the role of women in mariachi from singers to a full complement of musical performers. In a musical landscape where songs are often written by men and about male perspectives, Reyna has created its own history.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The World Theater is located on Sixth Avenue between A and B streets on the CSUMB campus.
 </p><p>The community is invited to a free master class with the group at 2 p.m., April 30 in the Music Hall, on Sixth Avenue and Butler Street.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Wildlife sighting in East Campus"
 date: January 01 2020
 ---
 
+```html
 <p>A black bear was spotted on Trenton Court in Frederick Park I Sunday night.
 </p><p>Anyone who spots a bear is asked to call the University Police Department as soon as it is safe to do so. Call 911 in an emergency; otherwise, for non&#45;emergencies, call <a href="tel:831&#45;655&#45;0268">831&#45;655&#45;0268</a>.
 </p><p>The bear was seen about 9:40 p.m. rummaging through trash cans. It ran out of the rear of the court and into a wooded area.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>• Keep a close watch on children, and teach them what to do if they encounter a bear
 </p><p>Learn more about local wildlife from the <a href="https://www.wildlife.ca.gov/Keep&#45;Me&#45;Wild">California Department of Fish and Wildlife</a>.
 </p>
+```

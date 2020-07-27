@@ -4,6 +4,7 @@ title: "Social Media Guidelines"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay has an active and engaged faculty, staff and student body, and we love interactive ways to connect and share information online. The university encourages its faculty, staff and students to use tools such as social media to advance their work and heighten their experience as members of the campus community.
 </p><p>In an effort to give direction when using social media, University Communications has developed the following guidelines. These guidelines are not intended for Internet activities that do not associate or identify a faculty or staff member with CSUMB, do not use CSUMB email addresses, do not discuss CSUMB and are purely about personal matters.
 </p><h2>What is social media?</h2><p>We consider social media any technology tool or online space for integrating and sharing user&#45;generated content in order to engage in conversations. These guidelines do not attempt to name every current and emerging platform, but some examples are Facebook, Twitter, LinkedIn, YouTube and Instagram.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><strong>Follow a code of ethics.</strong> There are numerous codes of ethics for bloggers and other active participants in social media, all of which will help you participate responsibly in online communities. If you have your own social media site, you may wish to post your own code of ethics or adapt an existing code already on the Web. Monitor comments. Most people who maintain social media sites welcome comments; it builds credibility and community. However, you can set your site so that you can review and approve comments before they appear. This allows you to respond to comments in a timely way. It also allows you to delete spam comments and to block any individuals who repeatedly post offensive or frivolous comments.
 </p><p><strong>Share and link back.</strong> Please share content posted on official CSUMB social media channels across your personal networks, and link back from your site to CSUMB.EDU. By virtue of self identifying as part of CSUMB in such a network, faculty/staff/students connect themselves to, and reflect upon, the university.
 </p>
+```

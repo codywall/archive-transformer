@@ -4,6 +4,7 @@ title: "‘Think about possibilities,’ President Ochoa tells campus"
 date: January 01 2020
 ---
 
+```html
 <p>ANNUAL STATE OF THE UNIVERSITY ADDRESS KICKS OFF SCHOOL YEAR</p><p>President Eduardo Ochoa delivered an upbeat State of the University address Aug. 20 at the World Theater as he noted school achievements as well as plans for the future.
 </p><p>“Overall, it has been an outstanding year for Cal State Monterey Bay,” President Ochoa said. “The signs of progress are all around us.”
 </p><p>Twenty years ago next month, President Bill Clinton attended the dedication of the university. He told the crowd, “Think about possibilities, not problems. Believe in the future.”
@@ -34,3 +35,4 @@ He sketched out his vision for the next decade, in which the university will be 
 </p><p>• Dr. Aparna Sreenivasan, Division of Science and Environmental Policy
 </p><p>In addition, Dr. John Berteaux, Division of Humanities and Communication, and Dr. YoungJoon Byun, School of Computing and Design, were promoted to full professor.
 </p>
+```

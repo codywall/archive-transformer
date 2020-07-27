@@ -4,6 +4,7 @@ title: "Science master's degree offers new career path"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay now offers a Professional Science Master’s degree in Coastal and Watershed Science &amp; Policy. The new program complements the traditional, thesis-based master of science degree in applied marine and watershed science that has been offered at CSUMB for five years.
 </p><p>The “plus” element includes a professional internship and training in advanced geospatial technologies; professional and scientific communication; scientific ethics; and environmental economics and policy analysis.
 </p><p>Students typically do their internships in the second year, or over the summer between the first and second years of the program. Some work on campus in the Seafloor Mapping Lab and the Institute for Applied Marine Ecology. Others work with government agencies such as NASA and the U.S. Forest Service, as well as with environmental consulting groups and non-profit agencies.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Environmentalist Winona LaDuke pushes for change"
 date: January 01 2020
 ---
 
+```html
 <h3>Her topic: Environmental Justice from an Indigenous Perspective</h3><p>The public is invited to join CSU Monterey Bay on March 6 for an evening with Winona LaDuke, an activist, writer and voice for American Indian economic and environmental concerns.
 </p><p>The free event will get under way at 7:30 p.m. in the University Center ballroom. 
 </p><p>Her topic: Environmental Justice from an Indigenous Perspective.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The event is sponsored by Associated Students Cultural Enrichment Committee and the Otter Cross Cultural Center.
 </p><p><em>For Women's History Month, CSUMB's library is featuring books on <a href="http://library.csumb.edu/womens-history-month-2012">women and the environment</a>. </em>
 </p>
+```

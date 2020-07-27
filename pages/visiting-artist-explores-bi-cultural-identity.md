@@ -4,6 +4,7 @@ title: "Visiting artist explores bi-cultural identity"
 date: January 01 2020
 ---
 
+```html
 <h3>Julio Morales visits CSUMB Sept. 27</h3><p>Cultures collide in the work of Julio Cesar Morales, a San Francisco-based conceptual and installation artist, educator and curator who grew up on the border of California and Mexico.
 </p><p>Inspired by the design, popular music and street life of his native Tijuana, Morales has taught and created art in a variety of settings, including probation offices, public schools, museums and galleries. His work explores issues of labor, memory, surveillance technologies and identity and has been shown extensively in California and internationally.
 </p><p>The local community will have the opportunity to learn about Morales’ work when he visits CSU Monterey Bay on Sept. 27. His free talk, part of the Visiting Artists Series, will start at 6 p.m. in the University Center living room. The University Center is located on Sixth Avenue at B Street. Driving directions and a campus map can be found at csumb.edu/map.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/vpa">Learn about the Visual and Public Art Department at CSUMB</a>.
 </p><p>Learn about Professor Johanna Poethig and her work as a public artist
 </p>
+```

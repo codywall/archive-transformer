@@ -4,6 +4,7 @@ title: "Women's basketball ranked No. 25 in nation"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>For the first time in program history, the women’s basketball team has cracked the USA Today-ESPN Coaches’ Poll. With a 14-1 record in the California Collegiate Athletic Association and 18-1 overall, the Otters are ranked No. 25 in Division II.
 </p><p>CSUMB is one of five West Region schools represented in the Top 25 and the lone team from the CCAA.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>“There was no timetable to turn the program around,” Jimenez said. “But we didn’t want to sit around and wait.”
 </p><p>In her first season, the team won 11 games; last year, it set a school record with 18 wins. To read more about the Otters, click <a href="http://otterathletics.com/index.aspx?path=wbball&amp;">here</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Campus makes another effort to prevent the flu"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 4, 2009
 </p><p>Isabel Fuerte tries out hand sanitizer in the Student Center
 </p><p>In a continued effort to prevent the spread of H1N1 flu, CSU Monterey Bay has installed a dozen hand-sanitizing stations around campus. The dispensers are motion-activated, automatically releasing an alcohol-based antiseptic gel when a user places his hands underneath one.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The objective is to encourage everyone on campus to wash their hands frequently, cover their mouths and noses when coughing or sneezing, and stay home when sick.
 </p><p> 
 </p>
+```

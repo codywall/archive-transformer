@@ -4,6 +4,7 @@ title: "Carmel Short Cinema"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>July 6, 2009
 </p><h2>Student films to be shown at Forest Theater</h2><p>Work by students at CSU Monterey Bay will be presented at the “Carmel Short Cinema” film and video screening at the Outdoor Forest Theater on July 19.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The Forest Theater is located at the corner of Mountain View and Santa Rita streets near downtown Carmel. For information, visit the web at <a href="http://www.foresttheaterguild.org" title="www.foresttheaterguild.org">www.foresttheaterguild.org</a>
 </p><p> 
 </p>
+```

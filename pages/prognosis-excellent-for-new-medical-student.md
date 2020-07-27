@@ -4,6 +4,7 @@ title: "Prognosis excellent for new medical student"
 date: January 01 2020
 ---
 
+```html
 <p>In early August, David Bennion (’12, Bio) took part in the “white coat ceremony” at Oakland University William Beaumont School of Medicine in Michigan.
 </p><p>The traditional donning of the signature white garment marks a student’s official entrance into medical school. The first week of school was mainly orientation, but halfway through his second week, “lots of material is being thrown at us, and at times I have felt a bit overwhelmed,” he wrote in an email. "Everyone says it's like drinking water from a fire hose. Of course, I didn't fully understand this analogy until I was blasted in the face with the scope of material we must absorb."
 </p><p>He quickly learned the value of his CSU Monterey Bay education.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>“Set goals, don't EVER give up, and take Biology 414.” <a href="http://csumbpremed.wikispaces.com/">Learn about the pre-med program at CSUMB</a>
 </p><p><a href="http://csumb.edu/biology">Learn about the biology program at CSUMB</a>  
 </p>
+```

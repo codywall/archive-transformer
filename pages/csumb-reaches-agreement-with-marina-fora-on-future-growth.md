@@ -4,6 +4,7 @@ title: "CSUMB reaches agreement with Marina, FORA on future growth"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 2, 2009
 </p><p>CSU Monterey Bay signed an agreement Sept. 2 with the city of Marina and the Fort Ord Reuse Authority concerning its growth on the former Army base.
 </p><p>The document details how issues of transportation, water and wildlife-habitat mitigation will be handled in the years ahead as CSU Monterey Bay continues to develop as a comprehensive university.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

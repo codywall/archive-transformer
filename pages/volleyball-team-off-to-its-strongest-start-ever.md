@@ -4,6 +4,7 @@ title: "Volleyball team off to its strongest start ever"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay volleyball coach Jody Garry says this year’s squad is “not afraid to lose.” As the 2010 season continues, it is very clear they aren’t afraid to win, either.
 </p><p>The Otters piled up a 10-2 record by early October, earning a no. 21 national ranking and demonstrating the chemistry that Garry strives for.
 </p><p>“We’re playing as a team and not as six individuals on the court,” said junior Rheann Fall, an outside hitter from Elk Grove, who on Sept. 21 was named NCAA Division II National Player of the Week by the American Volleyball Coaches Association.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>The Otters can’t match most conference opponents in size or strength, she said, so they have to be smarter.
 </p><p>“They’re not the biggest, they’re not the fastest,” Garry said. “They’re just kids who are willing to put the work in.”  
 </p>
+```

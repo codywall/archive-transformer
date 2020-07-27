@@ -4,6 +4,7 @@ title: "Turning kids loose on Dr. Seuss"
 date: January 01 2020
 ---
 
+```html
 <p>Olson Elementary School in Marina celebrated Read Across America Day on March 3, with help from some student-athletes at CSU Monterey Bay.
 </p><p>Sponsored by the National Education Association, Read Across America Day is held every year near the March 2 birthday of famed children’s author Theodor Geisel, better known as Dr. Seuss.
 </p><p>Members of the women’s golf and volleyball teams, men’s cross country and men’s and women’s soccer teams read Dr. Seuss books to youngsters in kindergarten through third grade and shared their experiences with reading.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Story and photo courtesy of CSUMB Athletics
 </p><p> 
 </p>
+```

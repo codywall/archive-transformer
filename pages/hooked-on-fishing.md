@@ -4,6 +4,7 @@ title: "Hooked on fishing"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB anglers place third in Western Invitational</h3><p>Competitive bass fishing at the collegiate level – who knew?
 </p><p>In 2008, FLW, the organizer of professional fishing tournaments, started a college tour. Now, more than 600 teams compete in five divisions, according to FLW’s website, and it just keeps growing. It’s even on television – NBC Sports has broadcast tournaments.
 </p><p>Two teams from CSU Monterey Bay's Bass Fishing Club – Andrew Sjostrom and Joshua Smith, and Matthew Diaz and Sebastian Resendiz – competed in the Western Conference Invitational tournament Oct. 12 and 13 in Clear Lake. They were among 45 teams that competed for a top prize of $4,000 for their club and their school and a berth in next year’s FLW national championship.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><a href="//www.facebook.com/CSUMB.OutdoorRec">Follow the program on Facebook</a>.
 </p><p><em>Photo (left to right): John Smith and Andrew Sjostrom took third place with nine bass weighing 37 lbs., 2 oz. The team won $1,000 for CSUMB's Bass Fishing Club and a spot in next spring's national championship</em>  
 </p>
+```

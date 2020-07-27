@@ -4,6 +4,7 @@ title: "Alumna tackles the evolution of birds"
 date: January 01 2020
 ---
 
+```html
 <p>“The Wall of Birds will be finished next week.”</p><p>Jane Kim’s announcement on <a href="https://www.facebook.com/InkDwell">Facebook</a>, posted Dec. 1, heralded the completion of her two&#45;and&#45;a&#45;half year project at the <a href="http://www.birds.cornell.edu/Page.aspx?pid=1478#">Cornell Lab of Ornithology</a> in Ithaca, N.Y. – a mural that depicts the evolution and diversity of birds.
 </p><p><em><a href="https://academy.allaboutbirds.org/wallofbirds/">Explore the Wall of Birds</a></em>
 </p><p>The 2010 graduate of CSU Monterey Bay’s science illustration program has painted one representative example from every bird family in the world – all 271 of them – including extinct species.
@@ -23,3 +24,4 @@ For those who can’t visit in person, the lab plans an interactive feature wher
 – Jane Kim
 </p><p><em>Published on Dec. 1, 2015</em>
 </p>
+```

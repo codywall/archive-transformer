@@ -4,6 +4,7 @@ title: "Breathless in Bombay author reads at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Indian writer Murzban Shroff will visit Cal State Monterey Bay for a special presentation on Oct. 27.
 </p><p>Shroff has published fiction in more than 50 journals in the United States and the United Kingdom. His debut story collection, <em>Breathless in Bombay</em>, was published in 2008 to great critical acclaim – it was shortlisted for the Commonwealth Writers' Prize – for its ability to capture the lives of the invisible and show a city in the throes of seismic modernization.
 </p><p>The book is a mosaic of 14 short stories, each presenting a picture of life in one of India’s busiest cities. Shroff uses vivid imagery and powerful, descriptive prose; the reader is transported to Bombay &#40;Mumbai&#41;, with all its beautiful chaos and energy.
@@ -18,3 +19,4 @@ Shroff spent 16 years in advertising, at multinational agencies Ogilvy &amp; Mat
 
 Please <a href="https://docs.google.com/a/csumb.edu/forms/d/1grhhEQycDn5_9KQgJK4lUcUSx23zAhqXKoU494m8oWY/viewform">RSVP</a> for this free event. For more information or to request disability accommodations, call 582&#45;4232.
 </p>
+```

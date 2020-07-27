@@ -4,6 +4,7 @@ title: "Olympics concerts are music to her ears"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB librarian part of group performing in London</h3><p>Cal State Monterey Bay didn’t land an athlete at the Olympics, but the university will be represented in another way.
 </p><p>Reference and instruction librarian Sarah Dahlen is a member of the Monterey Peninsula Choral Society. The 113-member group will perform at several venues in London during the Games, one of just six choirs in the world invited to sing during the 17-day run of the Olympics.
 </p><p>“The choir typically has rehearsals once a week, but for the weeks leading up to our departure, we’ve had four each week,” Dahlen said. “And I’ve done a lot of work on my own as well, and am usually singing in the car.”
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Editor's Note: <em>Bon Voyage Concert, 8 p.m., July 27, at All Saints’ Episcopal Church, Dolores Street and Ninth Avenue, Carmel. Information: www.thempcs.org</em>
 </p><p><em> </em>
 </p>
+```

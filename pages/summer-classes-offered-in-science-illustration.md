@@ -4,6 +4,7 @@ title: "Summer classes offered in science illustration"
 date: January 01 2020
 ---
 
+```html
 <p>Anyone interested in exploring the confluence of art and science is invited to attend the summer session of CSU Monterey Bay’s Science Illustration program.
 </p><p>Classes in marine science illustration and digital science illustration will be offered in a five-week session starting July 19.
 </p><p>While this is the first time summer classes have been offered on the CSUMB campus – where the program moved in the fall of 2009 – they were available when the program was based at UC Santa Cruz.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>At left: Amadeo Bachar Above: Cabezon. <em>Scorpaeichthys marmoratus</em>. Watercolor on paper by Amadeo Bachar
 </p><p> 
 </p>
+```

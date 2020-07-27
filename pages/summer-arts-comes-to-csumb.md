@@ -4,6 +4,7 @@ title: "Summer Arts comes to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>Classes, public performances highlight program</h3><p>Sword fights, improvisational comedy, animation, hip-hop: Summer school was never this much fun.
 </p><p>Several hundred students from throughout the California State University system and beyond will come to CSU Monterey Bay in July for the annual CSU Summer Arts program. High school and community college students and faculty, as well as local residents are also welcome to enroll in the 15 classes that will be offered.
 </p><p>“Summer Arts will benefit students and the local community by providing them with opportunities to study with premier artists from around the world,” said Professor Renee Curry, who led the effort to relocate the 28-year-old program to CSUMB.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>• In mid-May, the schedule of public performances will be available online. Tickets can be ordered online or by phone starting June 1. Call (831) 582-3499.  
 </p><p><em>Lower photo: Banners promoting Summer Arts will be posted around campus this summer</em>
 </p>
+```

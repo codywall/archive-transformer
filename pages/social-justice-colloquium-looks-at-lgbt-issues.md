@@ -4,6 +4,7 @@ title: "Social Justice Colloquium looks at LGBT issues"
 date: January 01 2020
 ---
 
+```html
 <p>This year’s Social Justice Colloquium at CSU Monterey Bay examines lesbian, gay, bisexual and transgender history, political organizing and the meaning of justice.
 </p><p>A panel of scholars, activists and students will discuss “Queer Justice: Past, Present, Future” at 6 p.m., April 14, in the University Center ballroom.
 </p><p>Panelists include:
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>The <a href="http://sbgs.csumb.edu">Division of Social, Behavioral and Global Studies</a>, the <a href="http://hcom.csumb.edu">Division of Humanities and Communication</a> and the Provost’s Office are sponsoring the event.
 </p><p>For more information or for disability accommodations, call Heather Wilde at 582&#45;3890.
 </p>
+```

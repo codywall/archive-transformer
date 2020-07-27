@@ -4,6 +4,7 @@ title: "News Releases 2016"
 date: January 01 2020
 ---
 
+```html
 <p><a href="https://csumb.edu/news/csumb&#45;partners&#45;mann&#45;packing&#45;establish&#45;college&#45;business&#45;scholarship"><strong>CSUMB Partners with Mann Packing to establish College of Business Scholarship</strong></a>
 </p><p>Cal State Monterey Bay has signed an agreement with Mann Packing to provide a scholarship for the CSUMB College of Business. The Mann Packing Scholarship is committing $10,000 per year for the next five years.
 </p><p><strong><a href="https://csumb.edu/news/csumb&#45;hosts&#45;better&#45;together&#45;california&#45;teachers&#45;summit&#45;july&#45;29&#45;0">CSUMB hosts Better Together: California Teachers Summit on July 29</a></strong>
@@ -78,3 +79,4 @@ date: January 01 2020
 </p><p><strong>Learning for the fun of it</strong>
 </p><p>What do U.S. foreign policy, Don DeLillo and the physiology and disorders of sleep have in common? They are among a diverse range of classes that will be offered in the spring through the Osher Lifelong Learning Institute – OLLI – at California State University, Monterey Bay. The courses and speakers are specifically geared for those 50 and better . . . <a href="https://csumb.edu/news/learning&#45;fun&#45;it">continue reading</a>
 </p>
+```

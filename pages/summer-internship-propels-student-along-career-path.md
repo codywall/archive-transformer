@@ -4,6 +4,7 @@ title: "Summer internship propels student along career path"
 date: January 01 2020
 ---
 
+```html
 <p>Janet Rodriguez grew up thinking she wanted to be a nurse.
 </p><p>To accomplish that goal, she took the prerequisite classes and put herself on a waiting list for a spot in a community college program.
 </p><p>“I knew I wanted to go into the health field, and I thought nursing was the only way to get there,” she said.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>“I have an excellent preceptor, Erica Padilla-Chavez, who is passionate about what she is doing and definitely portrays the leadership qualities needed to accomplish the goals set by the Health Department,” Rodriguez said.
 </p><p>Rodriguez has three semesters left to complete her degree. Her plans for the future include pursuing a master’s degree in public health and landing a job in community outreach and education.  
 </p>
+```

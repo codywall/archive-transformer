@@ -4,6 +4,7 @@ title: "Bruce W. Woolpert Algebra Academy inspires students to succeed"
 date: January 01 2020
 ---
 
+```html
 <p>10 MEMBERS Of FIRST GRADUATING CLASS HEADED TO CSUMB</p><p>While many teens spent the last days of summer at the beach, more than 115 incoming eighth&#45;graders from Santa Cruz, Monterey and San Benito counties hunkered down with calculators and pencils at the sixth annual <a href="http://algebraacademy.net/">Bruce W. Woolpert Algebra Academy.</a>
 
 The Algebra Academy was held over four days at Graniterock’s corporate office in Watsonville. Then came a field trip to CSU Monterey Bay and a graduation ceremony at E.A. Hall Middle School in Watsonville.
@@ -19,3 +20,4 @@ The algebra immersion program gives students a solid foundation in math through 
 </p><p>Participating schools include Aromas School, E.A. Hall Middle School, Pajaro Middle School, Rancho San Justo Middle School, Rolling Hills Middle School, San Juan Middle School and Tres Pinos Middle School.
 </p><p>In addition, Graniterock has created the Bruce W. Woolpert Mathematics Award for incoming CSUMB math majors who graduated from Watsonville, Pajaro or San Benito high schools. Priority goes to Algebra Academy graduates, though all math majors are encouraged to apply.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Acting out against sexual assault"
 date: January 01 2020
 ---
 
+```html
 <p>Call it an innovative approach to tackling a sensitive subject.
 </p><p>On Sept. 2, an acting troupe, Catharsis Productions, will make its first appearance at CSU Monterey Bay in a production called “<a href="http://www.catharsisproductions.com/sexsignals.php">Sex Signals</a>.”
 </p><p>It’s a series of skits and guided discussions led by a pair of specially trained actors who demonstrate that role-playing and blunt talk make more memorable sexual assault training than lectures.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The event is sponsored by Associated Students; CSUMB’s Office of Student Activities and Leadership Development; and the Title IX Coordinators’ Office.
 </p><p> 
 </p>
+```

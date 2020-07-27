@@ -4,6 +4,7 @@ title: "Capstone story"
 date: January 01 2020
 ---
 
+```html
 <h4>Capstone Festival gets under way May 8 - Most presentations May 14-15</h4><p>California State University, Monterey Bay will hold its 13th annual Capstone Festival starting on May 8 with the Policy Forum, presented by graduating students in the Master of Public Policy program. The forum will take place from 2 to 5 p.m. in the Alumni and Visitors Center.
 </p><p>Each spring, the CSUMB Capstone Festival celebrates the culminating projects of graduating seniors, credential candidates, and master's students as they present their work in sessions held by each academic department.
 </p><p>These projects reflect the knowledge, skills, and abilities developed over the course of a student's experience at CSUMB. They include research presentations, original poetry, oral histories, art projects, performances, tabletop exhibits, films and videos, multimedia works, computer visualizations, and more.
@@ -36,3 +37,4 @@ date: January 01 2020
 </p><p>Visual and Public ArtVisual and Public Art Center10 a.m.-3 p.m.
 </p><p> 
 </p>
+```

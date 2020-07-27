@@ -4,6 +4,7 @@ title: "Jimenez named CCAA Coach of the Year"
 date: January 01 2020
 ---
 
+```html
 <h3>Three players named to all-conference team</h3><p>Women's basketball coach Renee Jimenez took Coach of the Year honors in the California Collegiate Athletic Association.
 </p><p>Named to the all-conference first-team were seniors Julie Heurung and Michelle Santizo; senior LaShawn Johnson was a second-team pick.
 </p><p>"Individual awards are never something we talk about as a team," Jimenez said. "I am proud of these three and happy that they received the recognition they have deserved all season long.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>She started her playing career at Ventura College, helping the Pirates to the 2001 state junior college championship.
 </p><p> 
 </p>
+```

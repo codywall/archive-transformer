@@ -4,6 +4,7 @@ title: "Previous News Releases"
 date: January 01 2020
 ---
 
+```html
 <h4>January 2007 - December 2007</h4><p>CSUMB: The Year in Review
 </p><p>&#42;More students, commitment to the environment highlight 2007
 </p><p>&#42;&#42;&#42;December 18, 2007
@@ -268,3 +269,4 @@ date: January 01 2020
 </p><p><strong>KAZU to air State of the Union address</strong>Jan 17, 2007KAZU 90.3 FM, an affiliate of National Public Radio, will air President Bush's State of the Union address Tuesday, Jan. 31, at 6 p.mKAZU is a community service of California State University, Monterey Bay...<a href="x18196.xml"><strong>continue reading</strong></a>
 </p><p><strong>Fundraising Dinner and Auction Feb. 16</strong>Jan 4, 2007County Supervisor Butch Lindley will be the celebrity auctioneer and TV personality Barry Brown will be the master of ceremonies at the Have a Heart for Students dinner at California State University, Monterey Bay, on Feb. 16...<a href="x18197.xml"><strong>continue reading</strong></a>
 </p>
+```

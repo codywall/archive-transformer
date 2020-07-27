@@ -4,6 +4,7 @@ title: "Undergraduate research pays off big"
 date: January 01 2020
 ---
 
+```html
 <p>Two students earn prestigious NSF fellowships</p><p>Thanks to the National Science Foundation, a pair of CSU Monterey Bay students won’t have to worry about how they will pay for graduate school.
 </p><p>Beth Alger and Elisabeth Carrillo have received NSF’s Graduate Research Fellowships. The awards support students in science, technology, engineering and math&#45;related fields. For three years, each will receive an annual stipend of $34,000 and a $12,000 cost&#45;of&#45;education allowance to their universities, for a total grant of $138,000.
 </p><p>They participated in rigorous research and scholarship through the university’s Undergraduate Research Opportunities Center or UROC. They won research awards, published their findings and presented their work at professional conferences.
@@ -21,3 +22,4 @@ Alger and Carrillo are examples of how undergraduate research prepares students 
 </p><p>Since UROC was established in 2009, 20 students have earned Graduate Research Fellowships. That’s one of the reasons UROC has earned a national reputation for excellence, achievement and leadership.
 </p><p><em>Published April 5, 2016</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Psychologist Philip Zimbardo visits April 25"
 date: January 01 2020
 ---
 
+```html
 <p>Long after his notorious prison experiment, famous psychologist teaches how to act heroically
 </p><p>Psychologist Philip Zimbardo will make a return visit to CSU Monterey Bay on April 25 to lecture on “Good and Evil: The Heroic Imagination Project.”
 </p><p>The free event will start at 7 p.m. in the University Center on Sixth Avenue. Reservations are requested and can be made <a href="https://spreadsheets.google.com/viewform?hl=en&amp;formkey=dEVYeDZsamd5R0QwODE5cENmSnUzb0E6MA#gid=0">here</a>.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p><p><em>We are all potential heroes waiting for a moment in a life to perform a heroic d</em>eed. – Dr. Philip Zimbardo
 </p>
+```

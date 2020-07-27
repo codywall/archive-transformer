@@ -4,6 +4,7 @@ title: "WWII Re-enactment"
 date: January 01 2020
 ---
 
+```html
 <h4>Re-enactors bring World War II battle to Fort Ord</h4><p>Blink your eyes and Fort Ord suddenly becomes a German town on the Belgian border during World War II.
 </p><p>Blink again and it's September 1944, and an American patrol has entered Nazi Germany southwest of the ancient city of Aachen. Three months after the landing at Normandy, the Allies are finally within reach of the enemy on his home turf. Among the troops there is even talk of getting home for Christmas. What follows, though, is one of the most grueling campaigns of the war - a terrible struggle across the Siegfried Line, Hitler's vaunted West Wall.
 </p><p>That's the scenario as the World War II Research and Preservation Society comes to Seaside on the Monterey Peninsula the weekend of Sept. 10.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><h5>War games</h5><p><strong>When:</strong> Saturday, Sept. 10. The "battle" will take place from 3 to 5 p.m. <strong>SPECTATORS NEED TO BE THERE BY 2 P.M. What:</strong> Re-enactment of the Allied assault on the "West Wall" of Germany in the autumn of 1944 <strong>Admission:</strong> Adults, $10; students and military (active or retired), $8; children under 12, $5. <strong>Parking:</strong> Park on the lot located at Fifth Street and Third Avenue. Tickets can be purchased at the parking lot <strong>Information/ticket purchases:</strong> (831) 582-3595
 </p><p><strong>Online:</strong><a href="http://www.ww2rps.com">www.ww2rps.com</a>; <a href="http://foaa.csumb.edu">http://foaa.csumb.edu</a>
 </p>
+```

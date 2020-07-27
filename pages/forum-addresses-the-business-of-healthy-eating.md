@@ -4,6 +4,7 @@ title: "Forum addresses the business of healthy eating"
 date: January 01 2020
 ---
 
+```html
 <h3>Greater Vision forum looks at public health and agriculture</h3><p>The “Greater Vision” series of public forums on topics important to local agriculture and the larger community continues Oct. 22 at California State University, Monterey Bay. The topic is “The Business of Healthy Eating.”
 </p><p>Central Coast agriculture grows fruits and vegetables recommended for a healthy diet. The agriculture industry and public health are working together to protect the environment and prevent diseases such as diabetes. A public&#45;private partnership, uneasy at times, is emerging to address this challenge.
 </p><p>This series will address how the systems of production agriculture and the promotion of public health can work together to provide value&#45;added produce at an affordable price while protecting farm workers and the environment. In three annual sessions, experts will examine this challenge and how it can be addressed through public policy, marketing programs designed to promote the public good, and new production technologies
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><strong>4 p.m</strong>. – Audience Q&#45;and&#45;A
 </p><p><strong>4:25 p.m</strong>. – Closing remarks
 </p>
+```

@@ -4,6 +4,7 @@ title: "Foundation of CSUMB adds board members"
 date: January 01 2020
 ---
 
+```html
 <p>Eight community members have joined the Foundation of CSU Monterey Bay board of directors.
 </p><p>Established in 2011, the Foundation brings community and campus leaders together to foster, encourage and promote the goals and purposes of CSUMB. Board members will advise the president and other university officers and play an active role in philanthropic support.
 </p><p>“In addition to the traditional role of financial stewardship and university advocacy, foundation board members will provide us with important strategic advice and counsel as CSUMB deepens its community engagement and responsiveness to regional needs,” said university President Eduardo Ochoa. “As respected and knowledgeable community leaders, their input will prove invaluable to that purpose.”
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>President Ochoa, Kevin Saunders, vice president for administration and finance, and Barbara Zappas, vice president of university development and CEO of the foundation, are ex-officio board members.
 </p><p> 
 </p>
+```

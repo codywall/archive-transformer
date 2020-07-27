@@ -4,6 +4,7 @@ title: "Film students' work to be shown Dec. 20"
 date: January 01 2020
 ---
 
+```html
 <h3>Capstone festival presents screen gems</h3><p>The World Theater stage on the campus of CSU Monterey Bay will host a stellar selection of student films at this year’s Fall Capstone Festival, scheduled for two public screenings on Dec. 20 in the World Theater. The matinee showing will begin at 1 p.m.; the program repeats at 6 o’clock. Admission is free.
 </p><p>The Capstone Festival event will feature 13 professional-quality film productions spanning genres, including documentary, narrative and experimental works produced by students of CSUMB’s Teledramatic Arts and Technology Department.
 </p><p>The program includes Mattieu Mauthes’ THE TOME, a comedic romp through the daily life of a terminally-underemployed paranormal investigator, and Renee Infelise’s A FUNDAMENTAL RIGHT, a short documentary featuring award-winning writer Dustin Lance Black speaking passionately about his politically-charged play “8.”
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>The event is co-sponsored by the Monterey Bay Film Society. <a href="http://news.csumb.edu/gallery/tat-capstone-festival-fall-2012">View a photo gallery of stills from the films.</a> <a href="http://csumb.edu/capstone">View the campuswide Capstone Festival schedule.</a> <a href="http://csumb.edu/tat">Learn more about Teledramatic Arts and Technology at CSUMB</a>.
 </p><p><em>Image from Kevin Protz's animated comedy Night of the Living Food</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Choir performs for Black History Month"
 date: January 01 2020
 ---
 
+```html
 <p>To celebrate Black History Month, California State University, Monterey Bay invites the public to a free musical performance by the group Voices of Freedom.
 </p><p>The hourlong concert will be held at 6 p.m. on Tuesday, Feb. 8, in the Music Hall on Sixth Avenue, near the intersection with Butler Street. Driving directions and a campus are available at csumb.edu/map.
 </p><p>Oakland-based Voices of Freedom is comprised of members of church choirs, students and faculty at several Bay Area colleges as well as members of the community.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

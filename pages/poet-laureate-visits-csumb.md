@@ -4,6 +4,7 @@ title: "Poet laureate visits CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>JUAN FELIPE HERRERA TO READ AS PART OF SUMMER ARTS</p><p>Poets are prominent at this year’s edition of <a href="http://csusummerarts.org">Summer Arts</a>, but the most prominent may be Juan Felipe Herrera, newly named U.S. poet laureate.
 </p><p>In June, the Library of Congress made him the 21st person to hold that title.When he starts his tenure in September, he’ll be the first Chicano poet laureate, writing and speaking in English and Spanish.
 </p><p>Herrera will read at the World Theater at 7 p.m., July 21. Tickets are $15 and can be reserved by calling the Summer Arts box office at 262&#45;2714 or purchased at the door.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Herrera, who lives in Fresno, recently retired from UC Riverside where he taught creative writing for a decade. He just ended a two&#45;year term as California’s poet laureate.
 </p><p>Listen to an <a href="http://www.npr.org/sections/thetwo&#45;way/2015/06/10/412909814/juan&#45;felipe&#45;herrera&#45;named&#45;u&#45;s&#45;poet&#45;laureate">interview on NPR</a>
 </p>
+```

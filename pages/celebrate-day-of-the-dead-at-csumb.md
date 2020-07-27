@@ -4,6 +4,7 @@ title: "Celebrate Day of the Dead at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>When Dia de los Muertos, or Day of the Dead, arrives, family members of departed souls set out water, candles, food and decorated sugar skulls to welcome their lost loved ones. Widely celebrated in Latin America, the day honors the dead as living entities. It celebrates the departed, and helps keep them present in life.
 </p><p>This year's Dia de los Muertos celebration at California State University, Monterey Bay, will be held on Nov. 2.
 </p><p>The free event will begin at 6 p.m. in the University Center on Sixth Avenue with performances by Aztec dancers and musicians and will include a processional, an outdoor exhibition, live music, pan dulce and hot chocolate. The main altar will be displayed in the University Center ballroom; smaller altars constructed by student and community groups will also be on display.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p><a href="http://vpa.csumb.edu/dead/">Learn more about Day of the Dead.</a>
 </p><p><a href="http://cahss.csumb.edu/site/x21204.xml">View a video of Day of the Dead</a> at CSUMB, including a video featuring Dr. Amalia Mesa&#45;Bains.
 </p>
+```

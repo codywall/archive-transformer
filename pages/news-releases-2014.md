@@ -4,6 +4,7 @@ title: "News Releases 2014"
 date: January 01 2020
 ---
 
+```html
 <p><strong>First class of nursing students gets 'pinned'</strong>
 </p><p>For one group of history&#45;making Cal State Monterey Bay graduates, it's not about the caps and gowns. It's about the pin. . . . <a href="/news/2014/dec/18/first&#45;class&#45;nursing&#45;students&#45;gets&#45;pinned">continue reading</a>
 </p><p><strong>CSUMB holds annual Capstone Festival Dec. 18 and 19</strong>
@@ -191,3 +192,4 @@ date: January 01 2020
 </p><p><strong>'Jump Rope Sprint' – A gold medal dream_Mockumentary screening to benefit Cinematic Arts at CSUMB_</strong>
 </p><p>What started as a silly idea for a movie has become a reality – and may be headed for the Olympics. . . "Jump Rope Sprint" will get its first local showing at Carmel's Sunset Center on Jan. 11, a fundraiser for CSU Monterey Bay's Cinematic Arts community outreach programs. . . . <a href="/news/2013/dec/31/jump&#45;rope&#45;sprint&#45;%E2%80%93&#45;gold&#45;medal&#45;dream">continue reading</a>
 </p>
+```

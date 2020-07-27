@@ -4,6 +4,7 @@ title: "Parent-teen phone conversations say a lot"
 date: January 01 2020
 ---
 
+```html
 <p>With at least 75 percent of teenagers owning cell phones, it’s no surprise that the devices are playing an important role in parenting.
 </p><p>CSUMB’s Rob Weisskirch, a professor in the Liberal Studies Department, is among the researchers investigating how cell phones affect the parent-teen relationship.
 </p><p>In a study reported online in Cyberpsychology, Behavior, and Social Networking, a peer-reviewed journal published by Mary Ann Liebert, Inc., Dr. Weisskirch found that the nature of the calls and who initiates them can affect the relationship.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>His research interests are the effects of language brokering on children (i.e., when children acts as translators for parents and other adults), acculturation, and ethnic identity development. In addition, he studies the effect of technology on adolescent relationships.
 </p><p>The New York Times article can be found <a href="http://well.blogs.nytimes.com/2011/07/01/what-cellphone-calls-say-about-parent-teenager-relations/#more-54921">here</a>.   
 </p>
+```

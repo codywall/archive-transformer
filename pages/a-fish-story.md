@@ -4,6 +4,7 @@ title: "A fish story"
 date: January 01 2020
 ---
 
+```html
 <h3>Interns help to rescue 40,000 steelhead</h3><p>CSU Monterey Bay students help the local community in a variety of ways, as interns and service learners.
 </p><p>Recently, undergrads and graduate students from the <a href="http://sep.csumb.edu/sep/">Division of Science and Environmental Policy</a> helped in an unusual way – with the annual steelhead rescue on the Carmel River.
 </p><p>The Monterey Peninsula Water Management District’s steelhead rescue teams worked through the spring and summer to save over 40,000 fish from drying sections of the river and move them to a facility where they could grow until river flows reach adequate levels for their release in the winter.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><em>Photo by Monterey Peninsula Water Management District Student interns and Water Management District staff with “Big Red,” a fish rescue and transport vehicle. From left: Kevan Urquhart, Matt Lyons, Daniel Merino, Cory Hamilton, Mark Bekker, Evan DeLay, Mitchell Masuda and Kenneth Norberg</em>
 </p><p> 
 </p>
+```

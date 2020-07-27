@@ -4,6 +4,7 @@ title: "Concert offers an array of new music"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay’s concert series resumes on Oct. 13 with a free performance by A/B Duo.
 </p><p>Included in the program is a new piece for contrabass flute and percussion written by Monterey County native Ned McGowan.
 </p><p>A/B Duo – percussionist Christopher Jones and flutist Meerenai Shim – performs contemporary music. Part garage band, part Bang on a Can All Stars, they commission most of the music they perform. It varies wildly in style and instrumentation – from djembe and contrabass flute to Nintendo Gameboy and drum set.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://abduo.net">Read more about A/B Duo</a>
 </p><p><a href="http://mpa.csumb.edu">Learn more about the music program at CSUMB</a>  
 </p>
+```

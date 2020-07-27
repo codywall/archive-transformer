@@ -4,6 +4,7 @@ title: "Redhouse jazzes up Native American flute"
 date: January 01 2020
 ---
 
+```html
 <h3>Workshop, concert, keynote address, panel discussion
 	celebrate Heritage Month on Nov. 8</h3><p>Flute player Vince Redhouse will visit Cal State Monterey Bay as part of the university’s celebration of Native American Heritage Month.
 </p><p>Redhouse will be on campus on Nov. 8 for a full day of activities, including a workshop; a concert; and a panel discussion on contemporary American Indian identity.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>Details: • Flute workshop: 9-11 a.m., Oaks Hall, Rooms 109-110.
 </p><p>• Keynote address: Noon-2 p.m., Media Learning Complex (Bldg. 18), Room 118. Dr. Patti Jo King will talk on "Seeing Red in a Black and White World: Including Indians in Racial Discourse."  • Concert: 2-4 p.m., Tanimura and Antle libary, Room 1188 • Panel Discussion: 6-8 p.m., Alumni and Visitors Center The community is invited to attend the events. Reservations are requested and can be made by calling 582-3890. Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.   <a href="http://sbgs.csumb.edu/">Learn more about the Division of Social, Behavioral and Global Studies.</a>
 </p>
+```

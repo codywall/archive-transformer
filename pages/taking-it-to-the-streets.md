@@ -4,6 +4,7 @@ title: "Taking it to the streets"
 date: January 01 2020
 ---
 
+```html
 <p>There isn’t an earthshaking reason to close 1.6 miles of city streets in Salinas on Oct. 25 – no hometown hero is visiting, no sports team won a championship – but the city is doing so anyway.
 </p><p>Thanks to CSU Monterey Bay student Bernard Green,the university will be represented as the city celebrates <a href="http://openstreetsproject.org/salinas/">Ciclovia</a>, part of a global movement to get residents outdoors for biking, walking, roller&#45;skating, skateboarding – any kind of people&#45;powered transportation – on motor vehicle&#45;free streets.
 </p><p>Green, the university’s student transportation coordinator, will build a <a href="http://www.peopleforbikes.org/blog/entry/the&#45;summer&#45;of&#45;demos&#45;one&#45;day&#45;protected&#45;bike&#45;lanes&#45;sweep&#45;across&#45;america">pop&#45;up protected bikeway</a> between two intersections along the route. He’ll explain the benefits of protected/separated bikeways and related projects that are planned or under way in Monterey County.
@@ -14,3 +15,4 @@ Green has been cycling for years, starting as a competitive cyclist at the Los A
 
 His goal is for CSUMB to be officially recognized by the League of American Bicyclists as a bike&#45;friendly campus by the time he graduates in 2016. After graduation, he’s thinking about moving to the Pacific Northwest and studying urban planning in graduate school.
 </p>
+```

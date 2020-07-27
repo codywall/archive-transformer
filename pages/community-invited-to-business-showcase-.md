@@ -4,6 +4,7 @@ title: "Community invited to Business Showcase "
 date: January 01 2020
 ---
 
+```html
 <p>April 10, 2010
 </p><p><strong><em>Chapin, Leahy to be honored with leadership awards</em></strong>
 </p><p>Don Chapin, president and CEO of the Don Chapin Company, and Bill Leahy, executive director of the Big Sur Land Trust, will be honored at CSU Monterey Bay's School of Business Showcase.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Tickets are $100 each. Reservations may be made by calling 582-4141 by April 28. For more information, call 582-3653.
 </p><p> 
 </p>
+```

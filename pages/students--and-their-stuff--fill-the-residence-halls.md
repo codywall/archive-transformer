@@ -4,6 +4,7 @@ title: "Students – and their stuff – fill the residence halls"
 date: January 01 2020
 ---
 
+```html
 <p>Hundreds of excited students carried, dragged and wheeled their belongings into the residence halls at CSU Monterey Bay on Aug. 21, the first day of the three-day move-in weekend.</p><p>By the time classes start on Aug. 24, approximately 3,700 students who live on the main campus, in East Campus and in the newly opened Promontory will be settled into the rooms and apartments that will be their home for the next year.
 
 All the activity happened with the help of dozens of staff, faculty and students who had volunteered for the Otter Welcome Team. They answered questions, carried boxes and gave directions to the new arrivals, most of whom were accompanied by parents and siblings.
@@ -20,3 +21,4 @@ Then he sounded a familiar refrain: “The weather alone would win me over!”
 </p><p>The incoming class includes 1,026 freshmen and 850 transfer students. Total enrollment is approximately 7,000, with 53 percent of them living on campus.
 </p><p>The university scheduled a week’s worth of <a href="https://csumb.edu/otterdays">activities</a> to help the new students get acquainted with each other and connect to the campus. An ice cream social, a comedy and magic show, and a late&#45;night DJ in the Student Center got the week rolling on Friday evening.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Alum launches podcast and video series"
 date: January 01 2020
 ---
 
+```html
 <p>Ed Carapezza (TAT ’13) has launched the National Music Sanctuary, a podcast and video series.
 </p><p>Students and faculty member Lanier Sammons of CSUMB’s Music and Performing Arts Department, and Scott Grover of the Golden State Theatre are working with his company, Dangerbag Productions.
 </p><p>Local musicians as well as those traveling through the Central Coast perform short sets, which are recorded by students in the university’s recording technology program and video is shot. The final product is <a href="http://sharedvisionfilms.com/post/49519527904/dangerbag-is-proud-to-present-another-video">posted online</a>.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>The 43-year-old Carapezza has taken a circuitous route to where he is now – he worked in Hollywood as a grip and electrician and on the East Coast in construction; he studied at CSUMB, left and came back.
 </p><p>When he’s not working in the editing bays at TAT, he’s in the Music Department’s recording studio, implementing his seemingly endless supply of ideas.
 </p>
+```

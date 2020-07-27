@@ -4,6 +4,7 @@ title: "Learn about Master of Social Work program"
 date: January 01 2020
 ---
 
+```html
 <p>Anyone interested in the Master of Social Work program at CSU Monterey Bay is invited to attend information sessions scheduled for Sept. 10.
 </p><p>Sessions will be held in the program’s offices in Beach Hall, located on Divarty Street between Fourth and Fifth avenues. The sessions will be held from noon to 1 p.m., and from 4 to 5 p.m.
 </p><p>Applications for fall 2013 may be submitted starting Oct. 1 and must be received by Jan. 31 for priority consideration.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Information sessions will follow monthly. Check the <a href="http://csumb.edu/msw">website</a> for dates and times.
 </p><p> 
 </p>
+```

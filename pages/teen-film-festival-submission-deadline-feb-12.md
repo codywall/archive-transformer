@@ -4,6 +4,7 @@ title: "Teen Film Festival submission deadline Feb. 12"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 3, 2010
 </p><p>Young filmmakers eager to see their work on a screen bigger than YouTube will get the opportunity in April, when CSUMB holds its second annual Teen Film Festival.
 </p><h4></h4><h4></h4><p>The Teledramatic Arts and Technology Department is accepting applications for the festival, which will be held at CSUMB's World Theater on April 3. Entries can be submitted online at csumb.edu/filmfestival.    Filmmakers between 13 and 19 years old are invited to submit films and videos up to five minutes in length. Entries may be in English or Spanish and there is no entry fee.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><h4></h4><h4></h4><h4></h4><h4></h4><h4></h4><p><em> </em>
 </p><p> 
 </p>
+```

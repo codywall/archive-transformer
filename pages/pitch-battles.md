@@ -4,6 +4,7 @@ title: "PITCH BATTLES"
 date: January 01 2020
 ---
 
+```html
 <h3>A multimedia investigation into musical tunings</h3><p>Machine Project, a Los Angeles-based arts organization, will visit CSU Monterey Bay for two public events Wednesday and Thursday, Feb. 15 and 16, sponsored by the Teledramatic Arts and Technology Department and the Monterey Bay Film Society.
 </p><p>On Thursday at 6:30 p.m., writer Colin Dickey, artist Nicole Antebi and musician Chris Kallmyer will explore a bit of musical history and the controversy it has generated.
 </p><p>In overlapping performances, they will explore the difference between two rival pitches – 440 Hz and 432 Hz. Sound and music consist of vibrations; the more vibrations per second, the higher the pitch. The unit for measuring this is the Hertz, abbreviated Hz.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p><p><em>Photo of Chris Kallmyer by Alex Stephens</em>  
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB grads working on feature film"
 date: January 01 2020
 ---
 
+```html
 <p>Robert Machoian and Rodrigo Ojeda-Beck are at work on their first feature film.
 </p><p>The graduates of CSU Monterey Bay’s Teledramatic Arts and Technology program began production this week in King City, an agricultural community in south Monterey County.
 </p><p>Their film, <em>Forty Years From Yesterday</em>, tells the story of a widower named Bruce, who is struggling to deal with the death of his wife.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><em>Photo: Robert Machoian and Rodrigo Ojeda-Beck screen their short, *Charlie and the Rabbit</em>, on campus. At right is TAT department chair Enid Blader.*
 </p><p> 
 </p>
+```

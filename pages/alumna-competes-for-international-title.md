@@ -4,6 +4,7 @@ title: "Alumna competes for international title"
 date: January 01 2020
 ---
 
+```html
 <h3>A scuba beauty pageant?</h3><p>“Saltwater runs through my veins,” said Chanel Hason, a 2010 graduate of the <a href="http://catalog.csumb.edu/undergrad-education/majors/environmental-science-technology-policy">Environmental Science, Technology and Policy</a> program.
 </p><p>That’s why the idea of vying for the title of Miss Scuba International 2013 – a competition devoted to protecting the oceans – appeals to her. She will represent the United States in the pageant on Dec. 20 in Malaysia.
 </p><p>You’ve never heard of the competition? That may be because it’s only two years old and was founded by the owner of several diving resorts in Malaysia.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p><em>Photos courtesy of Chanel Hason Top photo: The 2010 graduate of CSUMB's ESTP program dives at the Great Barrier Reef in Australia  Bottom: At a beach in El Porto, California</em>
 </p><p> 
 </p>
+```

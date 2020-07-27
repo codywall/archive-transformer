@@ -4,6 +4,7 @@ title: "Otter Realm honored at national convention"
 date: January 01 2020
 ---
 
+```html
 <p>The Otter Realm, CSU Monterey Bay’s student newspaper, was honored at the National College Journalism Convention held recently in Seattle.
 </p><p>The Associated Collegiate Press, the largest and oldest national organization for college student media in the U.S., sponsored the convention.
 </p><p>The Otter Realm competed in the Best of Show contest, which was judged on the basis of a single issue of the editor’s choice published this academic year. Competition was held for daily papers, weekly publications, and less-than-weekly papers – the Otter Realm’s category, where it earned a fourth-place award.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Professor Estella Porras is the faculty adviser.
 </p><p> 
 </p>
+```

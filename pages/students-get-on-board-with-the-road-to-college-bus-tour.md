@@ -4,6 +4,7 @@ title: "Students get on board with the Road to College Bus Tour"
 date: January 01 2020
 ---
 
+```html
 <p>May 3, 2010
 </p><p>
 </p><p>The California State University is taking to the road with the message of academic preparation, access for underserved students and the need for future workforce professionals in California.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>More information is available <a href="http://www.calstate.edu/roadtocollege">here</a>.
 </p><p> 
 </p>
+```

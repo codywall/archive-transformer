@@ -4,6 +4,7 @@ title: "CSUMB adds two more fully online graduate degrees"
 date: January 01 2020
 ---
 
+```html
 <p>California State University, Monterey Bay will be among the first CSU campuses to offer degrees through the new Cal State Online, an initiative intended to expand access to fully online bachelor’s and master’s degrees.
 </p><p>Programs offered through CSUMB include:
 </p><p><strong>• Master of Science in Instructional Science and Technology (MIST)</strong>
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>For more information, visit the <a href="http://www.calstateonline.net">website</a> or call 1-800-247-5268 to speak with a Cal State Online coach.
 </p><p>The university has offered an online MBA program since 2008.
 </p>
+```

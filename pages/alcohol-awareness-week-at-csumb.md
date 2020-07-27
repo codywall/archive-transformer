@@ -4,6 +4,7 @@ title: "Alcohol Awareness Week at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 29, 2009
 </p><p>During the week of Oct. 11, students at California State University, Monterey Bay will join with their peers on more than 1,000 campuses across the country to promote National Collegiate Alcohol Awareness Week (NCAAW). 
 </p><p>During the week, students will have the opportunity to participate in a variety of events, all designed to reinforce personal responsibility and respect for state laws and campus policies when it comes to the consumption of alcohol beverages. This year's activities include:
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

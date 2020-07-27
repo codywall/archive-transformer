@@ -4,6 +4,7 @@ title: "Electrical service to be shut down May 28-29"
 date: January 01 2020
 ---
 
+```html
 <p>On the weekend of May 28 and 29, electrical service to many buildings on the main campus will be shut down in order to complete much&#45;needed improvements to the system.
 </p><p>Service to these buildings will be shut down from 5 a.m. to 5 p.m. on both days.
 </p><p>These dates provide the best opportunity to accomplish this important work with minimal impact to campus.
@@ -46,3 +47,4 @@ Building 301 – Strawberry Apartments
 Building 302 – Pinnacles Suites
 Building 303 – Vineyard Suites
 </p>
+```

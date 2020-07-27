@@ -4,6 +4,7 @@ title: "Students help to tell stories of Chinatown"
 date: January 01 2020
 ---
 
+```html
 <h3>Grant funds development of oral history walking tour</h3><p>For six years, Professor Rina Benmayor’s students at CSU Monterey Bay have worked to preserve memories of the Chinatown area of Salinas.
 </p><p>In partnership with the non-profit Asian Cultural Experience, students in her Oral History and Community Memory service learning classes have designed, conducted and archived oral histories focused on life stories and Chinatown memories of members of the Chinese, Japanese, Filipino and Latino communities.
 </p><p>Those memories will be the basis for “Imagine Salinas Chinatown: An Oral History Walking Tour,” thanks to a $10,000 grant from Cal Humanities. The grant was awarded as part of the non-profit organization’s effort to collect, preserve, interpret and share the stories of California communities.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://hcom.csumb.edu/oral-history">Learn about CSUMB’s Oral History and Community Memory Archive</a> <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights">More faculty news</a>  
 </p><p><em>Photo: Sign on the Republic Café, future home of the Salinas Chinatown Cultural Center and Museum. The museum is the cornerstone of the Chinatown Renewal Project, a cooperative effort among CSUMB, the Salinas Redevelopment Agency and the Salinas Downtown Community Board to revitalize the 12-block neighborhood. In the video below, Dr. Benmayor talks about digital storytelling.  </em>
 </p>
+```

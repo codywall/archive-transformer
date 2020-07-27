@@ -4,6 +4,7 @@ title: "SEEDS OF SUCCESS"
 date: January 01 2020
 ---
 
+```html
 <p>When a CSU Monterey Bay student’s capstone project is completed, local residents will be able to grow their own food, with help from an unlikely source.
 </p><p>Heather Cunningham is working to set up a seed library at the Monterey Public Library as part of the graduation requirements for her degree in <a href="http://sep.csumb.edu/es/">Environmental Studies.</a>
 </p><p>Cunningham points out that the idea is taking root across the country, with about 30 in operation, mostly in public libraries in California.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

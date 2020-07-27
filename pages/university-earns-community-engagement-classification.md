@@ -4,6 +4,7 @@ title: "University earns community engagement classification"
 date: January 01 2020
 ---
 
+```html
 <p>The Carnegie Foundation for the Advancement of Teaching has once again honored CSU Monterey Bay for its focus on service and public engagement, making it one of only 361 institutions in the United States to hold the classification.
 </p><p>The 2015 Community Engagement Classification documents CSUMB’s “excellent alignment among campus mission, culture, leadership, resources and practices that support dynamic and noteworthy community engagement,” according to the foundation.
 </p><p>Community engagement, as defined by the foundation, focuses on the collaboration between institutions of higher education and their larger communities for the mutually beneficial exchange of knowledge and resources.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>• The <a href="http://news.csumb.edu/news/2014/aug/1/mastering&#45;math">Algebra Academy</a> and <a href="http://news.csumb.edu/news/2014/jun/25/high&#45;school&#45;students&#45;imagine&#45;college">Imagine College</a>, which work directly with local youth in college preparation courses.
 </p><p>The university was honored with another community engagement award in December – the 2014 President’s Higher Education Community Service Honor Roll, awarded by the Corporation for National and Community Service. CSUMB is the only two&#45;time recipient of the prestigious President’s Award for Community Service in Higher Education.
 </p>
+```

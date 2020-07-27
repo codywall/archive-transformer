@@ -4,6 +4,7 @@ title: "Dr. Lindholm goes to Washington"
 date: January 01 2020
 ---
 
+```html
 <p>At Capitol Hill Ocean Week, held June 10-12, marine scientists and others interested in the state of the world’s oceans gathered in Washington, D.C.
 </p><p>Among them was CSU Monterey Bay Professor James Lindholm, who was there on behalf of the CSU Council on Ocean Affairs, Science and Technology (COAST).
 </p><p>He and several colleagues visited offices of elected officials and federal agencies to discuss contributions that the CSU has made to marine science.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://kazu.org/post/scientists-catalog-life-monterey-bay-national-marine-sanctuary">Read the KAZU story on Dr. Lindholm's work in the Monterey Bay National Marine Sanctuary</a>
 </p><p><a href="https://www.calstate.edu/coast/">Learn more about COAST</a>
 </p>
+```

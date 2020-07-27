@@ -4,6 +4,7 @@ title: "A Pearl of a Singer"
 date: January 01 2020
 ---
 
+```html
 <h3>Perla Batalla brings her sublime voice to World Theater</h3><p>One voice. Two languages. Many traditions.
 </p><p>That’s what will be on display when Grammy nominated vocalist and composer Perla Batalla returns to California State University, Monterey Bay’s World Theater on Oct. 18 as the Performing Arts Series continues. Showtime is 7:30 p.m.
 </p><p>No newcomer to the area, Batalla performed on the Seaside campus in the past and is back by popular demand.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“We are so pleased to have Perla return to the World Theater stage. She’s the ultimate professional and a pleasure to work with.”
 </p><p>Tickets range from $25 to $40 and can be purchased by calling the World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater">online</a>. The World Theater is located on Sixth Avenue between A and B streets on the CSUMB campus. Driving directions and a campus map are available at CSUMB.edu/map. <em>“. . . Batalla’s music caresses . . . a born storyteller with a rambunctious sense of humor. "</em> – Los Angeles Times  
 </p>
+```

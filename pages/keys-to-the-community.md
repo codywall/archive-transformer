@@ -4,6 +4,7 @@ title: "Keys to the Community"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB art student helps with ‘Play Me, I’m Yours’ project</h3><p>Monterey County has street art and street people. Now, it’s got street pianos, 11 of them, or it will until March 24, when the “Play Me, I’m Yours” project ends.
 </p><p>The pianos are available for anyone to play. The point is simple: Bring communities together through random acts of public music.
 </p><p>As part of the vision of British artist Luke Jerram, who conceived of "Play Me, I'm Yours" in 2008 in his native England, the pianos become the works of art. Each is decorated by a local artist.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>The Monterey County Symphony is the local sponsor of the project.
 </p><p><em>Photo: Alycia Drube and the piano she painted at the National Steinbeck Center. The piano will remain at the center until it is displayed on campus at the Visual and Public Art Department’s “Site Specific” event in late April.  </em>
 </p>
+```

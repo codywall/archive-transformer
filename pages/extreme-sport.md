@@ -4,6 +4,7 @@ title: "EXTREME SPORT"
 date: January 01 2020
 ---
 
+```html
 <h3>Mexican film about ancient game to be screened Oct. 12</h3><p>Each Sunday during the fall and winter months, while many Americans watch football on television, another sports tradition is taking place in some areas of Mexico. That game, ulama, involves five-man teams of athletes volleying rubber balls off their hips across dirt playing fields. It has been played throughout Mesoamerica for thousands of years. Excavations have found ceramic figurines and ball courts from the fourth century A.D.
 </p><p>Luckily for modern-day players, the stakes are no longer as high as they were in Aztec times. The winners then were rewarded with a prime spot on the sacrificial altar, on their way to an afterlife with the gods; the losers were banished.
 </p><p>The sport – one of the best links between the pre-Hispanic world and modern Mexico – gained worldwide attention when the documentary film “Ulama: el juego de la vida y la muerte” (Ulama: the Mayan ballgame of life and death) was first shown in 1984.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>For more information or disability accommodations, call the World Theater box office at 582-4580. Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p><p><em>Photo: Roberto Rochín</em>  
 </p>
+```

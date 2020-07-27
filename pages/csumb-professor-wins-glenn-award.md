@@ -4,6 +4,7 @@ title: "CSUMB professor wins Glenn Award"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 18, 2009
 </p><p>Dr. Lou Denti, a professor of special education at CSU Monterey Bay and director of the university's Center for Reading Instruction and Diagnosis, has dedicated his life to helping those who struggle to learn.
 </p><p>Educators across the country have benefited from his research, publications and presentations, but in late October he had a memorable speaking engagement.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

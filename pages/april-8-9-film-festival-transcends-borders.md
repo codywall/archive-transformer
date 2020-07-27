@@ -4,6 +4,7 @@ title: "April 8-9 film festival transcends borders"
 date: January 01 2020
 ---
 
+```html
 <h3>Director Rodrigo Garcia on hand for April 8 screening</h3><p>The Monterey Bay Film Festival is back for its fourth year and it’s bigger and better than ever.
 </p><p>Now under the auspices of the newly formed Monterey Bay Film Society, the festival has grown to two days and a pair of locations.
 </p><p>This year’s festival will be held April 8 and 9. It opens with a showing of the Mexican film, Revolucion, at 7 p.m., April 8, at Lighthouse Cinema in Pacific Grove. Tickets are $9 for general admission, $6.50 for students.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

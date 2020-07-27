@@ -4,6 +4,7 @@ title: "Students take tech ideas for test ride"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay students will put their creative and technical skills to work at HACK UCSC 2015.
 </p><p>Organizers at UC Santa Cruz have expanded the Jan. 9&#45;11 hackathon from last year’s campus event to one that is open to high school and college students around Monterey Bay. More than 300 programmers, designers and tech enthusiasts are expected to compete for $10,000 in cash and prizes.
 </p><p>A hackathon is a coding marathon where teams comprised of developers, designers and entrepreneurs work together to create apps and programs. The themes for this event are technology, environmental stewardship and social justice.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><strong>COST</strong>: $20 per student prior to Nov. 22; $25 after that date
 </p><p><strong><a href="http://www.hackucsc.com/">REGISTER FOR HACK UCSC</a></strong>
 </p>
+```

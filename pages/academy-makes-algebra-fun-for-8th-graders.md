@@ -4,6 +4,7 @@ title: "Academy makes algebra fun for 8th graders"
 date: January 01 2020
 ---
 
+```html
 <p>Fifty-three students from Rolling Hills Middle School in Watsonville voluntarily spent their last week of winter break studying algebra – and having fun.
 </p><p>The Algebra Academy was held at the headquarters of Graniterock in Watsonville from Jan. 3 through 6. On Friday of that week, the youngsters spent the day on the campus of California State University, Monterey Bay, then returned to Graniterock for a graduation ceremony on Saturday, where they received certificates.
 </p><p>CSUMB math professors Hongde Hu and Lorraine O’Shea, assisted by four university students, taught the classes.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>The program’s goals are to reduce the percentage of college freshmen who need remedial math from 60 to under 40 percent; to help high school teachers invigorate their courses and collaborate with college professors on curriculum; and to document the work so that it can be used on campuses across the country.
 </p><p>Working with HP, the university has created a remedial math program that serves about 500 of its own freshmen each year. More than 92 percent of students are passing the two-semester course, compared to the national rate of just under 50 percent.  
 </p>
+```

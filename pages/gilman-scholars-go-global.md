@@ -4,6 +4,7 @@ title: "Gilman Scholars go global"
 date: January 01 2020
 ---
 
+```html
 <h3>Record number of CSUMB students get help to study abroad</h3><p>Studying abroad can bring a variety of benefits: immersion in a new culture; the opportunity to master another language; and an enriching academic experience with career benefits. But it can also bring hefty expenses.
 </p><p>Thirteen CSU Monterey Bay students – a record number – will use financial aid from the Benjamin Gilman International Scholarship Program to help cover the costs of their overseas study starting in the fall.
 </p><p>Established in 2001, the program supports travel by students who have been traditionally underrepresented, including those with financial need, students with diverse ethnic backgrounds and those with disabilities. To qualify for the scholarship, students must be Pell Grant recipients. Applicants must be headed for countries other than Western Europe or Australia. Students from all fields of study are eligible. The competitive program offers grants of up to $8,000 to defray the costs of tuition, room and board, books, local transportation, insurance and airfare. Congressionally funded, the program awarded more than 2,300 scholarships for the 2011-12 academic year.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>• Erik Barbosa, Woodland – Germany • Stuti Desai, Monterey – United Kingdom • Jenna DeVries, Gilroy – Japan? • Akira Sugita-Vasquez, Fresno – Japan • Terry Tan, Salinas – Japan • Rachell Hester, Cambria – Japan • Carolina Liemola, Auburn – Spain? • Kyle Lipscombe, South Lake Tahoe – Japan • Rodney Harmon, Highland – Chile • Amanda Esswein, Cupertino – Japan • Tyler McGee, Fountain Valley – China • Jordan Sanchez, Hollister – Japan • Nereida Macias, Modesto – Italy
 </p><p>Learn more about the Gilman scholarship program <a href="http://www.iie.org/en/Programs/Gilman-Scholarship-Program">here</a>. Learn more about the international programs at CSUMB <a href="http://international.csumb.edu/">here</a>.
 </p>
+```

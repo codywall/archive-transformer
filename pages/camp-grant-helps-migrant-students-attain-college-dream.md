@@ -4,6 +4,7 @@ title: "CAMP grant helps migrant students attain college dream"
 date: January 01 2020
 ---
 
+```html
 <p>California State University, Monterey Bay has received a $2.1 million federal grant aimed at enrolling more migrant students in higher education.
 </p><p>The five-year grant, awarded by the U.S Department of Education, will enable CSUMB to offer financial assistance, academic and career services, cultural and social enrichment and health and counseling services through the College Assistance Migrant Program or CAMP.
 </p><p>The goal of the program is to create a paradigm shift in the minds of students and their parents, to help them believe that college is possible, and to provide the support they need to succeed once they arrive on campus.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>An estimated 31,000 migrant students live in the four-county area served by the grant, making the Central Coast home to 25 percent of migrant students in California. In Monterey County, the average farm worker has an annual income of $18,397. Click <a href="http://eosp.csumb.edu/how-apply-1">here</a> for information on how to apply.
 </p><p><em>Earlier story: <a href="http://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition">Migrant program earns national recognition</a>  </em>
 </p>
+```

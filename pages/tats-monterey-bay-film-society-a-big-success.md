@@ -4,6 +4,7 @@ title: "TAT's Monterey Bay Film Society a big success"
 date: January 01 2020
 ---
 
+```html
 <p>The newly formed Monterey Bay Film Society presented by TAT has already staged two successful events. The annual Monterey Bay Film Festival, set for April 8 and 9, promised to be just as exciting.
 </p><p>The society’s mission is to promote the cinematic arts with year-round programs and to provide free media workshops for at-risk and underserved youngsters throughout Monterey County. It also intends to bring the most innovative contemporary filmmakers to the Monterey Bay area, holding programs, events and screenings at a variety of venues.
 </p><p>CSUMB’s Enid Baxter Blader and Chris Carpenter are co-directors. Mike Plante of the Sundance Film Festival is the society's creative director.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>To read more about the Monterey Bay Film Festival, click <a href="http://news.csumb.edu/news/2011/mar/25/film-festival-transcends-borders">here</a>.
 </p><p> 
 </p>
+```

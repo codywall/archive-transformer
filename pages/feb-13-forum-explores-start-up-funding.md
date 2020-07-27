@@ -4,6 +4,7 @@ title: "Feb. 13 forum explores start-up funding"
 date: January 01 2020
 ---
 
+```html
 <p>A panel of experts will visit CSU Monterey Bay on Feb. 13 to give a presentation on funding for startups. The public is invited to attend.
 </p><p>The free event – billed as an Innovation Forum – will be held from 4 to 6 p.m. in the Alumni and Visitors Center, on Gen. Jim Moore Boulevard and Inter-Garrison Road. Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p><p>Panel members include:
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

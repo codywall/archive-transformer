@@ -4,6 +4,7 @@ title: "Carnegie Foundation"
 date: January 01 2020
 ---
 
+```html
 <h4>CSUMB honored for community involvement</h4><p>CSUMB has been selected among the first group of schools to receive the new Community Engagement Classification from the Carnegie Foundation for the Advancement of Teaching.
 </p><p>"Finding new and better ways to connect with their communities should be a high priority for higher education institutions today," said Lee S. Shulman, president of the Carnegie Foundation in a news release.
 </p><p>"The campuses participating in this elective classification provide useful models of engagement around teaching and learning and around research agendas that benefit from collaborative relationships."
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Added David Anderson, dean of the College of University Studies and Programs, "It is yet another external verification that CSUMB is a center of excellence in higher education in the field of community engagement."
 </p><p>Other California schools receiving the Community Engagement Classification were CSU campuses in Chico, Fresno, San Francisco and San Marcos, Pitzer College, Otis College of Art and Design, Santa Clara University, UCLA, University of Redlands, University of San Diego and University of San Francisco.
 </p>
+```

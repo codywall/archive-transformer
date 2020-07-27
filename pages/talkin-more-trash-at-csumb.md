@@ -4,6 +4,7 @@ title: "Talkin' more trash at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 19, 2009
 </p><p>By the end of the fall semester, residents of East Campus housing will have received bright blue recycling totes as CSU Monterey Bay moves into phase two of a state grant.
 </p><p>The university used money from the California Department of Conservation to buy 3,100 totes last spring. The grants are intended to promote recycling and are financed with unclaimed refunds on beverage containers. None of the money comes from the state's general fund.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>Another waste audit will be conducted next year, to see if there has been an improvement.
 </p><p><a href="https://csumb.edu/site/x24514.xml">Read an earlier story.</a>
 </p>
+```

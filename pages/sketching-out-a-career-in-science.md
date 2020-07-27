@@ -4,6 +4,7 @@ title: "Sketching out a career in science"
 date: January 01 2020
 ---
 
+```html
 <p>A coloring book is helping children in New Zealand learn about that country’s marine environment, thanks to the work of a graduate of CSU Monterey Bay’s Science Illustration program.
 </p><p>Corlis Schneider, who earned a certificate from the program in 2011, created illustrations for the book as part of an internship at the New Zealand Marine Studies Centre and Aquarium in Dunedin.
 </p><p>Schneider is among a small number of professional artists who make up the field of science illustrators, people who work at the confluence of art and science.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>The program was definitely boot camp, but “it was worth it for me. “I have been freelancing for about three months now in Los Angeles, and I am loving it.” <em>Photo: Corlis Schneider at Yellowstone</em>
 </p><p> 
 </p>
+```

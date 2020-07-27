@@ -4,6 +4,7 @@ title: "Experience Japanese tea ceremony"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p> 
 </p><p>The School of World Languages and Cultures will hold its annual fall tea ceremony on Sept. 17 in the University Center living room. The public is invited to attend.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

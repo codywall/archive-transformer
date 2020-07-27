@@ -4,6 +4,7 @@ title: "Turning kids away from 'La Vida Loca'"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 25, 2009
 </p><p><strong>Poet Luis Rodriguez lectures at CSUMB Nov. 4</strong>
 </p><p>Luis Rodriguez spent a good part of his teenage life as a member of an East Los Angeles gang, and has spent a good part of his adult life trying to keep other adolescents from following that same path.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

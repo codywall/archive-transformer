@@ -4,6 +4,7 @@ title: "'River in Ruin' author lectures on May 10"
 date: January 01 2020
 ---
 
+```html
 <h2>Journalist explores ills of Monterey Peninsula's primary water source</h2><p>“The Carmel River presents a remarkable test case for a messed-up river. Almost everything that can go wrong with a river system through human activity has happened," said hydrologist (and former CSU Monterey Bay faculty member) Robert Curry in 1981.
 </p><p>Journalist Ray March has made Dr. Curry’s quote the opening line of his new book, “River in Ruin: The Story of the Carmel River,” which portrays a river that has been dammed, diverted and leaned on for at least 130 years.
 </p><p>March will visit the campus of CSU Monterey Bay on May 10 to talk about his book and sign copies. The public is invited to this free lecture, which will be start at 6 p.m. in the OLLI Building at Inter-Garrison Road and Sixth Avenue. Reservations are suggested and can be made by calling 582-5500. The thin ribbon of the Carmel River is just 36 miles long and no wider in most places than a child can throw a stone. It is the primary water supply for the tourists, residents and businesses on the Monterey Peninsula; it is also one of the top 10 endangered rivers in North America, according to the nonprofit organization American Rivers.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Ray A. March, author of several nonfiction books, is a career journalist and co-founder and editor of the Modoc Independent News. He is also the co-founder of Modoc Forum, a nonprofit perpetuating an awareness of rural life through literature and the arts.
 </p><p>The event is sponsored by CSUMB's Osher Lifelong Learning Institute. Learn more about OLLI <a href="http://csumb.edu/olli">here</a>.
 </p>
+```

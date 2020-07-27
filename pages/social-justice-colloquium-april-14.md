@@ -4,6 +4,7 @@ title: "Social Justice Colloquium April 14"
 date: January 01 2020
 ---
 
+```html
 <p>March 30, 2010
 </p><p>***Health Care Access for the Most Vulnerable: What Works? ***
 </p><p>M. Jean Serafy, excecutive director of Free Clinics of the Western Region, will be the keynote speaker at the 14th annual Social Justice Colloquium Wednesday, April 14, at CSU Monterey Bay.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>For more information, or for disability accommodations, call Florence Shirakawa at 582-3890.
 </p><p> 
 </p>
+```

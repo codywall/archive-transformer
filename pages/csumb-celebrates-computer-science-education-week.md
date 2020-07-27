@@ -4,6 +4,7 @@ title: "CSUMB celebrates Computer Science Education Week"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 8, 2009
 </p><p>The U.S. House of Representatives recently passed a resolution designating Dec. 7-12 as "National Computer Science Education Week" to recognize the critical role of computing in society and the need to expose students to the opportunities it presents.
 </p><p>To commemorate the week, CSU Monterey Bay's School of School of Computing and Design will host a panel discussion highlighting career opportunities in the field. Representatives from Silicon Valley giants Google, Yahoo and Cisco Systems as well as the Naval Postgraduate School will talk about opportunities in private industry and the government for qualified computer scientists. The panel discussion will be held from noon to 2 p.m. on Thursday, Dec. 10 in Room 118 of the Media Learning Complex.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Photo shows Rear Admiral Grace Hopper, USN, with other programmers and the Univac 1 in 1957
 </p><p> 
 </p>
+```

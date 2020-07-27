@@ -4,6 +4,7 @@ title: "Jazz fusion band visits campus April 7"
 date: January 01 2020
 ---
 
+```html
 <p>Jazz and world music fusion band Hiroshima will perform at California State University, Monterey Bay’s World Theater on April 7. Showtime is 7:30 p.m.
 </p><p>The group was formed in 1974 by keyboardist and saxophonist Dan Kuramoto, his wife June – one of the world’s foremost players of the koto, a Japanese string instrument – and percussionists/taiko players Johnny Mori and Danny Yamamoto.
 </p><p>Its distinctive sound has its roots in East Los Angeles,where Dan Kuramoto grew up. He heard salsa bands playing in the neighborhood dance halls, his grandparents’ Japanese music playing on the home stereo and his brother practicing jazz on the family piano. “It all began to mix together in my head,” he said.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Tickets are $40 premium, $29 general; discounts are available for students and seniors. Tickets can be purchased online at csumb.edu/worldtheater or by calling the box office at 582-4580. Driving directions and a campus map are available at csumb.edu/map.
 </p><p><strong>AT A GLANCE</strong> • WHAT: Hiroshima jazz and world music fusion band • WHERE: CSUMB’s World Theater on Sixth Avenue • WHEN: 7:30 p.m., April 7 • TICKETS: $40 premium, $29 general, discounts for students and seniors; reserve online at <a href="http://csumb.edu/worldtheater" title="http://csumb.edu/worldtheater">http://csumb.edu/worldtheater</a> or by calling the box office at 582-4580 • INFORMATION: 582-4580  
 </p>
+```

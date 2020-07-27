@@ -4,6 +4,7 @@ title: "Getting charged-up over electric cars"
 date: January 01 2020
 ---
 
+```html
 <h3>Campus to get two electric vehicle charging stations</h3><p>Electric cars and plug-in hybrids were celebrated in dozens of cities around the country in late September at National Plug In Day.
 </p><p>One of those celebrations took place in Santa Cruz, sponsored by the Monterey Bay Electric Vehicle Alliance (MBEVA). It drew 600 participates, who were able to test drive electric cars and motorcycles and learn about the vehicles.
 </p><p>At the event, Cal State Monterey Bay received a certificate of recognition for its plans to install two electric vehicle-charging stations on campus later this year. Professor Dan Fernandez (photo below), co-chair of the Campus Sustainability Committee, accepted the certificate.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://ideals.csumb.edu/sustainability">Learn more about sustainability at CSUMB.</a>
 </p><p><a href="http://transportation.csumb.edu/trip-homepage">Learn more about transportation options at CSUMB.</a>
 </p>
+```

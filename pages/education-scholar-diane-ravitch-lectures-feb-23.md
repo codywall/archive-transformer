@@ -4,6 +4,7 @@ title: "Education scholar Diane Ravitch lectures Feb. 23"
 date: January 01 2020
 ---
 
+```html
 <h2>Renowned school reformer Diane Ravitch has changed her mind</h2><h3>Federal testing has narrowed education and charter schools have failed to live up to their promise, she says</h3><p>The President’s Speaker Series at CSU Monterey Bay resumes Feb. 23 when prominent education scholar Diane Ravitch visits campus. Her talk will start at 7 p.m. in the World Theater on Sixth Avenue.
 </p><p>Her topic: Will Education Reform Improve Our Schools? She will use her best-selling book, The Death and Life of the Great American School System: How Testing and Choice are Undermining Education, as the foundation for a discussion on the critical state of education reform in our nation.
 </p><p>Dr. Ravitch is research professor of education at New York University; a senior fellow at the Brookings Institution; and a senior fellow at the Hoover Institution at Stanford. From 1991 through 1993, she was assistant secretary of education in the administration of President George H.W. Bush, where she led the federal effort to promote the creation of state and national academic standards.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>For driving directions and a campus map, click <a href="http://csumb.edu/map.">here</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Forensic psychology topic of Nov. 17 talk"
 date: January 01 2020
 ---
 
+```html
 <h3>FBI agent visits CSUMB Nov. 17
 	Talk involves work on child pornography, exploitation</h3><p>The community is invited to attend a lecture on Nov. 17 by an FBI agent who works in the bureau’s Behavioral Analysis Unit, with focus on crimes against children.
 </p><p>Supervisory Special Agent Mike Yoder will visit campus for a talk about his work in the area of forensic psychology and sex offenders. He has worked for the FBI for 15 years; currently, he advises on areas of online sexual exploitation of children, missing children, child pornography and cyberbullying.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

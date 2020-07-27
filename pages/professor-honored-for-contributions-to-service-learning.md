@@ -4,6 +4,7 @@ title: "Professor honored for contributions to service learning"
 date: January 01 2020
 ---
 
+```html
 <h3>Teacher education organization presents award to Miguel Lopez</h3><p>Dr. Miguel Lopez has been honored for the significant contributions he has made in service learning at CSU Monterey Bay, in the local community and beyond.
 </p><p>The International Center for Service-Learning in Teacher Education presented him with its Rahima Wade Award for Outstanding Contributions to the field. The award was presented at the organization’s annual meeting at Duke University in June.
 </p><p>Dr. Lopez, a faculty member in CSUMB’s Liberal Studies Department, earned national attention for his award-winning service learning collaboration, Increase the Peace, an intensive summer program designed to counter the perceptions that the East Salinas neighborhood of Alisal was merely a site of gang violence.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>To learn more about Professor Lopez, click <a href="http://ls.csumb.edu/liberal-studies-home/dr-miguel-lopez">here</a>.
 </p><p><em>Photo (left to right): Dr. Miguel Lopez received the Rahima Wade Award for Outstanding Contributions to Service Learning in Teacher Education in the United States. Dr. Loshini Naidoo of the University of Western Sydney was the international award winner.</em>  
 </p>
+```

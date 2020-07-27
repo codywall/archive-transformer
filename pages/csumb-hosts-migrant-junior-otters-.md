@@ -4,6 +4,7 @@ title: "CSUMB hosts Migrant Junior Otters "
 date: January 01 2020
 ---
 
+```html
 <p>July 2, 2010
 </p><p>&#42;<strong>Nationally honored program gets under way July 6</strong>&#42;
 </p><p>Starting July 6, more than 250 youngsters will spend a month on the campus of CSU Monterey Bay as the Migrant Junior Otter program gets under way for its second year.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>"We are confident that 250 young migrant students will be excited and inspired about their future holding the prospect of attending a college or university," Coronado said.
 </p><p>Learn more about CSUMB's various <a href="https://csumb.edu/eosp">outreach and support programs</a><a href="http://csumb.edu/site/x4434.xml">.</a>
 </p>
+```

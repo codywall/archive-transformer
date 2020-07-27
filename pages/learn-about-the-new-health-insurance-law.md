@@ -4,6 +4,7 @@ title: "Learn about the new health insurance law"
 date: January 01 2020
 ---
 
+```html
 <p>The first TV commercial rolled out in early September by Covered California, the state's new health-insurance exchange, seemed to be aimed at young people.
 </p><p>The advertisement uses a freeway-sign image to send a message to the age group most likely to consider health insurance an unnecessary expense.
 </p><p>"To those who've waited, worried, hoped and tried, taken risks and lived in a state of 'What if,' welcome to a new state of health. Welcome to Covered California," says the ad.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><a href="http://www.calstate.edu/coveredca/">Learn more about Covered California</a>
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/maps">here</a>. Visitors are reminded that a parking permit must be purchased from a dispenser on the parking lots. Cost is $1 per hour.
 </p>
+```

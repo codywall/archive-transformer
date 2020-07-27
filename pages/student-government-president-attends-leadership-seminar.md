@@ -4,6 +4,7 @@ title: "Student government president attends leadership seminar"
 date: January 01 2020
 ---
 
+```html
 <h3>Annual event at Panetta Institute</h3><p>Duane Lindsay, CSU Monterey Bay’s student body president, attended the 13th annual Student Leadership Seminar at the Panetta Institute for Public Policy. The program was held June 17-23 on the CSUMB campus.
 </p><p>Lindsay, a social and behavioral sciences major from Garden Valley, was elected Associated Students president in the spring of 2012 for the upcoming school year.
 </p><p>He has been involved with student government since his first semester on campus, when he was an active member of the Associated Students environmental affairs committee and member of the Finance Board. That led to being elected AS environmental senator for the following two years (2009-2011). He has also served as residential housing association president, as well as in other leadership roles on campus.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>“The young people who attend this seminar have already demonstrated their ambition and desire to serve. The Panetta Institute’s Leadership Seminar is the next step on their path to becoming the future generation of leaders,” Mrs. Panetta said.
 </p><p><em>Photo: AS President Duane Lindsay with Panetta Institute for Publilc Policy director Sylvia Panetta  </em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Undergraduate Research Week at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>National Undergraduate Research Week takes place April 14 through 18.
 </p><p>At CSU Monterey Bay, it’s an annual celebration of research and creative activity. Undergraduates can explore the opportunities available to them and find ways to get involved.
 </p><p>Three participants in the university’s Undergraduate Research Opportunities Center (known as UROC) have planned several events to encourage students to do just that.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The Undergraduate Research Opportunities Center at CSUMB was established in 2009. With training and support from UROC, students work on innovative research projects on campus and at other research institutions. 
 </p><p>“Undergraduate research engages students at the highest scholarly levels by linking research, learning and mentorship to real world experiences,” said Dr. William Head, director of UROC. “This translates to long-term academic success, self-confidence and persistence and has career benefits.” <a href="http://uroc.csumb.edu">Learn more about UROC</a>.
 </p>
+```

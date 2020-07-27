@@ -4,6 +4,7 @@ title: "University confers 800 degress"
 date: January 01 2020
 ---
 
+```html
 <h4>‘Be a student for life' Suarez tells graduates CSU Monterey Bay confers 880 degrees</h4><p>Under sunny skies, journalist Ray Suarez told the graduates of California State University, Monterey Bay that the world they are about to enter needs their energy and their curiosity.
 </p><p>Suarez, a Washington-based senior correspondent for public television's national news program, The NewsHour, was the keynote speaker at the university's May 16 commencement. With more than 880 students receiving bachelor's and master's degrees, and about 100 earning teaching credentials, it was the largest graduating class in school history.
 </p><p>After receiving an honorary doctor of humane letters conferred by President Dianne Harrison, Suarez commended the graduates for taking advantage of their opportunity to earn a degree.
@@ -31,3 +32,4 @@ date: January 01 2020
 </p><p>• As the first person in her family to earn a four-year degree, Lisette Arredondo is receiving her degree in Collaborative Health and Human Services. She is a role model for her siblings - her brother is also a CSUMB student - and for young people from her hometown of Watsonville, where her extensive community service has done much to improve the quality of life for the residents. She just completed an internship with the federal Centers for Disease Control and Prevention in Atlanta, where she worked on a national AIDS education campaign targeted at the Spanish-speaking community.
 </p><p> 
 </p>
+```

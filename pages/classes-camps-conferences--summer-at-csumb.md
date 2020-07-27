@@ -4,6 +4,7 @@ title: "Classes, camps, conferences – summer at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>CSU SUMMER ARTS HIGHLIGHTS ACTIVITIES</p><p>Especially on foggy days, visitors can be excused for thinking that CSU Monterey Bay’s campus is quiet during the summer. But don’t let the outward appearance fool you – there’s really a lot going on.
 </p><p><a href="http://blogs.calstate.edu/summerarts/">CSU Summer Arts</a> returns to campus with a lineup of 17 classes and 30 <a href="http://blogs.calstate.edu/summerarts/index.php/events/">public events</a>.
 </p><p>Well&#45;known artists, actors, musicians, filmmakers, writers and dancers will conduct intensive two&#45;week workshops during a pair of sessions in July. Hundreds of students have registered for the classes, which start June 29.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>Two new buildings will get finishing touches in preparation for opening in the fall. The Business and Information Technology Building contains classrooms, labs, faculty and department offices for the College of Business and the School of Computing and Design, a student study area and a student lounge. The Promontory, a student housing complex with 570 beds in three buildings, is located just north of the main campus. A pedestrian and bike path from the Promontory to Inter&#45;Garrison Road will be constructed during the summer.
 </p><p>By mid&#45;August, it will be time to gear up for the fall semester, which will start Aug. 24. Students will move into the residence halls Aug. 21&#45;23.
 </p>
+```

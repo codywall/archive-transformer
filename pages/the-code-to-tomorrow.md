@@ -4,6 +4,7 @@ title: "The code to tomorrow"
 date: January 01 2020
 ---
 
+```html
 <p>COMPUTER SCIENCE STUDENT EARNS PRESTIGIOUS SCHOLARSHIP</p><p>When Anita Garcia started college, she was unsure of her career path. Then she heard about the CS&#45;in&#45;3 program, and researched opportunities for computer science graduates.
 </p><p>“I quickly realized that there is a demand for someone like me, a Latina, to learn this set of skills,” Garcia said. “I thought it a wise decision to study computer science because it would allow me to make the most impact in today’s world.”
 </p><p>Now in her second year in the award&#45;winning three&#45;year program that leads to a bachelor’s degree in computer science, she’s taking most of her classes at Hartnell College in Salinas. She’ll be on campus at CSUMB in the spring.
@@ -17,3 +18,4 @@ She’s just gotten some help in pursuing her goals from two sources – scholar
 </p><p>Earlier in the month, she’ll travel to Houston to attend the Grace Hopper Celebration of Women in Computing. With more than 8,000 attendees, it’s the largest gathering of female technologists in the world. Her costs are covered by a grant from Bank of America.
 </p><p>Garcia is already looking to – and planning for – the future. Since her CS&#45;in&#45;3 program costs are covered, she intends to save her scholarship money to help pay for graduate school.
 </p>
+```

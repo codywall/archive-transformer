@@ -4,6 +4,7 @@ title: "President Harrison joins CSU officials to bring college message to Afric
 date: January 01 2020
 ---
 
+```html
 <p>CSUMB administrators will join other California State University officials in bringing the college message to thousands of church members during the fifth annual CSU Super Sunday, a program to connect with and inform African American students and their families about what it takes to get into college.
 </p><p>Now in its fifth year, Super Sunday, which began with 24 churches, has expanded to include more than 90 churches throughout the state and has led to the development of companion college fair events called Super Saturday.
 </p><p>On three consecutive Sundays each February, CSU leaders including the chancellor, trustees, presidents and others speak at various churches across the state to share with students, parents and community mentors information about preparing for college, applying to the CSU's 23 campuses, and obtaining financial aid.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>For more information, visit <a href="http://news.csumb.edu/site/www.calstate.edu/supersunday">www.calstate.edu/supersunday</a>.
 </p><p> 
 </p>
+```

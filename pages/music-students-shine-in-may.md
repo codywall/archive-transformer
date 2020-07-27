@@ -4,6 +4,7 @@ title: "Music students shine in May"
 date: January 01 2020
 ---
 
+```html
 <h3>Student recitals May 9 and 10</h3><p>Highlights from "West Side Story," the hit Broadway musical and film, will be performed at CSU Monterey Bay’s spring concert on May 4.
 </p><p>Featuring music by Leonard Bernstein and lyrics by Stephen Sondheim, the musical takes the star-crossed-lovers story of "Romeo and Juliet" and sets it in a gang-rich area of 1950s New York City.
 </p><p>Familiar songs – Maria, Tonight, I Feel Pretty, Somewhere, Jets – will be performed by students in the university’s musical theater production class, the concert band and CSUMB singers.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The following day, the Music Building will be the site of a voice recital, featuring more than 20 students. Admission to both events is free.
 </p><p><a href="http://music.csumb.edu">Learn more about the music program at CSUMB</a>.
 </p>
+```

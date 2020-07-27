@@ -4,6 +4,7 @@ title: "Monterey resident to lead Cradle to Career partnership"
 date: January 01 2020
 ---
 
+```html
 <p>Cynthia Nelson Holmsky is joining CSU Monterey Bay in an administrative appointment to be director of the Monterey County Cradle to Career Partnership.
 </p><p>In that capacity, Ms. Holmsky will be responsible for establishing the Cradle to Career Partnership as a catalyst for regional partners to work together, across sectors, and along the social and educational continuum to drive better results in education, for every child from cradle to career.
 </p><p>The director will provide leadership and facilitate the achievement of the coalition’s goals to ensure that every child is prepared for school, supported inside and outside of school, succeeds in school, enrolls in some form of postsecondary education, graduates, and enters a career.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>She earned a master’s degree in human resource and organization development from the University of San Francisco.
 </p><p>Ms. Holmsky will assume the position on Feb. 17.
 </p>
+```

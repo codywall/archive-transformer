@@ -4,6 +4,7 @@ title: "Business, IT building nearing halfway point of construction"
 date: January 01 2020
 ---
 
+```html
 <p>As of July 1, the Business and Information Technology (BIT) building was approximately 40 percent complete.
 </p><p>Groundbreaking for CSUMB's newest academic building was held on Nov. 12. The $43 million, 58,000-square-foot structure will house the College of Business and the School of Information Technology and Communications Design.
 </p><p>Housing the two programs together allows students to integrate technology and business practices, and encourages the spirit of innovation and entrepreneurship crucial for learning.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>• Cost of construction: $43 million ($30 million for construction and $13 million for indirect costs including architects and engineer fees, consultants, agency reviews, furniture and equipment, etc.)
 </p><p>• Funded by: $43 million of state funds  
 </p>
+```

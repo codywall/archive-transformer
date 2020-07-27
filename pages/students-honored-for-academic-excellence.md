@@ -4,6 +4,7 @@ title: "Students honored for academic excellence"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay held its annual honors convocation April 12, recognizing more than 250 students for their distinguished academic achievements.
 </p><p>An overflow crowd filled the University Center ballroom as five students received special awards, 20 were honored for their Service Learning work and 247 were acknowledged for having earned grade-point averages of at least 3.5.
 </p><p>The honors students will be among the approximately 1,300 graduates crossing the stage at the May 18 commencement ceremony.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/commencement">Get information on CSUMB's May 18 commencement ceremony here.</a>
 </p><p> 
 </p>
+```

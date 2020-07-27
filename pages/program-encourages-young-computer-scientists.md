@@ -4,6 +4,7 @@ title: "Program encourages young computer scientists"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 20, 2010
 </p><p>California State University, Monterey Bay, in collaboration with other schools in the region, is doing its best to create the next generation of computer science and information technology professionals.
 </p><p>As many as 100 high school students from Monterey and Santa Cruz counties will get a taste of the subject on Feb. 12 when they visit the university for the first Monterey Bay Information Technology Summit (MBITS).
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

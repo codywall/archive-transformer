@@ -4,6 +4,7 @@ title: "Johnson honored for lighting design work"
 date: January 01 2020
 ---
 
+```html
 <p>Stephanie Anne Johnson, professor in the Visual and Public Art Department, has received an award for her work as a lighting designer.
 </p><p>The Lighting Artists in Dance Award provides funds to support artistic collaborations with choreographers and dance companies. Those collaborations will result in dance performances presented in the San Francisco Bay Area.
 </p><p>Johnson is working with Anne Bluethenthal &amp; Dancers as the visual designer for <em>Skywatchers</em>, a multi-disciplinary performance project that will take place in the Tenderloin neighborhood.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://www.lightessencedesign.com">Her work can be seen on her website</a>
 </p><p><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">Read more faculty news</a>
 </p>
+```

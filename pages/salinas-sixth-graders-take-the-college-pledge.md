@@ -4,6 +4,7 @@ title: "Salinas sixth-graders take the college pledge"
 date: January 01 2020
 ---
 
+```html
 <p>Approximately 500 sixth-graders filled the ballroom of CSU Monterey Bay’s University Center on Dec. 8, radiating energy and enthusiasm.</p><p>As master of ceremonies, it was up to admissions office staff member Victor Torres to get them focused on the reason for their campus visit. Torres, a CSUMB graduate, handled the task masterfully, using a combination of games and positive reinforcement.
 </p><p>The youngsters came from six schools in the Salinas City Elementary School District – Loma Vista, Natividad, El Gabilan, Boronda Meadows, Kammann and Laurel Wood – to participant in the University Promise program, held annually since 2009.
 </p><p>The idea is to get them thinking about and planning for college, even though it’s six years away.
@@ -17,3 +18,4 @@ University students led the youngsters on a tour of campus, visiting the science
 </p><p>The program was developed by CSUMB officials and Salinas City Elementary administrators as a way to help youngsters recognize opportunities, make choices that they may not have known existed for them, and keep them motivated for success.
 </p><p><em>Published Dec. 8, 2015</em>
 </p>
+```

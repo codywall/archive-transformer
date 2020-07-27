@@ -4,6 +4,7 @@ title: "CSUMB earns three transportation awards"
 date: January 01 2020
 ---
 
+```html
 <h3>Bike Bunker project, two students honored</h3><p>CSU Monterey Bay's work to promote alternative transportation has garnered three excellence awards from the Transportation Agency for Monterey County. The awards were among 10 presented at TAMC's board meeting on Jan. 22; they recognize individuals, groups and businesses for efforts to improve the way people get around in Monterey County.
 </p><p>The university’s <a href="//activities.csumb.edu/bike-bunker">Bike Bunker</a>, which opened last year, was honored in the projects category. It provides secure, convenient indoor storage for 36 bicycles. All spaces are currently rented.
 </p><p>CSUMB’s transportation planner Megan Tolbert led the project team, which included students and staff members from across campus. Otto Construction and Telemetrix did the construction and electrical work and donated 10 percent of their time.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>*Top photo: (Left to right) Megan Tolbert, CSUMB's transportation planner; Monterey County Supervisor Jane Parker; Dr. Ronnie Higgs, CSUMB's vice president of student affairs and enrollment services; Jerry Edelen, mayor of Del Rey Oaks. Photo courtesy of TAMC**At right: Casey Andrews with his Transit Tree poster. Photo courtesy of Megan Tolbert Below: Richard Vasquez, who designed the identity package for the Bike Bunker. Photo by Richard Green*
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Mobile app competition returns to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>It’s innovative, intense and a shot at fame and fortune. It’s the Ideas of March Hackathon, a mobile app programming competition open to college students with basic programming skills.
 
 </p><p>The event, which kicks off  the afternoon of Friday, March 13, is sponsored by CSUMB’s College of Business and its Institute for Innovation and Economic Development, the university’s School of Computing and Design, and the Monterey County Business Council.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Prospective competitors should note that all code created during the competition will be published as open source code.
 </p><p><strong>Anyone new to developing Android apps can learn the basics at a <a href="https://sites.google.com/a/csumb.edu/ideasofmarch/home/android&#45;app&#45;bootcamp">three&#45;hour workshop</a> set for March 6 at CSUMB</strong>.
 </p>
+```

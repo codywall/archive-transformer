@@ -4,6 +4,7 @@ title: "Library atrium named for philanthropists"
 date: January 01 2020
 ---
 
+```html
 <p>The three&#45;story atrium in the Tanimura &amp; Antle Family Memorial Library at California State University, Monterey Bay has been named in honor of philanthropists Linda and Michael Dorn and their support of the Pay It Forward scholarship and mentoring program.
 </p><p>Three&#45;dimensional silver letters on a balcony wall above the atrium walkway, which designate the space as the “Linda and Michael Dorn Pay It Forward Atrium,” were unveiled by President Dianne Harrison in a ceremony on Monday afternoon, Aug. 15.
 </p><p>Pay It Forward provides $5,000 a year for four years and guidance from a mentor to selected incoming students from Monterey County high schools, who in turn are asked to “pay it forward” by mentoring youngsters at the Boys &amp; Girls Club of Monterey County and The First Tee of Monterey County. The program now has 40 students and 40 mentors, with a goal of doubling that in the next two years.
@@ -28,3 +29,4 @@ date: January 01 2020
 </p><p>Capistrano, who is employed by the Hayashi &amp; Wayland accounting firm in Salinas and is preparing to take the CPA exam, made good on his words by contributing a check to Pay It Forward as he concluded his remarks.
 </p><p>“Nothing would have gotten in the way of my climb toward graduation,” Capistrano said, “but without Pay It Forward, the ladder would have been drastically different.”
 </p>
+```

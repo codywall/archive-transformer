@@ -4,6 +4,7 @@ title: "Jazz takes center stage at annual Heritage Music Festival on April 24"
 date: January 01 2020
 ---
 
+```html
 <p>The 7 p.m. performance features percussionist Babatunde Lea and saxophonist Greg Abate and Friends.
 </p><p>"I guess you could say my music is jazz steeped in the music of the African diaspora," Lea recently told the Pittsburgh Tribune-Review. "I try to take a look at the music of a lot of different African cultures and blend it together."
 </p><p>Lea (pictured at left) grew up in New York City, listening to Afro-Caribbean music and was influenced by an African master drummer he met when he was a teenager. Early in his career, he worked with musicians such as saxophonist Pharoah Sanders and vocalist Leon Thomas Jr.; that exposed him to many world rhythms.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>"Lea makes a good case for drums being jazz's most important instrument."– <em>Providence Phoenix</em>
 </p><p>"Abate's musical style can be seen as a distillation of swing's easygoing vibe and bop's more animated groove. He has developed a unique voice."– <em>METRO San Jose</em>
 </p>
+```

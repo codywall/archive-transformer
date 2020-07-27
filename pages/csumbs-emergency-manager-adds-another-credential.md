@@ -4,6 +4,7 @@ title: "CSUMB's emergency manager adds another credential"
 date: January 01 2020
 ---
 
+```html
 <p>Dick Bower, CSUMB’s emergency manager, has earned another credential to add to his considerable resume.
 </p><p>The Center for Public Safety Excellence, a nonprofit organization that helps public safety agencies improve their services in a variety of ways, has awarded Bower the professional designation of fire marshal. He is now one of only 3,000 fire service professionals worldwide who hold this credential.
 </p><p>The stringent process included an assessment of his education, experience, professional development, technical competencies, contributions to the profession and community involvement.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>In addition to certification as an emergency manager by the International Association of Emergency Managers and code official accreditation from the Washington Association of Building Officials, Bower holds numerous International Code Council certifications in building inspection and plan review.
 </p><p>He is working with the university and surrounding communities to improve emergency preparedness at all levels.  
 </p>
+```

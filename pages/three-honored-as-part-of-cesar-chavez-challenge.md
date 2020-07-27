@@ -4,6 +4,7 @@ title: "Three honored as part of Cesar Chavez Challenge"
 date: January 01 2020
 ---
 
+```html
 <p>Members of two campus organizations earned a trip to the Monterey Bay Aquarium in recognition of their work during the Cesar Chavez Challenge at CSU Monterey Bay.
 </p><p>March 30 marked the start of the university’s second annual challenge, a 36-day community service drive – coordinated by the Purposeful Service Opportunities program – that started on Chavez’s birthday and ended on Cinco de Mayo. PSO is a joint project of the AmeriCorps VIP program and the Service Learning Institute.
 </p><p>The theme was “Creating a Culture of Service,” and involved friendly competition among student clubs, Greek organizations, athletic teams and residence halls to document their hours of service.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>The awards presentation also featured a short video on Chavez’s life and the contributions of the AmeriCorps workers who have supported and supervised Service Learning students at community sites throughout the year.
 </p><p>To learn more about Service Learning at CSUMB, click <a href="http://csumb.edu/service">here.</a>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Grad student earns California Sea Grant fellowship"
 date: January 01 2020
 ---
 
+```html
 <p>Sean Windell, a student in the applied marine and watershed science master’s degree program, has been named one of 17 California Sea Grant Fellows for 2015.
 </p><p>The <a href="http://www.csgc.ucsd.edu/EDUCATION/STATEFELLOW/StateFellow_current.html">Sea Grant College program</a> is a part of the National Oceanic and Atmospheric Administration &#40;NOAA&#41;, and  provides graduate students the opportunity to obtain experience in the planning and implementation of marine and coastal resource policies. Fellows are matched with a host agency and gain on&#45;the&#45;job experience during the 12&#45;month paid fellowship.
 </p><p>Windell has already started working with the Interagency Ecological Program, a collaboration among nine agencies that does long&#45;term monitoring in the Sacramento&#45;San Joaquin Delta. His project involves designing a conceptual life&#45;cycle model for the winter run Chinook salmon, an endangered species.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>He’s not sure what he’ll do after the fellowship ends. “Either job opportunities within this or other agencies, or hiking the Pacific Crest Trail,” he said.
 </p><p><a href="https://csumb.edu/amws">Learn about the Applied Marine and Watershed program</a>.
 </p>
+```

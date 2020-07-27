@@ -4,6 +4,7 @@ title: "MST project borders campus on Inter-Garrison Road "
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 5, 2009
 </p><p>A sign went up on the north side of Inter-Garrison Road between Central Campus and East Campus housing last month, announcing that the area will become the home of Monterey-Salinas Transit.
 </p><p>The transit agency has acquired about 24 acres of a 58-acre parcel owned by Monterey County.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

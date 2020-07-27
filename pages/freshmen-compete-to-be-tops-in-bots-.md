@@ -4,6 +4,7 @@ title: "Freshmen compete to be tops in bots "
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 1, 2010
 </p><p>Huddled over a gray robot, a student pushed the start button and watched as the small machine lurched forward, completed a turn and moved toward an obstacle.
 </p><p>Then disaster struck. The robot veered off course, driving over white masking tape and spinning around several times – disqualifying the team that programmed it.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>If you’re interested in robots, there’ll be another opportunity to see them in competition.
 </p><p>In mid-December, students in Dr. Sathya Narayanan’s computer architecture class will face off with sumo wrestling robots they have assembled, wired and programmed.
 </p>
+```

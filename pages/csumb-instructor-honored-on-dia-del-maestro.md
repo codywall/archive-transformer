@@ -4,6 +4,7 @@ title: "CSUMB instructor honored on Dia del Maestro"
 date: January 01 2020
 ---
 
+```html
 <p>Forget the shiny red apple.
 </p><p>Teachers throughout the 28th Assembly District were honored at a pancake breakfast hosted by Assemblyman Luis Alejo on May 21 at a Salinas elementary school.
 </p><p>The event – Dia del Maestro or Day of the Teacher – recognized bilingual and bicultural teachers nominated by local school districts.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>He knows first-hand the impact education can have on an entire family, and can share that experience with his students.
 </p><p>"My five younger sisters saw that they, too, could pursue higher learning and achieve academic success. One of my sisters has already graduated from college, three of them will graduate in June and the youngest is completing her freshman year – all at UC Santa Barbara."
 </p>
+```

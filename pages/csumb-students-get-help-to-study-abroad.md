@@ -4,6 +4,7 @@ title: "CSUMB students get help to study abroad"
 date: January 01 2020
 ---
 
+```html
 <p>Austin Rettinghouse is not your typical study-abroad student. He’s male. He’s majoring in Japanese, not humanities — the most popular field among students studying abroad. And he’s going to Asia, when more than half of international students go to Western Europe</p><p>The Fresno native will take classes at Nagasaki University this coming school year, thanks to the <a href="http://www.iie.org/Programs/Gilman&#45;Scholarship&#45;Program">Benjamin Gilman International Scholarship</a>, a program aimed at helping underrepresented students – those with financial need, students with diverse ethnic backgrounds, and students with disabilities – to study abroad.
 </p><p>The program also encourages applicants to look beyond traditionally popular destinations such as Italy and Australia.
 </p><p>Rettinghouse is one of six CSUMB students to receive Gilman scholarships for the coming year.
@@ -16,3 +17,4 @@ The competitive program offers grants of up to $8,000 to defray the costs of tui
 </p><p>Most Gilman scholarships award $5,000. Two CSUMB students received an additional $3,000 supplement awarded to exemplary students studying a language on the government’s critical needs list.
 </p><p>The Benjamin A. Gilman International Scholarship recipients for next academic year, their majors, travel destinations, and amount of award:
 </p>
+```

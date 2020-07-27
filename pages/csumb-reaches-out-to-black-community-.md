@@ -4,6 +4,7 @@ title: "CSUMB reaches out to black community "
 date: January 01 2020
 ---
 
+```html
 <p><a href="http://blogs.calstate.edu/voicesviews/?p=1607">View a photo essay from Super Sunday L</a> <a href="http://www.californiareport.org/archive/R201303011630/b">isten to an NPR report here</a>
 </p><p>Super Sunday encourages more students to enroll
 </p><p>CSU Monterey Bay President Eduardo Ochoa and Provost Kathy Cruz-Uribe will be featured speakers at predominantly black churches to spread the word about the importance of going to college.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Now in its seventh year, Super Sunday is part of an educational outreach led by the <a href="http://www.calstate.edu/externalrelations/partnerships/african-american.shtml">CSU African American Initiative</a> – a partnership with churches – to increase college preparation, student enrollment and graduation rates among African American students.
 </p><p>For more information, contact CSUMB’s Office of Admissions at 582-3738.  
 </p>
+```

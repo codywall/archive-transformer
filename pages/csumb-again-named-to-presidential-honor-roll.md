@@ -4,6 +4,7 @@ title: "CSUMB again named to Presidential Honor Roll"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 25, 2010
 </p><p>California State University, Monterey Bay has been named to the 2009 President's Higher Education Community Service Honor Roll with Distinction.
 </p><p>Launched in 2006, the Community Service Honor Roll is the highest federal recognition a school can achieve for its commitment to service-learning and civic engagement. Honorees were chosen based on a series of selection factors including scope and innovation of service projects, percentage of student participation in service activities, incentives for service, and the extent to which the school offers academic service-learning courses.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>The Corporation for National and Community Service is a federal agency that improves lives, strengthens communities, and fosters civic engagement through service and volunteering. It administers Senior Corps, AmeriCorps and Learn and Serve America, a program that supports service learning in schools, institutions of higher education and community-based organizations. For more information, go to <a href="http://www.nationalservice.gov" title="www.nationalservice.gov">www.nationalservice.gov</a>.
 </p><p> 
 </p>
+```

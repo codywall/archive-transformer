@@ -4,6 +4,7 @@ title: "Support programs open doors for students"
 date: January 01 2020
 ---
 
+```html
 <h3>Seniors celebrated at EOP event</h3><p>Marina Rico, the youngest of seven siblings, grew up in an agricultural area of Monterey County. Her parents did not finish the second grade.
 </p><p>The school system failed to inspire her to continue her education, but at the last minute she enrolled in the local community college. With assistance from support programs at Hartnell College, she transferred to CSU Monterey Bay two years later and was admitted into the university’s <a href="http://eosp.csumb.edu/educational-opportunity-program?_csumbsearch=EOP">Educational Opportunity Program</a> (EOP).
 </p><p>Like most first-generation college students, she had no one to help her navigate the university. However, in EOP, “I got a lot of personal support from people who believed in my ability to continue my education. I never felt judged about where I came from.” Rico said.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Like Rico, most EOP and SSS participants are the first in their families to attend a university. They face more challenges – socially, economically and academically – than traditional students. Despite the additional obstacles, the retention rate for EOP and SSS students has consistently exceeded the retention rate of the total CSUMB student population.
 </p><p>“EOP helped me to believe in myself,” Rico said. And that was all she needed.  
 </p>
+```

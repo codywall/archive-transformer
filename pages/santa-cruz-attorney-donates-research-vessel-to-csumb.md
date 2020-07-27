@@ -4,6 +4,7 @@ title: "Santa Cruz attorney donates research vessel to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Paul Meltzer, a Santa Cruz attorney, has donated his 46-foot Hatteras sport fishing yacht to CSU Monterey Bay for use in the university’s marine science program.
 </p><p>The boat will be renamed “Harold Heath” in honor of his great-grandfather, a marine scientist who was a Stanford University professor for nearly 40 years and led research at Stanford's Hopkins Marine Station in Pacific Grove. Dr. Heath and his family lived across the street from the Marine Station campus.
 </p><p>The vessel will be used by CSUMB’s Seafloor Mapping Lab, where it will support marine research, training and education. It will also be used to support remotely operated vehicles and habitat survey work done by the university's Institute for Applied Marine Ecology.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>To read about CSUMB's new degree program in marine science, click <a href="http://news.csumb.edu/news/2010/sep/22/new-marine-science-bs-awaits-approval">here.</a>
 </p><p>To learn more about the Seafloor Mapping Lab at CSUMB, click <a href="http://seafloor.csumb.edu/">here</a>.
 </p>
+```

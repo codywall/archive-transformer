@@ -4,6 +4,7 @@ title: "Veteran Monterey officer joins university police"
 date: January 01 2020
 ---
 
+```html
 <p>John Short has been named police commander at CSU Monterey Bay.
 </p><p>Short comes to the university from the Monterey Police Department, where he worked for 22 years. Most recently, he was the department’s training sergeant, responsible for creating, developing and scheduling training for officers as well as overseeing the hiring of new employees.
 </p><p>A graduate of Monterey High School and Monterey Peninsula College, Short has extensive experience working with law enforcement agencies in Monterey County through various committees and programs. He speaks Spanish and Portuguese.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p><em>Photo: At swearing-in ceremony, new police commander John Short has his badge pinned on by his father, Phil Short</em>
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Hospitality industry embraces 'green' at CSUMB conference"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 26, 2010
 </p><p>To help the regional hospitality industry learn how to “go green,” the Institute for Innovation and Economic Development at CSU Monterey Bay hosted a conference on Oct. 4.
 </p><p>The Sustainable Hospitality Symposium made the connection between responsible environmental practices and economic development, and the message wasn’t lost on the 350 people in attendance. That number included about 100 industry professionals and 200 students.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The event was zero-waste. The day’s schedule was printed on handmade paper embedded with seeds. After the event, the paper was planted and will grow into flowers. The centerpieces on each table included potted plants that will be used to start a garden. And lunch was served on edible plates.
 </p><p>The symposium, held in collaboration with the Monterey County Business Council, demonstrated the university’s vision of innovation, global connection and community engagement as well as its own efforts to go green.  
 </p>
+```

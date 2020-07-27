@@ -4,6 +4,7 @@ title: "Faculty highlights"
 date: January 01 2020
 ---
 
+```html
 <p><strong><a href="http://news.csumb.edu/news/2015/jan/13/native-educator-works-serve-needs-children">Native educator works to serve the needs of children</a></strong> Kathryn England-Aytes, a lecturer in psychology, has joined a newly created national organization that serves the needs of children. Dr. England-Aytes will serve as a consultant with the National Center on Adoption and Permanency, an organization that provides information, resources and services relating to adoption, foster care and child welfare. Her work with the center “fits into my own research interests on historical trauma and links with contemporary behavior, particularly in educational settings, in Indian Country,” she said. “As a Native educator, my goal is always to honor and integrate the cultures, values and traditions of Native students with learning opportunities for full participation in the larger community." – Jan. 13, 2015
 </p><p><a href="http://news.csumb.edu/news/2015/jan/8/sf-art-exhibit-showcases-work-csumb-faculty"><strong>S.F. art exhibit features work of CSUMB faculty</strong></a> A San Francisco art exhibit that invites spectators to take part by “dressing to transgress” features the work of CSU Monterey Bay faculty members.
 </p><p>“Glamorgeddon: The Spectacle,” curated by Visual and Public Art Department professors Johanna Poethig, Dio Mendoza and Angelica Muro, is on display through Feb. 4 at the SOMArts Cultural Center. In Poethig’s words, the exhibit “celebrates how we choose to be fabulous, even as we critique the excesses of our own endangered species.” – Jan. 8, 2015
@@ -145,3 +146,4 @@ date: January 01 2020
 </p><p><strong><a href="http://news.csumb.edu/news/2012/sep/5/professor-named-champion-arts">Professor named ‘Champion of the Arts’</a></strong> The Arts Council for Monterey County will honor Dr. Renee Curry at its annual Champions of the Arts gala on Jan. 19.
 </p><p>Dr. Curry, a professor of English who teaches literary and film studies, will be honored in the professional category for her work as an arts advocate who was instrumental in bringing the CSU Summer Arts program to the Monterey Bay area. – Aug. 27, 2012
 </p>
+```

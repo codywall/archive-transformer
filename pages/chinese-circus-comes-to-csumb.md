@@ -4,6 +4,7 @@ title: "Chinese circus comes to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>WORLD THEATER SEASON OPENS WITH SEPT. 15 PERFORMANCE</p><p>In past years, CSU Monterey Bay’s World Theater has brought Chinese acrobats and circus performers to the area. This year, it’s acrobats <em>and</em> the circus.
 </p><p>On Sept. 15, the National Circus and Acrobats of the People’s Republic of China will kick off this year’s Performing Arts series. The company, founded in 1953, combines elements of Peking opera and martial arts, introduced the concept of a circus without animals, and inspired the pioneers of Cirque du Soleil.
 </p><p>The program features “Peking Dreams.” It was performed at the Beijing Olympics in 2008 and has been presented in Europe and Asia. This year, it’s touring North America and the World Theater was successful in securing the Central California tour date.
@@ -16,3 +17,4 @@ The whole family will enjoy the feats of balance, juggling, flying and contortio
 </p><p>Tickets can be purchased <a href="https://csumb.edu/worldtheater">online</a> or by calling the box office at 831&#45;582&#45;4580.
 </p><p><strong>IF YOU GO</strong>:
 </p>
+```

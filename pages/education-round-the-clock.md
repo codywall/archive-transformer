@@ -4,6 +4,7 @@ title: "Education, round the clock"
 date: January 01 2020
 ---
 
+```html
 <p>For Jay Carter, participating in a residential community was an important part of his freshman year on campus.
 </p><p>“The programs cultivated a community that is genuine,” Carter said of his experience with the program in 2012. “The long-lasting relationships between residents and professors . . . are rich in spirit . . . ”
 </p><p>Carter was part of Project Higher Ground ­– a residential community in Avocet Hall linked to academic coursework and co-curricular activities designed to enhance student learning and personal development.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The university’s Student Life and Academic Affairs divisions, which co-sponsor Project Higher Ground, have seen an increase in student satisfaction and academic success as a result of the program.
 </p><p>“Higher Ground has a huge academic impact,” said Molly Springer, coordinator for Living Learning and Themed Programs at CSUMB. “And the students really feel a connection to the campus and to their peers. That connection is what brings them back” for their sophomore year. 
 </p>
+```

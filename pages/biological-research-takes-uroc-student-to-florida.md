@@ -4,6 +4,7 @@ title: "Biological research takes UROC student to Florida"
 date: January 01 2020
 ---
 
+```html
 <p>In early June, Marisa Morse of CSU Monterey Bay and seven other undergraduates from across the country arrived at the University of Florida's Whitney Laboratory for Marine Bioscience to participate in the lab's Research Experience for Undergraduates training program.
 </p><p>Morse applied to the program with the help of Matt Subia, research coordinator at CSUMB’s Undergraduate Research Opportunities Center (UROC).
 </p><p>UROC works to support faculty-student collaboration across all academic disciplines through training, research and professional development. Students come away from the UROC experience with a deeper appreciation of the research process, a thorough understanding of their curriculum content and a clearer pathway to graduate school and post-college job opportunities.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>To learn more about UROC, click <a href="http://uroc.csumb.edu/">here</a>.
 </p><p><em>Photo: Morse (center, in white shirt) and seven other students spent 11 weeks at the University of Florida in the Undergraduate Research Experience program funded by the National Science Foundation</em>  
 </p>
+```

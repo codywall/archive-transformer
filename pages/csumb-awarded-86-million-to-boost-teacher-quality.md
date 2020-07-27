@@ -4,6 +4,7 @@ title: "CSUMB awarded $8.6 million to boost teacher quality"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay has received one of 24 grants from the U.S Department of Education to recruit, train and support new teachers primarily in science, technology, engineering and math &#40;STEM&#41;.
 </p><p>The Teacher Quality Partnership grant totals $8.6 million over five years and will allow the university to work with high&#45;need school districts to strengthen teacher preparation programs, ensuring that teachers have the skills to improve student achievement.
 </p><p>CSUMB is partnering with Cal Poly San Luis Obispo and 10 school districts in Santa Cruz, Monterey, San Luis Obispo and Santa Barbara counties with a total enrollment of 75,000 students.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>This is the second grant from the Department of Education CSUMB has received recently. The university was awarded $14 million to start a GEAR UP program that will work with local students as they progress from middle school through high school and into college.
 </p><p><a href="https://csumb.edu/teach">Learn more about teacher education programs at CSUMB</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Fort Ord Alumni award scholarships"
 date: January 01 2020
 ---
 
+```html
 <p>The dozen students who were selected to receive scholarships from the Fort Ord Alumni Association cover the spectrum of academic majors available at Cal State Monterey Bay: human communication; business; liberal studies; global studies; teledramatic arts and technology; environmental science, technology and policy; health and human services; marine science; kinesiology.
 </p><p>And they aspire to varied careers: sports journalist; pharmacist; public relations practitioner; master chef; teacher; filmmaker; environmental engineer; nurse; scientist; physical therapist.
 </p><p>One plans to study abroad; two are members of the university’s athletic teams; some come from military families or have been on active duty; all have served their communities in some way.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p><strong>FOAA Scholarships</strong> • Col. Hank Hendrickson Scholarship: Joseph Blackburn, Atascadero • 1st Sgt. Willie B. Smith Scholarship: Lilyana Staight, Oceanside • Col. Robert Furney and Mary Furney Scholarship: Heather Cusson, Oakdale • Lt. Col. John McCutchon and Col. Ila Mettee-McCutchon Scholarship: April Garrett, Fresno • Fort Ord Alumni Association Scholarship: Hayley Tharp, San Jose
 </p><p>For more information, visit csumb.edu/foaa.  
 </p>
+```

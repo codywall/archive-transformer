@@ -4,6 +4,7 @@ title: "Spotlight on Alumni"
 date: January 01 2020
 ---
 
+```html
 <h4>Crystal Costa: Ready for prime time</h4><p>Crystal Costa is on the air. A 2007 graduate, she currently reports for KJCT News 8 in Grand Junction, Colo., and hopes to anchor one day.Getting to where she is took hard work every step of the way, even though she didn't always know where she was going.
 </p><p>"When I started college, I had no idea what I wanted to do," says Crystal, who grew up in the Central Valley and admits she came to CSUMB because she "wanted to live at the beach." She majored in Human Communication because "my passion is writing and being around people. I don't do math, science or many other subjects well, so it was also a process of elimination.
 </p><p>"I dabbled in everything; I took newspaper writing classes, magazine writing, investigative journalism, and even radio classes."
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>In her new position, Crystal goes out into the field to shoot footage and interviews and then edits the pieces together back in the studio. She also writes and delivers the stories on air. "I get to do something different every day. I meet new people and get to tell their stories. And I actually feel like I'm doing something for the community.
 </p><p>"I've had to pay my dues every step of the way, and really learn the news industry from the core, but I'm proud that I am doing what I love to do. I always want to be fulfilled in my career and feel like I am doing something that matters."
 </p>
+```

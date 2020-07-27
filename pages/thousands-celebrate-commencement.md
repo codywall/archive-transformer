@@ -4,6 +4,7 @@ title: "Thousands celebrate commencement"
 date: January 01 2020
 ---
 
+```html
 <h3>President Ochoa presides over first ceremony</h3><p>Enduring one final test – a two&#45;hour&#45;plus ceremony on a warm and breezy day – about 1,300 CSU Monterey Bay students celebrated their graduation May 18 in Freeman Stadium on the Seaside campus.
 </p><p>It was the largest graduating class in school history. They received their diplomas before a capacity crowd of about 8,000 family members and friends.
 </p><p>Keynote speaker Robert Danziger, a sustainable energy pioneer, musician and inventor, told the students that they can compete with people from Yale and Harvard and MIT, “just as I had to.
@@ -27,3 +28,4 @@ date: January 01 2020
 </p><p><a href="http://bcove.me/o55pn0t8">Watch a short video by the Monterey Herald.</a>
 </p><p><a href="http://news.csumb.edu/news/2013/may/23/api&#45;community&#45;celebrates&#45;graduation">Read about the API community's graduation celebration here</a>.
 </p>
+```

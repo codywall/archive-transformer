@@ -4,6 +4,7 @@ title: "STUDY HALL"
 date: January 01 2020
 ---
 
+```html
 <h2>New library is all things to all people</h2><p>From the moment it opened at 8 a.m. on Dec. 1, 2008, the Tanimura &amp; Antle Family Memorial Library has been the center of student life at Cal State Monterey Bay.
 </p><p>Having watched construction for two years, students lined up to get their first look inside the 136,000-square-foot structure. They rolled through the doors in numbers that shattered records at the old library. Those numbers have been climbing ever since.
 </p><p>The library features three classrooms, two auditoriums, 11 group study areas (that can be reserved online), multimedia equipment and an area designated for lessons in information literacy, along with the stacks of books, periodicals and electronic information.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Many students are pleased with the library as it is.
 </p><p>“The other library – we’d go in there to study and it was dark and uninviting,” said junior Madison Gipe. “This one is really geared for students. “And they serve the best coffee . . . and I’m in here nearly every day.”
 </p>
+```

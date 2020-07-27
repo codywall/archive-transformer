@@ -4,6 +4,7 @@ title: "BenefitsofStudyingAbroad"
 date: January 01 2020
 ---
 
+```html
 <p>Meghan Lewis' experience as an exchange student in Florence, Italy, last year not only exposed her to different cultures and enabled her to make friends in other countries, it also may have advanced her academic career.
 </p><p>Now back at CSUMB for her senior year, Lewis is preparing for graduate school and talking about the benefits of international study.
 </p><p>"It changed my life - that's why I'm planning to go back. And it makes you view the United States very differently," she said in a recent interview.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>"But I loved it. I can't wait to get back to Italy - and I hope to go back this summer."
 </p><p>To learn more, visit CSUMB's Office of International Programs in Building 58, or visit the web at international.csumb.edu.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Alumna hits journalism's big time"
 date: January 01 2020
 ---
 
+```html
 <p>Christy Khoshaba has hit the big time – journalistically speaking.
 </p><p>The 2011 Human Communication major has gone from CSU Monterey Bay’s student newspaper, the <em>Otter Realm</em>, to <em>The New York Times</em> – and done so in just over a year. As part of her master’s program at UC Berkeley’s Graduate School of Journalism, she enrolled in Digital TV and The World, a hands-on course where students learn the basics of video production.
 </p><p>“We learn about a diaspora community in the Bay Area as we learn video skills,” she said. “Then we visit the country of that community for a month.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>“HCom will always have a place in my heart.”
 </p><p><a href="http://csumb.edu/search/redirect/11312?searchterm=HCom">Learn about CSUMB's Human Communication major</a>.  
 </p>
+```

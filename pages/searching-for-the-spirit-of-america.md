@@ -4,6 +4,7 @@ title: "Searching for the spirit of America"
 date: January 01 2020
 ---
 
+```html
 <p>Cody Kyle likes big adventures.
 </p><p>The CSU Monterey Bay alumnus (TAT 2010) and his brother Tyler just completed one – a 3,800-mile bike ride through 11 states from the Golden Gate Bridge to Atlantic Beach, N.C.
 </p><p>The odyssey ended on July 12, when, according to their blog, Cody and Tyler reached their final destination – in pouring rain.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>They followed a route laid out by the Adventure Cycling Association and encountered dozens of bicycling travelers along the way. Some of them were headed west, and were able to provide the brothers with useful information about friendly towns, road construction and heavy traffic. And the locals they encountered along the way were friendly and helpful. Even the few times they were called “crazy,” it was said in a nice way, they said.
 </p><p>There’s only one drawback to traveling by bike, Tyler told the Bee. “There’s not much room for souvenirs.” <a href="http://outthereinit.wordpress.com"><em>Read the blog that Cody and Tyler kept during their trip.</em></a>
 </p>
+```

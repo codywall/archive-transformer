@@ -4,6 +4,7 @@ title: "Coming to terms with the experience of combat"
 date: January 01 2020
 ---
 
+```html
 <h3>Author discusses memoir Oct. 10 at CSUMB</h3><p>As a Marine lieutenant during the Vietnam War, Karl Marlantes learned what every young officer learns – to fire a rifle, to command a platoon, to fight and to kill. Over the next four decades, he spent his time reading, thinking and writing a memoir that helped him come to terms with that experience.
 </p><p>In his book, “What It Is Like to Go to War,” Marlantes writes that while the Marine Corps trained him to kill, “it didn’t teach me how to deal with killing.”
 </p><p>If the folks at the nonprofit organization Cal Humanities have their way, people will be reading Marlantes’ book this fall. It’s the featured selection of California Reads: The War Comes Home, a program offered by libraries throughout the state. Its goal: to bring people together to think and talk about what it is like to be a veteran.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

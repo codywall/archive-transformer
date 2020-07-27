@@ -4,6 +4,7 @@ title: "Aspiring math teacher earns CSU award"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay sophomore Jesus Ochoa Perez has been chosen for a CSU Trustees' Award for Outstanding Achievement. He and the other award winners will be honored on Sept. 9 at the CSU board meeting in Long Beach.
 </p><p>The award is among the highest student distinctions in the CSU and is accompanied by a scholarship. Awardees must demonstrate superior academic performance, personal accomplishments, community service and financial need. Many of the honorees have prevailed in the face of disability, language and cultural barriers, intense personal loss or homelessness.
 </p><p>“The compelling life stories of these extraordinary student scholars are a testament to the transformative power of public higher education,” said CSU Chancellor Timothy P. White. “Through the generous support of our donors, many of whom are first-time contributors to the Trustees’ Award program, we are able to help these scholars create a bright and successful future.”
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://www.calstate.edu/foundation/trusteesawards">More information on the CSU Trustees Award program</a>
 </p><p><em>Photos Above: Jesus Ochoa Perez by Jeff Lewis Below: CSU Chancellor Timothy White (left) and CSUMB President Eduardo Ochoa with Jesus at the awards reception in Long Beach on Sept. 9. Photo courtesy of the CSU</em>
 </p>
+```

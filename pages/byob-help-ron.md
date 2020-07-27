@@ -4,6 +4,7 @@ title: "BYOB, help RON"
 date: January 01 2020
 ---
 
+```html
 <h3>Attention, shoppers: Bring your own bag to Whole Foods</h3><p>CSU Monterey Bay’s Return of the Natives program is getting some help from Whole Foods shoppers.
 </p><p>From July through September, shoppers at the grocery chain’s Monterey store can request that the five-cent refund they receive from bringing their own bags be directed to RON.
 </p><p>The donation will be used to help pay for school buses to transport children to RON events, and to support student assistants “who are invaluable to helping RON meet our mission,” said RON director Laura Lee Lienk.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p><em>Photo courtesy of Return of the Natives RON at work: Local school children help to restore Bureau of Land Management property</em>
 </p><p> 
 </p>
+```

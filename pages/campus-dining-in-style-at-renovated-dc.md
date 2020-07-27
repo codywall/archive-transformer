@@ -4,6 +4,7 @@ title: "Campus dining in style at renovated DC"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 11, 2009
 </p><p>Declaring that "it was worth the wait," President Dianne Harrison on Thursday officially dedicated the renovated Dining Commons.
 </p><p>Dr. Harrison was joined by staff members of CSU Monterey Bay, the University Corporation and the contractor in cutting the ceremonial ribbon that marked the end of a long wait for an upgraded dining facility.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Tyler Trietman, a 2008 graduate of CSUMB, works as a project engineer for SBI Builders. "Tyler was on site during the course of the renovation.  He was instrumental in gathering the information we needed," said John Meyers, senior superintendent for SBI.
 </p><p>Meyers added that he was pleased to see the positive reaction from returning students. "That makes it worthwhile for us. That tells me we did a good job."
 </p>
+```

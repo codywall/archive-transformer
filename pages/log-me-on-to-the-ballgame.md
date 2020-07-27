@@ -4,6 +4,7 @@ title: "Log me on to the ballgame"
 date: January 01 2020
 ---
 
+```html
 <h3>Watch the Otters online</h3><p>The Internet has sparked an evolution in college sports viewing, and CSUMB has picked up on the trend.
 </p><p>Colleges and universities nationwide are increasingly video-streaming their sporting events on their websites. It’s a way to broaden fan support for schools whose games are not televised and make games available to family and alumni living outside the region.
 </p><p>At CSUMB, all home basketball and volleyball games are broadcast online. To find the broadcast, visit otherathletics.com and click on the “live audio/video/stats” tab on the right-hand side.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>"We don't get the media exposure that the Division I schools get. We're not on TV. This is our opportunity to get our exposure and develop our fan base," said Mindy Mills, CSUMB’s sports information director. "This helps us get more exposure outside the boundaries of our campus."
 </p><p>For those who prefer more traditional media, all Otter men's basketball games – home and away – are broadcast on KION 1460 AM in the Monterey Bay area.  
 </p>
+```

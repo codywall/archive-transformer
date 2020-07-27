@@ -4,6 +4,7 @@ title: "Archaeologist helps put stamp on mission"
 date: January 01 2020
 ---
 
+```html
 <h3>Stamp to be issued in 2012</h3><p>The U.S. Postal Service will honor nearly 250 years of California history with the issuance of the Carmel Mission express mail stamp, and a CSU Monterey Bay professor played a role in it.
 </p><p>Archaeologist Ruben Mendoza served as an adviser and resource consultant on the stamp. He worked on the narrative that will accompany it, as well as details of the design.
 </p><p>“I was called upon to address questions ranging from the colors of features depicted in the stamp to the details and textures of pavements, architectural elevations, shadows, wall heights and roof pitch,” he said.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>Digging into the missions’ past is more than an academic exercise or teaching tool for Dr. Mendoza. He believes that knowing what went on there helps us understand who we are today, and how California became what it is.
 </p><p>To read more about Dr. Mendoza, click <a href="http://news.csumb.edu/sites/default/files/65/igx_migrate/files/2810CSUMBMagazineSpringSummer2010-lores.pdf">here</a>. To learn more about the archaeology program at CSUMB, click <a href="http://archaeology.csumb.edu/">here</a>. <strong>DID YOU KNOW?</strong> • The express mail stamp will cost $18.95. • It’s not the first time the Carmel Mission has been featured on a stamp. A depiction of the mission’s bells was featured on a first-class stamp in 1969, to commemorate the bicentennial of the settlement of California. The cost: six cents.  
 </p>
+```

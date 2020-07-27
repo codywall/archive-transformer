@@ -4,6 +4,7 @@ title: "SAAC raises record amount for Make-A-Wish Foundation"
 date: January 01 2020
 ---
 
+```html
 <p>Student-athletes at CSU Monterey Bay hosted an evening of fun for their fellow students while celebrating National Collegiate Alcohol Awareness Week in mid-October.
 </p><p>The Student Athlete Advisory Council organized a night of Gatorade Pong that drew approximately 50 two-person teams to the Black Box Cabaret on Oct. 16.
 </p><p>The real winner: the Make-A-Wish Foundation, beneficiary of the $1,000 that was raised that night. It’s the most money raised in the four-year history of G-Pong at CSUMB.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><em>Photo by Jessica Benedetti Freshman Alex Fertig teams with men's basketball coach Rob Bishop at G-Pong</em>
 </p><p><em> </em>
 </p>
+```

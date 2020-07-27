@@ -4,6 +4,7 @@ title: "Gingerbread House Competition Results"
 date: January 01 2020
 ---
 
+```html
 <h4>Tasteful houses sweeten party</h4><p>As Hansel and Gretel can attest, gingerbread houses, with their candy-cane columns, gumdrop landscaping, peppermint pinwheel decorations and icing trim, are practically irresistible.
 </p><p>So it's no surprise that these confectionary cottages - and other structures - are the basis of a campus-wide competition now in its third year.
 </p><p>The gingerbread house-building venture came out of a discussion among members of the holiday party planning committee several years ago. They hit upon the idea of having the campus community build the houses and then using them for centerpieces at the annual party. This year, seven teams - including several dozen employees - participated in the competition. Each group was given a kit consisting of the basic pieces and encouraged to let their imaginations run wild. Dennis Hungridge of Human Resources coordinated the event.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Gingerbread cookies originated in Germany. The Germanic National Museum in Nuremberg houses the oldest existing gingerbread recipe, believed to have been written in 1395.
 </p><p>Gingerbread was baked long before the Middle Ages, but during the 11th century, when ginger was introduced to Europeans, it took off in popularity. And now, it's a "building" material.
 </p>
+```

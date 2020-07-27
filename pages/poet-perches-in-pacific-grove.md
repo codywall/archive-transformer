@@ -4,6 +4,7 @@ title: "Poet perches in Pacific Grove"
 date: January 01 2020
 ---
 
+```html
 <p>May 24, 2010
 </p><p>Professor Barbara Mossberg believes that poetry has the power to change the world. That conviction helped earn her the position of poet in residence for the city of Pacific Grove.
 </p><p>She's the fourth person to occupy the position since it was created in 2002.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>For more information, visit <a href="http://csumb.edu/site/x20683.xml">http://csumb.edu/site/x20683.xml</a> and <a href="http://www.barbaramossberg.com" title="http://www.barbaramossberg.com">http://www.barbaramossberg.com</a>
 </p><p> 
 </p>
+```

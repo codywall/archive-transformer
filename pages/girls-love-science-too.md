@@ -4,6 +4,7 @@ title: "Girls Love Science, Too"
 date: January 01 2020
 ---
 
+```html
 <p>Girls interested in pursuing a career in marine science are exploring their options this week through a program at CSU Monterey Bay.
 </p><p>Girls Love Science Too, a program offered by Camp SEA Lab – SEA stands for science, education, adventure – is giving two dozen 13- to 16-year-olds a chance to learn about marine habitat science and have fun in the process.
 </p><p>The students are housed in residence halls at CSUMB. Their days get off to an early start with tide pool monitoring at various locations around the Monterey Peninsula. On Monday, they went out on the bay in the university’s seafloor mapping vessel, the Harold Heath, to learn about underwater habitat surveying.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><a href="http://www.campsealab.org">Learn more about Camp SEA Lab</a><em>This video was made by camp participants in 2011</em>
 </p><p> 
 </p>
+```

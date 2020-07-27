@@ -4,6 +4,7 @@ title: "TAT graduate performs in Muppet movie"
 date: January 01 2020
 ---
 
+```html
 <p><strong>UPDATE</strong>: Danforth continued his Muppets adventure by working on the 2014 film, <em>Muppets Most Wanted.</em> He spent several weeks on the production, assisting with the puppet Sweetums. "I got to work with Ricky Gervais, Tina Fey and Ty Burrell," he said. "They brought such fun energy to the project. When you're with the Muppets, though, how can you not?"
 </p><p>He also worked on The Muppets and Lady GaGa Holiday Special, the Toyota halftime commerical with The Muppets, and "was very fortunate to puppeteer Sweetums for the world premiere of <em>Muppets Most Wanted</em>," he said.
 </p><h3>No strings attached to this puppeteer</h3><p>Nathan Danforth revels in breathing life into the inanimate.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>Since his stint with the Muppets wrapped up, he’s been looking forward to the next opportunity. Perhaps the lovable creations will play a part in his future.
 </p><p>“I could not imagine a world without Kermit the Frog or Fraggle Rock or Labyrinth. Those productions so heavily influenced my childhood, my imagination, and my career.”  
 </p>
+```

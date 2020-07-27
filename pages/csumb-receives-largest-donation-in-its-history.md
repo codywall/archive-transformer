@@ -4,6 +4,7 @@ title: "CSUMB receives largest donation in its history"
 date: January 01 2020
 ---
 
+```html
 <p>Joel and Dena Gambord of Pebble Beach have made a $10 million gift to California State University, Monterey Bay to establish two endowed professorships, fund student scholarships and set up an entrepreneurship fund.</p><p>In recognition of the gift, the CSU Board of Trustees has approved the naming of CSUMB’s newest academic building as the Joel and Dena Gambord Business and Information Technology Building.
 </p><p>“Our campus is very honored by this generous gift from Joel and Dena Gambord, the largest gift ever given to CSUMB,” President Eduardo Ochoa told the board.  “Joel and Dena Gambord together have been successful in real estate development in California, applying their tenacious work ethic, entrepreneurial spirit and strong sense of community responsibility.”
 
@@ -23,3 +24,4 @@ An endowed professorship in Joel Gambord’s name will be established in busines
 </p><p>Family real estate holdings, investments and their business ventures have allowed the Gambords to build their philanthropic base. They have been active with the Community Foundation of Monterey County since 2013, establishing a charitable foundation focused on support of organizations involved in training and placing service dogs.
 </p><p><em>Published Nov. 19, 2015</em>
 </p>
+```

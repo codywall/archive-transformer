@@ -4,6 +4,7 @@ title: "Taiwanese music group performs Oct. 5"
 date: January 01 2020
 ---
 
+```html
 <p>Taiwan-based performance group A Moving Sound will pay a visit to CSU Monterey Bay’s World Theater on Oct. 5.
 </p><p>Showtime is 7:30 p.m.
 </p><p>Founded in 2001 by composer and performer Scott Prairie, the group has performed in 15 countries and been featured on the Discovery Channel and Huffington Post.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Tickets are $15 for general admission, $10 for CSUMB faculty and staff, free for CSUMB students and are available at the Student Center and at the World Theater box office. To reserve tickets, or for more information, call 582-4580.
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>. 
 </p>
+```

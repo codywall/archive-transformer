@@ -4,6 +4,7 @@ title: "Marine debris: How do you pitch in?"
 date: January 01 2020
 ---
 
+```html
 <h3>Annual Sanctuary Currents symposium set for April 26</h3><p>Most people are aware of our role in polluting the oceans. It is a rare trip to the beach, even here in the beautiful Monterey Bay, that doesn't involve the discovery of marine debris in some form – a beer can, bottle cap or cigarette butt. But there are many potential solutions, from small-scale beach cleanups to much larger scale bans on plastic bags.
 </p><p>CSU Monterey Bay’s annual Sanctuary Currents Symposium – held in collaboration with the Monterey Bay National Marine Sanctuary – brings scientists, managers, students and members of the public together to address the most important issues of the day. This year, the topic for the April 26 symposium is Marine Debris: How Do You Pitch In?
 </p><p>The public is invited to attend a morning of lively presentations and discussions about the problems and solutions. Research posters will be on display throughout the day. The day concludes with the Ricketts Memorial Lecture at 2:15 p.m.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>For more information, to pre-register and to order a box lunch, <a href="http://www.montereybay.noaa.gov/research/currsymp2014">click here</a>. 
 </p><p> 
 </p>
+```

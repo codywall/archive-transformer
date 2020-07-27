@@ -4,6 +4,7 @@ title: "Students volunteer to prepare taxes"
 date: January 01 2020
 ---
 
+```html
 <p>Twenty&#45;nine students and two faculty members from CSU Monterey Bay are preparing income taxes for free during the next few months at various locations around the area through the Volunteer Income Tax Assistance program. VITA is coordinated by the United Way of Monterey County.
 </p><p>The volunteer tax&#45;preparers took training classes over the semester break and were certified by the IRS through an exam before beginning to work with clients. The student volunteers come from the university's School of Business. Most are in the accounting concentration; some are satisfying their service&#45;learning requirement.
 </p><p>The service is available at four locations in Salinas, and in Seaside, Castroville, Soledad and King City. Some students also work at locations in Santa Cruz County.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“The community also benefits from an infusion of otherwise lost income as the refunds are, for the most part, spent locally,” Morse said.
 </p><p>Click here for more information or to download a<a href="http://www.unitedwaymcca.org/Free_Tax%3Ci%3EAssistance%3C/i%3EProgram.php">flyer listing the Monterey County locations</a>, or call 211.
 </p>
+```

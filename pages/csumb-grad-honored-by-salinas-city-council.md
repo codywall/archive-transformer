@@ -4,6 +4,7 @@ title: "CSUMB grad honored by Salinas City Council"
 date: January 01 2020
 ---
 
+```html
 <h3>University presents USDA researcher Carolee Bull with mentor award</h3><p>Recent graduate Isael Rubio and Dr. Carolee Bull, his mentor at the U.S. Department of Agriculture’s research station in Salinas, were honored by the Salinas City Council on June 12.
 </p><p>Ana Ibarra, a student at Hartnell College who is also mentored by Dr. Bull, was honored as well.
 </p><p>All three were named during the council’s “City of Champions” agenda item, a time when people are acknowledged for serving the community and for being role models.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><em>Photo: Ana Ibarra of Hartnell College, Isael Rubio of CSUMB and Dr. Carolee Bull display the certificates they received from the Salinas City Council on June 12 </em>
 </p><p> 
 </p>
+```

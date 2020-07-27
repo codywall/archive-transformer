@@ -4,6 +4,7 @@ title: "Solar power project comes online"
 date: January 01 2020
 ---
 
+```html
 <p>June 3, 2010
 </p><p><strong><em>CSUMB taps sun for energy needs</em></strong>
 </p><p>The university has gotten greener.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p>The map shows the area on the east side of Seventh Avenue, between Col. Durham Street and Butler Street, where the solar panel array is being installed.
 </p>
+```

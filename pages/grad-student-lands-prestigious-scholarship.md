@@ -4,6 +4,7 @@ title: "Grad student lands prestigious scholarship"
 date: January 01 2020
 ---
 
+```html
 <p>Heather Kelley has been named a recipient of the Dr. Nancy Foster Scholarship for outstanding graduate students in the fields of marine biology and coastal resource management. The scholarships are presented annually by the Department of Commerce's National Oceanic and Atmospheric Administration (NOAA). Kelley will enter the Coastal and Watershed Science and Policy master’s program at CSUMB in the fall.
 </p><p>"I came to CSUMB for graduate school because I wanted to work on applied marine conservation issues at the intersection of technology and marine biology," Kelley said.
 </p><p>Since January, she has worked with the university’s Institute for Applied Marine Ecology (IfAME), under the direction of Dr. James Lindholm.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>To learn more about the master's program in Coastal and Watershed Science and Policy, click <a href="http://sep.csumb.edu/cwsp/">here</a>.
 </p><p>To learn more about the Institute for Applied Marine Ecology, click <a href="http://sep.csumb.edu/ifame/index.php">here</a>.  
 </p>
+```

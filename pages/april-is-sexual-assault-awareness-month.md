@@ -4,6 +4,7 @@ title: "April is Sexual Assault Awareness Month"
 date: January 01 2020
 ---
 
+```html
 <h2>But it’s a 365 day-a-year problem</h2><p>Following on the heels of Eve Ensler’s “The Vagina Monologues,” CSU Monterey Bay students continue their campaign to end sexual violence against women with two performances of “The MENding Monologues.”
 </p><p>Both a bookend and male response to Ensler’s play – which has been produced at CSUMB for 11 years – Derek Dujardin’s production borrows the monologue format, featuring stories of how men are affected when violence is waged against women.
 </p><p>Performances will be held at 8 p.m. on April 25 and 26 in the Black Box Cabaret. Tickets are $5 for students, $10 general.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p>“We – students, staff and faculty – must work together to empower our campus community to take action to stop sexual assault,” Rodriguez said.
 </p><p> 
 </p>
+```

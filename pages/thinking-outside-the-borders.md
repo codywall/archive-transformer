@@ -4,6 +4,7 @@ title: "Thinking outside the borders"
 date: January 01 2020
 ---
 
+```html
 <h3>La Santa Cecilia – A band with a message</h3><p>La Santa Cecilia is set to rock CSU Monterey Bay’s University Center on Oct. 29.
 </p><p>Coming off its recent Grammy win for “Best Latin Rock/Alternative/Urban Album,” La Santa Cecilia has enchanted its fans with diverse genres, powerful lyrical messages and colorful performances.
 </p><p>Band members are accordionist and requintero José “Pepe” Carlos, bassist Alex Bendaña, and percussionist Miguel Ramirez and lead vocalist Marisol Hernandez, La Marisoul, who sings about love, loss and heartbreak. Their love of music and openness to all genres led them to form La Santa Cecilia in 2007, named for the patron saint of musicians.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><em>It’s an eclectic mixture meant to get listeners dancing and thinking at the same time.</em> – New York Times
 </p><p> 
 </p>
+```

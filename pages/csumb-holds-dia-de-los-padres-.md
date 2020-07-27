@@ -4,6 +4,7 @@ title: "CSUMB holds Dia de Los Padres "
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 2, 2010
 </p><p><strong><em>Spanish-speaking families invited to Feb. 13 event</em></strong>
 </p><p>California State University, Monterey Bay invites the Spanish-speaking parents of incoming and prospective students to Dia de Los Padres, a reception and information session to be held Saturday, Feb. 13 from 9 a.m. to 12:30 p.m. at the Boys and Girls Club in Salinas. This event is co-hosted by Monterey County Office of Education, Migrant Education, Region XVI.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

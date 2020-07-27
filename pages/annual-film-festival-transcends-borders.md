@@ -4,6 +4,7 @@ title: "Annual film festival transcends borders"
 date: January 01 2020
 ---
 
+```html
 <h3>Directors Terence Nance, Gerardo Naranjo on hand for screenings</h3><p>The Monterey Bay Film Festival is back for its fifth year and it’s bigger and better than ever.
 </p><p>Under the auspices of the Monterey Bay Film Society, the festival has grown to three days and a pair of locations.
 </p><p>This year’s festival will be held Sept. 7-9. It opens with a showing of Terence Nance’s “An Oversimplification of Her Beauty,” a love story that cleverly incorporates animated fragments into its experimental narrative. The film will be shown at 7:30 p.m., Sept. 7, in CSU Monterey Bay’s World Theater. A question-and-answer session with the director (pictured at left) will follow the screening. General admission tickets are $10; $5 for students and military. <a href="http://montereybayfilmfestival.com">Tickets may be purchased online</a>.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><strong>Sunday, Sept. 9</strong> • 3 p.m. – Screening of “Best of Wholphin Shorts,” followed by Q-and-A, Museum of Monterey, 5 Custom House Plaza, $10 general admission, $5 students/military
 </p><p><em>Photo of Gerardo Naranjo by Juan Carlos Polanco</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Soledad, CSUMB partner to support small business "
 date: January 01 2020
 ---
 
+```html
 <p>June 21, 2010
 </p><p>The city of Soledad and CSU Monterey Bay's Small Business Development Center will open an outreach office in the Lum Building at 749 Front St. The community is invited to the center's grand opening at noon on July 7. 
 </p><p>"Together, we'll work to offer strong support to the businesses in our community and strengthen their sustainability," said Soledad Mayor Richard V. Ortiz.   
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The center provides services at various locations from Gilroy and Hollister to King City.  Ms. Martinez can coordinate client services with the appropriate outreach office. 
 </p><p> 
 </p>
+```

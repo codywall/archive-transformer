@@ -4,6 +4,7 @@ title: "CSUMB seeks participants for Library of Congress project"
 date: January 01 2020
 ---
 
+```html
 <p>EVERY VETERAN HAS A STORY. CALIFORNIA STATE UNIVERSITY, MONTEREY BAY WANTS YOURS. </p><p>This fall, Enid Ryce, coordinator of the School of Creative Arts, will lead an effort to record the stories of local veterans as part of the <a href="http://www.loc.gov/vets/">Veterans History Project</a> &#40;VHP&#41;. Created by Congress in 2000 as part of the American Folklife Center at the Library of Congress, the VHP collects, preserves and makes accessible the personal accounts of American wartime veterans so that future generations may hear their stories and better understand the realities of war.
 
 Some of the stories will also be featured in museum exhibits at the Monterey Museum of Art and at the Smithsonian Institution in Washington, D.C.
@@ -18,3 +19,4 @@ Eligible to participate are U.S.military veterans who served in any capacity fro
 
 For more information, contact Enid Ryce at ebryce@csumb.edu
 </p>
+```

@@ -4,6 +4,7 @@ title: "TAT sponsors film showing in Monterey"
 date: January 01 2020
 ---
 
+```html
 <h3>An insider’s look at Seattle’s outsider poet</h3><p>The Teledramatic Arts and Technology Department at CSU Monterey Bay will present a screening of “I Am Secretly an Important Man” at the Osio Theater in Monterey on March 5.
 </p><p>The documentary film, directed by Peter Sillen, will be shown at 7 p.m.
 </p><p>In the film, Sillen examines the life of subculture hero Steven Jesse Bernstein. Bernstein, a songwriter, poet and performance artist, was a literary rebel and vivid presence in Seattle’s underground scene in the 1970s and ’80s. Cited as the “godfather of grunge,” he opened concerts for Nirvana and Soundgarden and recorded albums of songs and poetry for Sub Pop Records.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Tickets can be purchased at the door at the regular Osio prices: $9 for general admission, $6.25 for seniors, $6.75 for students/military with ID.
 </p><p><em>Whether he’s a grunge footnote, a beatnik wannabe, or a beautiful, belated loser, the film allows you to decide.</em> – Seattle Weekly
 </p>
+```

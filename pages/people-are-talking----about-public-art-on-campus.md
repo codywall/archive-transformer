@@ -4,6 +4,7 @@ title: "People are Talking . . . about public art on campus"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 8, 2009
 </p><p>Across campus, semester-ending projects by Visual and Public Art students are on display. The murals have something to say – from local to global, from historic to contemporary points of view.
 </p><p>According to Johanna Poethig, who taught the painting and mural class, the project was designed to give students an opportunity to get public art experience, and to build the CSUMB community.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Some of the paintings have been installed on unused buildings along Seventh Avenue. These paintings will stay up as long as the buildings are there, documenting ideas, events and student creativity over time, according to Poethig.
 </p><p>Pictured above is the installation by Adam Flores at the Service Learning Building. To see more photos, visit <a href="http://vpa.csumb.edu/peoplearetalking.htm" title="http://vpa.csumb.edu/peoplearetalking.htm">http://vpa.csumb.edu/peoplearetalking.htm</a>
 </p>
+```

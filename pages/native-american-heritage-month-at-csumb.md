@@ -4,6 +4,7 @@ title: "Native American Heritage Month at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB Professor George Baldwin among presenters</h3><p>Flute player <a href="http://akaflutemanent.com/">David Wolfs Robe</a> will visit CSU Monterey Bay as part of the university’s celebration of Native American Heritage Month.
 </p><p>Other activities include film screenings, a panel discussion of contemporary Native American issues, presentations and a photo exhibit. All activities are free and open to the public but parking permits must be purchased from machines on the parking lots.
 </p><p>He is an accomplished flute maker, performer and educator who brings traditional music and original compositions to life. His performances weave delicate melodies and improvisation into a landscape with the sounds of nature while also emphasizing the importance of cultural preservation.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p><a href="http://library.csumb.edu/native-american-heritage-month-2013"><em>The CSUMB Library provides materials that may be of interest to those wishing to delve further into the themes covered by some of these events</em></a>
 </p><p> 
 </p>
+```

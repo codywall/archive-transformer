@@ -44,7 +44,9 @@ title: "${title}"
 date: January 01 2020
 ---
 
+\`\`\`html
 ${htmlContent.join('')}
+\`\`\`
 `;
 
   //   create files

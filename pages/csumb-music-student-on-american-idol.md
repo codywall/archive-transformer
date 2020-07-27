@@ -4,6 +4,7 @@ title: "CSUMB music student on 'American Idol'"
 date: January 01 2020
 ---
 
+```html
 <h3>Singer earns ticket to Hollywood</h3><p>A bit of encouragement from Mariah Carey helped Cal State Monterey Bay student Stevie Rae Stephens land a ticket to Hollywood.
 </p><p>Stephens, a 21-year-old senior from Livermore, auditioned for the prime-time hit program “American Idol” last summer in Long Beach, one of eight sites across the country where singers tried to earn a coveted “golden ticket” to the next round of competition.
 </p><p>“Mariah ended up giving me a thumbs up offstage before my audition and that took some of the nerves away,” Stephens said.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>On the CSUMB Facebook page, 1,083 people have “liked” the story about her success. She responded with a message of appreciation.
 </p><p>“OK, seriously. Over 1,000 likes. You guys have no idea how much support I feel right now,” she wrote. “From the bottom of my heart, thank you.” <a href="http://csumb.edu/music">Learn about the music program at CSUMB</a>.
 </p>
+```

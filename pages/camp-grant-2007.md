@@ -4,6 +4,7 @@ title: "CAMP Grant 2007"
 date: January 01 2020
 ---
 
+```html
 <p>California State University, Monterey Bay has received a $2 million federal grant aimed at enrolling more migrant students in higher education.
 </p><p>CSUMB will be able to offer outreach and recruitment, financial assistance, academic and career services, cultural and social enrichment and health and counseling services through the College Assistance Migrant Program grant, awarded by the U.S. Department of Education.
 </p><p>The grant covers five years and will help with recruiting high school students for college, as well as providing support for the students once they are enrolled.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>An estimated 160,000 farm workers reside in Monterey and Santa Cruz counties, making the Central Coast home to the largest population of farm workers in California. In Monterey County, the average farm worker family has an annual income of $12,855; the figure is $15,006 for Santa Cruz County residents.
 </p><p>In the Central Coast region, nearly 80 percent of first-generation migrant youth between the ages of 16 and 24 are not in school, making programs such as CAMP essential.
 </p>
+```

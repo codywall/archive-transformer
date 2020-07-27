@@ -4,6 +4,7 @@ title: "Powerful words"
 date: January 01 2020
 ---
 
+```html
 <h3>Monologues tell women's stories</h3><p>The Vagina Monologues returns to CSU Monterey Bay Feb. 12, 13 and 14.
 </p><p>The play has received rave reviews in San Francisco, Los Angeles and New York. Written by Eve Ensler, the "Vagina Monologues" tells the stories of a variety of women, their connections with each other and with the world.
 </p><p>CSUMB's production is student&#45;run, student&#45;directed and features student actors. The monologues address issues such as rape, birth, sex and relationships; some are serious, some are funny, all are enlightening and explore new and interesting viewpoints for both men and women.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><strong>Tickets</strong>: $15 general admission; $10 students with ID and seniors
 </p><p><strong>Parking</strong>: Attendees must purchase a permit from a machine on the parking lot
 </p>
+```

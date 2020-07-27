@@ -4,6 +4,7 @@ title: "Kinesiology grad lands prestigious fellowship"
 date: January 01 2020
 ---
 
+```html
 <p><strong>UPDATE:</strong> As of September 2012, Lawrence is enrolled in a Ph.D. program in biology at the University of North Carolina Charlotte. Following his Kannapolis award, his Ph.D. program is fully funded.
 </p><h3>Young researcher studies aging</h3><p>Growing up in a small Central Valley farming town, Marcus Lawrence spent his summers working at jobs involving physical labor. “It taught me to appreciate hard work and the outcomes produced from it,” he said.
 </p><p>That lesson paid off at CSU Monterey Bay, where, through hard work, he discovered the allure of research.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p><em>Photo courtesy of Appalachian State University News Office Dr. Kevin Zwetsloot (left), with Marcus Lawrence in a lab at Appalachian State. Lawrence is a 2010 graduate of CSUMB's kinesiology program. </em>
 </p><p><em> </em>
 </p>
+```

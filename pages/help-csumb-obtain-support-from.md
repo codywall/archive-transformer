@@ -4,6 +4,7 @@ title: "Help CSUMB obtain support from"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 2, 2009
 </p><p>****The Monterey County Weekly newspaper has invited readers to help support CSU Monterey Bay and dozens of other local nonprofits through its "Community Fund" program.
 </p><p>(Read the article and **download a donation form **here: <a href="http://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index">http://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index</a>)
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>"Human activities are responsible for the problem, and working together humans have the capacity to solve the problem," she said. "That means taking serious action to stop adding global warming pollution to the atmosphere.
 </p><p>"CSUMB is committed to leading the way."
 </p>
+```

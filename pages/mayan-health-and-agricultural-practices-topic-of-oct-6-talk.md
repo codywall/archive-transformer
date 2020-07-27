@@ -4,6 +4,7 @@ title: "Mayan health and agricultural practices topic of Oct. 6 talk"
 date: January 01 2020
 ---
 
+```html
 <p>Professor Bernardo Ca’amal Itzá, the United Nations representative for the Mayan People, will visit Cal State Monterey Bay on Oct. 6 as part of Hispanic Heritage Month.
 </p><p>“The Wisdom of Mayan Health Practices: Understanding the Mayan Cosmovision” is the topic for the 11:30 a.m. talk. The event will be held in the Music Hall, located on Sixth Avenue near Col. Durham Street.
 </p><p>Professor Itzá became interested in radio and other forms of communication in the early 1990s, while studying agriculture and plant sciences at Mexico’s University of Chapingo. He combined his interest in media and his knowledge of agriculture to create radio programs in the Mayan language. Those programs continue to emphasize sustainable farming practices and the benefits of traditional knowledge and provide daily market information, bulletins about regional agricultural trends and analysis of farming issues.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

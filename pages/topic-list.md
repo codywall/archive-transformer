@@ -4,6 +4,7 @@ title: "Topic list"
 date: January 01 2020
 ---
 
+```html
 <p>CSUMB faculty and staff members are currently offering talks on the following topics:</p><h4>Research at CSUMB: Why we do it and what it means for the Monterey Bay region</h4><p>Researchers at the university bring in millions of dollars in grants. Those funds create jobs and support the development of new knowledge. We’re eager to discuss economic development and to share ideas for cooperation and collaboration between the university and industry.
 </p><p>Presented by a university administrator.
 </p><h4>From ‘You’ve got to be kidding!’ to ‘Ah-ha!’ – hope for our oceans through insight and innovation</h4><p>The talk discusses innovative ways to address the unprecedented threats of climate change, sea level rise, ocean acidification, pollution, fishery declines, coastal erosion, algal blooms and storm intensification on the coastal oceans and communities.
@@ -69,3 +70,4 @@ date: January 01 2020
 </p><h4>The current state of the economy</h4><p>A discussion of current economic data and its meaning for business.
 </p><p>Presented by Dr. Brad Barbeau
 </p>
+```

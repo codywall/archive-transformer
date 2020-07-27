@@ -4,6 +4,7 @@ title: "Alum named Firefighter of the Year"
 date: January 01 2020
 ---
 
+```html
 <p>Anthony Prado (TMAC ’00) has been recognized with the Career Firefighter of the Year Award by the Monterey County Fire Chiefs Association. 
 </p><p>Prado always knew he wanted to be a firefighter. Now a fire engineer with the Marina department, Prado spent years in Silicon Valley working for Cisco before he made his dream a reality. He returned to school and attended the Monterey Peninsula College Fire Academy in 2006, graduating at the top of his class before he was hired full time in 2007. He was promoted to fire engineer in 2009.
 </p><p>As an engineer, Prado drives the fire engines, is responsible for the engine’s equipment and operates the engine’s pump, a duty that requires quick mathematical skills and extensive knowledge of hydraulics during an emergency call.
@@ -14,3 +15,4 @@ A father of three, Prado thought at one point when working in Silicon Valley tha
 
 Since 1982, the Monterey County Fire Chiefs Association has presented annual awards to persons who have distinguished themselves among their peers and to their organization as individuals who have gone above and beyond the call. They have demonstrated skills, character, and achievements that deserve special recognition. To honor and recognize these individuals, the Monterey County Fire Chiefs Association hosts a special awards ceremony in their honor. Awards are presented in three categories: Career Firefighter of the Year, Volunteer Firefighter of the Year and Support Person of the Year.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Otters seeded No. 3 in West Regional"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay’s women’s basketball team grabbed the No. 3 seed in the NCAA West Regional tournament starting Friday in Pomona.
 </p><p>Three of the eight teams in the region come from the California Collegiate Athletic Association. 
 </p><p>The Otters (26-3) will face the No. 6 seed Dixie State College of St. George, Utah, at 12:30 p.m. The Red Storm compiled a 24-3 record and ended the season with a 21-game home winning streak.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“These kids said yes to a coach who had never been a head coach,” Renee Jimenez said. Jimenez took over the program in 2009. “All these girls took a chance on us and bought into what we were doing.”
 </p><p>It’s been a banner year for the Otters: a school-record 26 wins – including a 16-0 run to start the season – and a No. 19 NCAA national ranking in Division II.
 </p>
+```

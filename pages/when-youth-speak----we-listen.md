@@ -4,6 +4,7 @@ title: "When youth speak . . . we listen"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 10, 2009
 </p><p>A group of high school and community college students spent the summer researching issues that affect young people in Salinas, Seaside and Soledad, and CSU Monterey Bay helped them share their findings.
 </p><p>The researchers presented their work at a town hall meeting at the university's Tanimura and Antle library on Aug. 6 at an event open to the public.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

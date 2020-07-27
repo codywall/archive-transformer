@@ -4,6 +4,7 @@ title: "CSUMB takes back the night on March 4"
 date: January 01 2020
 ---
 
+```html
 <p><em>A woman walks alone down a dark, deserted street. With every shadow she sees, and every sound she hears, her pounding heart flutters and skips a beat. She hurries her pace as she sees her destination become closer. She is almost there. She reaches the front door, goes inside, collects herself, and moves on forgetting, at least for tonight, the gripping fear that momentarily enveloped her life.</em>
 </p><p>This scene could have occurred anywhere last night, last year, or even 100 years ago. Historically, women faced the anxiety of walking alone at night and that is why Take Back the Night began.
 </p><p>The annual Take Back the Night speak-out and march to protest sexual violence will be held from 7 to 9 p.m., March 4 at CSU Monterey Bay.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>It has been a staple of American campus feminism since then. The event works to empower women and serves as a collective voice to demand an end to the violence.
 </p><p>The CSUMB event has been organized by Theta Alpha Sigma sorority.  
 </p>
+```

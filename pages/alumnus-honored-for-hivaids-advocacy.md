@@ -4,6 +4,7 @@ title: "Alumnus honored for HIV/AIDS advocacy"
 date: January 01 2020
 ---
 
+```html
 <p>Steven Goings (SBS ’10) will be honored at the annual Crystal Ball, an event that benefits the education and prevention programs of Central Coast HIV/AIDS Services (CCHAS).
 </p><p>Goings, one of two honorees at the Feb. 22 event, will be honored for his work promoting AIDS awareness and prevention at CSU Monterey Bay during the three years – 2010-'12 – he served as the university’s purposeful service coordinator.
 </p><p>Goings first came out in public as a person living with AIDS when he suggested that the university reach out to long-term AIDS survivors at an Early Outreach Program event in 2010. A few weeks later, Goings’ journey into higher education as a re-entry student and person with AIDS was featured in a promotional video for EOP.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://www.cchas.org">More information on the event and CCHAS</a>
 </p><p>*Photo: (left to right) Carmela Cooper, AmeriCorps member; Steven Goings; Jocelyn Brady, Central Coast HIV/AIDS Services development director; Akin Miller, president, African American HIV/AIDS Wellness. *  
 </p>
+```

@@ -4,6 +4,7 @@ title: "McNair Scholars grad school"
 date: January 01 2020
 ---
 
+```html
 <p>May 7, 2009
 </p><h4>McNair Scholars prepare for grad school Soaring toward advanced degrees on astronaut&#039;s legacy</h4><p>For some college students, summer is a time to put the books away for a few months.
 </p><p>But that's not the case for a group of CSU Monterey Bay students who will spend their summer conducting experiments, gathering data and summarizing their scientific findings in research papers.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>Continuing students:
 </p><p>Xeronimo Castaneda (earth systems science and policy), Dr. Corey GarzaStefanie Gutierrez-Kortman (earth systems science and policy), Dr. Marc Los HuertosAlexis Hall (earth systems science and policy), Dr. Corey GarzaAlison Jones (earth systems science and policy), Dr. Susan AlexanderMegan Kelly (earth systems science and policy), Dr. James LindholmTonnett Kirby (earth systems science and policy), Dr. Fred WatsonSeth Koetke (earth systems science and policy), Dr. Suzanne WorcesterCarolina Melendrez (human communication), Dr. Rina BenmayorSarah Moreland (earth systems science and policy P), Dr. Sharon AndersonMegan Neary (global studies), Dr. Kathryn PoethigJose Pantoja (social and behavioral sciences), Dr. Juan GutierrezAna Quintana (biology), Dr. Henrik KibakAdan Romero (biology), Dr. Steven MooreNorma Vazquez (earth systems science and policy), Dr. William HeadKatie Wrubel (earth systems science and policy), Dr. James Lindholm
 </p>
+```

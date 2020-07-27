@@ -4,6 +4,7 @@ title: "‘Graduation Day’ for ocean science researchers"
 date: January 01 2020
 ---
 
+```html
 <p>For the 11 students who spent the summer conducting research through the <a href="https://csumb.edu/reu">Ocean Sciences Research Experiences for Undergraduates</a> program based at CSU Monterey Bay, Aug. 14 was graduation day.
 </p><p>The students – including two from CSUMB and two from local community colleges – presented their work to a group of their peers, faculty and administrators, and mentors from the collaborating agencies at the Summer Research Symposium.
 </p><p>“Today’s event represents our commitment to undergraduate research,” said Dr. Marsha Moroh, dean of the College of Science. “Other campuses in the California State University system are looking to CSUMB as a model of how to do it,” she said.
@@ -16,3 +17,4 @@ Among the research topics presented: the effects of climate change on developmen
 </p><p>The research symposium was the first event held in the university’s newly opened Business and Information Technology Building. “We’re calling this the shakedown cruise,” Dr. Moroh said.
 </p><p>Check out the <a href="https://www.facebook.com/pages/Monterey&#45;Bay&#45;Regional&#45;Ocean&#45;Science&#45;Research&#45;Experiences&#45;for&#45;Undergraduates/289392764542256">Facebook page</a>
 </p>
+```

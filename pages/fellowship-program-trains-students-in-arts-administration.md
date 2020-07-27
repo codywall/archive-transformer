@@ -4,6 +4,7 @@ title: "Fellowship program trains students in arts administration"
 date: January 01 2020
 ---
 
+```html
 <p>Two Cal State Monterey Bay students are getting the opportunity to learn how nonprofits operate through a fellowship program with the Carmel Bach Festival, and helping the festival at the same time.</p><p>Jessalyn Johnson and Avery Gould started work last September. During the school year, they spent 12 hours a week at the festival office and earned academic credit. During June and July, they become full&#45;time, paid employees.
 </p><p>Dr. Lila Staples, chair of the Visual and Public Art Department, recommended them for the program. She calls it an “incredible opportunity.”
 
@@ -25,3 +26,4 @@ The fellowship is a two&#45;way learning experience – the students learn new s
 </p><p>This is the second year of the CSUMB&#45;Bach Festival partnership. “Our university looks forward to expanding our relationship withthe Carmel Bach Festival,” said CSUMB President Eduardo Ochoa. “The festival is truly an outstanding cultural event, and CSUMB is proud to be working closely with its organizers.”
 </p><p><em><a href="https://www.bachfestival.org/">The Carmel Bach Festival</a> will run July 18 through Aug. 1 at locations around the Monterey Peninsula.</em>
 </p>
+```

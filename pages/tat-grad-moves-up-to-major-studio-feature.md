@@ -4,6 +4,7 @@ title: "TAT grad moves up to major studio feature"
 date: January 01 2020
 ---
 
+```html
 <p>July 11 is the day Planet of the Apes fans have been anticipating, as “Dawn of the Planet of the Apes” premieres nationwide.
 </p><p>For CSUMB graduate David Kashevaroff, that opening represents the culmination of about two years of work, and an important milestone in his successful career as a film editor.
 </p><p>“It is hard to maintain perspective when you have worked on a project so long. But it is a great story and a beautiful film. I think people will really like it,” said Kashevaroff, who graduated from Cal State Monterey Bay with a degree in Teledramatic Arts and Technology in 2001. He was one of the first wave of TAT grads who are becoming increasingly prominent in the film business.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>“I haven’t looked for what I will do next. It can be a little nerve-wracking, but that is just part of the business,” he said.
 </p><p>Given his ever-expanding <a href="http://www.imdb.com/name/nm1572421/">body of work</a>, it is a safe bet that his next project is not far away. <a href="http://csumb.edu/tat">Learn about Cinematic Arts at CSUMB</a>.
 </p>
+```

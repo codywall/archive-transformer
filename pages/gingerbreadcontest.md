@@ -4,6 +4,7 @@ title: "GingerbreadContest"
 date: January 01 2020
 ---
 
+```html
 <p>There are gingerbread bakers and gingerbread artists.
 </p><p>And then there are gingerbread overachievers.
 </p><p>Perhaps the folks representing the Black Box Cabaret would fit into that category, coming up with an elaborate castle to house the Ord Wort's School of Witchcraft and Wizardry - right down to a "Harry Otter" complete with glasses.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Ingredients include: • 75 cups of flour • 15 cups of sugar • 1 gallon of molasses • 4 cups of water • 6 pounds of powdered sugar • Secret spices and pixie powder
 </p><p>Chef Brown wishes to thank Dan Kaupie, Bill Steacy, Erika Price and Gokhan Aksoy for their help.
 </p>
+```

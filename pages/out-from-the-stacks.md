@@ -4,6 +4,7 @@ title: "Out from the stacks"
 date: January 01 2020
 ---
 
+```html
 <h3>Librarian promotes literacy in Guatemala</h3><p>CSU Monterey Bay reference and instruction librarian Sarah Dahlen personifies public service.
 </p><p>She has worked as an adult education teacher in a family literacy program in Arizona, and, in 2013, used her library skills to help youngsters in Guatemala through <a href="http://lwb-online.org">Librarians Without Borders</a> (LWB).
 </p><p>Founded in 2005, LWB is a volunteer-run, non-profit organization founded by “socially-minded librarians who wanted to address the information resource inequity existing between different regions of the world,” according to its website.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://lwb-online.org/?cat=27">Read the trip blog</a>
 </p><p> 
 </p>
+```

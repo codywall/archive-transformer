@@ -4,6 +4,7 @@ title: "Otters at the bottom of the world"
 date: January 01 2020
 ---
 
+```html
 <p>While penguins and seals call it home, there are few permanent human residents on Antarctica. But, each year, several thousand people temporarily reside at research stations scattered across the continent. At the moment, two of them are CSU Monterey Bay alumni. Kevin Johnson and Erin Frolli, both members of the Class of 2012, had a chance meeting there recently while working on separate projects. Running into Frolli was an “incredible” surprise, Johnson said via e&#45;mail. “I had arrived a few days ahead of her group and was finishing our required safety training when she walked past me in the hall.”  Frolli was equally surprised. "You don't expect to see a fellow UROCer at the bottom of the world," she said.
 </p><p>They see each other often at work and around the town that is McMurdo Station.
 </p><p>After graduating from CSUMB – where both were involved with the Undergraduate Research Opportunities Center or UROC – they went in separate directions for graduate school.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/UROC">Learn about CSUMB's Undergraduate Research Opportunities Center</a>
 </p><p>&#42;Photos courtesy of Kevin Johnson Top: Erin Frolli and Kevin Johnson at McMurdo Station in a condition 2 ground blizzard Bottom: Pteropods – swimming snails – that Johnson's team is studying&#42;
 </p>
+```

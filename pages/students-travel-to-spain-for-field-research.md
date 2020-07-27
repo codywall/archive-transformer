@@ -4,6 +4,7 @@ title: "Students travel to Spain for field research"
 date: January 01 2020
 ---
 
+```html
 <p>Six CSU Monterey Bay students spent part of their summer learning how to conduct oral history interviews in a rural community in Spain.
 </p><p>David Macko, Timothy Davis, A.J. Cibulsky, Karina Gomez, Megan Thomas and Susan Dyar took part in the ethnographic field research school sponsored by the <a href="http://sbgs.csumb.edu/social-behavioral-sciences-major">Division of Social and Behavioral Sciences.</a> During June, the students and Dr. Juan Gutierrez, the program director, traveled to Boñar in the province of León, in northwestern Spain.
 </p><p>“It was a town I never would have visited, yet loved more than the destination spots we visited,” Thomas said.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>To learn more about the program, contact <a href="http://sbgs.csumb.edu/faculty/dr-juan-josé-gutiérrez">Dr. Gutierrez</a> or the <a href="http://international.csumb.edu/index.htm">Office of International Programs</a>.
 </p><p><em>Photo: Students listen to a lecture at the paleoanthropological site of Atapuerca in Burgos. Photo courtesy of Dr. Gutierrez</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Watershed moment at museum"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 18, 2010
 </p><p><strong><em>CSUMB plays major role in Steinbeck Center exhibit</em></strong>
 </p><p>An exhibition at the National Steinbeck Center in Salinas tells the story of a local watershed, and the story of California State University, Monterey Bay's community engagement.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p><strong>When</strong>: Feb. 5-April 25, 2010
 </p><p><strong>Information</strong>: <a href="http://www.steinbeck/">www.steinbeck</a>.org
 </p>
+```

@@ -4,6 +4,7 @@ title: "Campus holiday food drives are big success"
 date: January 01 2020
 ---
 
+```html
 <p>The Nov. 13 performance of December People at the World Theater was sold out, with standing room only. Another high point of the evening was the success of the theater’s food drive.
 </p><p>The drive was a collaboration between the World Theater and radio station HIPPO 104.3 FM. Food for people and pets was collected and donated to the food banks of Monterey and San Benito counties and the Monterey County SPCA. The World Theater lobby was filled with an estimated 2,000 lbs. of donated food to help those in need during the holiday season.
 </p><p>“Because of the fantastic audience response and the food drive, the producers plan to bring December People and the canned food drive back again next year,” said Joe Cardinalli, director of the World Theater.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>“On the last day of the food drive, Otter Athletics joined in and asked community members to donate canned food for admission to the women's basketball game,” said Jennifer Harris, marketing and  sustainability manager for Sodexo campus dining. “They added nearly 200 lbs of food in one night.”
 </p><p>Due to the support from the campus community and Otter Athletics, the Helping Hands Food Drive donated nine times more food than last year.  
 </p>
+```

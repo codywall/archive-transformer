@@ -4,6 +4,7 @@ title: "Alum wins California Sea Grant fellowship"
 date: January 01 2020
 ---
 
+```html
 <p>Jessica Watson, a December graduate of CSU Monterey Bay’s Coastal and Watershed Science and Policy masters program, has been selected as a California Sea Grant State Fellow. The State Fellows Program provides an opportunity for graduate students who are interested in marine resources and in the policy decisions affecting those resources to get real-world experience. The program matches students with hosts in California state agencies for up to a year.
 </p><p>Watson’s assignment takes her to Oakland, where she’ll work with the California Coastal Conservancy on efforts to help the state prepare for climate change.
 </p><p>“I will be researching the most urgent management challenges, and the needs for funding or technical assistance to support climate change adaption,” Watson said.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Learn about the Coastal and Watershed Science and Policy program <a href="http://sep.csumb.edu/cwsp/">here</a>.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Another Service Learning award for CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p><em>CSUMB Provost Julio Blanco (second from right) accepted the award at a ceremony in Washington, D.C., on Oct. 7. Photo courtesy of the Washington Center</em>  
 </p><h3>University honored for leadership, innovation</h3><p>California State University, Monterey Bay has earned the Higher Education Civic Engagement Award presented by The Washington Center and the New York Life Foundation.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>The Citadel, Portland State University, Southern University at New Orleans and Syracuse University also won awards.
 </p><p><a href="http://csumb.edu/gallery/chinatown-garden">See a photo gallery of the Chinatown garden</a> <a href="http://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown">Students help to tell stories of Chinatown</a>
 </p>
+```

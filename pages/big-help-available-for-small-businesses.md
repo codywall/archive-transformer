@@ -4,6 +4,7 @@ title: "Big help available for small businesses"
 date: January 01 2020
 ---
 
+```html
 <h3>Builder finds a niche – with help from the small business center at CSUMB</h3><p>Like many small business owners, Shawn Bakker was doing fine until the recession hit.
 </p><p>“I’d just go from one job to the next,” said Bakker, who moved to Salinas from his native Colorado and founded his company, Bakker Construction, in 2008.
 </p><p>A year later, he realized that he needed to be proactive in his approach, rather than simply react to the economy. That’s when his lender referred him to the Small Business Development Center at CSU Monterey Bay for help.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Help is available to develop business plans, secure financing, assist with marketing needs, set up financial systems, determine plans for expansion, project cash flow, identify technology needs and provide a variety of other services helpful to small businesses. In addition to the free one-on-one consulting, the center offers a variety of workshops and seminars. CSUMB’s center comes under the auspices of the University of California Merced’s SBDC regional network, a fully accredited and nationally recognized program. University faculty members make up about half of the 20 people available to give entrepreneurs free advice. “We’ve got quite a large skill set” of counselors, said Andrea Zeller-Nield, associate director of the center. Some of the counselors have knowledge of key local industries, such as wine and agriculture. To learn more, click <a href="http://csumb.edu/sbdc">here</a>. 
 </p><p><em>This cooperative agreement is partially funded by the U.S. Small Business Administration and the University of California, Merced. SBA's funding is not an endorsement of any products, opinions or services. SBA funded programs are extended to the public on a non-discriminatory basis. This material is based on work supported by the U.S. Small Business Administration. Any opinions, findings, conclusions and recommendations expressed are those of the author(s) and do not necessarily reflect the view of the U.S. Small Business Administration (SBA)</em>.
 </p>
+```

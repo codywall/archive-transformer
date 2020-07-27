@@ -4,6 +4,7 @@ title: "How to help the oceans? Send in the hackers"
 date: January 01 2020
 ---
 
+```html
 <p>Fishackathon brings coding and creativity together</p><p>“Speakers to winners, an Otter theme ran throughout,” said John Wood, product manager at the Monterey Bay Aquarium. Wood was referring to Cal State Monterey Bay's mascot at <a href="http://www.fishackathon.co">Fishackathon</a> 2016, held over Earth Day weekend. The aquarium was one of dozens of sites on six continents to host the annual event.
 </p><p>The initiative, now in its third year, is led by the U.S. Department of State.
 </p><p>From April 22 to 24, about 50 people with skills in data science, software coding, design and marine science converged at the Monterey Bay Aquarium. They were there to help protect marine life and the billions of people who look to the sea for their next meal by using creative applications of technology.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“Besides having an awesome sleepover experience next to the fish tanks, our teams won the top two places, competing against teams that had students from UC Berkeley, Stanford and other UC campuses,” said Dr. Bude Su, chair of the School of Computing and Design.
 </p><p>Fishackathon by the numbers:
 </p>
+```

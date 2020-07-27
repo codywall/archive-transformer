@@ -4,6 +4,7 @@ title: "High Fidelity"
 date: January 01 2020
 ---
 
+```html
 <h3>Music students mix it up in recording studio</h3><p>When students in CSU Monterey Bay’s Music and Performing Arts Department enrolled in an advanced audio production class in 2013, they were signing up for the opportunity to work on a real-world project.
 </p><p>Eight students helped to record an album of experimental music, under the direction of faculty member Lanier Sammons.
 </p><p>Dr. Sammons served as producer of the album, <a href="http://www.giacomofiore.com/#iv-american-electric-guitars"><em>iv: American electric guitars</em></a>by Giacomo Fiore, a collection of four pieces by contemporary American composers. Dr. Fiore, a former lecturer at CSUMB, was awarded a New Music USA grant to fund the album’s mastering, pressing and distribution. It will be released digitally and on vinyl on July 31. That night, Dr. Fiori will celebrate the release with a concert at the Center for New Music in San Francisco.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Learn more about <a href="http://www.giacomofiore.com">Giacomo Fiore</a> (pictured above, photo courtesy of the artist)
 </p><p> 
 </p>
+```

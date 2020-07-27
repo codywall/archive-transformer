@@ -4,6 +4,7 @@ title: "New play tells story of the Esselen tribe"
 date: January 01 2020
 ---
 
+```html
 <p>A staged reading of 'IYA The Esselen Remember' will be held Nov. 19 and 21 at CSU Monterey Bay’s World Theater.</p><p>The new play was written by Luis “Xago” Juarez of local theater company Baktun 12 and directed by Ruben C. Gonzalez. It addresses past and present issues surrounding the people of the Oholone/Costanoan&#45;Esselen Nation.
 </p><p>OCEN Tribal Chairwoman Louise J. Miranda Ramirez said it’s important to tell the stories of OCEN people through creative mediums.
 </p><p>“How will you, the audience member, or anyone know how important our ancestors are to our lives today unless we look for ways to tell you?” said Ramirez. “We must share how we feel; how we feel the pain of colonization that affected our ancestors and continues for our people today.”
@@ -16,3 +17,4 @@ In the play, the lives and complex realities of six family members are intertwin
 </p><p>Staged readings of the play take place at 7 p.m., Nov. 19, and 2 p.m., Nov. 21, at the World Theater located on Sixth Avenue between A and B streets. Admission is free, but attendees must purchase a parking permit from a machine on the lot.
 </p><p>More information is available from Rafael Garcia at 831&#45;204&#45;8797 or baktuntwelve@gmail.com
 </p>
+```

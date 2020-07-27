@@ -4,6 +4,7 @@ title: "Chinatown: Once and Again"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 30, 2010
 </p><p>The Republic Café was once a bustling restaurant in Chinatown, a gathering place for the Chinese, Japanese and Filipino communities of Salinas. Now, decades after it closed, it's being reborn.
 </p><p>In 2012, the abandoned site on Soledad Street is scheduled to reopen as the Salinas Chinatown Cultural Center and Museum. It will chronicle, preserve and spread the stories of those who lived and worked in the neighborhood through exhibitions, oral histories, artifacts and cultural events.
@@ -32,3 +33,4 @@ date: January 01 2020
 </p><p>To learn more about OLLI, or to register for the class, call (831) 582-5500, or visit csumb.edu/olli.
 </p><p> 
 </p>
+```

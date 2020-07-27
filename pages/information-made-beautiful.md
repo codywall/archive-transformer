@@ -4,6 +4,7 @@ title: "Information made beautiful"
 date: January 01 2020
 ---
 
+```html
 <p>SCIENCE ILLUSTRATION GRAD WINS VIZZIE AWARD
 </p><p>Each year, the National Science Foundation and <em>Popular Science</em> magazine team up to issue a challenge: Can people visualize a scientific idea, concept or story in an arresting way?
 </p><p>Stephanie Rozzo, a 2011 graduate of CSU Monterey Bay’s science illustration program, took the challenge last year, and it paid off. A panel of experts chose her illustration of the weedy seadragon life cycle as tops in the illustration category. &#40;Other categories in the Vizzies Visualization Challenge include photography, posters and graphics, games and apps, and video – which cover just about every way to communicate science visually.&#41;
@@ -16,3 +17,4 @@ She rendered a pair of seadragons – native Australian fish closely related to 
 The first&#45;place honor included a prize of $2,500 and publication of her work in the March issue of <em>Popular Science</em>, on its website, and on the <a href="http://nsf.gov/news/vizzies">National Science Foundation website</a>.
 </p><p><em>Published Feb. 25, 2016</em>
 </p>
+```

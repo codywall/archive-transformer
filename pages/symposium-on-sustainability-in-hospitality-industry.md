@@ -4,6 +4,7 @@ title: "Symposium on sustainability in hospitality industry"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>No one would deny that conferences, concerts, sports events and festivals have social and economic benefits. At the same time, the organization of these events can generate considerable waste and have other negative impacts
 </p><p>To help the local hospitality industry tackle this challenge, the Institute for Innovation and Economic Development at CSU Monterey Bay will host a symposium Oct. 4, 2010, on sustainable hospitality and economic development. The symposium – the institute's inaugural event – in being held in collaboration with the Monterey County Business Council.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>Lunch and a wine and cheese networking reception are included in the $75 registration fee. Registration may be completed online at <a href="http://hospitalitysymposium.eventbrite.com/">http://</a> <a href="http://hospitalitysymposium.eventbrite.com/">hospitalitysymposium.eventbrite.com</a>
 </p><p>More information on the Institute of Innovation and Economic Development is available <a href="http://innovation.csumb.edu">here</a>; learn more about the Monterey County Business Council <a href="http://www.mcbc.biz.">here</a>.
 </p>
+```

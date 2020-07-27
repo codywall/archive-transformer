@@ -4,6 +4,7 @@ title: "Journalist Belva Davis visits campus Sept. 27"
 date: January 01 2020
 ---
 
+```html
 <p>As the first black female TV journalist in the West, Belva Davis helped to change the face and focus of TV news.
 </p><p>Davis will share her story at California State University, Monterey Bay’s World Theater Sept. 27, as the first featured lecture of the 2011-12 President’s Speaker Series. Her talk will be based on her recently published memoir, “Never in My Wildest Dreams: A Black Woman’s Life in Journalism.” She’ll sign copies of the book after her talk.
 </p><p>In the book, she recounts her struggle to break into broadcast journalism at a time when stories of particular importance to African Americans and women rarely made mainstream newscasts, when a San Francisco station manager dismissed her from a job interview by explaining that he wasn’t “hiring any Negresses."
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Davis continues to host a weekly news roundtable and special reports at KQED, the San Francisco-based PBS station.
 </p><p>The 7 p.m. lecture is free and open to the public. Reservations are strongly encouraged and can be made <a href="http://csumb.edu/speakers">online</a> or by calling the World Theater box office at 582-4580. Driving directions and a map of campus are available <a href="http://csumb.edu/map">here</a>.  
 </p>
+```

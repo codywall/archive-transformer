@@ -4,6 +4,7 @@ title: "Brian Greene has the world on a string Or, physics for the rest of us"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><h2>Brian Greene has the world on a string
 		Or, physics for the rest of us</h2><p>For hundreds of years, scientists from Newton to Einstein to Hawking have pondered the questions of time and space.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>The lecture is free and open to the public. Reservations are requested and can be made online at csumb.edu/speakers or by calling the World Theater box office at 582-4580. The World Theater is located on Sixth Avenue on the CSUMB campus. Driving directions and a campus map are available at CSUMB.edu/map.
 </p><p>To view the NOVA series, "The Elegant Universe," visit <a href="http://www.pbs.org/wgbh/nova/elegant/program.html" title="http://www.pbs.org/wgbh/nova/elegant/program.html">http://www.pbs.org/wgbh/nova/elegant/program.html</a> “Willful ignorance of science is not okay. We are living through a radical cultural shift, one in which science and technology play an increasingly pervasive role in everyday life. . . .  A scientifically literate public is, plainly, increasingly vital.” – Brian Greene
 </p>
+```

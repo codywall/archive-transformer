@@ -4,6 +4,7 @@ title: "A Dickens of a tale"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 15, 2009
 </p><p>*******A Christmas Carol comes to the World Theater ***
 </p><p>In days gone by, radio was the best form of family entertainment going, with youngsters and adults gathered around to listen to broadcasts and let their imaginations soar. The World Theater at CSU Monterey Bay is offering the opportunity to experience that again when it presents the classic holiday story "A Christmas Carol" by Charles Dickens as a live radio drama.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

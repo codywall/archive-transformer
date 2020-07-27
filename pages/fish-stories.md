@@ -4,6 +4,7 @@ title: "Fish stories"
 date: January 01 2020
 ---
 
+```html
 <p>**UPDATE: **The final exhibit, "Fishing Families: The Monterey Sicilian Story," will open Sept. 5 in conjunction with the Festa Italia weekend in Monterey's Custom House Plaza. The exibit will celebrate a yearlong gathering of stories, photos and mementos of the Italian fishing families by the Italian American Cultural Center Foundation. The exhibit will highlight family life, culture, religion and food.
 </p><p>Dr. Jennifer Colby, a faculty member in CSUMB's Liberal Studies Department, is the guest curator. <em>Photo montage by Janet Siino Martinez, granddaughter of master boat builder Angelo Siino</em>  
 </p><p>Humans have always told fish stories.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>The Museum of Monterey is located in Monterey’s Custom House Plaza. Hours of operation and admission information can be found <a href="http://museumofmonterey.org/about-mom/">here</a>.
 </p><p><em>Top: Cabezon illustration by Amadeo Bachar Bottom: Chinese squid lanterns print by Jennifer Colby</em>  
 </p>
+```

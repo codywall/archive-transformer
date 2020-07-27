@@ -4,6 +4,7 @@ title: "Campus presents Monterey Bay Art and Film Festival for Youth "
 date: January 01 2020
 ---
 
+```html
 <p>Three days of film screenings, music, art workshops and artists talks are on tap April 28 through 30 at the Monterey Bay Art and Film Festival for Youth at Cal State Monterey Bay and the Greenfield Cultural Arts Center.
 </p><p>Through art activities designed to celebrate creativity, the <a href="http://www.maffy.org/">Monterey Bay Art and Film Festival for Youth</a> &#40;MAFFY&#41; brings the world of imagination to young minds. Children, youth and professional artists will collaborate to exchange ideas and help build a culturally diverse global art community through their exploration.
 </p><p>Selections from the Children’s Film Festival Seattle will be screened, along with the pilot episode of <a href="http://www.gtweekly.com/index.php/santa&#45;cruz&#45;news/santa&#45;cruz&#45;local&#45;news/6826&#45;teen&#45;screen.html">The Adventures of Catty Wompus</a>, a children’s television show that blends fantasy with life lessons.
@@ -38,3 +39,4 @@ date: January 01 2020
 </p><p><em>Published April 19, 2016</em>
 </p><p><em>Puppet 'Ivan' designed by Jenn Branch; background design and animation by Todd Hemker</em>
 </p>
+```

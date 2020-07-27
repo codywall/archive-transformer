@@ -4,6 +4,7 @@ title: "University celebrates Preparedness Month"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay will host two events for community members to mark National Preparedness Month, an annual campaign that encourages people to prepare their families, schools, businesses and communities to deal with disasters.
 </p><p>This represents the ninth year the Federal Emergency Management Agency has observed NPM. This year’s theme is Resolve to be Ready.
 </p><p>“CSUMB wants to help everyone be better prepared for the emergencies that will inevitably impact our area,” said Dick Bower, the university’s emergency manager. “We’re working closely with our neighbors in Seaside, Marina and Monterey County to bring emergency preparedness to a high level in our area. We invite community members to join us.”
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

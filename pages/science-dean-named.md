@@ -4,6 +4,7 @@ title: "Science dean named"
 date: January 01 2020
 ---
 
+```html
 <p>Andrew Lawson, interim dean of Science and Mathematics at Fresno State University, has been named dean of Cal State Monterey Bay’s College of Science.</p><p>He will begin his new duties July 1.
 
 Prior to his current position, Dr. Lawson served as a faculty member, chair of the Department of Plant Science and associate dean at Fresno State.
@@ -17,3 +18,4 @@ Dr. Lawson said he is "excited to join a college committed to student success in
 He replaces Marsha Moroh, a founding faculty member who had been dean of the college since 1996. Dr. Moroh retired in December.
 </p><p><em>Published Feb. 12, 2016</em>
 </p>
+```

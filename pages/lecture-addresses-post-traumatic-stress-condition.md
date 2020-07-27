@@ -4,6 +4,7 @@ title: "Lecture addresses post-traumatic stress condition"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. Jerry Griffin, a physician and retired soldier, will explore the topic of post- traumatic stress condition at a public lecture on Feb. 24.
 </p><p>The talk will get under way at 10:30 a.m. in the Alumni and Visitors Center, corner of Gen. Jim Moore Boulevard and Inter-Garrison Road on the campus of California State University, Monterey Bay.
 </p><p>A physician for more than 30 years, Dr. Griffin has an extensive background in research as well as in clinical medicine. His research interests include traumatic brain injury and molecular/immune events of PTSD and treatments.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>Information: 582-3595 or <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x66;&#x6f;&#97;&#97;&#64;&#99;&#115;&#x75;&#x6d;&#x62;&#x2e;e&#100;&#117;">foaa@csumb.edu</a>
 </p><p><a href="http://csumb.edu/maps">Driving directions and a campus map</a>  
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB bikes, buses and carpools to victory"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>CSU Monterey Bay beat the competition to win its division in the annual Rideshare Month event sponsored by the Association of Monterey Bay Area Governments.
 </p><p>Otters – students, staff and faculty – bested the other campuses in Monterey, Santa Cruz and San Benito counties to take top honors in the College Challenge division and earn $500.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>Tolbert is looking for ideas about how to spend the $500 award. Suggestions include hiring a student to work on the bike garage project or TRIPwise outreach; buying a banner or sign for TRIPwise or a video camera; printing brochures about alternative transportation options; or supplementing the bike garage budget. Contact her at <a href="&#109;a&#x69;&#108;&#x74;&#111;&#x3a;&#116;&#x72;&#105;&#x70;&#64;c&#x73;&#117;&#x6d;&#98;&#x2e;&#101;&#x64;&#117;">trip@csumb.edu</a> with ideas.
 </p><p>Rideshare Month is the Monterey Bay Area's annual campaign designed to increase awareness about the benefits of using sustainable transportation. Commuters are asked to use a sustainable form of transportation at least one day during Rideshare Month in order to help relieve our congested streets and highways, improve air quality, and save energy resources and commute costs.
 </p>
+```

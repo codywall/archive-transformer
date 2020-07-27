@@ -4,6 +4,7 @@ title: "Alumni Spotlight: Heather Hoskins"
 date: January 01 2020
 ---
 
+```html
 <p>Heather Hoskins (HCom ’05) turned her experiences as a student journalist into a career.
 </p><p>While her major didn’t include a concentration in public relations – the subject that most interested her – the professor in charge of journalism and media studies allowed her to plan the events surrounding the grand opening of the Otter Realm newsroom. She was also a staff writer and arts and entertainment editor of the student paper, and worked as a public relations intern for Youth Music Monterey.
 </p><p>“Among all these experiences, I got a good grasp of the industry I hoped to break into,” she said.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“I sport my alumni license plate holder with pride, and I actually have an otter key chain from freshman orientation still attached to my car keys.
 </p><p>“I loved everything about my time at CSU Monterey Bay, and I definitely recommend it to others.” Learn more about CSUMB's Alumni Association <a href="http://csumb.edu/alumni/">here</a>. Learn more about Human Communication <a href="http://hcom.csumb.edu/">here</a>.
 </p>
+```

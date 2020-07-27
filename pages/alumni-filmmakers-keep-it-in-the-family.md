@@ -4,6 +4,7 @@ title: "Alumni filmmakers keep it in the family"
 date: January 01 2020
 ---
 
+```html
 <h2>Update</h2><p>"Forty Years from Yesterday" was selected for showing at the Locarno Film Festival in Switzerland in mid-August.
 </p><p>"Locarno rarely screens more than one or two U.S. feature films, so this is amazing," said Cinematic Arts faculty member and Mill Valley Film Festival programmer Karen Davis. "Proud is an understatement!"
 </p><p>"Forty Years" is entered in the festival's Concorso Cineasti del Presente, a competition dedicated to emerging directors from all over the world. Sixteen feature films, from documentary to fiction, were selected for screening. With its remote setting in the foothills of the Swiss Alps, the festival seems to be an unlikely spot for one of the world's most enduring film festivals, according to the Hollywood Reporter, yet it has been around since 1946.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

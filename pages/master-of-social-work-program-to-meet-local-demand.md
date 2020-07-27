@@ -4,6 +4,7 @@ title: "Master of Social Work program to meet local demand"
 date: January 01 2020
 ---
 
+```html
 <p>Veronica Gonzalez works with young people in her position with Monterey County's Division of Behavioral Health, helping them transition into adulthood. She's enthusiastic about her job, and she's eager to advance in her career. To do that, she needs a master's degree in social work. Until now, she would have to leave the area to accomplish that. With a full-time job and an eight-month-old baby, "I didn't want to waste time commuting to a school outside of my community," Gonzalez said.
 </p><p>Starting this fall, she won't have to leave the area.
 </p><p>Until July 10, CSU Monterey Bay will accept applications for its new Master of Social Work program that will start in August. The plan calls for 50 students to be accepted into the first class.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>"I have waited six years for this program to start here in the Monterey Bay area. It feels great to say that I grew up here, received my education here and work here, all in my community," Gonzalez said.
 </p><p>For more information, call Dr. True at 582-4216 or <a href="http://csumb.edu/msw">visit the MSW web site</a>.
 </p>
+```

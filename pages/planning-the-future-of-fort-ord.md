@@ -4,6 +4,7 @@ title: "Planning the future of Fort Ord"
 date: January 01 2020
 ---
 
+```html
 <p>Last month's election featured competing ballot measures about growth on part of Fort Ord. Both went down to defeat.
 </p><p>Strong feelings on all sides are understandable; the land that makes up the former Fort Ord is a unique and priceless resource. ?
 </p><p>To encourage a long-range view, CSU Monterey Bay and the Fort Ord Reuse Authority (FORA) will sponsor a colloquium on Dec. 12 and 13, to bring together experts in base reuse, economic development, blight removal, design guidelines and eco-tourism as well as government officials and the public.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Brain researcher lectures on Oct. 13"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. Michael Merzenich studies neuroplasticity – the brain's powerful ability to change itself and adapt – and investigates ways plasticity might be used to heal injured brains and enhance the skills in healthy ones.
 </p><p>He will talk about his work at California State University, Monterey Bay’s World Theater on Oct. 13, as the President’s Speaker Series continues.
 </p><p>Merzenich has studied how brains develop for more than three decades. His research has shown that the brain retains its ability to alter itself well into adulthood – suggesting that brains with injuries or disease might be able to recover function, even later in life. He has also explored the way the senses are mapped in regions of the brain and the way sensations teach the brain to recognize new patterns.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Merzenich is professor emeritus of neuroscience at the University of California, San Francisco. He has published more than 200 articles, received numerous awards and prizes and holds more than 50 patents. He was elected to the National Academy of Sciences in 1999 and is a member of the Institute of Medicine.
 </p><p>The 7 p.m. lecture is free and open to the public. Reservations are strongly encouraged and can be made <a href="http://rsvp.csumb.edu/index.php?eid=69">here</a> or by calling the World Theater box office at 582-4580. Driving directions and a map of campus are available <a href="http://csumb.edu/map">here</a>.
 </p>
+```

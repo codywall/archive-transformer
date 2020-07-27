@@ -4,6 +4,7 @@ title: "Associated Students BLM Statement"
 date: January 01 2020
 ---
 
+```html
 <p><i>This message was originally posted on June 10, 2020.</i></p><p><b>TO: CSUMB Students and Campus Community </b></p><p><b>FROM: Associated Students (2020-2021)</b></p><p>As students, we recognize that many are deeply affected in significant ways by the painful, unjust
 systems that exist in our country today. While America may see itself as “the land of the free and
 home of the brave”, in truth, this is not our present reality; we are far from it. It is a disheartening
@@ -31,3 +32,4 @@ challenges, injustices, and inequities affecting us both at CSUMB and our surrou
 communities.</p><p>It is critical for all of us to be able to stand up, voice if not demand structural change, human lives
 depend on it. To our student body, please know that we as the Associated Students (AS) and as
 student leaders, we recognize your concerns. We value you. We hear you. We stand with you.</p><p><b>In solidarity,</b></p><p><b>Associated Students (2020-2021)</b></p>
+```

@@ -4,6 +4,7 @@ title: "Hispanic Heritage Month celebrated with a look at health care"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 30 discussion examines ways to meet health care needs of the Latino community</p><p>The community is invited to join Cal State Monterey Bay’s College of Health Sciences and Human Services in celebrating Hispanic Heritage Month with a discussion on Sept. 30.
 </p><p>Lourdes Baezconde&#45;Garbanati and Zoila Escobar will share vital information on programs and strategies to meet the health care needs of the Latino community.
 </p><p>Dr. Baezconde&#45;Garbanati is a professor at the Keck School of Medicine of the University of Southern California. Her work focuses on community&#45;based research and public health initiatives that explore the role of culture in health behaviors, with an emphasis on the elimination of health disparities.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>CSUMB works to make events accessible to everyone. For disability accommodations, call 582&#45;4580.
 </p><p><em>The event is sponsored by Salinas Valley Memorial Healthcare System, Doctors on Duty, Natividad Medical Center and Carmel Mission Inn.</em>
 </p>
+```

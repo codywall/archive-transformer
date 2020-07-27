@@ -4,6 +4,7 @@ title: "Public speaking skills still needed in digital age"
 date: January 01 2020
 ---
 
+```html
 <p>Toastmasters club helps students, alumni overcome fear</p><p>In 2012, members of a local Toastmasters club walked into the Institute for Applied Marine Ecology.
 </p><p>Oratory Otters will host an open house from 5:30 to 6:45 p.m., Thursday, Feb. 5, in Room 2150 of the library. All are welcome.
 </p><p>They wanted to start a club at CSUMB and were hoping to find someone who was receptive to the idea. They ran into Ashley Knight, a graduate student in Coastal and Watershed Science and Policy.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>As for Knight, she is currently using her public speaking skills as a naturalist for National Geographic on a cruise to the Antarctic.
 </p><p><em>– Story and photo by Bart Kowalski</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Parents invited to attend Otter 101"
 date: January 01 2020
 ---
 
+```html
 <h3>University holds summer orientation sessions</h3><p>A generation ago, college orientation was a perfunctory event, focusing on getting the new students registered for classes.
 </p><p>Now, universities, including CSU Monterey Bay, have made this annual ritual an important part of the student experience, and include a separate program for parents.
 </p><p>Otter orientation sessions are being held in June, with events meant to showcase the campus to students who will enter in the fall. All six sessions – two for transfers, four for incoming freshmen – are at the maximum capacity of 200 students. The freshmen sessions also have had more than 300 family members in attendance.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>To learn more about summer orientation, click <a href="http://activities.csumb.edu/new-student-otter-orientation">here</a>.
 </p><p>?  
 </p>
+```

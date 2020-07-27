@@ -4,6 +4,7 @@ title: "Jose Hernandez named Hearst Scholar "
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay student Jose Hernandez has received the 2012 William R. Hearst/CSU Trustees’ Award for Outstanding Achievement.
 </p><p>The Hearst award is among the highest forms of recognition for student achievement in the CSU. Scholars must demonstrate superior academic achievements, community service, financial need and the ability to overcome adversity. Many of the students have prevailed in the face of disability, language and cultural barriers, intense personal loss or homelessness.
 </p><p>Jose worked on a farm when he was 9 years old to help support his widowed mother and four siblings. Five years later, the family immigrated to the United States and settled in Salinas. His next challenge was learning English so that he could achieve his dream of attending college.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Another recognition has come his way: On Sept. 25, Jose was named during the Salinas City Council's "City of Champions" agenda item, a time when people are acknowledged for serving the community and for being role models. 
 </p><p>More information is available <a href="http://www.calstate.edu/foundation/hearst/">here</a>. 
 </p>
+```

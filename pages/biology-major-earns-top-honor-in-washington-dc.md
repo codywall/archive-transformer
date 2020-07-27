@@ -4,6 +4,7 @@ title: "Biology major earns top honor in Washington, D.C."
 date: January 01 2020
 ---
 
+```html
 <p>Kevin Johnson took a top honor at the inaugural Emerging Researchers National Conference in Science, Technology, Engineering and Math, held Feb. 24 and 25 in Washington, D.C.
 </p><p>A biology major, Johnson won first place in the Ecology, Environmental and Earth Sciences division for his poster presentation.
 </p><p>He summarized research he started last summer, when he worked with graduate student Erin Stanfield. The project began as an internship with the Santa Cruz Water Department, a position that was arranged through the Undergraduate Research Opportunity Center at CSU Monterey Bay and funded by the Louis Stokes Alliance for Minority Participation.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The junior from San Benito County has had experience talking about his work. He was selected to attend the CSU Program for Education and Research in Biotechnology (CSUPERB) conference in early January, where he also made a poster presentation.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB pledges to be carbon neutral by 2030"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 30, 2009
 </p><p>CSU Monterey Bay's Climate Action Plan aims to cut the university's net carbon emission to zero by 2030. Phase 1 of the plan was released on Sept. 15.
 </p><p>It fulfills the American College and University Presidents' Climate Commitment that CSU Monterey Bay President Dianne Harrison signed in 2007, and pledges the university to a path of climate neutrality.
@@ -36,3 +37,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

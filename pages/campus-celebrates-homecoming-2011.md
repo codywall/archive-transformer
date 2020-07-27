@@ -4,6 +4,7 @@ title: "Campus celebrates homecoming 2011"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p> 
 </p><p> 
@@ -27,3 +28,4 @@ date: January 01 2020
 </p><p>CSUMB wishes to make all events accessible to people with disabilities. If you have disability-related needs, please contact the department or organization presenting the event you are interested in attending or call Student Activities at (831) 582- 3329 for further assistance.
 </p><p>Homecoming 2011 is sponsored by Associated Students, Athletics, Inter-Club Council (ICC), Multicultural Greek Council (MGC), Otter Student Union (OSU), Residence Hall Association (RHA), Student Activities &amp; Leadership Development, University Advancement/Alumni Association, and the  University Corporation/Sodexo.  
 </p>
+```

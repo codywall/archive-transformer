@@ -4,6 +4,7 @@ title: "Service learning sets career path for alumna"
 date: January 01 2020
 ---
 
+```html
 <p>Service learning experiences at CSU Monterey Bay ended up setting a direction in life for Lauren Goodwin.
 </p><p>“I worked at HIV-centered organizations,” she said. “I loved the people and felt fulfilled working with START in Seaside and John XXIII in Salinas.”
 </p><p>After graduating in 2006 with a degree in Human Communication, Goodwin was awarded a policy research internship at the AIDS Foundation of Chicago. When that was completed, she left for a Peace Corps assignment in Botswana, where she did AIDS evidence-based planning and prevention education.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Read about Lauren’s <a href="http://www.peacecorps.gov/index.cfm?shell=response.volstories.goodwin">experiences in Malawi</a>.  
 </p><p><em>Photo: Goodwin and Watipa at the beach in Malawi</em>  
 </p>
+```

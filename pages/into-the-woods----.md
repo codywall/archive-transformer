@@ -4,6 +4,7 @@ title: "INTO THE WOODS . . . "
 date: January 01 2020
 ---
 
+```html
 <h3> </h3><h3>. . . And mountains and deserts as class studies environmental science up close</h3><p> 
 </p><h3></h3><p> 
 </p><p>Anyone signing up for Environmental Science, Technology and Policy 303 at CSU Monterey Bay had better like the outdoors.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p><em>Photos by Fred Watson and Susan Alexander</em>
 </p><p><em><strong>Top</strong>: Mono Lake <strong>Middle</strong>: Nineteen students made the field trip and have the "Transect Rocks" sign to prove it <strong>Lower:</strong> Students were required to make presentations along the way; this one concerns snow ecology <strong>Left:</strong> Professor Fred Watson</em>  
 </p>
+```

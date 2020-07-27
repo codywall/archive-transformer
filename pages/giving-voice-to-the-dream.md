@@ -4,6 +4,7 @@ title: "Giving voice to the dream"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 22, 2010
 </p><p>The advice is straightforward – take Martin Luther King Jr.'s teachings and make them relevant to your life.
 </p><p>That's the message Joe Rogers will bring to his audience during his "Dream Alive" presentation at 7 p.m., Feb. 24 at California State University, Monterey Bay. The talk will be held in the Black Box Cabaret, located behind the Campus Health Center on Inter-Garrison Road and Gen. Jim Moore Boulevard. The event is free and open to the public.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map are available at csumb.edu/map.
 </p><p>Black History Month events are produced by the Associated Students' Cultural Enrichment Committee. For more information, contact Associated Students adviser Ajamu Lamumba at 582-3698.
 </p>
+```

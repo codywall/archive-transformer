@@ -4,6 +4,7 @@ title: "Professor's artwork celebrates, honors communities"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 31, 2010
 </p><p>Celebration of Johanna Poethig's mural at the I&#45;Hotel in San Francisco on Aug. 4, 2010
 </p><p>Johanna Poethig is a prolific artist. The CSU Monterey Bay professor's latest works are both celebratory – one commemorating a decades&#45;long struggle for housing, another honoring the vision of a college.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>Read more about <a href="https://csumb.edu/site/x15885.xml">Professor Poethig's projects</a> and <a href="http://johannapoethig.com/">visit her website</a><a href="http://www.johannapoethig.com">.</a>
 </p><p>Also, read about <a href="https://csumb.edu/vpa">CSUMB's Department of Visual and Public Art</a>.
 </p>
+```

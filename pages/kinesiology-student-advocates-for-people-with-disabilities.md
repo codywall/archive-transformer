@@ -4,6 +4,7 @@ title: "Kinesiology student advocates for people with disabilities"
 date: January 01 2020
 ---
 
+```html
 <p>Ania Flatau has taken kickboxing classes. What might surprise you is that she uses a wheelchair.</p><p>“I like to try everything once,” she said. “I’ve gained a lot of health benefits and confidence by being able to move and dance.”
 </p><p>She’s also a regular Zumba participant, a fierce basketball player, and has tried wheelchair ballroom and salsa dancing.  And she explored acroyoga – an art form that combines yoga and acrobatics – through CSU Summer Arts.
 </p><p>Being visible and participating in community events are both part of Flatau’s lifestyle and connected to her work as an advocate for people with disabilities.
@@ -21,3 +22,4 @@ She continued that advocacy on campus as a member of Student Awareness for Disab
 </p><p>And then there’s the dancing. In July, she’ll dance with the American DanceWheels Foundation at the Pan American Games in Toronto.
 </p><p>– Liz MacDonald
 </p>
+```

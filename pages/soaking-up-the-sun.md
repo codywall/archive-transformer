@@ -4,6 +4,7 @@ title: "Soaking up the sun"
 date: January 01 2020
 ---
 
+```html
 <p>PRESIDENT'S HOUSE GOES GREEN</p><p>University House, the on&#45;campus home of President and Mrs. Ochoa, has gone solar.
 </p><p>The 21 roof&#45;mounted photovoltaic cells were installed recently by Western Sun Systems and produce 6.9 kilowatts of power. That’s enough electricity to meet about 80 percent of the total power need for the house.
 </p><p>“The commitment to living in an environmentally sensitive way goes back to my personal experience growing up in Oregon,” Holly Ochoa said. “As a result of the national energy crisis in the early 1970s, my parents installed a solar water heating system, so I knew firsthand that it worked well.”
@@ -17,3 +18,4 @@ It’s the second solar project at CSUMB. In 2010, a 6.4&#45;acre solar array �
 </p><p>Reporting by Jacob Barnett
 </p><p><em>Published Dec. 14, 2015</em>
 </p>
+```

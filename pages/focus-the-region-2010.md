@@ -4,6 +4,7 @@ title: "Focus the Region 2010"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 22, 2010
 </p><p>&#42;<strong>Smoothies pedaled at event are just tip of iceberg</strong>&#42;
 </p><p>CSU Monterey Bay will hold a teach&#45;in on Feb. 25, designed to move the debate on climate change from talk to action. This year's event looks at issues and solutions of local relevance in addressing the issue.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><strong>•</strong> <strong>Zero Campus Carbon:  Realizing the President's Campus Climate Commitment****&#40;presented at 2:15 p.m.&#41;</strong> Dan Fernandez, CSUMB; James Barsimantov, UCSC; Deborah Lindsay, Pacific Grove city council member and green community relations specialist; John Doughty, AMBAG; facilitated by Monica Galligan
 </p><p>This is the third year CSUMB has presented an event to address issues related to climate change. The first two were held in conjunction with Focus the Nation, an effort that saw more than a thousand colleges and universities across the country examine the issue on the same day.
 </p>
+```

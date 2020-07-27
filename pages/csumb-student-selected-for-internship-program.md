@@ -4,6 +4,7 @@ title: "CSUMB student selected for internship program"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 15, 2009
 </p><p>Jonathan Aseltine has been selected to participate in the Congressional Internship Program.
 </p><p>The program, sponsored by the Panetta Institute for Public Policy, gives students an opportunity to learn about government by providing them with a two-and-a-half-month internship in Washington, D.C.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>The Panetta Institute covers all costs. Students earn 20 academic credits.
 </p><p> 
 </p>
+```

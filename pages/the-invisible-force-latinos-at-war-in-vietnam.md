@@ -4,6 +4,7 @@ title: "The invisible force: Latinos at war in Vietnam"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay and the Monterey Museum of Art have collaborated on a community&#45;based project featuring the voices and artwork of military veterans.
 </p><p>“Insignias of Fort Ord: Art in Everyday Military Life” opened Feb. 11 at the museum’s Pacific Street location. Professor Enid Baxter Ryce, chair of the university’s Cinematic Arts and Technology Department, created the exhibition in collaboration with the Veterans Transition Center &#40;VTC&#41; of Marina and CSUMBs students to explore the art and symbolism of Fort Ord.
 </p><p>Among the related events is a talk by Dr. Tomás Summers Sandoval on “The Invisible History of the Vietnam War in Mexican America,” to be held at 7 p.m., March 7, in CSUMB’s University Center. The public is invited to this free event.
@@ -19,3 +20,4 @@ That research covered only the first few years of the conflict, he said. He’s 
 </p><p>The event was organized by CSUMB's Division of Humanities and Communication, and is co&#45;sponsored by the Cinematic Arts and Technology Department, the School of World Languages and Cultures, the Office of Inclusive Excellence, the College of Arts, Humanities and Social Sciences and the Columbia University master's program in oral history.
 </p><p><em>Published Feb. 15, 2016</em>
 </p>
+```

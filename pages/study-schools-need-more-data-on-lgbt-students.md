@@ -4,6 +4,7 @@ title: "Study: Schools need more data on LGBT students"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. Shannon Snapp, who teaches psychology at Cal State Monterey Bay, has been working with researchers at the University of Texas, Austin, and the Equity Project at Indiana University to expand knowledge about lesbian, gay, bisexual and transgender &#40;LGBT&#41; youth.
 </p><p>In a report released March 28 by the Equity Project, “Documenting Disparities for LGBT Students,” Dr. Snapp and four colleagues say that school districts across the United States have made significant strides in addressing racial disparities in school discipline, but the same attention needs to be paid to disparities for LGBT students.
 
@@ -25,3 +26,4 @@ The first step – just as it was in addressing racial discipline disparities ­
 </p><p>A developmental psychologist, Dr. Snapp specializes in adolescent health and sexuality.
 </p><p><em>Published March 29, 2016</em>
 </p>
+```

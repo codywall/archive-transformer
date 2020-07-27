@@ -4,6 +4,7 @@ title: "'Greening up' move-out week"
 date: January 01 2020
 ---
 
+```html
 <p>May 24, 2010
 </p><p>Another graduation weekend has come and gone, with families flocking to town for the commencement ceremony. For many students, it was time to say goodbye to CSUMB and to unwanted stuff.
 </p><p>Recycling intern Tristan Mansson-Perrone and a committee of volunteers helped them do just that, in a way that was environmentally friendly.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

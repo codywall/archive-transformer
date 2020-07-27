@@ -4,6 +4,7 @@ title: "A touch of CSUMB at Days and Nights Festival"
 date: January 01 2020
 ---
 
+```html
 <p>Philip Glass’ Days and Nights Festival returns to the local area Sept. 25-28, with a big contribution from CSU Monterey Bay.
 </p><p>Enid Baxter Ryce, chair of CSUMB’s Cinematic Arts Department, has planned the daytime portion of the festival, putting together a lineup of films, an animation and puppet workshop, talks and a social event, all free to the public.
 </p><p>At noon on the festival’s opening day, Sept. 25, filmmaker Godfrey Reggio will talk about and screen his short film <em>Evidence</em> – which is scored with music by Glass.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>In 2013, the CSUMB-based Monterey Bay Film Festival became part of the Days and Nights Festival; its role is to create daytime film programming and workshops to compliment the evening events.
 </p><p>A complete schedule of events can be found <a href="http://daysandnightsfestival.com">here</a>. 
 </p>
+```

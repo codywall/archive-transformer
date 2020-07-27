@@ -4,6 +4,7 @@ title: "Grad student named state Sea Grant Fellow"
 date: January 01 2020
 ---
 
+```html
 <p>When Scott Toews completes his master’s degree in Coastal and Watershed Science and Policy this semester, he won’t have to worry about finding a job.
 </p><p>He’s already got one lined up, although he doesn’t yet know what he will be doing or where he will be living.
 </p><p>Toews has been selected as a California Sea Grant Fellow, a highly competitive fellowship for graduate students interested in marine resources and the policy decisions affecting those resources.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>“An appointment as a California Sea Grant Fellow is a highly desirable position that can lead to a number of significant career opportunities,” Dr. Garza said.
 </p><p>Learn more about CSUMB's master's program in Coastal and Watershed Science and Policy <a href="http://sep.csumb.edu/cwsp/">here</a>.
 </p>
+```

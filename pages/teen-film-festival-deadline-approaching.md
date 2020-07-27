@@ -4,6 +4,7 @@ title: "Teen Film Festival deadline approaching"
 date: January 01 2020
 ---
 
+```html
 <p>Young filmmakers eager to see their work on a screen bigger than YouTube will get the opportunity in April, when Cal State Monterey Bay holds its third annual Teen Film Festival.
 </p><p>The Teledramatic Arts and Technology Department is accepting applications for the festival, which will be held at CSUMB's World Theater on April 9. Entries can be submitted online at montereybayfilmfestival.com by Feb. 11.
 </p><p>Filmmakers between 13 and 19 years old are invited to submit films and videos up to five minutes in length. Entries may be in English or Spanish and there is no entry fee.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The teen festival is part of the larger Monterey Bay Film Festival. MBFF will also feature three programs curated by Mike Plante. Mike is an associate programmer of the Sundance Film Festival, and curates many other festivals internationally. This will be Mike's second year as the programmer of the Monterey Bay Film Festival.
 </p><p>Focused on independent short films with innovative technologies, the events and web festival introduce Monterey Bay’s unique opportunities for the film industry.
 </p>
+```

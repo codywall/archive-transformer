@@ -4,6 +4,7 @@ title: "Displaced by Katrina, student cherishes time at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Ten years ago, Hurricane Katrina made landfall on the Gulf Coast, drowning New Orleans and the surrounding areas. Many universities were forced to close their doors just as the fall semester was starting, displacing thousands of students.
 </p><p>More than 300 of those students transferred to CSU campuses. Among them was a student from the University of New Orleans, Staci Caccioppi, who came to CSUMB.
 </p><p>“I can still recall feeling so scared when I first arrived,” she recounted in an email. “I thought I was crazy for leaving my friends and family behind while I flew off to beautiful Monterey, leaving them to clean up the mess and devastation Katrina left the people of New Orleans and the Gulf Coast.”
@@ -21,3 +22,4 @@ A job as a talent coordinator/junior agent led her to discover her true passion 
 </p><p>“I met so many great friends who inspired me and allowed me to view the world differently. Sounds dramatic, but it’s so true," she said.
 </p><p>“Though I am still saddened by the devastation and lives lost by Katrina, I am also beyond grateful because it allowed me the opportunity to live in Monterey and attend CSUMB.”
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB professor works to increase diversity in geosciences"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. Corey Garza is committed to increasing diversity in the geosciences.
 </p><p>He was one of 30 participants invited by the National Science Foundation to attend the GEO GOLD – Geoscience Opportunities for Leadership in Diversity – workshop March 20&#45;24 in Annapolis, Md.
 </p><p>The event is part of an effort by the NSF to develop and implement new programs to increase diversity in the geosciences – ocean science, geology, atmospheric science and related disciplines.
@@ -20,3 +21,4 @@ The workshop participants will be asked to submit three to five proposals to be 
 
 <em>Published March 23, 2016</em>
 </p>
+```

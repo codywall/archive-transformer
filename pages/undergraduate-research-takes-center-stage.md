@@ -4,6 +4,7 @@ title: "Undergraduate research takes center stage"
 date: January 01 2020
 ---
 
+```html
 <h3>Campus will participate in systemwide workshop</h3><p>Whether at a field site or in a lab, the chance to conduct research is a game&#45;changer for many CSU Monterey Bay students when it comes to earning a degree.
 </p><p>The experiences, they say, can ignite a passion, build and reinforce confidence, keep them on track for graduation and provide a head start on graduate school.
 </p><p>At CSUMB, the challenge of pursuing a hypothesis down a rigorous line of research is infused throughout the curriculum. The Undergraduate Research Opportunities Center – UROC – builds on the curriculum to engage students in research beyond the classroom.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><strong><a href="http://uroc.csumb.edu/highlights">About UROC</a>:</strong> UROC is home to CSU Monterey Bay’s strong and growing undergraduate research&#45;related programs, such as the McNair Scholars Program, the National Science Foundation Louis Stokes Alliance for Minority Participation program &#40;LSAMP&#41;, and the Department of Education’s College Cost Reduction and Access Act grant program. The center is housed in the new Tanimura &amp; Antle Family Memorial Library and funded through federal grants, private contributions, and corporate donations.
 </p><p>Image above: Taken from a video highlighting the research project by Xeromino Castaneda
 </p>
+```

@@ -4,6 +4,7 @@ title: "PBS documentary Latino Americans to be shown on campus, in Salinas"
 date: January 01 2020
 ---
 
+```html
 <p>GRANT SUPPORTS SCREENINGS, ACCOMPANYING PROGRAMMING</p><p>CSU Monterey Bay has received a grant to support programming around <a href="https://apply.ala.org/latinoamericans"><em>Latino Americans: 500 Years of History</em>,</a> a public exploration of the rich and varied experiences of the country’s largest minority group.
 </p><p>The $10,000 grant from the National Endowment for the Humanities and the American Library Association will fund screenings of the six&#45;part documentary, <em><a href="http://www.pbs.org/latino&#45;americans/en/">Latino Americans</a></em>, created for PBS in 2013. Programs, lectures and performances will accompany the screenings.
 </p><p>Events are scheduled on campus and in Salinas including:
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>All events are free and open to the public.
 </p><p>Dr. Villasenor was awarded the grant. She worked with Professors Amalia Mesa&#45;Bains and Angelica Muro of the Visual and Public Art Department to develop the programming.
 </p>
+```

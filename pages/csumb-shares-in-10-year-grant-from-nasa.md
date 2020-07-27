@@ -4,6 +4,7 @@ title: "CSUMB shares in 10-year grant from NASA"
 date: January 01 2020
 ---
 
+```html
 <h3>$32 Million is largest grant ever received by CSUMB</h3><p>CSU Monterey Bay has been awarded a 10&#45;year, $32 million NASA grant to continue research which includes wildfire monitoring, agricultural water management, flood forecasting and crop yield predictions.
 </p><p>The grant is part of a $137 million award to the Bay Area Environmental Research Institute of Sonoma, which will collaborate with CSUMB, UC Davis and the University of North Dakota.
 </p><p>The research being funded concerns critical areas such as basic climate processes and how they impact global ecosystems. Some of the work will involve satellites and unmanned drones.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Graduate students in CSUMB's master's program in Coastal and Watershed Science and Policy and advanced undergraduates in the Environmental Science, Technology and Policy program will have the opportunity to work with researchers at NASA Ames. They will learn advanced geospatial technologies, conduct hands&#45;on research activities in earth systems science, and participate in internship and career development programs at NASA.
 </p><p><a href="http://www.kazu.org/post/nasa&#45;satellite&#45;images&#45;will&#45;help&#45;farmers&#45;conserve&#45;water">Here a National Public Radio story about the grant</a>
 </p>
+```

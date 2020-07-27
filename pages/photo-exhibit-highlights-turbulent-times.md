@@ -4,6 +4,7 @@ title: "Photo exhibit highlights turbulent times"
 date: January 01 2020
 ---
 
+```html
 <p>EVENTS FROM PEACE, SOCIAL JUSTICE MOVEMENTS BROUGHT TO LIFE
  </p><p>"Movements for Change," an exhibit featuring work by photojournalist Bob Fitch, will be displayed in the Tanimura &amp; Antle library for three months starting March 3.
 </p><p>Approximately 40 images on loan from the Bob Fitch Photography Archive at Stanford Libraries will be exhibited. They depict historical events and intimate moments from the peace, social justice and cultural movements of the 1960s and ’70s – shining a spotlight on critical events in American history.
@@ -24,3 +25,4 @@ In 1966, while working as staff photographer for the Southern Christian Leadersh
 </p><p>The exhibit will open with a reception from 4 to 6 p.m., March 3, sponsored by the library and the Office of Inclusive Excellence. It will be held in the third floor study area.
 </p><p><em>Published Feb. 25, 2016</em>
 </p>
+```

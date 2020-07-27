@@ -4,6 +4,7 @@ title: "CSUMB Technology Camps Offered This Summer for Middle and High School Yo
 date: January 01 2020
 ---
 
+```html
 <p>Looking for something fun and educational for your middle school and/or high schooler? Cal State Monterey Bay is offering two, unique technology day camps this summer. Both camps are approximately two&#45;weeks in length, scheduled 9 a.m. to 5 p.m., Tuesday, July 5 through Friday, July 15.
 </p><p><strong>CODECamp@CSUMB</strong>
 </p><p>Middle school
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>For more information on TIDE@CSUMB, visit: <a href="https://sites.google.com/a/csumb.edu/summertide/">sites.google.com/a/csumb.edu/summertide</a>
 </p><p>#
 </p>
+```

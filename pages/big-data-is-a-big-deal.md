@@ -4,6 +4,7 @@ title: "Big data is a big deal"
 date: January 01 2020
 ---
 
+```html
 <p>GRANT HELPS STUDENTS PREPARE FOR CAREERS IN DATA SCIENCE </p><p>The National Institutes of Health has awarded Cal State Monterey Bay $1 million to train a diverse workforce in biomedical data science as part of its Big Data to Knowledge &#40;BD2K&#41; initiative.
 </p><p>Biomedical data science is the application of statistics and computer science to biomedical problems. It has hundreds of applications, from providing personalized health advice to tracking disease outbreaks.
 </p><p>There is a growing demand for new ways to store, manage, analyze and use the massive amounts of electronic data being generated, especially medical data.The five&#45;year grant will help to train professionals for that field and will target students from historically underrepresented and low&#45;income backgrounds.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“The collaboration promises to create deep connections with UCSC and to create an educational pipeline for our students to achieve graduate degrees in biomedical data science,” said Dr.Judith Canner, associate professor of math and statistics and principal investigator on the grant.
 </p><p>“We are excited by this opportunity to strengthen our ties to CSUMB. The new BD2K partnership will increase collaboration between our faculties, and will help to attract talented CSUMB students to our graduate programs,” said Dr. Zia Isola, director of diversity programs at UCSC’s Genomics Institute.
 </p>
+```

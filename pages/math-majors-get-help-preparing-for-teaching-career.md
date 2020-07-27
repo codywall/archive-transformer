@@ -4,6 +4,7 @@ title: "Math majors get help preparing for teaching career"
 date: January 01 2020
 ---
 
+```html
 <p>“By teaching, we touch the lives of other people.”
 </p><p>That simple statement explains why Javier Martinez-Cabrera decided to be a teacher.
 </p><p>It’s a sentiment shared by Cindy Fowles, who decided on her career path while still in high school. “My math teachers were amazing and I wanted to share that same passion with other students,” she said.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>CSUMB awards five scholarships per year. Math majors starting in their junior year are eligible, as well as students in the math credential program. Recipients – who are chosen based on academic record and commitment to teaching – receive $10,000 per year for a maximum of three years. In exchange, they agree to teach for two years in a high-need school for every year of support they receive.
 </p><p>Congress passed the Robert Noyce National Math and Science Teachers Corps Act in 1990 as a tribute to the late Robert N. Noyce, co-inventor of the computer chip and founder of Intel. <a href="http://csumb.edu/math">Learn more about the math program at CSUMB</a>  
 </p>
+```

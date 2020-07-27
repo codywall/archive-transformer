@@ -4,6 +4,7 @@ title: "Campus to host African American Youth Conference"
 date: January 01 2020
 ---
 
+```html
 <p>July 27, 2010
 </p><p><strong>Aug. 7 event features filmmaker Reggie Bullock</strong>
 </p><p>"Learn Today, Lead Tomorrow" will be the theme of the Central Coast African American youth conference to be held on Aug. 7 at CSU Monterey Bay.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

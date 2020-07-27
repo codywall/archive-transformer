@@ -4,6 +4,7 @@ title: "Spoken-word artist performs Feb. 1"
 date: January 01 2020
 ---
 
+```html
 <h2>Grand slam</h2><h3>Saul Williams kicks off Black History Month at CSUMB</h3><p>In celebration of Black History Month, spoken-word artist Saul Williams will perform at CSU Monterey at 7 p.m., Feb. 1, in the University Center ballroom.
 </p><p>Williams has been called a “new-age hip-hop renaissance man” by the Fresno Bee. Esquire magazine called him the “Bob Marley of American poets.”
 </p><p>He’s a slam poet, author, actor and a musician who raps and plays guitar. To young people across the country, he has defined poetry as an accessible, living art form; many view him as the catalyst for the spoken word movement and the advent of poetry slams.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

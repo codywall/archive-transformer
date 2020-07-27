@@ -4,6 +4,7 @@ title: "CSUMB website earns recognition"
 date: January 01 2020
 ---
 
+```html
 <h2>We’re No. 1</h2><p>CSU Monterey Bay’s website has earned even more recognition in the world of higher education web design.
 </p><p>In mid-January, it topped the list of best redesigned sites for 2011 compiled by Karine Joly on her blog, CollegeWebEditor.com. The list was based on Nick DeNardis’ reviews on his video blog, EduCheckup.
 </p><p>Other top sites, according to EDU Checkup: University of San Diego, Georgetown University, University of Melbourne, Vassar
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The redesigned site features work contributed by members of the campus community, including student-produced photos and videos. The site has also been geared for ease of use, with a blend of need-to-know information and room to click around and discover unexpected stories about the university, and its students and faculty.
 </p><p>See the <a href="http://collegewebeditor.com/blog/index.php/archives/2012/01/17/top-11-highered-websites-ranked-by-edu-checkup-scores/?utm_content=emacdonald%40csumb.edu&amp;utm_source=VerticalResponse&amp;utm_medium=Email&amp;utm_term=Top%2011%20%23highered%20websites%20ranked%20by%20EDU%20Checkup%20scores&amp;utm_campaign=%5BHEE%5D%20Top%20Higher%20Ed%20Websites%2C%20Facebook%2C%20Mobile%20Web%20%26%20Pinterestcontent">CollegeWebEditor page</a>
 </p>
+```

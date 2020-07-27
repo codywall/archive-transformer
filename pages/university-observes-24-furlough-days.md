@@ -4,6 +4,7 @@ title: "University observes 24 furlough days"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 12, 2009
 </p><p>To reduce costs as a result of state budget cuts, CSU Monterey Bay will have 24 unpaid furlough days over the 2009-10 fiscal year.
 </p><p>The furloughs will result in a 9.23 percent reduction in pay for university employees. It is one of several steps being taken across the California State University system to close a $564 million budget gap for the 2009-10 fiscal year.
@@ -40,3 +41,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p> 
 </p>
+```

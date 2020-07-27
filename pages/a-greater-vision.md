@@ -4,6 +4,7 @@ title: "A Greater Vision"
 date: January 01 2020
 ---
 
+```html
 <p>HOW IS TECHNOLOGY TRANSFORMING AGRIBUSINESS?</p><p>The “Greater Vision” series of forums addressing issues facing the agricultural industry continues Nov. 5 at California State University, Monterey Bay. The program is designed for professionals, students and community members who are interested in the future of agriculture.
 </p><p>The broad theme to be examined over the next three years is technology. This year’s topic is Emergent Technologies: How is Technology Transforming Agribusiness? Technology’s impact on energy and water use will be examined in years two and three of the series.
 
@@ -21,3 +22,4 @@ The series is intended to build a continuing conversation from the Forbes AgTech
 </p><p>11&#45;noon – Q&#45;and&#45;A moderated by Dennis Donohue
 </p><p>Noon&#45;2 p.m. – Expo reopens
 </p>
+```

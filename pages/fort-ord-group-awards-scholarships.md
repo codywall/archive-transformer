@@ -4,6 +4,7 @@ title: "Fort Ord group awards scholarships"
 date: January 01 2020
 ---
 
+```html
 <h3>Community activist Helen Rucker establishes endowment</h3><p>The Fort Ord Alumni Association, a division of the California State University, Monterey Bay Foundation, presented scholarships to 10 CSUMB students at its annual Scholarship Awards Luncheon at the Alumni and Visitors Center on campus.
 </p><p>The awards bring to 122 the total number of scholarships – all in the amount of $1,000 – given by FOAA since its scholarship program began in 1997. The highlight of this year’s event was the announcement of an endowed scholarship set up by Helen Rucker of Seaside in honor of her late husband, James, who served at Fort Ord.
 </p><p>Mrs. Rucker, 79, a retired teacher and librarian and longtime community activist on the Monterey Peninsula, donated $25,000 to permanently endow a scholarship she has funded annually since 1998.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p>To read about scholarship recipient – and cross-country runner – Hayley Tharp, click <a href="http://www.otterathletics.com/news/2011/9/20/XC_0920115452.aspx?elinkdata=32453">here</a>.
 </p><p><em>Photo (left to right): FOAA chair Donna Johnson, Helen Rucker and CSUMB President Dianne Harrison</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Help RON count the birds"
 date: January 01 2020
 ---
 
+```html
 <p>Volunteers will be out at 7 a.m., Saturday, Jan. 17, looking for hawks, geese, ducks, wrens and a variety of other species at the Watershed Institute’s 10th annual winter bird count at Upper Carr Lake in Salinas.
 </p><p>Everyone is welcome to help during the three&#45;hour count.
 </p><p>The lake, on East Laurel Drive between Constitution Boulevard and Sanborn Road, is a resting stop for migratory birds. In 2014, volunteers from CSU Monterey Bay’s Return of the Natives project identified more than 70 species, including American coots, yellow&#45;rumped warblers, a few egrets and several varieties of hawks.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The Return of the Natives restoration project is the education and outreach branch of the Watershed Institute at CSUMB. RON's environmental goal is to protect the waters of the Monterey Bay through restoration of the waterways and the lands draining into the bay. RON's social goal is to bring people and nature together on its restoration and garden projects in the watersheds of the Monterey Bay.
 </p><p>For more information, call 582&#45;3686.
 </p>
+```

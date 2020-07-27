@@ -4,6 +4,7 @@ title: "Another honor for KAZU's Almanzan"
 date: January 01 2020
 ---
 
+```html
 <p>April 12, 2010
 </p><p>Krista Almanzan of KAZU radio has won a regional Edward R. Murrow Award for excellence in electronic journalism presented by the Radio, Television, Digital News Association.
 </p><p>She won in Region 2, which includes California, Nevada, Hawaii and Guam, in the category of audio feature reporting. Her winning story profiled a group called the Monterey Bay Veterans, which runs a recreational rehabilitation program for disabled veterans that holds fishing derbies on Monterey Bay. The story can be found <a href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.National.Interest">here</a>.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

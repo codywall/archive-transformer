@@ -4,6 +4,7 @@ title: "Artists reflect on issues of sustainability"
 date: January 01 2020
 ---
 
+```html
 <p>Visual artist Peter Hiers and dancer/choreographer Matthew Nelson will be part of a program at CSU Monterey Bay on Dec. 3.
 </p><p>The free event, “Artistic Reflections on Issues of Sustainability and Systems Thinking,” will be held in the Alumni and Visitors Center starting at noon.
 </p><p>Professor Dan Fernandez will introduce the program, followed by a short presentation on the Real Food Challenge by members of the Associated Students Environmental Committee.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>A panel discussion with the artists will start about 1:20 p.m.
 </p><p>While the event is free, a parking permit must be purchased <a href="http://parking.csumb.edu/buy&#45;permit">online</a> or from a machine on the lot. Driving directions and a campus map are available <a href="http://csumb.edu/maps">here</a>.
 </p>
+```

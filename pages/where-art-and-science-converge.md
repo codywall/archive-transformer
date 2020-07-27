@@ -4,6 +4,7 @@ title: "Where art and science converge"
 date: January 01 2020
 ---
 
+```html
 <p>April 19, 2010
 </p><p>*******Illustration students exhibit at Natural History Museum***
 </p><p>If you've ever wondered about the artwork that illustrates science textbooks, field guides, and interpretive signs in parks and nature preserves, you'll have the opportunity to learn about it when an exhibit opens next month in Pacific Grove.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

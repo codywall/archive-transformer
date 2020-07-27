@@ -4,6 +4,7 @@ title: "Insomnia contest"
 date: January 01 2020
 ---
 
+```html
 <h4>TAT students; work makes Apple's top-25 list</h4><p>CSUMB's top entry in this year's Apple Computer Insomnia Film Festival is filled with all the creativity sleep-deprived students can muster.
 </p><p>Only three minutes long and made in a single 24-hour period, the entry - called Smile - is hilariously over the top; it's about a washed-up clown who goes about his day with the haunting memories of his past.
 </p><p>Apple, maker of computers and editing software used in filmmaking, posted a top-secret list of elements - special props, dialogue, settings, camera techniques - online on a Saturday in October. Each team had to choose three of the 10 elements to include in its movie. Then, the team had to write, cast, shoot, edit, score and upload its short masterpiece within 24 hours.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>They contest rules promised them a showing in a nearby Apple store, but that hasn't yet been arranged. Stay tuned.
 </p><p>Here's the link to the contest website:http://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5
 </p>
+```

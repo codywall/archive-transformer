@@ -4,6 +4,7 @@ title: "CSUMB awarded green building training grant"
 date: January 01 2020
 ---
 
+```html
 <p>March 11, 2010
 </p><p>CSU Monterey Bay has received a $2,000 grant to provide training in green building for one of its staff members. Director for Campus Planning and Development Kathleen Ventimiglia has been selected to attend the training sessions.
 </p><p>As part of the Advancing Green Building in Higher Education Program, Second Nature, a Boston-based nonprofit organization, awarded grants to 15 colleges and universities. The program's goal is to help budget-strapped schools build "green" on their campuses.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p><em> </em>
 </p>
+```

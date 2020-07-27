@@ -4,6 +4,7 @@ title: "Photographer Jeff Sheng lectures Nov. 30"
 date: January 01 2020
 ---
 
+```html
 <h3>Photographer Jeff Sheng lectures at CSUMB Nov. 30</h3><p>The President’s Speaker Series resumes Nov. 30 when photographer Jeff Sheng visits campus. His talk will start at 7 p.m. in the World Theater.
 </p><p>Sheng, an artist who teaches Asian American studies and photography at UC Santa Barbara, will talk about his work, which deals with sexuality and homophobia. He’ll also talk about his experiences as an activist of color.
 </p><p>He’ll present “Fearless,” a series of photos he has worked on since 2003 that depict lesbian, gay, bisexual and transgender high school and college athletes who are open about their sexuality.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>In conjunction with the lecture, “Fearless” will be exhibited on campus. From Nov. 8-19, the photos can be seen in the University Center on Sixth Avenue during normal business hours. From Nov. 22-30, the photos will be displayed in the lobby of the World Theater. Please call the theater at (831) 582-4580 for exhibit times.
 </p><p>The lecture and exhibit are free. Reservations for the lecture are recommended and can be made online at csumb.edu/speakers. For more information, or to request disability accommodations, call (831) 582-4580.  
 </p>
+```

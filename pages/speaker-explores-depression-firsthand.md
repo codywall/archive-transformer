@@ -4,6 +4,7 @@ title: "Speaker explores depression firsthand"
 date: January 01 2020
 ---
 
+```html
 <h3>Comedian finds humor in his bid to survive</h3><p>Brian Wetzel was a successful stand-up comedian whose career and personal life were absorbed by his struggle with clinical depression, a struggle that left him on the brink of suicide through his young adult years.
 </p><p>“There is nothing funny about being severely depressed, but I had to find humor in my situation in order to stay alive and survive,” said Wetzel, 46, of Santa Rosa.
 </p><p>With that, he began to write an autobiographical, one-man show about his 20-year struggle with depression that has since become the focus of his performances across the United States.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Humor is a way to bring depression to the table in a new way because the subject is something no one wants to talk about, Wetzel said. “My presentation is peppered with humor, including the top five things not to say to someone with depression. My audiences can learn more about this tough subject and they can laugh at the same time,” he told the Star.
 </p><p><em>Everyone really got a lot out of the presentation . . . I believe those who have not been clinically depressed got empathy, those who treat the depressed got understanding and ideas about treatment and those who suffer from it got validation and a feeling that they are understood and not alone.</em> – Donnovan Somera Yisrael, health education specialist, Stanford University
 </p>
+```

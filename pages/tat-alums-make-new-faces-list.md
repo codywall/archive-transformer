@@ -4,6 +4,7 @@ title: "TAT alums make 'New Faces' list"
 date: January 01 2020
 ---
 
+```html
 <p>July 21, 2010
 </p><p>Filmmaker Magazine has honored CSU Monterey Bay alumni Robert Machoian and Rodrigo Ojeda-Beck.
 </p><p>The magazine, a quarterly publication and website devoted to independent film, named the pair to its annual list of "25 New Faces."
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>*Photo by Don PorterRobert Machoian (left) and Rodrigo Ojeda-Beck talk with TAT department chair Enid Baxter Blader at a campus screening of Charlie and the Rabbit *
 </p><p> 
 </p>
+```

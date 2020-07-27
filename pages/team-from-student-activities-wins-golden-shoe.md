@@ -4,6 +4,7 @@ title: "Team from Student Activities wins Golden Shoe"
 date: January 01 2020
 ---
 
+```html
 <p>A team from Student Activities – known as the Rodents of Unusual Size – took home the Golden Shoe trophy for the top finish in this year’s Workplace Walk-off Challenge. The award was presented at a celebration on April 19 organized by Human Resources at the University Center.
 </p><p>Kelly Mailly, Ajamu Lamumba, Linda Mendoza, Aron Casaday and Rick Dawson generated the most steps – 2,653,620 – to take the title. The trophy will be displayed in the Student Center until next year’s challenge begins.
 </p><p>“We really had to ramp it up and keep it up in order to win,” said Mailly, the team captain. “We had a lot of consistency and I'm proud of our team,” she said at the awards presentation.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“Do it,” Mailly said. “Even if you aren't competitive, do it because it's fun no matter what level. It's not about winning, it's about being healthy and maintaining a balance of work and working out. We only get one body, so it's important to take care of it.”
 </p><p>For more information, visit CSUMB.EDU/exerciseprograms.  
 </p>
+```

@@ -4,6 +4,7 @@ title: "alcohol education"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>July 1, 2009
 </p><h2>University educates students about alcohol</h2><p>As the new school year approaches and freshmen-to-be visit campus for orientation, CSU Monterey Bay is taking steps to reduce incidents of high-risk drinking and increase alcohol awareness, especially among students under the legal drinking age of 21.
@@ -28,3 +29,4 @@ date: January 01 2020
 </p><p>   (5) Myth. Alcohol affects men and women differently, even if they weigh the same. If a man and a woman who are the same size drink at the same rate, the woman’s blood alcohol content will be higher. Of course, blood alcohol content can also be affected by genetic factors, food intake, medication, age and hormonal changes.
 </p><p> 
 </p>
+```

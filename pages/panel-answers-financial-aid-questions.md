@@ -4,6 +4,7 @@ title: "Panel answers financial aid questions"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 16, 2010
 </p><p>Have a question about financial aid? Here's an opportunity to get it answered.
 </p><p>On Wednesday afternoon, local television station KION-46 will assemble a panel of financial aid experts from local schools, including two from CSU Monterey Bay, to take questions from viewers.
@@ -11,3 +12,4 @@ date: January 01 2020
 </p><p>KION is located on channel 5 on Comcast as well as the CSUMB cable system.
 </p><p> 
 </p>
+```

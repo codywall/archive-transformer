@@ -4,6 +4,7 @@ title: "$1.1 million for computer science fast-track program"
 date: January 01 2020
 ---
 
+```html
 <h3>Collaboration between CSUMB, Hartnell to start in fall</h3><p>CSU Monterey Bay and Hartnell College have received a grant of $1.1 million to support their new three-year degree program in Computer Science and Information Technology.
 </p><p>The university and Hartnell have partnered to create a program called CSIT-in-3. The two schools have worked closely on the program’s design and implementation and will collaborate on instruction, mentoring and advising. It will start in the fall with approximately 30 students.
 </p><p>They will go through the program in groups, or cohorts, from enrollment to graduation, following a pre-determined series of courses. Along the way, they will receive academic support and career development through workshops and internships. The students will graduate in just three years and be ready to compete for in-demand opportunities in the high-tech job market and in graduate school. The grant, to be distributed over five years, is the result of a partnership among the National Science Foundation, Intel and General Electric. The project is called “Graduate 10K+” and its goal is to increase the annual number of graduates in computer science and engineering by 10,000.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><em>Photo: National Science Foundation Acting Director Cora Marrett and CSUMB President Eduardo Ochoa at the Newseum in Washington, D.C.</em>
 </p><p> 
 </p>
+```

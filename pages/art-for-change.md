@@ -4,6 +4,7 @@ title: "ART for CHANGE"
 date: January 01 2020
 ---
 
+```html
 <p>Art can be a powerful tool for change, disseminating ideas and inspiring people to act.
 </p><p>Sea Change, an exhibit at the Hayward Shoreline Interpretive Center, is doing just that — with the aim of bringing together art and concern for climate change.
 </p><p>Enid Baxter Blader, chair of the Teledramatic Arts and Technology Department at CSU Monterey Bay, served as guest curator for the exhibit. It includes a diverse collection of contemporary projects by artists, architects and scientists who explore the shifting interactions of land and sea – specifically, the rising sea level in the San Francisco Bay Area and beyond.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><em>Photos courtesy of Walter Ryce Top: Professor Blader at the Hayward Shoreline Interpretive Center exhibit opening Bottom: A crowd gathered at the opening reception</em>
 </p><p><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">Learn more about what faculty members at CSU Monterey Bay are doing.</a>
 </p>
+```

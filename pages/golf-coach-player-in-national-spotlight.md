@@ -4,6 +4,7 @@ title: "Golf coach, player in national spotlight"
 date: January 01 2020
 ---
 
+```html
 <p>Jason Owen, CSUMB’s men's golf coach, will travel to Hershey, Pa., to compete in the PGA Professional National Championship June 26-29 while one of his players, sophomore Dylan Jackson, will tee it up in the USGA Amateur Public Links Championship June 27-July 2.
 </p><p>The 44th PGA Professional National Championship, the premier event for PGA professionals, will be played at Hershey Country Club's East and West courses.
 </p><p>A lot is on the line. The tournament winner will earn $75,000, get his name engraved on the Walter Hagen Cup and receive exemptions into six PGA Tour events over the next 12 months.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Jackson tees off at 9 a.m. on Monday, June 27. He will play alongside New Mexico State's Joon Lee and Paul McConnell of the University of Texas-Arlington.
 </p><p>CSUMB’s men's golf team won the university's first NCAA national championship in May. In the tournament's final round, Dylan Jackson, John Jackson, D.J. Milligan, Scott Yeakel and Oskar Nystrom combined to defeat Lynn University 3-2 in match play in Muscle Shoals, Ala. Dylan Jackson’s round included a hole-in-one on the 178-yard, par-3 13th hole. It was the sixth straight tournament victory for the Otters dating back to March. The victory string included the university’s first Super Regional title and its second consecutive California Collegiate Athletic Association championship.  
 </p>
+```

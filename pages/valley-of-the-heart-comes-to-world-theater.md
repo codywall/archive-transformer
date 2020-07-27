@@ -4,6 +4,7 @@ title: "Valley of the Heart comes to World Theater"
 date: January 01 2020
 ---
 
+```html
 <h3>Story of love and endurance staged Oct. 18 and 19</h3><p>Valley of the Heart explores themes that are ever-present in California – immigration, racism, identity – and folds them into a love story and a history lesson.
 </p><p>Playwright Luis Valdez calls it a memory play. As in his own life, a Mexican American sharecropping family takes over a ranch whose Japanese American owners are interned during World War II. The ranch owner’s daughter and sharecropper’s son fall in love in the Valley of Heart’s Delight – now known as Silicon Valley – before Pearl Harbor.
 </p><p>When she becomes pregnant, they marry secretly, only to be separated when her family is sent to Heart Mountain and his family becomes caretakers of the ranch.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><em>Photo Back: Randall Nakano; left: Andres Ortiz; right, Melanie Mah Photo by Robert Eliason</em>  
 </p><p> 
 </p>
+```

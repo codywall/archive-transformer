@@ -4,6 +4,7 @@ title: "KAZU journalist wins coveted honor"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 12, 2010
 </p><h4>Almanzan recognized by news group for second consecutive year
 	 </h4><p>KAZU news director Krista Almanzan was honored Nov. 6 by the Radio-Television News Directors Association of Northern California at the organization’s annual awards dinner in San Francisco. She was recognized in the category of best feature reporting on a serious subject for “Rec Rehab Program Hooks National Interest.” The story profiled a group called the Monterey Bay Veterans, which holds fishing derbies on Monterey Bay as part of its recreational rehabilitation program for disabled veterans.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>She is currently on maternity leave and is expected back in the spring.
 </p><p>KAZU, 90.3 FM, is a National Public Radio news and information affiliate licensed to California State University, Monterey Bay.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Blader to present films in Sacramento"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 10, 2010
 </p><p>Professor Enid Baxter Blader will show three of her video works at the Center for Contemporary Art in Sacramento on Aug. 21.
 </p><p>Blader, a filmmaker, musician and painter, teaches digital cinema at CSU Monterey Bay and is chair of the university's Department of Teledramatic Arts and Technology.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><em>Photo of Enid Baxter Blader by Reggie Woolery/KCET</em>
 </p><p> 
 </p>
+```

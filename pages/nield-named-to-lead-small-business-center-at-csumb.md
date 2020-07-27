@@ -4,6 +4,7 @@ title: "Nield named to lead Small Business Center at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Andrea Zeller&#45;Nield has been named associate director of California State University, Monterey Bay's <a href="https://csumb.edu/sbdc">Small Business Development Center</a>.
 </p><p>The center, located at 425 Belden St. in Gonzales, provides management and technical assistance to small businesses and entrepreneurs, helping to create and retain jobs in order to strengthen the local economy. It serves the area long the highways 101 and 25 corridor from Gilroy to King City.
 </p><p>Ms. Nield has more than 19 years of experience with the state of California in economic development, infrastructure development and environmental planning. That included a stint in San Luis Obispo, where she started and managed Mission Community Services Corp., host to Central California's first and only Women's Business Center funded by the Small Business Administration.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>"We are very pleased to have Andrea take the helm of CSU Monterey Bay's Small Business Development Center," said Dr. Marylou Shockley, chair of the university's School of Business and the center's director. "She brings a wealth of experience and expertise in economic development, management and strategic planning."
 </p><p>The SBDCs are a partnership that includes Congress, the Small Business Administration, the private sector and the colleges, universities and state governments that manage them. CSU Monterey Bay's center comes under the auspices of the University of California Merced's SBDC regional network, a fully accredited and nationally recognized program.
 </p>
+```

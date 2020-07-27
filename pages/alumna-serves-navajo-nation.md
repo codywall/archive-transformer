@@ -4,6 +4,7 @@ title: "Alumna serves Navajo Nation"
 date: January 01 2020
 ---
 
+```html
 <p>Carrie Drouin (HCOM ’03) has joined the Washington office of the Navajo Nation, where she serves as a government and legislative affairs associate.
 </p><p>She works on issues around health, housing, taxation and social services.
 </p><p>After earning a law degree at Golden Gate University, she was employed by DNA-People’s Legal Services, a nonprofit that provides free legal help in civil matters to low-income people in three Southwestern states and seven Native American nations.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>She's no stranger to the nation's capital – while a student at CSUMB, she spent a semester in Washington, D.C., as a Panetta Congressional intern. <a href="http://csumb.edu/alumni">Learn about the Alumni Association at CSUMB.</a>
 </p><p><em>(Some information courtesy of the Navajo Nation Washington office)</em>  
 </p>
+```

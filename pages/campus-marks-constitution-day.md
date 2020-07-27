@@ -4,6 +4,7 @@ title: "Campus marks Constitution Day"
 date: January 01 2020
 ---
 
+```html
 <p>How often do university students, grade-school children, federal office workers and CIA agents all receive a lesson on the same topic?
 </p><p>Not often, but that's what is going to happen later this month.
 </p><p>The lesson will cover the U.S. Constitution, courtesy of a new law sponsored by Sen. Robert Byrd (D-W.Va.). An appropriations bill approved by Congress last year contained a requirement that every school or university that receives federal money present a program on the Constitution. The law also requires that each of the nearly two million federal workers receive educational materials about the charter on Constitution Day, a day celebrating the Sept. 17, 1787, signing.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The event will be held from 6 to 7:30 p.m. in the University Center and is open to the public.
 </p><p>According to published reports, Sen. Byrd was motivated to introduce the law by surveys showing that many Americans have a better understanding of the intricacies of "American Idol" than they do about the foundations of their government.
 </p>
+```

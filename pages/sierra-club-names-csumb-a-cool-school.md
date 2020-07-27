@@ -4,6 +4,7 @@ title: "Sierra Club names CSUMB a 'Cool School'"
 date: January 01 2020
 ---
 
+```html
 <p>The grades are out, and CSU Monterey Bay has received high marks as part of the Sierra Club’s <a href="http://www.sierraclub.org/sierra/201309/coolschools/complete-rankings.aspx">Cool Schools</a> rating of sustainability on U.S. campuses.
 </p><p>According to the club’s website, the Cool Schools program, now in its seventh year, evaluates colleges and universities on their contributions to promoting sustainability, both inside and outside the classroom.
 </p><p>Schools were evaluated on everything from the use of ecologically smart architecture to the strategies they use to teach students ways to reduce their carbon footprint. Programs and classes that promote sustainability through course curriculum or community engagement were also given high points.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><em>Top photo: Native and drought-tolerant plants dot the campus Bottom photo: About 16 percent of the university's energy comes from its solar array</em>  
 </p><p> 
 </p>
+```

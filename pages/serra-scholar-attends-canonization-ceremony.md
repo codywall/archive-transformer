@@ -4,6 +4,7 @@ title: "Serra scholar attends canonization ceremony"
 date: January 01 2020
 ---
 
+```html
 <p>Professor Ruben Mendoza was among those in attendance as Pope Francis celebrated Mass and canonized Father Junipero Serra.</p><p>The canonization took place Sept. 23 in the Basilica of Immaculate Conception in Washington, D.C. It completed a years&#45;long process to recognize Father Serra as a saint.
 </p><p>Dr. Mendoza, a professor of archaeology at CSU Monterey Bay, has studied Father Serra’s life for 20 years. He is one of the researchers whose work prompted a reappraisal of the Franciscan friar who founded the first nine of 21 Spanish missions in California.
 </p><p>He was once a critic, but has come to respect Father Serra.
@@ -15,3 +16,4 @@ In late April, he joined three other scholars at a <a href="https://csumb.edu/ne
 </p><p>In July, he testified before the state Assembly regarding the proposed removal of the Serra statue from Statuary Hall in Washington, D.C. According to Representatives from the Archdiocese of Los Angeles, his testimony was decisive in the Legislature’s decision to table the bill.
 </p><p>And he’s done dozens of interviews, with ABC television, Los Angeles Times, New York Times, CNN, Public Radio International and many other publications, television networks and radio stations. He’s also found time to work on a host of documentaries produced by the Vatican and other media sources.
 </p>
+```

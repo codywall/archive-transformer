@@ -4,6 +4,7 @@ title: "April 5: One Day Without Shoes at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h2>Next steps</h2><h3>Shoes start a journey of understanding</h3><p>CSU Monterey Bay students went barefoot on April 5 to raise awareness of the impact a pair of shoes can have on a child’s life.
 </p><p>The effort was part of the international One Day Without Shoes campaign that was originated by TOMS Shoes, a company that donates a pair of shoes to a child in need for each pair purchased.
 </p><p>CSUMB students kicked off their shoes for a walk around the main quad, through the Dining Commons and the library.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>"I wanted everyone to personally understand the impact of shoes," he said, "and the difference they can make, so we thought, 'Why don't we get a taste of what these kids go through every day?' "
 </p><p>For more information on One Day Without Shoes, click <a href="http://www.onedaywithoutshoes.com">here</a>.   
 </p>
+```

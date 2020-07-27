@@ -4,6 +4,7 @@ title: "Women's self-defense course offered in March"
 date: January 01 2020
 ---
 
+```html
 <p>The University Police Department is taking sign-ups for a four-session self-defense course for women. The course is open to students, faculty and staff members.
 </p><p>RAD — Rape Aggression Defense — teaches awareness and prevention techniques, as well as realistic self-defense tactics. Physical and non-physical options are presented as well as insight into the attacker’s mindset. It is not a martial arts program, and does not require a high level of fitness.
 </p><p>Numbers reveal a disturbing need: According to RAD, 90,000 rapes are reported each year in the United States – which means one every seven minutes – but 90 percent of rapes are unreported. One in three women is sexually assaulted in her lifetime. The course is taught by three university police officers and Christine Erickson, assistant vice president for student affairs.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>More information is available <a href="http://police.csumb.edu/rad">here</a>. 
 </p><p><em><a href="http://www.montereycountyweekly.com/news/2012/oct/18/dont-mess-i-am-rad/">Read a story in the Monterey County Weekly about last fall's course.</a></em>
 </p>
+```

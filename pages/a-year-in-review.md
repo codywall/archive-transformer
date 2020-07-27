@@ -4,6 +4,7 @@ title: "A Year in Review"
 date: January 01 2020
 ---
 
+```html
 <h4>More students, commitment to the environment highlight 2007</h4><p>More students, more outside support, a commitment to the environment and a full-fledged senior leadership team marked 2007 at CSUMB.
 </p><p>In the fall, the university welcomed its largest freshman class ever - a 44 percent increase over 2006. And more than 400 transfer students - most from the tri-county area - elected to attend CSUMB. Overall, 30 percent more students were enrolled than the year before.
 </p><p>As the number of students grew, so did the private and government support for the university.
@@ -32,3 +33,4 @@ date: January 01 2020
 </p><p>In the year to come, an Executive MBA program will get under way, work will continue on a new strategic plan for the university, the Tanimura &amp; Antle library will be completed and planning will start for the next new academic building.
 </p><p>(Sources: President Harrison's State of the University address; Campus Chronicles; university news releases)
 </p>
+```

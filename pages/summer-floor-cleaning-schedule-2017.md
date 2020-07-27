@@ -4,6 +4,7 @@ title: "Summer Floor Cleaning Schedule 2017"
 date: January 01 2020
 ---
 
+```html
 <p>It's time, once again, for our custodial staff to mop and wax all tile floors, and shampoo all carpeted areas in your building. To ensure the floor in your office is adequately done, we will need your help.</p><p>Please leave office doors unlocked to ensure that the floors get waxed and shampooed.
 </p><p>Please move all items currently located on top of file cabinets or book shelves. &#40;File cabinets and bookshelves will be moved during the cleaning.&#41;
 </p><p>Please remove all items from the floor. It would be advisable to place these items in boxes to prevent them from being misplaced. Place all boxed items on the counter tops.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Thank you for your cooperation.
 </p><p><a href="https://docs.google.com/spreadsheets/d/18s2pg2Rpr_r0XTrJSLxJixIHSxqI26Vy5ehdXhrf7p0/edit?usp=sharing">View the schedule here</a>.
 </p>
+```

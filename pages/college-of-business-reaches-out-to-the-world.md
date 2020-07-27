@@ -4,6 +4,7 @@ title: "College of Business reaches out to the world"
 date: January 01 2020
 ---
 
+```html
 <h3>Scholar from India visits campus, collaborates on research</h3><p>In February, CSU Monterey Bay’s College of Business welcomed its first visiting scholar.
 </p><p>Dr. Ganesh Sahu may be the first international researcher to visit, but he’s not likely to be the last.
 </p><p>“His Asian and global perspective will enrich the learning and knowledge of our students and internationalize their outlook and education,” said Dr. Shyam Kamath, dean of CSUMB’s <a href="http://business.csumb.edu">College of Business.</a>
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>E-government is a global phenomenon. Simply defined, it is the use of technology to provide information for citizens, allowing them easy access to government services, and allowing them to transact business with their government.
 </p><p>According to Dr. Kamath, a long-term relationship with the National Institute of Technology will be explored. Future exchanges with management schools in Asia, Europe, Africa and Latin America are under discussion.
 </p>
+```

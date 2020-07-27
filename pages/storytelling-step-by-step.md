@@ -4,6 +4,7 @@ title: "Storytelling, step by step"
 date: January 01 2020
 ---
 
+```html
 <h3>Dance group performs at CSU Monterey Bay</h3><p>The community is invited to celebrate Black History Month with <a href="http://www.stepafrika.org/aboutus.htm">Step Afrika</a> when the group visits CSU Monterey Bay on Feb. 21.
 </p><p>Stepping is a unique dance tradition created by African American college students. The body is used as an instrument to create intricate rhythms and sounds through a combination of footsteps, claps and spoken word.
 </p><p>The tradition grew out of the song and dance rituals practiced by historically African American fraternities and sororities in the early 1900s. Moviegoers got their first glimpse of stepping in <a href="http://www.youtube.com/watch?v=ZZLxiWqmGus">Spike Lee's 1988 film "School Daze.</a>”
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>. The event is sponsored by the Otter Student Union, Associated Students and the Otter Cross Cultural Center.
 </p><p>*Stepping is tap dance without tap shoes, James Brown without the music of the JBs, Cab Calloway sans piano, a marching band without John Philip Sousa. It is jazz, funk, rhythm and blues, and rap without instruments. Stepping is lean and mean. The music comes from the synchronized interplay of hands and feet, from chants and hollers. It is a way to make music using the body as instrument. * – Jill Nelson, The Washington Post  
 </p>
+```

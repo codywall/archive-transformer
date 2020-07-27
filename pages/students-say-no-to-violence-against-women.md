@@ -4,6 +4,7 @@ title: "Students say 'no' to violence against women"
 date: January 01 2020
 ---
 
+```html
 <p>Students at CSU Monterey Bay will gather on Feb. 13 to protest sexual violence toward women across the globe as part of the “<a href="http://onebillionrising.org/">One Billion Rising</a>” movement.
 </p><p>A variety of campus organizations – the Title IX Task Force, the University Police Department, Associated Students, the Asian Pacific Islander Association, the Music and Performing Arts Department and Sodexo, among others – are sponsoring the event, which will be held in the main quad from 2 to 5 p.m.
 </p><p>“One Billion Rising” was initiated by Eve Ensler, the creator of “The Vagina Monologues” – which is performed at CSUMB every year on or around Valentine’s Day. This year’s production is scheduled for Feb. 12, 13 and 14 at 8 p.m. in the World Theater.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p>4:15&#45;4:30 – Performance by DiFranco Dance Project with Samba LeGal
 </p><p>4:30&#45;5 – Dance music and video
 </p>
+```

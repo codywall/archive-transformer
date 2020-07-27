@@ -4,6 +4,7 @@ title: "Making a difference in a decade"
 date: January 01 2020
 ---
 
+```html
 <p>April 14, 2010**  **
 </p><p>Since 2000, CSU Monterey Bay's Camp SEA Lab has helped youngsters discover the ocean through summer camps and outdoor school programs. Students get their hands wet through kayaking, snorkeling, and surfing, while their minds get engaged through active science lessons and ocean conservation projects. 
 </p><p>In its 10-year history, the program has ignited thousands of K-12 students' interest and excitement in marine science. 
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

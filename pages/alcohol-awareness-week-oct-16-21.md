@@ -4,6 +4,7 @@ title: "Alcohol Awareness Week Oct. 16-21"
 date: January 01 2020
 ---
 
+```html
 <h3>Raise your voice! You can save a life! is campaign theme</h3><p>During the week of Oct. 16, students at California State University, Monterey Bay will join with their peers on more than 800 campuses across the country to promote National Collegiate Alcohol Awareness Week &#40;NCAAW&#41;.
 </p><p>During the week, students will have the opportunity to participate in a variety of events, all designed to reinforce personal responsibility and respect for state laws and campus policies when it comes to the consumption of alcohol.
 </p><p>This year's activities include:
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p>Indications are it has been successful at CSUMB. To learn more about <a href="http://news.csumb.edu/news/2010/jul/6/online&#45;course&#45;gets&#45;students&#45;thinking&#45;about&#45;drinking">AlcoholEdu</a>.
 </p><p>Learn more about <a href="http://pgcc.csumb.edu/health&#45;wellness&#45;services">health and wellness services CSUMB</a>.
 </p>
+```

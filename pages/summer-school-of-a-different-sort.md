@@ -4,6 +4,7 @@ title: "Summer school of a different sort"
 date: January 01 2020
 ---
 
+```html
 <p>University teachers and students from Mexico are studying American language and culture this summer at CSU Monterey Bay. </p><p>The group of 10 is part of Proyecta 100,000, an initiative that aims to have 100,000 Mexican students enrolled at U.S. universities by 2018, and 50,000 U.S. students studying in Mexico.
 </p><p>The program is part of a renewed spirit of cooperation between the two governments under the Bilateral Forum on Higher Education, Innovation and Research that Presidents Obama and Peña Nieto initiated in 2013.
 </p><p>The Mexican government covers the cost of tuition, housing, meals and other expenses. The students are living with local families.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Conversely, U.S. students going abroad are far more likely to study in the United Kingdom, France and Italy — or even in Argentina and Brazil — than in Mexico.
 </p><p>This is the second group of students to visit CSUMB through the Proyecta program. The initial group came last fall, and talked about their experience on this video:
 </p>
+```

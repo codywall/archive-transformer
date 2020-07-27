@@ -4,6 +4,7 @@ title: "Jmes Earl Jones"
 date: January 01 2020
 ---
 
+```html
 <p>The voice of James Earl Jones echoed through a Long Beach library on Dec. 10 as the actor - who voiced Darth Vader in "Star Wars" - read to a group of fourth-graders.
 </p><p>Jones visited the library to help promote a project involving CSUMB, Verizon and the Long Beach school system.
 </p><p>The partners are exploring ways in which the resources available through Verizon's educational website, Thinkfinity.org, can aid classroom teachers.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The lab is also a prototyping space for technologies, applications, programmatic initiatives, and for research design. And the lab provides training in new technologies and assists faculty members in incorporating innovative tools within their teaching.
 </p><p>John Ittelson is director of the lab and professor in the School of Information Technology and Communications Design. Barbara Starr is senior project manager for the Thinkfinity Project.
 </p>
+```

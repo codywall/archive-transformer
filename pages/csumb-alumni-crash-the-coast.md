@@ -4,6 +4,7 @@ title: "CSUMB alumni 'Crash the Coast'"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 29, 2010
 </p><p>Four CSU Monterey Bay alumni – all graduates of the Teledramatic Arts and Technology program – are part of a group traveling the California coast making a documentary film on surfing.
 </p><p>Ben Chargin &#40;Class of 2007&#41;, Adam Newacheck &#40;'08&#41;, Haley Pikhart &#40;'08&#41; and Ben Hoedt &#40;'09&#41; and three of their friends are surfing spots in 14 counties along the Pacific Coast Highway over a two&#45;week period that started Aug. 28. The trip will cover a distance of 1,024 miles.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>More information is available, including a <a href="http://tower11films.com/">blog</a> and <a href="http://www.facebook.com/crashthecoast.">Facebook</a> page.
 </p><p>Learn more about the university's <a href="https://csumb.edu/tat">Teledramatic Arts and Technology Department</a>.
 </p>
+```

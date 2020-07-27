@@ -4,6 +4,7 @@ title: "Computer science professor wins teaching award"
 date: January 01 2020
 ---
 
+```html
 <p>Kate Lockwood, assistant professor of computer science and information technology, has been honored with the Allen Griffin Award for excellence in teaching at the post-secondary level. The award is sponsored by the Community Foundation for Monterey County.
 </p><p>Established in 1982, the Griffin Award was created by a bequest from the late Col. Allen Griffin, former publisher of the Monterey Herald and founder and former board president of the Community Foundation. The award honors teachers who have a record of sustained excellence in the classroom and who have made a significant impact in the community.
 </p><p>Dr. Lockwood joined CSUMB in 2009, and has taught a variety of courses in programming, digital games and other computer-related classes. She has developed innovative teaching methods for her classes, and has presented these methods in workshops for her campus colleagues, at CSU-wide seminars and at international conferences on computer science education.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><a href="http://itcd.csumb.edu/bs-computer-science-information-technology">Learn more about computer science and information technology at CSUMB.</a> <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a> <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">ead more faculty news.</a>
 </p><p><em>Students from Dr. Lockwood's First Year Seminar class in 2010 face off in a robot competition</em>
 </p>
+```

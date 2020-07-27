@@ -4,6 +4,7 @@ title: "Capping off college with senior projects"
 date: January 01 2020
 ---
 
+```html
 <p>CAPSTONE FESTIVAL SET FOR MAY 13, 14 AND 15</p><p>Tyler Garland’s mother, Heidi, is a breast cancer survivor who works to support and empower others with the disease.
 </p><p>To fulfill a CSU Monterey Bay requirement that all students complete a capstone – a creative or research project – Tyler developed a website to help Heidi reach a larger audience with her message of hope, inspiration and education. <a href="http://www.heidisheroes.org">Heidi’s Heroes</a> took the communication design major a year to create. It’s just one example of the work that will be on display during the Capstone Festival May 13&#45;15.
 </p><p>At Cal State Monterey Bay, all students have been required to do capstone projects since the first graduating class in 1997. Some of those projects are <a href="https://csumb.edu/library/capstone&#45;thesis&#45;archive">archived</a> in the campus library.
@@ -22,3 +23,4 @@ During the Capstone Festival held at the end of each semester, the campus takes 
 </p><p><em>The <a href="https://csumb.edu/capstone">capstone festival</a> is scheduled for Wednesday, Thursday and Friday, May 13, 14 and 15. The public is invited.</em>
 </p><p><em>The <a href="https://csumb.edu/film/2015&#45;senior&#45;capstone&#45;festival">Cinematic Arts and Technology capstone program</a> will be held at 1 p.m. on May 14, with the program repeating at 6 p.m., in the World Theater on Sixth Avenue.</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Alum helps build excitement for 49ers"
 date: January 01 2020
 ---
 
+```html
 <h3>Former baseball player is graphic designer for Super-Bowl bound team</h3><p>Cal State Monterey Bay alum Ben Mayberry arrived in New Orleans almost a week before his San Francisco 49er colleagues Colin Kaepernick, Michael Crabtree and Patrick Willis. As a graphic designer and member of the 49ers marketing team, Mayberry is the artist behind the <a href="http://instagram.com/49dzn">Quest for Six graphics</a> that have been building excitement for a Niners Super Bowl run.
 </p><p>“It’s crazy being here for the Super Bowl,” says Mayberry. “It’s unbelievable. And it’s Mardi Gras.”
 </p><p>The Niners’ marketing team began preparing for a Super Bowl bid back when the team was still at the NFC Championship stage in order to have everything ready to go as soon as the team won. The sole graphic designer for the franchise, Mayberry has contributed to everything from the team-building posters on the walls of the players’ hotel rooms to the design of the rally towels. He’s responsible for presenting a consistent team image, but admits that when the team wins, “it just takes over.”
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Mayberry describes his experiences with the Otters and the 49ers as similar. In both organizations, he’s had the freedom to experiment with marketing campaigns across new technologies and social media channels. “I’ve had the opportunity to work on anything and everything, which is one of the reasons I’ve been successful,” says Mayberry. “Knowing the technologies and how everything works together is inspirational.”
 </p><p>This knowledge and inspiration has also fed into a side business Mayberry runs with his brother, <a href="http://www.diehard.co/">Die Hard apparel,</a> which they started while he was still working at CSUMB. The company produces and sells clothing for Bay Area sports fans, and the fact that the teams are winning has been a boon for the company’s sales. “It’s a great time for Bay Area sports,” Mayberry says. “The Giants won the World Series, the Forty-Niners are in the Super Bowl, and even the Sharks are starting the season 5-0.”  
 </p>
+```

@@ -4,6 +4,7 @@ title: "First Things Last "
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 17, 2009
 </p><p>&#42;So long2009, helloCSUMB First Night <strong>Film Festival</strong>&#42;
 </p><p>Amid family&#45;friendly art workshops and marionette theater shows, hot&#45;blooded salsa grooves and buoyant swing dancing, and the pageantry and puppetry of the Twilight Process parade, is the inaugural CSUMB First Night Film Festival.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><a href="https://csumb.edu/cinearts">Learn more about the university's Teledramatic Arts and Technology program.</a>
 </p><p>A complete schedule is available at<strong><a href="http://www.firstnightmonterey.org/">www.firstnightmonterey.org</a>.</strong>
 </p>
+```

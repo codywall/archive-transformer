@@ -4,6 +4,7 @@ title: "#makeSMARTchoices for Alcohol Awareness Week"
 date: January 01 2020
 ---
 
+```html
 <h3>Weeklong campaign starts Oct. 15 at CSUMB</h3><p>During the week of Oct. 15, students at Cal State Monterey Bay will join with their peers on more than 800 campuses across the country to promote National Collegiate Alcohol Awareness Week (NCAAW).
 </p><p>Students will have the opportunity to participate in a variety of events, all designed to reinforce personal responsibility and respect for state laws and campus policies when it comes to the consumption of alcohol.
 </p><p>“NCAAW allows us to show our students here at CSUMB – particularly new students – that most of their peers are not abusing alcohol and most are making healthy and safe decisions,” said Gary Rodriguez, health promotion and prevention specialist with CSUMB’s campus health center.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>For the last three years, a program called AlcoholEdu has been required for all freshmen. During the summer before they start classes at CSUMB, they must complete a web-based course that deals with a variety of alcohol-related topics. The goal is to ensure that students have a base of information before they arrive on campus – when they are exposed to alcohol and behavior patterns get formed. Statistics indicate the program is having an impact.
 </p><p>In addition, staff members from CSUMB’s Health and Wellness Services conduct educational programs and campus outreach efforts throughout the year. 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Iconic San Francisco mural gets facelift"
 date: January 01 2020
 ---
 
+```html
 <h3>Artist recruits students to help with project</h3><p>Johanna Poethig has been making public art in San Francisco since the 1980s. This summer, the professor in CSUMB’s Visual and Public Art Department is “re-making” a mural she created in 1992, and employing students in the effort.
 </p><p>Staff members from the San Francisco Human Services Agency contacted her about restoring her mural, “To Cause to Remember,” better known as the Statue of Liberty mural. It’s located on the side of a homeless shelter in the city’s South of Market district.
 </p><p>On the 40-foot by 80-foot wall, Lady Liberty lies on her side with chains on her feet and her hand outstretched.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

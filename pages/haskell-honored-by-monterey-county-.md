@@ -4,6 +4,7 @@ title: "Haskell honored by Monterey County "
 date: January 01 2020
 ---
 
+```html
 <p>April 2, 2010
 </p><p>Caroline Haskell, CSU Monterey Bay's director of health and wellness services, is this year's recipient of the Jay Foss Clinical Services Award given by the Monterey County Mental Health Commission.
 </p><p>The award is bestowed annually to practitioners who have provided outstanding mental health services in the local community. It is named for the late Jay Foss, a former member of the commission.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Commencement by the numbers"
 date: January 01 2020
 ---
 
+```html
 <h3>One year of planning and countless staff hours create this unforgettable day</h3><h3></h3><p><strong>8,000:</strong> Graduation tickets printed
 </p><p><strong>6,500:</strong> Programs printed 
 </p><p><strong>6,000:</strong> Friends and family attending
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p>*Some numbers are estimates *
 </p><p> 
 </p>
+```

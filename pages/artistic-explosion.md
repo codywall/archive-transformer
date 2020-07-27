@@ -4,6 +4,7 @@ title: "ARTISTIC EXPLOSION"
 date: January 01 2020
 ---
 
+```html
 <h3>Summer Arts presents a month of improv, animation, art, theater and film</h3><p>Summer Arts – a California State University program – made its debut at CSUMB this month.
 </p><p>Several hundred students are on campus, attending 14 classes in the visual and performing arts. A robust schedule of public performances accompanies the academic portion of the program. <a href="http://www.csusummerarts.org/public_events_calendar_2012/">See the schedule of public performances.</a>
 </p><p>Students are immersed in rigorous training 12 to 14 hours a day, every day during the two-week sessions. At the end of those sessions, they offer free performances, called “culminations,” open to the public.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><a href="http://www.csusummerarts.org/index.shtml">More information on Summer Arts.</a>
 </p><p><a href="http://csumb.edu/map">Driving directions and a campus map.</a>  
 </p>
+```

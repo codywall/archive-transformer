@@ -4,6 +4,7 @@ title: "Student designs logo for fundraising event"
 date: January 01 2020
 ---
 
+```html
 <h3>Feb. 12 10K race benefits Rape Crisis Center</h3><p>As publicity kicks in for the annual Together with Love 10K race, cheerful images focusing on a bright red heart are popping up around the local area.
 </p><p>The artwork was done by CSU Monterey Bay student Mark Johnson as part of a project in Professor Bobbi Long’s digital art and design class.
 </p><p>This is the second year the Monterey County Rape Crisis Center, sponsor of the annual race that is held near Valentine’s Day, has worked with CSUMB to develop the art that is used in marketing materials and on the T-shirt that goes to race participants.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>"This program gives students a chance to show their talents, skills, and creativity, but it also teaches them how to listen and respond to what they hear, as well as how to manage a project."??
 </p><p>To learn more about the design program at CSUMB, click <a href="http://itcd.csumb.edu/bs-cd">here</a>.?  
 </p>
+```

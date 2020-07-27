@@ -4,6 +4,7 @@ title: "'The West' goes East"
 date: January 01 2020
 ---
 
+```html
 <h3>Filmmaker takes story of California water to New York audience</h3><p>Most Californians are familiar with how struggles over water have shaped the modern American West.
 </p><p>Enid Baxter Blader will help to educate New Yorkers about that history on Sept. 28, when her video, “The West,” will be projected onto the Manhattan Bridge anchorage and archway.
 </p><p>“The West” is an animation that presents a history of water engineering in California, a history that has determined the colonization and contemporary conditions of the western United States. The version that will be shown in New York is drawn from a longer film that features a score by If Thousands, and is part of the Water, CA video and <a href="http://waterca.net">book project</a> co-edited with Nicole Antebi. “I've never made such a labor-intensive series,” said Blader, chair of CSUMB’s Teledramatic Arts and Technology Department and associate professor of experimental film.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><em><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a> <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">ead more faculty news</a></em>
 </p><p> 
 </p>
+```

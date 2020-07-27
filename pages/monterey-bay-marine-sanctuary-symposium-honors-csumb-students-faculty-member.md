@@ -4,6 +4,7 @@ title: "Monterey Bay Marine Sanctuary Symposium honors CSUMB students, faculty m
 date: January 01 2020
 ---
 
+```html
 <p>April 19, 2010
 </p><p>**
 </p><p>A team of students from California State University, Monterey Bay took first place in the Currents Symposium research poster contest sponsored by the Monterey Bay National Marine Sanctuary.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Dr. Kvitek received the prestigious Ed Ricketts Memorial Award and delivered the Ricketts Memorial Lecture. Over the last two decades, he has focused on applied projects in Monterey Bay and Elkhorn Slough. At CSUMB, he created and directs the Seafloor Mapping Lab.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB student attends Panetta leadership seminar"
 date: January 01 2020
 ---
 
+```html
 <p>June 23, 2010
 </p><p>Vincent Carr was selected to attend the 11th annual Student Leadership Seminar at the Panetta Institute for Public Policy housed at CSU Monterey Bay.
 </p><p>During the spring semester, Carr was elected president of  CSUMB's Associated Students – the student government – and took office at the end of the school year.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

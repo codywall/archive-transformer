@@ -4,6 +4,7 @@ title: "OBR showcases sustainable menu"
 date: January 01 2020
 ---
 
+```html
 <p> 
 </p><p>CSUMB's Otter Bay Restaurant and campus catering were featured at the International Flavors of Marina Food, Wine and Beer Festival held July 22 at The Dunes shopping center
 </p><p>Over 20 Marina food and beverage establishments and Monterey County wineries participated in the third annual event.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><em>Student Sous Chef Andrea Gilliland serves a vegetarian option to Professor Daniel Fernandez, chair of the Division of  Science and Environmental Policy</em>
 </p><p> 
 </p>
+```

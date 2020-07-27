@@ -4,6 +4,7 @@ title: "Faculty in the News"
 date: January 01 2020
 ---
 
+```html
 <h4>2015</h4><p>• Professor Johanna Poethig, who teaches painting in the Visual and Public Art Department, co-curated an exhibit at SOMArts, "Glamorgeddon: The Spectacle." She told the San Francisco Chronicle, "It was important to me to look more critically at product-oriented culture and the ways media and the marketplace have placed a huge burden on us, especially women, to look and act a certain way," she said. – Jan. 7, 2015
 </p><h4>2014</h4><p>• A story on Al Jazeera America's website headlined, "The salad bowl of America turns toxic," featured Professor Fred Watson's research on ways to improve water quality in the Salinas Valley watershed. – Dec. 25, 2014
 </p><p>• MPA lecturer Lanier Sammons, a composer and musician, explained his approach to classical music in an interview with the Monterey County Weekly. "The idea," he said, "is trying to convince people that classical musicians are not in tuxedos on stage looking down on them. We can appeal to broad audiences. We can take on complex music with accessibility and with serious and high ambition." – Dec. 3, 2014
@@ -98,3 +99,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

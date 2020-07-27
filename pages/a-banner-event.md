@@ -4,6 +4,7 @@ title: "A banner event"
 date: January 01 2020
 ---
 
+```html
 <h2>{}</h2><p>"Vision," "diversity" and "service" are boldly displayed on banners that grace campus.
 </p><p>They are among the seven words chosen for display on the banners – excellence, innovation, partnership and community are the others – that replaced the original green and yellow ones.
 </p><p>In all, 60 blue, green and white banners have been installed around campus
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>Faust noted that the way-finding signs on campus have been replaced and some of the directional signs were changed to reflect a new traffic pattern.
 </p><p>"We looked at each of the directional signs to see how they were routing traffic through campus," Faust explained. "The long-range plan is to bring traffic to campus from Highway 1 via Second Avenue and Inter-Garrison Road."
 </p>
+```

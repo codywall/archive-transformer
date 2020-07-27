@@ -4,6 +4,7 @@ title: "Honors Convocation May 19, 2017"
 date: January 01 2020
 ---
 
+```html
 <p>SEASIDE, Calif., May 12, 2017 – Cal State Monterey Bay (CSUMB) will hold its annual honors convocation May 19, 2017, recognizing select students for distinguished academic achievements.</p><p>Six students will receive special awards, 21 will be honored for their Service Learning work and 399 others will be acknowledged for having earned grade&#45;point averages of at least 3.5.
 </p><p>The honors students will be among the approximately 2,083 graduates expected to cross the stage at CSUMB's 21st commencement ceremony May 20, 2017.
 </p><p>Award winners:
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><strong>Service Learning awards</strong> were presented to students in each academic major who have demonstrated exceptional commitment to service in the local community.
 </p><p>Service Learning award winners and their majors:
 </p>
+```

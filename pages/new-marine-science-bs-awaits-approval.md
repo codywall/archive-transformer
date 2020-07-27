@@ -4,6 +4,7 @@ title: "New Marine Science BS awaits approval"
 date: January 01 2020
 ---
 
+```html
 <p>Location, location, location.
 </p><p>The real estate agents’ mantra may also explain the next undergraduate major to be added to the curriculum at Cal State Monterey Bay.
 </p><p>It is location that attracted Elyssa Farmer, a freshman from Pacifica.
@@ -47,3 +48,4 @@ date: January 01 2020
 </p><p>Marine scientists deal with a variety of issues ­– from climate change, declining fisheries and eroding coastlines to the invention of new technologies to explore the sea.
 </p><p>According to NOAA, there’s a huge potential for growth in the field as researchers learn more about the ocean and its interactions with the land and atmosphere, how humans affect the ocean, and the impact of ocean resources on our quality of life.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Math Academy gives students a second chance"
 date: January 01 2020
 ---
 
+```html
 <p>Reports frequently place U.S. students well below their international peers in math knowledge and performance.
 </p><p>The secret to improving those rankings is no secret at all, if you listen to Dr. Hongde Hu, chair of Cal State Monterey Bay’s math department. It comes down to enthusiasm (which he has in abundance) focus, confidence and simple hard work.
 </p><p>Dr. Hu, his colleagues and teaching assistants, and 52 Algebra I and Algebra II students from Watsonville, Soledad and Seaside high schools are proving that again this summer in his fourth annual Summer Math Academy, sponsored by the Imagine College and CSUMB’s Upward Bound program.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>To learn more about Dr. Hu, click <a href="http://success.csumb.edu/hongde-hu">here</a>. 
 </p><p> 
 </p>
+```

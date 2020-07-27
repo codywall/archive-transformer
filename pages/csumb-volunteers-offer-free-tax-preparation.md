@@ -4,6 +4,7 @@ title: "CSUMB volunteers offer free tax preparation"
 date: January 01 2020
 ---
 
+```html
 <p>Looking for a way to reduce the stress of tax season? CSU Monterey Bay students and faculty working with the Volunteer Income Tax Assistance – VITA – program may have an answer.</p><p>Until the end of tax season, approximately 40 student and three faculty volunteers from the <a href="https://csumb.edu/business">College of Business</a> will provide free assistance with state and federal income tax preparation.
 </p><p>The VITA program is sponsored by United Way Monterey County.
 </p><p>CSUMB volunteers are working at all nine county locations, including the Marina library. Volunteers must complete a 30&#45;hour training class and pass a rigorous Internal Revenue Service examination to participate.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>There is no charge for the tax preparation, no charge for direct deposit to the taxpayer’s bank account and no hidden fees. A list of <a href="http://www.unitedwaymcca.org/free&#45;tax&#45;prep">community locations, dates and hours</a>, is available on the United Way website.
 </p><p><em>Published Feb. 5, 2016</em>
 </p>
+```

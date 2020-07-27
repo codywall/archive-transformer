@@ -4,6 +4,7 @@ title: "SUSTAINABLE STYLE"
 date: January 01 2020
 ---
 
+```html
 <h3>Clothing designer Alice Wu visits campus April 18</h3><p>For more than a decade, Alice Wu, half of the fashion design team Feral Childe, has been designing original and unusual clothing.
 </p><p>Wu will visit CSU Monterey Bay on April 18 as the Visual and Public Art Department’s Visiting Artist series concludes for the spring semester. The presentation will start at 6 p.m. in the University Center.
 </p><p>Feral Childe started in New York City, where Wu and her partner, Moriah Carlson, met during art school. After graduation, they started collaborating on various creative projects and found their focus shifting to textiles and fabrics.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/art">Learn about the Visual and Public Art Department at CSUMB</a>.
 </p><p> 
 </p>
+```

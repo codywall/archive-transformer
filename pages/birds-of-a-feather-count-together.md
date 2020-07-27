@@ -4,6 +4,7 @@ title: "Birds of a feather count together"
 date: January 01 2020
 ---
 
+```html
 <p>RETURN OF THE NATIVES' ANNUAL BIRD COUNT SET FOR JAN. 16</p><p>Volunteers are needed starting at 7 a.m., Saturday, Jan. 16, to look for hawks, geese, ducks, wrens and a variety of other species at the Watershed Institute’s annual winter bird count at Upper Carr Lake in Salinas. Experienced birders and novices are welcome to help during the three&#45;hour count.
 </p><p>The lake, on East Laurel Drive between Constitution Boulevard and Sanborn Road, is a resting stop for migratory birds. In 2015, volunteers from CSU Monterey Bay’s <a href="https://csumb.edu/ron">Return of the Natives</a> project identified more than 70 species, including American coots, yellow&#45;rumped warblers, a few egrets and several varieties of hawks.
 
@@ -15,3 +16,4 @@ After the bird count, volunteers are invited to help clean up the lake from 10 a
 </p><p>Return of the Natives will submit the information it gathers to California eBird, the Audubon Society’s online database.
 </p><p>For more information, contact Lauren Krohmer at  <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#108;&#x6b;&#x72;&#111;&#x68;&#x6d;&#101;&#114;&#x40;&#99;&#115;&#x75;&#x6d;&#98;&#x2e;&#x65;&#100;&#117;">lkrohmer@csumb.edu</a> or call 582&#45;3686.
 </p>
+```

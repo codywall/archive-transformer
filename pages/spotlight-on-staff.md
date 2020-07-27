@@ -4,6 +4,7 @@ title: "Spotlight on Staff"
 date: January 01 2020
 ---
 
+```html
 <h4>New theater director is multi-talented</h4><p>After a lengthy hiatus from CSUMB, Joe Cardinalli has returned to the university as interim director of the World Theater.
 </p><p>He brings managerial skills to the position, but he's also a designer, technical theater consultant, television field director and a musician.
 </p><p>His introduction to Fort Ord came during the 1960s when he played keyboard in a Monterey rock band. His band often played at Stilwell Hall, entertaining troops bound for Vietnam.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>"We need community support. I've been successful at other places where we involved the community. We have to serve both the community and the university. That's the balance we need to achieve over time for the World Theater."
 </p><p>He sums up his goal for the World Theater in a sentence: "Smiling faces after a performance are my reward."
 </p>
+```

@@ -4,6 +4,7 @@ title: "A hole-in-one for STEM education"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay students recently got hands-on experience teaching scientific concepts such as Archimedes’ principle and Newton’s theory of gravity through their application to golf.
 </p><p>The future teachers served as mentors in the Chevron STEM Zone, an interactive exhibit that highlights the scientific side of sports through a variety of hands&#45;on learning stations for youngsters. The idea is that sports can make science more engaging.
 
@@ -13,3 +14,4 @@ The STEM Zone travels to sporting events throughout the state. At nearly every s
 
 A $1 million grant from Chevron has helped to develop the CSU’s teacher training programs for science, technology, engineering and math.
 </p>
+```

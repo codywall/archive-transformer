@@ -4,6 +4,7 @@ title: "Film, TV composer visits April 1"
 date: January 01 2020
 ---
 
+```html
 <p>Public invited to April 1 talk by Mark Mancina
 </p><p>Mark Mancina, best known for composing the music for the Oscar&#45;winning film Training Day, will lecture at California State University, Monterey Bay on April 1.
 </p><p>Mancina will address students in the university's Music and Performing Arts Department from 10 a.m. to noon in the Music Hall on Sixth Avenue. The public is invited to this free event.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Along the way, he earned three Grammy awards, an American Music Award, Britain’s Ivor Novello Award and a Tony nomination.
 </p><p>Driving directions and a campus map are available at csumb.edu/map. For more information, call Nicole Mendoza at 582&#45;3009.
 </p>
+```

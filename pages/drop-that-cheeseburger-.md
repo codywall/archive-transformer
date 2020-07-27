@@ -4,6 +4,7 @@ title: "Drop that cheeseburger! "
 date: January 01 2020
 ---
 
+```html
 <h2>Meatless Monday returns to campus</h2><p>If you're thinking of having a burger for lunch at CSU Monterey Bay – and it's a Monday – you might want to reconsider that choice.
 </p><p>An initiative by Sodexo, the university's food service provider, is highlighting meatless options at all five campus dining locations every Monday during the school year. They're making it easy for diners to abstain from eating meat one day a week.
 </p><p>If you're a carnivore and you've already scarfed down a double cheeseburger, don't worry. You're not in trouble. It's voluntary.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>Nor is the idea new. During World War I, people were urged to skip meat one day a week as a rationing effort. Now, that idea has been reinvented as a hip, easy way to be environmentally friendly and health conscious.
 </p><p>Learn more about <a href="https://csumb.edu/node/9172">dining at CSUMB</a>.
 </p>
+```

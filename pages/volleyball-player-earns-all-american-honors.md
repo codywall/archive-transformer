@@ -4,6 +4,7 @@ title: "Volleyball player earns All-American honors"
 date: January 01 2020
 ---
 
+```html
 <p>Rheann Fall, outside hitter on CSUMB's volleyball team,  is the first Otter athlete to earn All-American honors in any sport.
 </p><p>Fall was selected to the Daktronics All-American first team on Dec. 2.
 </p><p>"Cal State Monterey Bay is very proud of Rheann,” said Director of Athletics Vince Otoupal.  “Her work in the classroom and on the court is impressive and we want to thank Daktronics for recognizing this and awarding Rheann this wonderful honor. She has earned it. She is a wonderful teammate and helped lead the team to record heights this year.”
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>“Coach Garry's approach over the last three years has been consistent and this year has paid off, for Rheann and the team,” Otoupal said.
 </p><p>“CSUMB volleyball set records this year. I'm honored to have Rheann as a member of Otter athletics; she is one of those student-athletes who make people around her better."
 </p>
+```

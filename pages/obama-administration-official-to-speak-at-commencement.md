@@ -4,6 +4,7 @@ title: "Obama administration official to speak at commencement"
 date: January 01 2020
 ---
 
+```html
 <h3>Aquarium director Julie Packard to receive honorary doctorate</h3><p>Obama administration official Cecilia Muñoz will be the keynote speaker at CSU Monterey Bay’s commencement ceremony on May 17.
 </p><p>Ms. Muñoz is an adviser to the President and director of the Domestic Policy Council, which coordinates the domestic policy-making process in the White House. Previously, she served as deputy assistant to the President and director of intergovernmental affairs.
 </p><p>Prior to joining the Obama Administration, she served as senior vice president for the Office of Research, Advocacy, and Legislation at the National Council of La Raza (NCLR), the nation’s largest Latino civil rights organization.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>“They represent the values that CSU Monterey Bay works to impart to its students: to find opportunities to be of service to the local, national and global communities.”
 </p><p>CSUMB’s 18th commencement will take place at 10 a.m. in Freeman Stadium on the CSUMB campus with President Eduardo Ochoa presiding. Approximately 1,450 students will receive bachelor’s and master’s degrees; about 8,000 familty members and friends are expected to attend. <a href="http://commencement.csumb.edu">Learn more about commencement</a>. 
 </p>
+```

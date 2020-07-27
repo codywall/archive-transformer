@@ -4,6 +4,7 @@ title: "Presidential Search"
 date: January 01 2020
 ---
 
+```html
 <p>The California State University Board of Trustees will begin the search this month for a new president of California State University, Monterey Bay to succeed interim President Diane Cordero de Noriega.
 </p><p>The first meeting of the search committee will be held from 8 to 9:30 a.m. Thursday, Sept. 29, in the Alumni &amp; Visitors Center (Building 97), on the campus. This is the first and only meeting of the committee that is an open meeting.
 </p><p>Under the CSU Board of Trustees' presidential selection policy, adopted in 1997, the chair of the board establishes a five-person Trustees' Committee for the Selection of the President, which is composed of the chair of the board, the chancellor and three trustees, one of whom is designated as committee chair by the board chair.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>For more information about the CSU presidential search process, see the Executive Search page.
 </p><p>The California State University is the largest system of senior higher education in the country, with 23 campuses, more than 400,000 students and 42,000 faculty and staff. Since the system was created in 1961, it has awarded about 2 million degrees, about 82,000 annually. The CSU is renowned for the quality of its teaching and for the job-ready graduates it produces. Its mission is to provide high-quality, affordable education to meet the ever-changing needs of the people of California. With its commitment to excellence, diversity and innovation, the CSU is the university system that is working for California. See <a href="http://www.calstate.edu">www.calstate.edu</a>.
 </p>
+```

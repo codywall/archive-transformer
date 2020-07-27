@@ -4,6 +4,7 @@ title: "Grant supports service learning in STEM fields"
 date: January 01 2020
 ---
 
+```html
 <p>July 12, 2010
 </p><p>Student success in science, technology, engineering and math – the STEM disciplines – as well as Service Learning classes in those fields will get a boost as the result of a grant CSU Monterey Bay was recently awarded.
 </p><p>The university will receive $25,000 per year for three years to give students the opportunity to do in-depth community service in a STEM field.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>To learn more about the Service Learning Institute at CSUMB,<a href="http://csumb.edu/site/x3561.xml"> click here</a>.
 </p><p> 
 </p>
+```

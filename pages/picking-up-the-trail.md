@@ -4,6 +4,7 @@ title: "Picking up the Trail"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 21, 2009
 </p><p> 
 </p><p>California State University, Monterey Bay will celebrate National American Indian Heritage Awareness Month with a screening of the award-winning documentary “Trail of Tears: Cherokee Legacy” on Nov. 9.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>"Trail of Tears: Cherokee Legacy” will remain the definitive film treatment of the subject for years to come. it is an eloquent retelling of an important chapter in American history and it deserves to be viewed widely." – <em>Journal of American History</em>
 </p><p> 
 </p>
+```

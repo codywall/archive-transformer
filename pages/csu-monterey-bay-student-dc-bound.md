@@ -4,6 +4,7 @@ title: "CSU Monterey Bay student D.C.-bound"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 12, 2010
 </p><p><strong><em>Camacho one of just three Californians picked for USDA conference</em></strong>
 </p><p>Joey Camacho knows about agriculture from the ground up. Now, he's about to see it from the top down.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

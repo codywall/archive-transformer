@@ -4,6 +4,7 @@ title: "Honoring others, helping students"
 date: January 01 2020
 ---
 
+```html
 <h3>Benefactors recognized for providing scholarships</h3><p>Bob Johnson and Diego Espinoza will be among the honorees at the National Philanthropy Day luncheon on Nov. 21. Both were nominated for awards by CSU Monterey Bay, but they share something much more important.
 </p><p>Each is motivated to help others by a woman who influenced him greatly. In Johnson’s case, it was his mother. For Espinoza, it was a kind and caring university staff member.
 </p><p>Johnson, a retired Salinas Valley grower and CSUMB Foundation board member, will receive the Outstanding Philanthropist award at the annual event.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>• Outstanding Philanthropic Service Organization: The Agricultural Leadership Council
 </p><p>• Outstanding Philanthropic Youth: Austin Eaton  
 </p>
+```

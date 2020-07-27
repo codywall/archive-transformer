@@ -4,6 +4,7 @@ title: "Students invited to design a bike garage"
 date: January 01 2020
 ---
 
+```html
 <h2>Entries due May 31</h2><p>Submit the winning entry in CSU Monterey Bay's bicycle garage design contest and win $350. The winning entry must be an indoor, weatherproof, secure facility.
 </p><p>The contest kicked off  April 11 with a visit to the proposed site located east of the Institutional Assessment &amp; Research Building on the main quad.
 </p><p>The project is paid for by a grant from the Monterey Bay Unified Air Pollution Control District. It is intended to encourage people to commute to campus via bicycle – and reduce harmful greenhouse gas emissions from vehicle traffic.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>For additional information, please contact Megan Tolbert at 582-4262 or at mtolbert@csumb.edu. 
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p>
+```

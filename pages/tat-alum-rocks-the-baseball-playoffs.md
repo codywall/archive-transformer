@@ -4,6 +4,7 @@ title: "TAT alum rocks the baseball playoffs"
 date: January 01 2020
 ---
 
+```html
 <p>The upcoming baseball playoffs will have a Boss soundtrack, thanks to the work of Casey Richards (TAT, ’02).
 </p><p>Turner Broadcasting selected Bruce Springsteen and the E Street Band – who recently played a two-night set at Boston’s famed Fenway Park – for the 2012 Major League Baseball postseason ad campaign.
 </p><p>Richards was the writer/producer of the two-minute music video, along with the accompanying "Legends Are Born in October" commercials that will be shown throughout September and October on TBS, ESPN, Fox, MBL Network, YouTube and screens inside every major league baseball stadium. 
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

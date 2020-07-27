@@ -4,6 +4,7 @@ title: "Cornel West lectures at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Cornel West has many roles: philosopher, professor, author, civil rights activist and interpreter of African American experience, actor &#40;in several “Matrix” movies&#41; and advocate for social justice. He also travels the country delivering lectures.
 </p><p>He’ll give one of those lectures at Cal State Monterey Bay on April 24.
 </p><p>West focuses much of his work and research on the roles of race, gender and class in American society.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>For more information or to request disability accommodation, call 582&#45;4070.
 </p><p>The event is sponsored by CSUMB’s Otter Cross Cultural Center; Otter Student Union; and Student Activities and Leadership Development.
 </p>
+```

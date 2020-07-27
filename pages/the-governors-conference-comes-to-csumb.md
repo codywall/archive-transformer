@@ -4,6 +4,7 @@ title: "The Governor's conference comes to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>August 6, 2010
 </p><p><strong>SBDC to host training day for small businesses</strong>
 </p><p>Based on the success of the recent Governor's Conference on Economic Development, California's Small Business Development Centers are hosting a series of follow up workshops at CSU Monterey Bay that began on Aug. 5.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>She noted that small businesses are the backbone of California's economy; 99 percent, or 3.5 million of the state's businesses are considered "small businesses" and they employ more than 7 million Californians.
 </p><p>Learn more about CSUMB's <a href="https://csumb.edu/sbdca">Small Business Development Center</a>.
 </p>
+```

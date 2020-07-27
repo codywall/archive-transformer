@@ -4,6 +4,7 @@ title: "Professor honors work of Chief Wilma Mankiller"
 date: January 01 2020
 ---
 
+```html
 <p>May 20, 2010
 </p><h4>Kathryn England-Aytes will teach in Cherokee Studies Program as visiting scholar</h4><p>T<em>he war for Indian children will be won in the classroom.</em> –  Wilma Mankiller
 </p><p>The quotation from the late principal chief of the Cherokee Nation is displayed in the cubicle of Kathryn England-Aytes, a lecturer in the Social, Behavioral and Global Studies Division at California State University, Monterey Bay. 
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The course comes at a particularly poignant time, just weeks after the death of Mankiller, who last October had been named NSU's first Sequoyah Institute Fellow.
 </p><p>"I cannot imagine Tahlequah without Chief Mankiller," England-Aytes said. "Her early passing was such a loss for the Cherokee Nation and beyond. We are using one of her books as a text, and it is certainly a privilege to be able to honor her extraordinary work and life, not only for native women and the Cherokee Nation, but for women across the world."
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB People in the News"
 date: January 01 2020
 ---
 
+```html
 <p>June 28, 2010
 </p><p><strong>Angela Mele,</strong> a student in CSUMB's Science Illustration program, is spending a month this summer as an artist&#45;in&#45;residence at Glacier National Park in Montana. She will create illustrations of flora and fauna for use in educational programs and activities related to the park's fire ecology program.
 </p><p>According to the National Park Service, the purpose of the artist&#45;in&#45;residence program is to stimulate and foster the artistic exploration of the park and to share the artist's inspiration with the public through educational programs and exhibits.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>The program has gone so well, it is expanding to a low&#45;income housing development, where classes will be offered two nights a week.
 </p><p>Tamayo is currently employed as a recruiter for the College Assistance Migrant Program at CSUMB. Murillo is a retention adviser at the university.
 </p>
+```

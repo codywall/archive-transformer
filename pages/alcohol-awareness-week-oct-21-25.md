@@ -4,6 +4,7 @@ title: "Alcohol Awareness Week Oct. 21-25"
 date: January 01 2020
 ---
 
+```html
 <h3>Aware, Awake, Alive! comes to CSUMB</h3><p>As part of National Collegiate Alcohol Awareness Week (NCAAW) Oct. 21–25, CSU Monterey Bay is offering contests, games, and panel discussions to help students understand the ramifications of alcohol and its effect.
 </p><p>The activities are designed to reinforce personal responsibility and respect for state laws and campus policies when it comes to the consumption of alcohol.
 </p><p>This year’s activities include:
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>The program equips students with the tools and knowledge to prevent alcohol-related deaths. Scott and Julia Starkey created it after they lost their son, Carson, to alcohol poisoning while he was a freshman at Cal Poly San Luis Obispo. The Starkeys determined that their program would need to use the peer-to-peer method to give students information about alcohol poisoning prevention that they could share among themselves. The motto of the program is “Drunk or dying? You make the call.” “This program is ideal for college students because it educates them on the symptoms of alcohol poisoning, creates awareness on the conditions that enable it, and encourages responsibility for one another in situations where alcohol is consumed,” Rodriguez said.
 </p><p>NCAAW at CSUMB is a collaborative effort of Health &amp; Wellness Services, the POWER Peer Education Program, Student Housing &amp; Residential Life, the Residential Housing Association, Athletics, the Student Athlete Advisory Council, Student Activities &amp; Leadership Development, the Office of Judicial Affairs &amp; Community Standards, University Police Department, Conference &amp; Event Services, Sigma Theta Psi Sorority, Omega Delta Phi Fraternity, the Multicultural Greek Council, Associated Students, Otter Student Union, Sun Street Recovery Centers and the California Highway Patrol.  
 </p>
+```

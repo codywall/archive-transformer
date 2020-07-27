@@ -4,6 +4,7 @@ title: "Civil rights activist visits campus Feb. 28"
 date: January 01 2020
 ---
 
+```html
 <h3>Bob Zellner knows risks of fighting for freedom</h3><p>CSU Monterey Bay’s celebration of Black History Month will conclude on Feb. 28 when nationally known civil rights activist Bob Zellner visits campus.
 </p><p>“Reflections on 50 Years of Activism” will be his topic. The free event will get under way at 7 p.m. in the University Center on Sixth Avenue. The public is invited.
 </p><p>Raised in southern Alabama, the son and grandson of Ku Klux Klan members, Zellner rejected racism and fought for civil rights along with his mentor, Dr. Martin Luther King Jr. Today, he is seen as one of the most influential white Southerners of the civil rights movement of the 1960s.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The Associated Students Cultural Enrichment Committee, Student Activities and Leadership Development, and the Office of the Dean of Students are sponsors of the event. For more information, contact Tim Bills at 582-4645.
 </p><p><em>He tells a story that is sometimes horrific, always interesting and ultimately inspirational about a white Southerner’s commitment to racial justice.</em> – Library Journal  
 </p>
+```

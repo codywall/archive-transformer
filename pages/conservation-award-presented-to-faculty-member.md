@@ -4,6 +4,7 @@ title: "Conservation award presented to faculty member"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay faculty member Suzanne Worcester has received a Garden Club of America Club Conservation Commendation for her work with students and the community.
 </p><p>The award is given to a person who has made significant contributions to conservation in her or his community and is not a GCA member. The Carmel-by-the-Sea Garden Club nominated her for the award.
 </p><p>Dr. Worchester is a professor in the Division of Science and Environmental Policy.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The award will be presented in the fall.
 </p><p><em>Read Dr. Worcester’s advice on <a href="http://magazine.csumb.edu/news/2012/nov/6/gardening-native-plants">gardening with native plants</a> in the fall/winter issue of Monterey Bay, the magazine of CSUMB.</em><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">Learn more about what faculty members at CSUMB are doing.</a>
 </p>
+```

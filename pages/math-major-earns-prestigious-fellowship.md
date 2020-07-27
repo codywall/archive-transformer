@@ -4,6 +4,7 @@ title: "Math major earns prestigious fellowship"
 date: January 01 2020
 ---
 
+```html
 <p>Another math major has earned recognition for his outstanding work in the classroom – the third student honored in the last few months.
 </p><p>Radoslav Vuchkov has been selected for the Mathematics Advanced Study Semesters (MASS) Program at Pennsylvania State University. He’ll spend the fall semester in State College, Pa.
 </p><p>The program consists of three core courses especially designed for MASS students, a weekly lecture by visiting and resident mathematicians, a weekly seminar, and individual projects, both theoretical and computer-related.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>• <a href="http://news.csumb.edu/news/2012/jun/11/csumbs-star-interns-nasa">Kim Margosian</a> is spending her summer at NASA’s Dryden Flight Research Center at Edwards Air Force Base through the CSU’s Science Teacher and Researcher (STAR) program. The aspiring math teacher is working on math-based modeling and simulation to better understand physical phenomena.
 </p><p><a href="http://csumb.edu/math">Learn more about the Department of Mathematics at CSUMB</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB has big role in Salinas production"
 date: January 01 2020
 ---
 
+```html
 <p>Christopher Marcos and friends proved yet again that students in the Teledramatic Arts and Technology program at CSU Monterey Bay can excel on both sides of the stage.
 </p><p>Marcos and former TAT students Erica Racz and Malinda DeRouen starred in the Western Stage’s recent production of the cult classic “Little Shop of Horrors.” The theater is located on the campus of Hartnell College in Salinas.
 </p><p>Current students Melissa Woodrow and Tomas Reyes were also involved with the production, working behind the scenes.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p>Photos by Richard Green for The Western Stage Top photo: CSUMB alum Christopher Marcos as Seymour grapples with Audrey II, a bloodthirsty plant
 </p><p>Bottom photo: Left to right, Erica Racz, Malinda DeRouen and Reina Vazquez along with Marcos
 </p>
+```

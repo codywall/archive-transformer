@@ -4,6 +4,7 @@ title: "Ellsberg News Release"
 date: January 01 2020
 ---
 
+```html
 <h4>Pentagon Papers whistleblower Daniel Ellsberg visits campus Nov. 28</h4><p>The CSUMB President's Speakers Series concludes this semester's presentations with a Nov. 28 visit by Dr. Daniel Ellsberg, the RAND Corp. analyst who, in 1971, leaked the classified Pentagon Papers to the New York Times.
 </p><p>The documents revealed the U.S. government had engaged in a pattern of deceiving the public about the number of Vietnam War casualties and the nation's ability to win the war. And they instantly validated the antiwar protest movement.
 </p><p>He'll be talking about his book, "Secrets: A Memoir of Vietnam and the Pentagon Papers," copies of which will be available for sale.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map can be found at csumb.edu/map.
 </p><p>The President's Speakers Series will resume in February. Visit csumb.edu/speakers for updates.
 </p>
+```

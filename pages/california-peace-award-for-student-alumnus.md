@@ -4,6 +4,7 @@ title: "California Peace Award for student, alumnus"
 date: January 01 2020
 ---
 
+```html
 <p>A CSU Monterey student and an alumnus will be recognized by Assemblyman Luis Alejo as California Peace Award winners for the 30th Assembly District.
 </p><p>Elizabet Zepeda-Gonzalez, a social and behavioral sciences major, believes that keeping young people involved in their community is a way to keep the peace.
 </p><p>As a high school student in Hollister, she got involved with the League of United Latin American Citizens. Through that work, she has helped to address the needs of local communities.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>After reviewing nominations, four candidates were selected based on their strong track record in promoting peace. Joining Zepeda-Gonzalez and De Worken are Mario Banuelos of Santa Clara County and Javier Tamayo of Salinas.
 </p><p><em>The 30th Assembly District includes the Salinas Valley, San Benito County, south Santa Clara County and the city of Watsonville.</em>  
 </p>
+```

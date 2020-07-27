@@ -4,6 +4,7 @@ title: "Move-in day at CSU Monterey Bay"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 20, 2010
 </p><p>Hundreds of excited students wheeled, carried and dragged their belongings into the residence halls at CSU Monterey Bay on Aug. 20, the first day of the three-day move-in weekend.
 </p><p>By the time classes start on Aug. 23, the 1,800 students who live in residence halls on the main campus and another 750 who live in East Campus housing will be settled into the rooms and apartments that will be their home for the next year.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>The incoming class includes 820 freshmen and 471 transfer students. Total enrollment is approximately 4,650; about a third of them come from Monterey, Santa Cruz and San Benito counties.
 </p><p> 
 </p>
+```

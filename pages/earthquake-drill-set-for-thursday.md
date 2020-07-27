@@ -4,6 +4,7 @@ title: "Earthquake drill set for Thursday"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 12, 2009
 </p><p>Along with schools and businesses, organizations such as the U.S Geological Survey, Federal Emergency Management Agency (FEMA), and the American Red Cross will participate to test their emergency preparedness,
 </p><p>More information:
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>• For more information on how to drop, cover and hold on, visit <a href="http://www.dropcoverholdon.org/" title="http://www.dropcoverholdon.org/">http://www.dropcoverholdon.org/</a>
 </p><p> 
 </p>
+```

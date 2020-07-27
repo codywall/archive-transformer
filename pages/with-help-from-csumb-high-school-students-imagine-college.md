@@ -4,6 +4,7 @@ title: "With help from CSUMB, high school students imagine college"
 date: January 01 2020
 ---
 
+```html
 <p>It’s 9:30 a.m. on a Friday – early for many teenagers on summer vacation – and a group of Seaside High students are hunched over worktables in a chemistry lab on the Cal State Monterey Bay campus, thick plastic goggles protecting their eyes.
 </p><p>Beneath a Periodic Table of the Elements, the students are making biodegradable plastic from vinegar, glycerin and tapioca starch.
 </p><p>The class is part of the Imagine College Summer Scholar Institute. The program's goal is to give students a taste of campus life and encourage them to think that college is a realistic possibility. During the weeklong program, the students take a class of their choosing, go on field trips, tour campus, and attend a panel where first&#45;generation college graduates tell their stories.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>A lesson earlier in the week involved cosmetics and chemistry, where students made their own lip balm and lotion. Other lessons covered the chemistry of crime science investigation, where they learned about DNA extraction and fingerprint analysis.
 </p><p>“It’s a great program. We’ve gotten to do some cool things I wouldn’t have had a chance to do otherwise, said junior Justin Doolittle.
 </p>
+```

@@ -4,6 +4,7 @@ title: "New book explores notion of 'Afro Cuba'"
 date: January 01 2020
 ---
 
+```html
 <p><strong>UPDATE:</strong>&#42;Rebel Dance, Renegade Stance: Timba Music and Black Identity in Cuba&#42; is now available in paperback from the University of Michigan Press.
 </p><p>It’s been a productive year for CSUMB professor Umi Vaughan.
 </p><p>In April, <a href="http://news.csumb.edu/news/2012/mar/15/new&#45;book&#45;traces&#45;history&#45;batá&#45;drumming">his book</a>, &#42;Carlos Aldama's Life in Batá: Cuba, Diaspora, and the Drum&#42;, was published.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Learn more about Dr. Vaughan on <a href="http://umiart.com">his website</a>.
 </p><p>&#42;This is an exciting and informative study of Cuban popular culture and a relevant contribution to assessments of the Revolution's social agenda, particularly with regard to dark&#45;skinned Cubans. Its distinction is within its balanced anthropological perspective on the politics of Cuban dance music and its accompanying series of vivid photographs, which comment eloquently in dialogue with Umi Vaughan's compelling content. &#42; ?— Yvonne Daniel, Smith College &#42;<a href="http://news.csumb.edu/news/2012/nov/25/faculty&#45;highlights">Read more faculty news</a>&#42;.
 </p>
+```

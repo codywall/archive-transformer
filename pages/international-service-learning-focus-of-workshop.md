@@ -4,6 +4,7 @@ title: "International service learning focus of workshop"
 date: January 01 2020
 ---
 
+```html
 <p>For three years, CSU Monterey Bay students have traveled to rural communities in the province of Leon, Spain. The students spend the month of June learning research methods of data collection and analysis and getting service learning experience.
 </p><p>The service learning involves working with the Leon chapter of the Red Cross in a variety of ways.
 </p><p>Mr. Ceferino Gil Benito and Mrs. Mercedes Babé of the Spanish Red Cross, their counterparts from Monterey County, students and faculty members are meeting on campus April 9 to evaluate the summer program and come up with ways to improve it.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>On April 10, students from last summer’s program will present a photography exhibit at 11:30 a.m. in the Student Center.
 </p><p><a href="https://csumb.edu/sbgs/spain&#45;summer&#45;program">Learn about this year’s summer program in Spain.</a>
 </p>
+```

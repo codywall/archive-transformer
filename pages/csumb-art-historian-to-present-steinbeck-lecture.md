@@ -4,6 +4,7 @@ title: "CSUMB art historian to present Steinbeck lecture"
 date: January 01 2020
 ---
 
+```html
 <p>July 2, 2010
 </p><p>Dr. Lila Staples, head of the museum studies program at CSU Monterey Bay, will present a seminar on "Steinbeck's Monterey as Painted by his Contemporaries" July 22 at the Monterey History and Maritime Museum.
 </p><p>The museum is located at 5 Custom House Plaza.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>She is a former president of the Monterey Museum of Art and the Pacific Grove Heritage Society, and currently serves on the board of the Pacific Grove Museum of Natural History and the Fort Ord Museum and Archive Project at CSUMB.
 </p><p>More information about <a href="https://csumb.edu/vpa">Visual and Public Art program</a>.
 </p>
+```

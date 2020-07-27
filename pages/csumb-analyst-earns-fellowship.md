@@ -4,6 +4,7 @@ title: "CSUMB analyst earns fellowship"
 date: January 01 2020
 ---
 
+```html
 <p>Sathyan Sundaram, a research analyst with the office of Institutional Assessment and Research, will spend part of July attending a seminar near Washington, D.C.
 </p><p>Sundaram has been selected for the annual National Summer Data Policy Institute, where he will learn about research methodologies using large national data sources.
 </p><p>“The purpose of the institute is to develop survey analysis skills and learn about national surveys and data on higher education collected by federal agencies including the National Science Foundation and the Department of Education,” he said.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>“CSUMB is the first time I’ve worked on the administrative side,” he said. “I wanted to get into educational research at a relatively new institution that still faced some challenges.
 </p><p>“I have enjoyed the variety of projects with which I’ve been involved: accreditation, surveys, assessments, building operational reports, modeling retention and graduation rates and comparative analysis,” he said.  
 </p>
+```

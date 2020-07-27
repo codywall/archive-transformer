@@ -4,6 +4,7 @@ title: "Otter Trolley to provide Salinas-to-CSUMB bus service"
 date: January 01 2020
 ---
 
+```html
 <p>June 29, 2010
 </p><p>Starting Sept. 7, students, faculty and staff members will be able to commute from their homes or jobs in Salinas to CSU Monterey Bay via a direct bus route.
 </p><p>Monterey Salinas Transit will add a new service, Line 25 – the Otter Trolley – that will connect downtown Salinas, Hartnell College, East Campus housing, central campus, the Dunes Shopping Center and other commercial locations in Marina.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>More information about Monterey Salinas Transit is available at <a href="http://www.mst.org/">http://www.mst.org</a>.
 </p><p> 
 </p>
+```

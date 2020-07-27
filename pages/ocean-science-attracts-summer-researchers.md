@@ -4,6 +4,7 @@ title: "Ocean science attracts summer researchers"
 date: January 01 2020
 ---
 
+```html
 <p>Many universities offer a Research Experiences for Undergraduates (REU) program, but they don't have what CSU Monterey Bay has to offer. The bay and the National Marine Sanctuary – and the research institutions that surround them – are hard to beat for anyone interested in studying ocean science.
 </p><p>Taylor Eddy, a senior marine science major from Concord, is the only CSUMB student among the 11 who are participating this summer in the REU based on campus. One student is from Hartnell College in Salinas, the other nine come from all over the country.
 </p><p>It is funded by the National Science Foundation as a way of introducing undergraduates to research while providing out-of-classroom and networking opportunities.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

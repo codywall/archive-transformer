@@ -4,6 +4,7 @@ title: "Filmmakers show final projects Dec. 16"
 date: January 01 2020
 ---
 
+```html
 <h4>Capstone Festival presents real gems</h4><p>The World Theater on the campus of CSU Monterey Bay will host student films and original media productions at the fall capstone festival, scheduled for Friday, Dec. 16 at 6 p.m. Admission is free.
 </p><p>The capstone festival will feature a dozen top-quality productions spanning genres, including documentaries, animation, narrative and experimental works produced by students of CSUMB’s Teledramatic Arts and Technology Department.
 </p><p>Among the highlights is a piece called Monterey Meltdown by Tara Diego. The film is a comical yet informative stop-motion animation news broadcast about drought in California, with a focus on its effects in the Monterey area.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><em>Video: Trailer for Let Go, directed by Tyler Franta</em>
 </p><p> 
 </p>
+```

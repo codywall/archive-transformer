@@ -4,6 +4,7 @@ title: "A diver's eye view--without getting wet"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB's Seafloor Mapping Lab helps with Point Lobos project</h3><p>Visitors to Point Lobos State Marine Reserve are now able to visualize what the undersea world looks like, thanks in part to work by students and staff members of CSU Monterey Bay’s Seafloor Mapping Lab.
 </p><p>Data collected by the lab was used to create a 3D model of the underwater park, which helps visitors understand what lies beneath the sea. Until now, only divers could experience the mysterious underwater seascape of Point Lobos, with its kelp forests, schools of fish and marine mammals.
 </p><p>The museum-quality model was years in the making. In 2010, members of the Bay Area Underwater Explorers (BAUE) began a project to fill the gaps in the existing mapping data. It quickly became apparent their approach wasn’t going to work – the area to be mapped was simply too big.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><a href="http://seafloor.otterlabs.org"> Learn more about the Seafloor Mapping Lab</a>
 </p><p><a href="http://news.csumb.edu/news/2011/sep/23/research-vessel-works-uncharted-waters?news-index=14279">Read about Dr. Kvitek and the KelpFly</a>
 </p>
+```

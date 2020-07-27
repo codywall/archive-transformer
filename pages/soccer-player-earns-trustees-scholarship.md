@@ -4,6 +4,7 @@ title: "Soccer player earns Trustees' scholarship"
 date: January 01 2020
 ---
 
+```html
 <p>Cal State Monterey Bay sophomore Regan Porteous has been selected to receive a <a href="http://www.calstate.edu/foundation/hearst/">CSU Trustees’ Award for Outstanding Achievement. </a>She and the other award winners were honored on Sept. 24 at the CSU board meeting in Long Beach.
 </p><p>The award is among the highest student distinctions in the CSU and is accompanied by a scholarship. Awardees must demonstrate superior academic performance, personal accomplishments, community service and financial need. Many of the honorees have prevailed in the face of disability, language and cultural barriers, intense personal loss or homelessness.
 </p><p>“CSU trustees’ scholars have defied the odds, rising above circumstance to become leaders among their classmates and exemplifying the CSU mission of access to a quality higher education,” said Chancellor Timothy White.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>More than 437,000 students attend the 23 campuses of the CSU system. Only one student from each campus is honored with the Trustees’ Award. The program began nearly three decades ago with scholarships endowed by the William Randolph Hearst Foundation. In 1999, the generosity of current and emeritus CSU trustees allowed the program to expand. 
 </p><p> 
 </p>
+```

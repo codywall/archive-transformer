@@ -4,6 +4,7 @@ title: "Students make waves with SurfBot"
 date: January 01 2020
 ---
 
+```html
 <h3>Weather, surf conditions delay launch until May</h3><p>Students in Dr. Steve Moore’s underwater robotics class in the fall of 2010 didn’t kick back over the winter break last January.
 </p><p>Instead, they volunteered to continue working on a project that wasn’t quite finished when the semester ended. The work – some of which took place in Professor Moore’s cluttered garage amid tools, electronic and mechanical parts and testing equipment – extended into the spring semester.
 </p><p>The class was working on SurfBot – an 8-foot Styrofoam surfboard to which two boogie boards and a pair of propellers are attached, as well as a metal box containing cameras, batteries, computers and electronics. Riding atop it all is a small stuffed otter, CSU Monterey Bay’s mascot.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p>He and his students – including those in the robotics class – invent out of necessity, developing new research tools because they don’t yet exist or alternatives are cost-prohibitive. The result: usable technologies that allow scientists and students to better understand our world.
 </p><p>And, maybe have some fun while “learning a bunch of stuff,” as Dr. Moore says. To learn more about the Science and Environmental Policy program, click <a href="http://sep.csumb.edu/sep/">here</a>.  
 </p>
+```

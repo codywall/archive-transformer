@@ -4,6 +4,7 @@ title: "Carr Lake cleanup seeks volunteers on July 17"
 date: January 01 2020
 ---
 
+```html
 <p>July 2, 2010
 </p><p> 
 </p><p>Volunteers can help restore the natural habitat around Upper Carr Lake from 9 a.m. to noon on Saturday, July 17.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

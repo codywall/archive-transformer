@@ -4,6 +4,7 @@ title: "CSUMB hosts seminar on autism"
 date: January 01 2020
 ---
 
+```html
 <p>June 14, 2010
 </p><p>******July 15 event free to the public********With the diagnosis rate estimated to be 1 in 110 children, proven approaches to teaching youngsters with autism are critical. The growing number of children with autism in public schools requires that new methods be explored and implemented.
 </p><p>The public is invited to a free seminar on educational models for children with autism spectrum disorders to be held from 7 to 9 p.m., July 15 at CSU Monterey Bay's World Theater. Parents of children with autism will find it useful, as will educators and medical professionals. Speakers include Dr. Cathy Scutta, an educational consultant with experience adopting multiple methods in large systems. Also on the program is Donna LeFevre, a behavior specialist and educational consultant. They will talk about their successes in merging applied behavior analysis, speech and occupational therapy for children with autism.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

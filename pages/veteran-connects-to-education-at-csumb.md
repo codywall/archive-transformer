@@ -4,6 +4,7 @@ title: "Veteran 'connects to education' at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>In May, 2005, Army Spec. Travis Fugate was seriously injured by a roadside bomb while on patrol in Iraq. It took out his right eye and damaged the retina of his left, bruised his brain and crushed the bones in his face.
 </p><p>Fugate had enlisted in the Kentucky National Guard in 2003 for the usual reasons: patriotism, adventure, money for college. Sixteen months later, his military service ended suddenly. A long period of rehabilitation followed, “learning to be blind – learning how to participate in society as a blind person,” he says.
 </p><p>While at the Hines Blind Center near Chicago – where veterans receive training in skills they need to regain their independence – he made a decision to “connect to education” and reached out to Sentinels of Freedom, an organization that provides opportunities for veterans who have suffered severe injuries.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p><a href="http://blogs.calstate.edu/voicesviews/?p=1557">Read Travis's story in his own words at the CSU Voices &amp; Views blog. </a>
 </p><p><em>Story by Joan Weiner. Photo by Kevin Garcia: Travis Fugate and his service dog, Mr. Fess, at CSUMB</em>
 </p>
+```

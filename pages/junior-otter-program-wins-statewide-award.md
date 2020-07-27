@@ -4,6 +4,7 @@ title: "Junior Otter program wins statewide award"
 date: January 01 2020
 ---
 
+```html
 <p>The Migrant Junior Otter program based at CSU Monterey Bay has won another award, the second time it has been honored in its short history.
 </p><p>The program was recognized in 2010 at the National Migrant Education Conference as an outstanding example of a collaborative effort. This year, it was selected for a Golden Bell Award from the California School Boards Association.
 </p><p>Golden Bell Awards promote excellence in education by recognizing outstanding programs in school districts and county offices of education. They reflect the depth and breadth of education programs necessary to address students’ changing needs.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Learn more about CSUMB's early outreach and support programs <a href="http://eosp.csumb.edu/early-outreach-and-support-programs">here</a>.
 </p><p> 
 </p>
+```

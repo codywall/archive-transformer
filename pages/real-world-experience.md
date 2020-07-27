@@ -4,6 +4,7 @@ title: "Real World Experience"
 date: January 01 2020
 ---
 
+```html
 <p>At CSUMB, much of the learning takes place in the real world. The university partners with organizations that provide students the opportunity to use the skills they've acquired in the classroom, make professional connections and build an impressive resume.
 </p><p>One of those organizations is the Defense Manpower Data Center. DMDC and CSUMB have worked together since 1996, providing real-world opportunities for students.
 </p><p>The two organizations recently signed an agreement to continue working together.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>One project CSUMB students worked on involves "smart cards," Defense Department identification cards that contain microprocessor chips. One chip contains a Defense Department employee's highly secured digital credentials. Millions of the smart cards have been issued.
 </p><p>"This is very exciting," concluded Dr. Harrison. "We're all about assessments and outcomes. That's what this program is about."
 </p>
+```

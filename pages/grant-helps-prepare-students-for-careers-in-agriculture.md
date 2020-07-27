@@ -4,6 +4,7 @@ title: "Grant helps prepare students for careers in agriculture"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 5, 2009
 </p><p>A grant from the U.S. Department of Agriculture will help CSU Monterey Bay prepare students for careers in natural resources and agriculture.
 </p><p>The university will use the $300,000 to enhance its curriculum by adding courses in plant and soil science – classes that are essential for careers with agencies that manage natural resources important to agriculture.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

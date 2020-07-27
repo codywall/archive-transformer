@@ -4,6 +4,7 @@ title: "Alumna spends year as Capital Fellow in Sacramento"
 date: January 01 2020
 ---
 
+```html
 <p>Diana Vasquez grew up in the San Fernando Valley town of Pacoima with an appetite for politics.
 </p><p>As a teenager, she worked on political campaigns and community outreach efforts on issues such as immigration reform and youth development. Through high school and college at UC Davis – where she earned a B.A. in political science and Chicano/a Studies in 2007 – she worked to help disadvantaged youth and dislocated workers.
 </p><p>The 2011 graduate of CSU Monterey Bay’s Master of Public Policy program remains passionate about helping people. She’s especially concerned about access to higher education.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>She credits her graduate degree from CSUMB with helping her on her way to accomplishing her goals. “It allowed me to examine the various issues related to policy. Stakeholders must be considered, budget, alternatives, impacts, etc., that may not be readily identifiable to others.
 </p><p>“I am thankful for all the support I was given at CSUMB.”
 </p>
+```

@@ -4,6 +4,7 @@ title: "Snapshot Day at the library"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 12, 2010
 </p><p>As part of the California Library Association's "Snapshot: One Day in the Life of California Libraries," CSU Monterey Bay joined others throughout the state – including 19 other CSU campuses – to gather statistics for a typical day.
 </p><p>All information was collected for one day during the week of Oct. 4; CSUMB collected its data on Oct. 5.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>"Snapshot" statistics will demonstrate to decision makers the extent that students, other library users and future leaders rely on California libraries for critical services, resources and programs – "now, more than ever," Bui&#45;Burton said.
 </p><p><a href="http://library.csumb.edu.">Learn more about CSUMB's library</a>.
 </p>
+```

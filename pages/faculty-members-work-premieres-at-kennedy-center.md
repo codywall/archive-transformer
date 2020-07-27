@@ -4,6 +4,7 @@ title: "Faculty member's work premieres at Kennedy Center"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 30, 2010
 </p><p>CSU Monterey Bay lecturer John Wineglass is an award&#45;winning composer and musician who has traveled the world since he was 11 years old.
 </p><p>He'll tell you he owes it all to an opportunity afforded him as a youngster growing up in Washington, D.C.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>At CSUMB, he teaches music and film, composition and musicianship, and theory.
 </p><p><a href="http://music.csumb.edu/site/x5130.xml">Learn more about the music program</a> at CSUMB.
 </p>
+```

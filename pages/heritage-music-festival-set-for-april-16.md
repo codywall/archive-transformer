@@ -4,6 +4,7 @@ title: "Heritage Music Festival set for April 16"
 date: January 01 2020
 ---
 
+```html
 <h3>‘Musical conversation’ features Oakland-based dance company</h3><p>Catalyst: One by One, a collaboration between the Dimensions Dance Theater and jazz composer Khalil Shaheed, will get its world premiere at CSU Monterey Bay’s annual Heritage Music Festival on April 16.
 </p><p>The 7 p.m. performance will be held in the University Center ballroom on Sixth Avenue and is free. No tickets or reservations are required.
 </p><p>Deborah Vaughan, founder and artistic director of the Oakland-based dance company, has collaborated with world renowned musicians, poets, rappers and other dance companies for decades.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>For more information or disability accommodations, call Nicole Mendoza at 582-3009. To learn more about the Music and Performing Arts Department at CSUMB, click<a href="http://csumb.edu/music"> here</a>.
 </p><p> 
 </p>
+```

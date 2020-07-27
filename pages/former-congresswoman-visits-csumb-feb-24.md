@@ -4,6 +4,7 @@ title: "Former Congresswoman visits CSUMB Feb. 24"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay’s College of Health Sciences and Human Services celebrates Black History Month with a lecture by former Congresswoman Donna Christensen on Feb. 24.</p><p>Dr. Christensen, the first female physician to serve in Congress, was a non&#45;voting delegate from the Virgin Islands to the U.S. House of Representatives from 1996 to 2014.
 </p><p>She was a member of the Congressional Black Caucus’ Health Braintrust, which oversees and advocates for minority health issues, and was instrumental in the development of the Affordable Care Act. She believes health care is the civil rights issue of the 21st century.
 </p><p>The American Medical Association honored her with its Dr. Nathan Davis Award for Outstanding Government Service.
@@ -26,3 +27,4 @@ The lecture is sponsored by Salinas Valley Memorial Hospital, Natividad Medical 
 
 <em>Published Feb. 8, 2016</em>
 </p>
+```

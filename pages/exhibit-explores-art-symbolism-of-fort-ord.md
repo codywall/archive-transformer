@@ -4,6 +4,7 @@ title: "Exhibit explores art, symbolism of Fort Ord"
 date: January 01 2020
 ---
 
+```html
 <p>Insignias of Fort Ord opens Feb. 11</p><p>Cal State Monterey Bay and the Monterey Museum of Art are collaborating on a community&#45;based project featuring the voices and artwork of military veterans.
 </p><p><em>Insignias of Fort Ord: Art in Everyday Military Life</em> opens Feb. 11 at the museum’s Pacific Street location. A series of talks and film screenings will accompany the exhibit.
 </p><p>Professor Enid Baxter Ryce, chair of the university’s Cinematic Arts and Technology Department, created the exhibition in collaboration with the Veterans Transition Center &#40;VTC&#41; of Marina and CSUMB students to explore the art and symbolism of Fort Ord.
@@ -15,3 +16,4 @@ It includes original works by members of the VTC and the CSUMB community, studen
 </p><p>The public opening will be held from 6 to 7:30 p.m., Feb. 11; the exhibit runs through April 18. The museum is located at 559 Pacific Street in downtown Monterey.
 </p><p>These programs will be held in conjunction with the exhibit:
 </p>
+```

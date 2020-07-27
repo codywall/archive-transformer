@@ -4,6 +4,7 @@ title: "Students take top honors at SACNAS"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay students took a first&#45;place award and two seconds at the recent conference of the Society for the Advancement of Chicanos and Native Americans in Science.
 </p><p>SACNAS is a 40&#45;year&#45;old nonprofit organization that fosters Hispanic/Chicano and Native American scientists from college students to professionals.
 </p><p>The annual conference – funded in large part by the National Science Foundation and the National Institutes of Health – is the society’s showcase. It brings together students and professional scientists from around the country as well as university representatives there to recruit students for their graduate programs.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>Learn more about the <a href="http://reu.csumb.edu">Ocean Science REU</a> at CSUMB
 </p><p>&#42;Photos courtesy of Dr. Garza Top, left to right: Alison Aceves, Briana Becerra, Emily King and Danielle Perry Bottom: CSUMB's contingent at the SACNAS conference&#42;
 </p>
+```

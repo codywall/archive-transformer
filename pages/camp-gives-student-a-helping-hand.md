@@ -4,6 +4,7 @@ title: "CAMP gives student a helping hand"
 date: January 01 2020
 ---
 
+```html
 <p>Ashley Rojas was nervous about attending college and scared of failing.
 </p><p>But thanks to the College Assistance Migrant Program, she was able to get over her fears and get the support she needed to succeed.
 </p><p>Ashley was the first in her family to attend college. The graduate of King City High School decided to enroll in CSUMB in the fall of 2009.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><em>Earlier story: <a href="http://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition">Migrant program earns national recognition</a></em>  
 </p><p> 
 </p>
+```

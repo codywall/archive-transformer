@@ -4,6 +4,7 @@ title: "ROVing the waters to protect our oceans"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 1, 2009
 </p><p>A CSU Monterey Bay faculty member is joining with the Nature Conservancy and several other partners on a study to assess the impact of trawl fishing in Morro Bay, using a remotely operated vehicle (ROV).
 </p><p>Moving just above the seafloor, the ROV – an underwater robot equipped with cameras – gathers video and still photographs of marine life and habitats, vital data in the fight to save California's threatened oceans.
@@ -27,3 +28,4 @@ date: January 01 2020
 </p><p>For the record, Dr. Lindholm prefers "Nemo."
 </p><p>"Operationally, writing a single, short word on data sheets would be easier."
 </p>
+```

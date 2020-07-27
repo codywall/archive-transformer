@@ -4,6 +4,7 @@ title: "A+ for this teacher"
 date: January 01 2020
 ---
 
+```html
 <h3>Alumna finalist for presidential award</h3><p>A CSU Monterey Bay graduate has been nominated for a national teaching award.
 </p><p>Stefanie Pechan is one of six teachers chosen as California finalists for the Presidential Awards for Excellence in Math and Science Teaching. The fifth-grade teacher in the Pacific Grove Unified School District was nominated in the science category.
 </p><p>In 2001, Pechan earned a bachelor’s degree in liberal studies with an emphasis in computer science and technology, and then pursued a teaching credential at Sacramento State.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><a href="http://www.mrspechan.com/students.html">Visit Pechan’s class website</a>
 </p><p><a href="http://teach.csumb.edu/?_csumbsearch=teacher%2Beducation">Learn about teacher education programs at CSUMB</a>  
 </p>
+```

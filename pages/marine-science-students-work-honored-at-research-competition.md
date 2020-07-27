@@ -4,6 +4,7 @@ title: "Marine science student’s work honored at research competition"
 date: January 01 2020
 ---
 
+```html
 <p>Outstanding research by CSU Monterey Bay students on topics ranging from bat foraging to visitor engagement at museums was presented at a competition in late April at CSU Bakersfield.
 </p><p>The CSU Student Research Competition is held each spring to promote excellence in undergraduate and graduate scholarly research and creative activity by recognizing outstanding student accomplishments across the 23 CSU campuses.
 </p><p>Marine biology student Madison Heard took second place with her research on the impacts of ocean acidification on abalone. She started the work last summer as part of CSUMB’s 10&#45;week Monterey Bay Regional Ocean Science Research Experiences for Undergraduates &#40;REU&#41; program funded by the National Science Foundation.
@@ -24,3 +25,4 @@ One graduate student and nine undergraduates from CSUMB were among the 200 stude
 </p><p><strong>Graduate student</strong>
 </p><p><strong>• Jewel Sean Gentry</strong>, Master of Arts in Education, “Measuring visitor engagement in the mission museums,” faculty adviser: Dr. Kerrie Chitwood
 </p>
+```

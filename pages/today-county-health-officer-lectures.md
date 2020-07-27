@@ -4,6 +4,7 @@ title: "Today: County health officer lectures"
 date: January 01 2020
 ---
 
+```html
 <p>This semester’s Health Sciences/Biology Speaker Series concludes April 28, when Monterey County's Director of Public Health Hugh Stallworth visits CSU Monterey Bay.
 </p><p>Public Health: The Good, The Better, The Best – Understanding Public Health and Its Importance to a Healthy Community will be Dr. Stallworth's topic.
 </p><p>The lecture will be held at 4:30 p.m. in Room 3145 of the Tanimura and Antle Family Memorial Library. The public is invited. Driving direction and a campus map are available <a href="http://csumb.edu/map">here</a>.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>He has also served as director of health and hospitals for the city of St. Louis, as well as adjunct associate professor in the Department of Health Management and Policy at St. Louis University School of Public Health.
 </p><p>The lecture is sponsored by the Tribeta Honor Society and the Pre-Med Club. For more information, contact Dr. Aparna Sreenivasan at 582-3210.   
 </p>
+```

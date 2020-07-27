@@ -4,6 +4,7 @@ title: "CSUMB professor wins excellence in teaching award"
 date: January 01 2020
 ---
 
+```html
 <p>April 26, 2010
 </p><p>Pat Tinsley McGill, associate professor of business administration at CSU Monterey Bay, will be honored April 28 at the annual teaching awards ceremony sponsored by the Community Foundation for Monterey County.
 </p><p>Dr. Tinsley McGill will receive the Allen Griffin Award for excellence in teaching at the post&#45;secondary level. Faculty members from Monterey Peninsula College, Monterey Institute of International Studies, Defense Language Institute and Naval Postgraduate School also will be honored, along with Monterey Peninsula high school teachers. Middle school and elementary school teachers will receive the Mildred Willemsen Awards. In all, 21 local educators will receive awards.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>She serves on the board of the Monterey Peninsula Chamber of Commerce and is a frequent speaker on business topics in the local community.
 </p><p>She earned a Ph.D. from Texas A&amp;M University in College Station, Texas; a Master's of Business Administration from the Graduate School of Management at the University of Dallas in Irving, Texas; and a Bachelor of Arts from Southwestern University in Georgetown, Texas.
 </p>
+```

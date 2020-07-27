@@ -4,6 +4,7 @@ title: "Professor, student dive into research"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 12, 2010
 </p><p><strong>CHECK OUT THE VIDEO FROM THE MISSION <a href="http://isc.gso.uri.edu/oceanslive">HERE</a></strong>
 </p><p>On Oct. 12, Dr. James Lindholm and graduate student Jessica Watson embarked on a scientific mission inside the world's only undersea research station.
@@ -28,3 +29,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

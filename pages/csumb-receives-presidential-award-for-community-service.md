@@ -4,6 +4,7 @@ title: "CSUMB receives Presidential Award for community service"
 date: January 01 2020
 ---
 
+```html
 <h2>University is only two-time top honoree in the nation</h2><p>California State University, Monterey Bay has received the Presidential Award as part of the 2010 President’s Higher Education Community Service Honor Roll, the highest federal recognition a college or university can receive for its commitment to community service. 
 </p><p>CSU Monterey Bay President Dianne Harrison (pictured at left in red jacket) received the award June 8 in New Orleans. Dr. Seth Pollack, director of CSUMB's Service Learning Institute, and Dr. Miguel Lopez, co-founder of the "Increase the Peace" initiative and a faculty member in Liberal Studies, also attended the awards ceremony.
 </p><p>The Corporation for National and Community Service received applications from more than 850 colleges and universities. Only six received the Presidential Award.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

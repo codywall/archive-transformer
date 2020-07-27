@@ -4,6 +4,7 @@ title: "The wondrous life of Junot Diaz"
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 4, 2010
 </p><p>*******Can't attend the lecture? Listen to it on KAZU 90.3 FM***
 </p><p>Junot Diaz, the 2008 Pulitzer Prize-winning author of "The Brief and Wondrous Life of Oscar Wao" and author of "Drown," will visit California State University, Monterey Bay's World Theater on Feb. 10 as the President's Speaker Series continues. His talk will get under way at 7 p.m.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p><em>" . . . (Junot Diaz) has written a book that decisively establishes him as one of contemporary fiction's most distinctive and irresistible new voices.</em>– Michiko Kakutani, New York Times
 </p><p>*You could call 'The Brief Wondrous Life of Oscar Wao' . . . the saga of an immigrant family, but that wouldn't really be fair. It's an immigrant saga for people who don't read immigrant-family sagas.***– Lev Grossman, Time magazine
 </p>
+```

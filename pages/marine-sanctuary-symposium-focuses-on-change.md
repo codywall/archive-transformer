@@ -4,6 +4,7 @@ title: "Marine Sanctuary symposium focuses on 'change'"
 date: January 01 2020
 ---
 
+```html
 <h3>Change: Observations on the shifting ecology of the Sanctuary</h3><p>Change is the only constant in the universe. Change alone is unchanging.
 </p><p>So said Heraclitus of Ephesus more than 2,000 years ago, and it still holds true for the marine ecosystems of the Monterey Bay National Marine Sanctuary.
 </p><p>At the Marine Sanctuary's annual Current Symposium, the public is invited to learn about changes occurring throughout the sanctuary, and the drivers of those changes, from the experts seeking to understand them. This year's symposium will be held from 9 a.m. to 3:30 p.m., Saturday, April 27, at CSU Monterey Bay's University Center. <a href="http://csumb.edu/map">Driving directions and a campus map are available here.</a>
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>For more information visit the NOAA website or contact James Lindholm at <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#106;&#x6c;&#x69;n&#100;&#104;&#x6f;&#x6c;m&#64;&#99;&#x73;&#x75;&#x6d;&#98;&#46;&#x65;&#x64;&#x75;">jlindholm@csumb.edu</a>
 </p><p>Sponsors: Institute For Applied Marine Ecology, California State University Monterey Bay; Monterey Bay National Marine Sanctuary; Monterey Bay Aquarium; National Oceanic and Atmospheric Administration
 </p>
+```

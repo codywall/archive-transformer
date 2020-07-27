@@ -4,6 +4,7 @@ title: "New book by history professor examines military service"
 date: January 01 2020
 ---
 
+```html
 <p>July 26, 2010
 </p><p> 
 </p><p>Routledge Press has recently published "Citizen and Soldier: A Sourcebook on Military Service and National Defense from Colonial America to the Present," co-edited by Dr. Gerald Shenk.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

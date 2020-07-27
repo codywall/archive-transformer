@@ -4,6 +4,7 @@ title: "Kinesiology students team up with police academy"
 date: January 01 2020
 ---
 
+```html
 <p>June 7, 2010
 </p><p>Being physically fit has a different definition for police and other public safety officers than for the rest of us. That makes their fitness training especially important.
 </p><p>CSU Monterey Bay is working with Monterey Peninsula College's Law Enforcement Academy to improve the fitness level of students in the academy's six-month program.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em>In photo above, a CSUMB kinesiology major measures the flexibility of a student at the MPC Law Enforcement Academy. Photo by Don Porter</em>
 </p>
+```

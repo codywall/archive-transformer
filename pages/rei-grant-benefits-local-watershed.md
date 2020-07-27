@@ -4,6 +4,7 @@ title: "REI grant benefits local watershed"
 date: January 01 2020
 ---
 
+```html
 <p>July 27, 2009
 </p><p> 
 </p><p>**  **
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>REI encourages protection and restoration of the environment through its philanthropic activities. The Kent, Wash.-based company gave away $3.7 million last year to support outdoor stewardship and connect children to nature.
 </p><p>"We're excited that some of our support can go to our neighbor, CSUMB," said Ellie Kincade, outreach specialist for REI's Marina store. "It's the perfect match. It feels like family."
 </p>
+```

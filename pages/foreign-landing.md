@@ -4,6 +4,7 @@ title: "FOREIGN LANDING"
 date: January 01 2020
 ---
 
+```html
 <h3>TRIO student selected for Global Leaders program</h3><p>This summer, Jesus Garcia-Valdez will find himself in Spain, his first trip outside of North America.
 </p><p>The sophomore from Gonzales is one of 20 students nationwide selected for the Keith Sherin Global Leaders program, named for an executive with the General Electric Co. A scholarship will help pay for the trip.
 </p><p>Garcia-Valdez will spend the month of June in intensive study of Spanish language and culture at the Pontifical University in Salamanca and will earn college credit toward his degree in business administration.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“I hope my experience serves as a motivation to other Latino first-generation students so they take advantage of the opportunities that are offered to us,” Garcia-Valdez said. <a href="http://eosp.csumb.edu/our-programs-0">Learn about early outreach and support programs at CSUMB</a>.
 </p><p><em>Photo: Jesus Garcia-Valdez and Monte Rey during CSUMB's annual open house</em>
 </p>
+```

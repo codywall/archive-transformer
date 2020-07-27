@@ -4,6 +4,7 @@ title: "Foundation sets course: board to oversee philanthropy"
 date: January 01 2020
 ---
 
+```html
 <p>The new Foundation of California State University, Monterey Bay is bringing community and campus leaders together to foster support for the university’s philanthropic needs and goals.
 </p><p><strong>To learn more</strong> For information on the Foundation of California State University, Monterey Bay, contact Development at 582-3366 or by email to <a href="&#109;a&#x69;&#108;&#x74;&#111;&#x3a;&#106;&#x68;&#101;&#x6d;&#112;y&#x40;&#99;&#x73;&#117;&#x6d;&#98;&#x2e;&#101;&#x64;&#117;">jhempy@csumb.edu</a>.
 </p><p>A 10-member board of directors meets in public at least quarterly to review progress, build support for educational programs and facilities, and promote awareness and understanding of CSUMB’s higher education mission.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The foundation has taken over philanthropic oversight from the University Corporation at Monterey Bay, which still manages CSUMB’s auxiliary business operations. The foundation will be able to make private support its “sole focus,” Mahan said.
 </p><p>Dr. Harrison said she is grateful for the directors’ service and their substantial contribution to the university.
 </p>
+```

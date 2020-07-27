@@ -4,6 +4,7 @@ title: "Monitoring program surveys marine ecosystems"
 date: January 01 2020
 ---
 
+```html
 <p>April 29, 2010
 </p><p>The California Ocean Protection Council has awarded $4 million, some of it going to a CSU Monterey Bay professor, to monitor North Central Coast marine protected areas.
 </p><p>Funding was provided for 11 projects that will target marine life and habitats for up to three years, studying the organisms inside and outside the protected areas to establish a picture of marine ecosystems and human activities.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

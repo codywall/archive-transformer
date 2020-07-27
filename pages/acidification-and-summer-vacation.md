@@ -4,6 +4,7 @@ title: "Acidification and summer vacation"
 date: January 01 2020
 ---
 
+```html
 <h3>Students work on research projects</h3><p><em>Not too many undergraduates can say they have been fortunate enough to do research. Even fewer can say they’ve been a part of research going into their junior year. And only one can say he’s been a part of a research project between Moss Landing Marine Labs and Scripps Institution of Oceanography.</em>
 </p><p><em>My name is Alex Neu, and I’m that student.</em> – Blog post on June 18, 2012  
 </p><p>For some college students, summer is a time to put the books away for a few months and kick back.
@@ -48,3 +49,4 @@ date: January 01 2020
 </p><p><em>Top photo courtesy of Dr. Corey Garza Mitchell Takata working at Bird Rock, Catalina Island Bottom photo from Alex Neu's blog Alex taking a pH reading as part of his work with Moss Landing Marine Labs and Scripps Institution of Oceanography</em>
 </p><p> 
 </p>
+```

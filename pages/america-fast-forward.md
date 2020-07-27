@@ -4,6 +4,7 @@ title: "America Fast Forward?"
 date: January 01 2020
 ---
 
+```html
 <h3>President's speaker series continues Jan. 30</h3><p>“America Fast Forward?: Demographic Shifts, Economic Challenges, and the Future of California” will be the topic addressed by University of Southern California professor Manuel Pastor on Jan. 30, when the President’s Speaker Series resumes at Cal State Monterey Bay.
 </p><p>The social and economic changes in California in the last few decades foreshadowed what is now happening in the nation as a whole; indeed, the demographic change in the state between 1980 and 2000 is what the U.S. is projected to experience between 2000 and 2050.
 </p><p>In our passage, rising immigration, widening inequality, and a strained fiscal system challenged the state &#40;and now the nation&#41;, but we are now at a critical turnaround as our demography stabilizes, our economy catches its breath, and public finances are finally on &#40;slightly&#41; firmer ground.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The theme of this year’s speaker series is “Future Monterey Bay.” During the school year, three speakers will visit campus to address various aspects of the theme. The series kicked off in November with a talk by Stanford University professor and futurist Paul Saffo.
 </p><p>The speaker series is in keeping with Cal State Monterey Bay’s role as a community resource, providing forums for provocative discussions that can impact thought and action on issues important to our community.
 </p>
+```

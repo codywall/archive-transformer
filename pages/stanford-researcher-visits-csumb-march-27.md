@@ -4,6 +4,7 @@ title: "Stanford researcher visits CSUMB March 27"
 date: January 01 2020
 ---
 
+```html
 <p>President’s Speaker Series focuses on innovation in education
 </p><p>The President’s Speaker Series at California State University, Monterey Bay continues March 27 when <a href="http://en.wikipedia.org/wiki/Sebastian_Thrun">Sebastian Thrun</a> of Stanford University visits campus.
 </p><p>With the theme of “Disruptive Innovation in Higher Education,” the series will focus on the challenges facing higher education in an era of increased demand, changing demographics and declining state support.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>The series continues on April 25, when Jamie Merisotis, president and CEO of the <a href="http://www.luminafoundation.org/">Lumina Foundation</a>, visits campus.
 </p><p>The speaker series is in keeping with Cal State Monterey Bay’s role as a community resource, providing forums for thoughtful and provocative discussions that can impact thought and action on issues important to our community and our nation.
 </p>
+```

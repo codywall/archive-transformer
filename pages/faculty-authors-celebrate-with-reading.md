@@ -4,6 +4,7 @@ title: "Faculty authors celebrate with reading"
 date: January 01 2020
 ---
 
+```html
 <p>The community is invited to join Cal State Monterey Bay faculty members Deb Busman and Umi Vaughan on April 15 as they celebrate the publication of their most recent books with a reading on campus.</p><p>The reading will be held from 6 to 8 p.m. in the Alumni and Visitors Center.
 </p><p>Busman is a fiction/creative non&#45;fiction writer, co&#45;director of CSUMB’s Creative Writing and Social Action program and an associate professor in the Division of Humanities and Communication.
 </p><p>Her book, <em><a href="http://www.dzancbooks.org/upcoming&#45;titles/like&#45;a&#45;woman&#45;by&#45;deb&#45;busman">Like a Woman</a></em>, was published this month by Dzanc Books. It is a coming&#45;of&#45;age story, revealing the lives of teenage girls on the streets of Los Angeles, trying to hold onto their sense of humanity against a backdrop of racism, poverty, sexism and violence.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p><strong>• Driving directions:</strong> Available at csumb.edu/maps
 </p><p><strong>• Information/disability accommodations:</strong> <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#100;b&#x75;&#x73;&#109;&#97;&#x6e;&#x40;&#99;&#115;u&#x6d;&#x62;&#46;&#101;&#x64;&#x75;">dbusman@csumb.edu</a>
 </p>
+```

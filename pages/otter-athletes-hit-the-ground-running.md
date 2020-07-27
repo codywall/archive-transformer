@@ -4,6 +4,7 @@ title: "Otter athletes hit the ground running"
 date: January 01 2020
 ---
 
+```html
 <h5>To see a gallery of photos from the first day of practice, click here
 	 </h5><p>On your mark, get set and go.
 </p><p>The CSU Monterey Bay’s fall athletic teams – cross country, soccer and volleyball – kicked off their 2011 seasons on Aug. 15 with each team’s first official practice.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>For more information, including rosters and schedules, click <a href="http://otterathletics.com">here</a>.  
 </p><p> 
 </p>
+```

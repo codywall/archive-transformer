@@ -4,6 +4,7 @@ title: "April 12 panel looks at ethics of 'green'"
 date: January 01 2020
 ---
 
+```html
 <h3>‘Greenwashing’ vs. sustainability is the topic of annual ethics panel</h3><p>With Earth Day approaching, the ninth annual ethics panel at California State University, Monterey Bay will look at sustainability and the ethics of “green.”
 </p><p>The event, sponsored by the School of Business and the Division of Humanities and Communication, will be held from 3 to 5 p.m., Tuesday, April 12, in the University Center on Sixth Avenue. It’s free and the public is invited.
 </p><p>The topic under discussion is “Greenwashing vs. Sustainability . . . does virtue ethics apply?”
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The ethics panel is held annually to raise awareness of ethical issues in business and social contexts. The objective is to help people understand how to respond to ethical challenges in ways that will contribute to their future success and well&#45;being.
 </p><p>For a map of campus and driving directions, visit csumb.edu/map. For disability accommodations or more information on the panel, call 582&#45;4232.
 </p>
+```

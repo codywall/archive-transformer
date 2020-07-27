@@ -4,6 +4,7 @@ title: "Student artists' work to be installed April 18"
 date: January 01 2020
 ---
 
+```html
 <p>A vital part of being an artist is entering works into juried competitions. Students at CSU Monterey Bay had the opportunity to do that, thanks to a generous donation from a faculty member.
 </p><p>A call went out for site-specific entries to be displayed in the Otter Express and the University Center. Three works were selected for the E. Richard Brown Award for Excellence in Art. The winning artists – Jorge Amezcua, Lori Van Meter and Victor Veltran – received cash prizes and stipends to pay for materials. Their work will be displayed for a year.
 </p><p>The three pieces will be installed on April 18. A reception and awards presentation is scheduled for 5 p.m., April 24, in the Visual and Public Art Department, Building 72.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>The pieces will be displayed for one year. Students retain ownership of them.
 </p><p><em>Photo: Left to right: Jorge Amezcua, E. Richard Brown, Victor Beltran, Lori Van Meter</em>
 </p>
+```

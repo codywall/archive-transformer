@@ -4,6 +4,7 @@ title: "The Mud Run is back"
 date: January 01 2020
 ---
 
+```html
 <p>March 16, 2010
 </p><p> 
 </p><p>Participants in the 2009 event
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Patterned after the popular mud run at Camp Pendleton, Army and Marine drill sergeants will bark orders to motivate participants along the way. While it's too late to register for this year's event, spectators are invited to watch from the area outside the stadium and along the course. Awards will be handed out at 10:30 a.m. for the top five individual male and female runners in their age group, and the top three teams. All finishers will get a T-shirt, a medallion and a shower.
 </p><p>Interested runners can sign up for next year's Mud Run starting Nov.1. For more information, visit the web at <a href="http://www.bigsurmudrun.org/">www.bigsurmudrun.org</a> or call 625-6226.
 </p>
+```

@@ -4,6 +4,7 @@ title: "'A Path Appears' to be shown at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>TWO SCREENINGS SET FOR OCT. 23
 </p><p>In the documentary, A Path Appears, the subject is gender oppression, violence and solutions. The subtext is how everything is connected: domestic violence, poverty, sex trafficking . . . It’s not easy to watch, but it carries an important message.
 </p><p>Based on a book by journalists Nicholas Kristof and Sheryl WuDunn, <em>A Path Appears</em> tracks celebrity activists including Jennifer Garner, Ashley Judd, Eva Longoria and Alfre Woodard to Colombia, Haiti, Kenya and throughout the U.S.
@@ -22,3 +23,4 @@ For information or to request disability related accommodations, call 582&#45;45
 </p><p>• 6:30&#45;7 p.m. – Reception
 </p><p>• 7:15&#45;8:45 p.m. – Second screening
 </p>
+```

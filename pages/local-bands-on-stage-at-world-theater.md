@@ -4,6 +4,7 @@ title: "Local bands on stage at World Theater"
 date: January 01 2020
 ---
 
+```html
 <h3>March 8 concert rocks and rolls with local connections</h3><p>The World Theater at CSU Monterey Bay will offer a special treat for its audience on March 8 when it presents a concert featuring Rio Salinas. Showtime is 7:30 p.m., with the opening band Tom Faia and The Juice.
 </p><p>Rio Salinas brings a wide array of musical styles and influences to the stage: Cali, Tex Mex, country, rock ’n’ blues. Members of the group have played with great bands and have come together to form Rio Salinas. Band members include Rob Espinosa (from It’s a Beautiful Day), Dean Giles (with Swing King), Frank Paredes (from Sir Douglas Quintet), Louie Ortega (from Texas Tornadoes), Randy Pybas (from Salsa Brava) and special guests Greg Smith from the Eagles and Mic Gillette from Tower of Power.
 </p><p>In the 1960s, a new form of music was changing an entire generation. That’s when Ortega, Paredes and Pybas –who were heavily influenced by rock’n’ roll, country, blues, gospel and traditional Mexican music – began a journey that has spanned five decades.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>“It’s going to be a great night of music and fun for the audience.”
 </p><p>Tickets are $25 general admission. Discounts are available for students, military members and seniors. Tickets can be purchased <a href="http://csumb.edu/worldtheater">online</a>, by calling the box office at 582-4580, or at the theater. The World Theater is located on Sixth Avenue between A and B streets. Driving directions and a campus map are available <a href="http://csumb.edu/maps">here</a>.
 </p>
+```

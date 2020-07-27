@@ -4,6 +4,7 @@ title: "Pinnacles wins energy conservation contest"
 date: January 01 2020
 ---
 
+```html
 <p>During April, CSU Monterey Bay residents showed that small changes can make a big difference when it comes to conserving energy.
 </p><p>From April 2 to 22, students in the 11 residence halls participated in the Campus Conservation Nationals, CSUMB’s first effort to change people’s energy use in a measurable way.
 </p><p>Pinnacles Suites was the runaway winner, conserving 1,500 kilowatt hours. Overall, the residence halls saved 2,500 kilowatt hours of power – about $300 worth of electricity.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>The contest was just one way the university has been working to become a more sustainable campus since President Dianne Harrison signed the American College and University Presidents' Climate Commitment in 2007.
 </p><p>Learn more about sustainability on campus <a href="http://csumb.edu/sustainability.">here</a>. <em>Photo: Tamara Rodriguez and her sculpture that will be presented to the winning residence hall. Also pictured, Dr. Dan Fernandez, co-chair of the campus Sustainability Committee.</em>
 </p>
+```

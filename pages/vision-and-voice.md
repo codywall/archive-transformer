@@ -4,6 +4,7 @@ title: "Vision and Voice"
 date: January 01 2020
 ---
 
+```html
 <p>&#42;Photo by Daniel Lyons &#40;SBS, 2004&#41;&#42;
 </p><h3>Photographer, Global health researcher to give presentations</h3><p>CSU Monterey Bay alumnus Daniel Jack Lyons will visit campus Nov. 18 and 19 for a pair of presentations on his current work.
 </p><p>Lyons, a 2004 graduate with a degree in Social and Behavioral Sciences, earned a master’s degree in public health from Columbia University before launching a career as a photographer and global health research consultant.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p><strong>What</strong>: &#42;Vision &amp; Voice: Confronting Authorship and Agency Within Community through Photovoice and Photography&#42; presentation by Daniel Jack Lyons <strong>When:</strong> Nov. 18, 6&#45;7:30 p.m., Ocean Hall, B&#45;120            Nov. 19, Noon&#45;1:30 p.m., Ocean Hall, B&#45;120
 </p><p><strong>Cost</strong>: Free <a href="http://csumb.edu/maps">Driving directions and campus map</a> <a href="http://sbgs.csumb.edu">Learn about Social, Behavioral and Global Studies at CSUMB</a>
 </p>
+```

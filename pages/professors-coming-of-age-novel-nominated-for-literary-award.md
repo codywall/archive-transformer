@@ -4,6 +4,7 @@ title: "Professor’s coming-of-age novel nominated for literary award"
 date: January 01 2020
 ---
 
+```html
 <p>Professor Deb Busman’s novel <em>Like a Woman</em> is a finalist for a <a href="http://www.lambdaliterary.org/features/news/03/08/28th&#45;annual&#45;lambda&#45;literary&#45;award&#45;finalists&#45;announced/">Lambda Literary Award</a>. The awards, in multiple categories, celebrate achievement in lesbian, gay, bisexual and transgender writing published in 2015.
 </p><p>Busman is a fiction/creative non&#45;fiction writer, co&#45;director of CSUMB’s Creative Writing and Social Action program and an associate professor in the Division of Humanities and Communication.
 
@@ -16,3 +17,4 @@ In an interview with the Santa Cruz Sentinel last March, Busman said the project
 </p><p>The Lambda award winners will be announced in June.
 </p><p><em>Published March 8, 2016</em>
 </p>
+```

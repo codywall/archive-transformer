@@ -4,6 +4,7 @@ title: "Getting a RISE out of students"
 date: January 01 2020
 ---
 
+```html
 <p>“Throughout high school, the RISE program had a strong impact on my decision to pursue a degree in biology,” said Charn Singh, who just finished her junior year at CSU Monterey Bay.
 </p><p>“RISE expanded my interest in science and provided me invaluable support and guidance.”
 </p><p>Singh’s experience is exactly what the RISE – Recruitment in Science Education – program was created to do.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p><strong>From North Salinas High</strong>: Guadalupe Anguiano, Jasmin Carcamo, Jose Cortez, Teresa Isarraras, Bianca Jaramillo, Sarahi Manzo, Lissa Ramos, Arnulfo Soria, Miguel Torres
 </p><p><strong>From Seaside High</strong>: Adriana Hernandez
 </p>
+```

@@ -4,6 +4,7 @@ title: "Join Return of the Natives"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 14, 2009
 </p><p>Upcoming events planned by the Watershed Institute at CSU Monterey Bay:
 </p><p><strong>• Saturday, Sept. 19: California Coastal Clean-up at Upper Carr Lake in Salinas, 9 a.m.-noon.</strong>
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

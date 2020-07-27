@@ -4,6 +4,7 @@ title: "Program gives students a glimpse of college life"
 date: January 01 2020
 ---
 
+```html
 <p>July 3, 2010
 </p><p>Alexandra Ramos was designing a logo for her band, Pam. With a little direction from instructor Kevin Cahill and mentor Blake Panos, she had come up with a design she liked while working in a graphic art class.
 </p><p>It was week one of Imagine College, a summer program based at CSU Monterey Bay that gives high school students from the Monterey Peninsula Unified School District a taste of college life and provides an opportunity for some of them to earn scholarship money to help pay for it. Alexandra, a 10th grader at Seaside High, was already familiar with the campus. "My brother graduated from CSUMB two years ago. That's why I was interested" in the summer program, she said. "I really like art. You can express yourself in so many ways."
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "News Releases 2015"
 date: January 01 2020
 ---
 
+```html
 <p><strong>• CSUMB Creates! A special venue at First Night Monterey</strong>
 </p><p>Works by CSU Monterey Bay students, faculty, staff and alumni will be showcased at First Night Monterey, the family&#45;friendly celebration of New Year’s Eve . . . <a href="https://csumb.edu/news/csumb&#45;creates&#45;special&#45;venue&#45;first&#45;night&#45;monterey">continue reading</a>
 </p><p><strong>• Community invited to student recitals</strong>
@@ -130,3 +131,4 @@ date: January 01 2020
 </p><p><strong>• College students aren’t the only ones being educated at Cal State Monterey Bay</strong>
 </p><p>What do Hamlet, Flannery O’Connor and music’s Romantic Period have in common? They are among a diverse range of classes that will be offered in the spring through the Osher Lifelong Learning Institute – OLLI – at California State University, Monterey Bay. The courses and speakers are specifically geared for those 50 and better . . . <a href="https://csumb.edu/news/college&#45;seniors&#45;7">continue reading</a>
 </p>
+```

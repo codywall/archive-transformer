@@ -4,6 +4,7 @@ title: "thinkfinity"
 date: January 01 2020
 ---
 
+```html
 <h4>James Earl Jones reads to elementary students at launch</h4><p>California State University, Monterey Bay, Verizon and the Long Beach Education Foundation are collaborating on a project to enrich the learning experience in elementary school classrooms.
 </p><p>The partners are exploring ways in which the treasure trove of educational resources available through Verizon's free and innovative Thinkfinity.org Web site can aid classroom teachers.
 </p><p>Verizon selected CSUMB to lead the project, which will initially focus on elementary schools in Long Beach and is intended to become a model for integrating content from Thinkfinity.org into elementary school curricula in classrooms across California.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Thinkfinity.org features resources across eight academic disciplines, from science to English to mathematics, to improve student achievement. Thinkfinity.org is designed to help teachers gain access to online resources quickly and requires no passwords or software downloads.
 </p><p><strong>About the Instructional Design and Technology Lab</strong>The ID&amp;T Lab serves as the lead educational agency for the Verizon Foundation's Thinkfinity-California Project. The ID&amp;T Lab researches and tests new hardware and software tools to determine their potential for enhancing and transforming education. The Instructional Design and Technology Lab seeks methods to assist educators in "connecting" with students despite barriers of geography and time or diverse learning styles. The Instructional Design and Technology Lab is also a prototyping space for technologies, applications, programmatic initiatives, and for scholarly research design. Finally, the lab provides training in new technologies and assists faculty in incorporating innovative tools within their teaching.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Photographer of MLK visits campus Feb. 28"
 date: January 01 2020
 ---
 
+```html
 <h3>Bob Fitch's image of Martin Luther King was model for monument</h3><p>CSU Monterey Bay’s celebration of Black History Month continues on Feb. 28 with “My Eyes Have Seen: Dr. Martin Luther King Jr. and the Black Civil Rights Movement,” a presentation by photojournalist Bob Fitch.
 </p><p>The presentation will start at 7 p.m. in the University Center on Sixth Avenue near B Street. The public is invited to this free event.
 </p><p>Fitch – who served as Dr. King’s photographer at the Southern Christian Leadership Conference – will present famous and rarely seen images of the Civil Rights icon.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The event is sponsored by Student Activities &amp; Leadership Development at CSUMB, as part of its cultural enrichment series.
 </p><p>For more information, contact Tim Bills at 582-4645.
 </p>
+```

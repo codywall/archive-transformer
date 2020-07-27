@@ -4,6 +4,7 @@ title: "'Arts are key to the future,' Migrant Junior Otters told"
 date: January 01 2020
 ---
 
+```html
 <p>July 30, 2010
 </p><p><strong>Nationally honored program 'graduates' its second class</strong>
 </p><p>"The arts are a way to touch the heart," Luis Valdez told a group assembled in the University Center at CSU Monterey Bay on July 30. "And, above all, the arts are the key to the future."
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>After remarks by Valdez and several administrators, the youngsters showed off their work, performing fables they had transformed into musical pieces.
 </p><p>&#42;Photos by Don Porter <strong>Top</strong>: Luis Valdez <strong>Above:</strong> Audience listens attentively to Luis Valdez <strong>Left:</strong> Students perform for their families &#42;
 </p>
+```

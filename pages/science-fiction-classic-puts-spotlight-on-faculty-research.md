@@ -4,6 +4,7 @@ title: "Science fiction classic puts spotlight on faculty research"
 date: January 01 2020
 ---
 
+```html
 <p>Science fiction writer Frank Herbert captured the imagination of readers with <em>Dune</em>, his book about a planet on which it never rained and water was the scarcest resource. That was 50 years ago. It has sold almost 20 million copies worldwide, making it the best&#45;selling science fiction novel of all time.
 </p><p>CSU Fullerton, where Herbert’s papers are archived, is mounting a 50th anniversary celebration with an exhibit and lecture series. Cal State Monterey Bay Professor Dan Fernandez was invited to participate. His talk – Every Last Drop: Extracting Water from Fog – is based on research he has conducted since 2005.
 
@@ -21,3 +22,4 @@ Because of the prolonged drought in California, Dr. Fernandez gets several calls
 Dr. Fernandez and his students have set up 20 fog catchers around California, along with gauges to measure the accumulation of water. He points out that the devices won’t make a meaningful difference in the drought. Californians consume too much water – fog catchers couldn’t meet the demand. They make sense only at the margins.
 </p><p>“Let’s look at how much water we are using, and how much water we could get back from fog,” he told Nautilus. “That might give us another perspective on our own water use.”
 </p>
+```

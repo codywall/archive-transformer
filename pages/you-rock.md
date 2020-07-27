@@ -4,6 +4,7 @@ title: "YOU ROCK!"
 date: January 01 2020
 ---
 
+```html
 <p><strong>Students will spend summer on prestigious research projects</strong>
 </p><p>For some college students, summer is a time to put the books away for a few months.
 </p><p>That's not the case for a group of CSU Monterey Bay students in the Undergraduate Research Opportunities Center (UROC), who will spend their summer conducting experiments, gathering data and summarizing their scientific findings in research papers.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>The UROC office is located on the second floor of the Tanimura &amp; Antle Family Memorial Library.
 </p><p> 
 </p>
+```

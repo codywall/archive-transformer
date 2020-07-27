@@ -4,6 +4,7 @@ title: "A conversation with Chaz Bono March 9"
 date: January 01 2020
 ---
 
+```html
 <h2>LGBTQI rights activist visits CSUMB</h2><h4>‘Transition: A Conversation with Chaz Bono’ sponsored by CAHSS</h4><p>Chaz Bono, the only child of entertainers Sonny and Cher, will visit California State University, Monterey Bay on March 9. The public is invited.
 </p><p>The event will take the form of a conversation with the audience on physical and social gender transitions, and will include an opportunity for attendees to submit written questions.
 </p><p>Bono is an advocate for the rights of lesbian, gay, bisexual and transgender, queer and intersex people, an author and speaker. He came out publicly in 1995 in an interview with The Advocate, the national gay and lesbian news magazine. The decision to come out prompted his public work in support of LGBTQI rights and social justice.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>WHAT: Transition: A Conversation with Chaz Bono WHEN: 7 p.m., March 9 WHERE: Ballroom of the University Center on Sixth Avenue COST: Free, no tickets or reservations required INFORMATION: Cheryl Abbott, 582-4189
 </p><p> 
 </p>
+```

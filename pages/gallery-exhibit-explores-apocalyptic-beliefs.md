@@ -4,6 +4,7 @@ title: "Gallery exhibit explores apocalyptic beliefs"
 date: January 01 2020
 ---
 
+```html
 <p><em>Sincerely, 2012</em>, a show by students in the Visual and Public Art Department, is on display in the Balfour/Brutzman Gallery on campus.
 </p><p>The show explores apocalyptic beliefs that have proven remarkably resilient over time.
 </p><p>The year 2012 is considered a pivotal date in human history. The media suggests that our way of life may be ending, the result of global warming, financial ruin and spreading plagues.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Learn more about VPA <a href="http://vpa.csumb.edu/">here</a>. Learn more about the Balfour/Brutzman Gallery <a href="http://balbrutzgallery.tumblr.com/">here</a>.
 </p><p>Above:* Battle Flag of the Unknown Artist *by Xavier Bellante.
 </p>
+```

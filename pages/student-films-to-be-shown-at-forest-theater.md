@@ -4,6 +4,7 @@ title: "Student films to be shown at Forest Theater"
 date: January 01 2020
 ---
 
+```html
 <p>June 15, 2010
 </p><p>Work by students at California State University, Monterey Bay as well as teenagers will be presented at the Carmel Short Cinema for Young Filmmakers event at the Forest Theater on June 26 at 8 p.m.
 </p><p>Sponsored by the Forest Theater Guild and CSU Monterey Bay's Department of Teledramatic Arts and Technology, the screening is an encore presentation of work shown at last spring's Monterey Bay Film Festival as well as pieces created by university students for their senior projects, called capstones.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

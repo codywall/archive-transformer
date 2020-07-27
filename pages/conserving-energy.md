@@ -4,6 +4,7 @@ title: "Conserving Energy"
 date: January 01 2020
 ---
 
+```html
 <h4>Conserving energy has a big payoff</h4><p>The university has received a $66,000 incentive award from PG&amp;E for conserving the natural gas and electricity used to heat and light campus buildings.
 </p><p>The award is one of several the university has received from the utility over the past two years for excellence in energy planning and conservation.
 </p><p>Studying how a building's environmental systems -- heating, ventilating and lighting -- perform and modifying or adjusting each system to gain the most efficiency is how the university achieved the savings that resulted in the award. Nine campus buildings were analyzed for this latest project.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>This is the third award from PG&amp;E the university has garnered. In 2005, five buildings were monitored for efficiency and changes made to their systems, earning CSUMB a $152,000 incentive payment.
 </p><p>This year, another $42,000 is pending for replacing inefficient lighting on campus. The lighting in the university's gym has already been completed.
 </p>
+```

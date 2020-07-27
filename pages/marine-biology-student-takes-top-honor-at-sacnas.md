@@ -4,6 +4,7 @@ title: "Marine biology student takes top honor at SACNAS"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 5, 2010
 </p><p><strong>UROC PLAYS BIG ROLE IN SUCCESS OF UNDERGRADUATE RESEARCH EFFORTS</strong>
 </p><p>CSU Monterey Bay students took a first&#45;place award and a third at the Society for the Advancement of Chicanos and Native Americans in Science conference Sept. 30&#45;Oct. 3 in Anaheim.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Both students are part of the Undergraduate Research Opportunities Center. With training and support from UROC, students work on innovative research projects at CSU Monterey Bay and at regional research institutions. Their work is guided by a research mentor and includes training in proposal writing, presentation and communication skills. It also helps students apply to graduate school. <a href="http://uroc.csumb.edu">Learn more about UROC.</a>
 </p><p>SACNAS presents the poster sessions at its annual conference to help students prepare for science careers and the rigors of professional conferences.
 </p>
+```

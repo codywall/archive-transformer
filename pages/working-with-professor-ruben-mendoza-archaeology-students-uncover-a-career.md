@@ -4,6 +4,7 @@ title: "Working with Professor Ruben Mendoza, archaeology students uncover a car
 date: January 01 2020
 ---
 
+```html
 <p>Generations of California elementary school students have visited the adobe missions that dot the state from San Diego to Sonoma. The 21 missions, begun in 1769 by Father Junipero Serra, had a big impact on Dr. Ruben Mendoza.
 </p><p>“My interest in history started on a fourth-grade field trip from my home in Fresno to Mission San Juan Bautista,” Dr. Mendoza explained. “I fell in love with it, but I wanted to know more.”
 </p><p>That school trip ignited a lifelong passion.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p>Mission study is an emerging field, he said: “There’s so much that’s unknown. Many records have not yet been scrutinized. We’re in a post-colonial era. What happened in the colonial era?
 </p><p>“No answer you give in this moment will hold in the next moment. For me, that’s exciting,” he said. “When I see the fourth-graders at the mission ... I do this for them.”
 </p>
+```

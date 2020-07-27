@@ -4,6 +4,7 @@ title: "Another campus building earns LEED award"
 date: January 01 2020
 ---
 
+```html
 <p>The Dining Commons at CSU Monterey Bay is the university's second project to earn the U.S. Green Building Council's prestigious Leadership in Energy and Environmental Design (LEED) silver certification.
 </p><p>The renovation took place in 2009 and was finished on a tight schedule – 112 days between spring break and the start of the fall semester. It was the first significant improvement to the building since the campus opened in 1995.
 </p><p>The work focused on modernization through maximizing spaces, using natural and energy-efficient lighting and design elements geared to visual appeal and convenience.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>And, over 75 percent of the demolition debris was recycled and kept out of landfills.
 </p><p>The Tanimura &amp; Antle Family Memorial Library, which opened in December 2008, was the first campus building to be awarded LEED silver certification.  
 </p>
+```

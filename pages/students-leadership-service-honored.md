@@ -4,6 +4,7 @@ title: "Student's leadership, service honored"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 15, 2009
 </p><p>CSU Monterey Bay senior Rachel Osias was honored Nov. 13 as the Outstanding Philanthropic Young Adult at the 2009 Central Coast National Philanthropy Day awards luncheon.
 </p><p>The program honors individuals who "set the standard for community involvement." Osias certainly does that.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>This is the first time a young adult was honored at the Central Coast National Philanthropy Day event. Established in 1986, National Philanthropy Day is celebrated in more than 100 communities.
 </p><p> 
 </p>
+```

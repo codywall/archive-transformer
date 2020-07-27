@@ -4,6 +4,7 @@ title: "Teacher recruitment fair April 6"
 date: January 01 2020
 ---
 
+```html
 <p>April 2, 2010
 </p><p><strong><em>Districts from tri-county area will be on hand</em></strong>
 </p><p>CSU Monterey Bay will host a teacher recruitment fair from 11 a.m. to 4 p.m. April 6 at the University Center on Sixth Avenue.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

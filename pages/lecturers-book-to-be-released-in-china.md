@@ -4,6 +4,7 @@ title: "Lecturer's book to be released in China"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 16, 2010
 </p><p>The first university textbook on human sexuality is about to be published in China, and a CSU Monterey Bay lecturer is one of its co-authors. 
 </p><p>The seventh edition of "Human Sexuality: Diversity in Contemporary America" by Barbara Sayad of CSUMB (pictured at left) and Bill Yarber of Indiana University and the Kinsey Institute has recently been published. According to McGraw-Hill, the book's publisher, it has been lauded by both students and instructors for providing a non-judgmental view of sexual orientation and as such, is one of the leading sexuality textbooks in the field.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

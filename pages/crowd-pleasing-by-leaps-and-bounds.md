@@ -4,6 +4,7 @@ title: "Crowd-pleasing by leaps and bounds"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 25, 2009
 </p><p>***Ukrainian dance company comes to the World Theater ***
 </p><p>Imagine colorful costumes and leaping dancers exploding across the stage and you have a hint of what the Virsky Ukrainian National Dance Company will bring to California State University, Monterey Bay's World Theater at 7:30 p.m. on Sept. 22 as the Performing Arts Series opens its ninth season.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "On the outside looking in"
 date: January 01 2020
 ---
 
+```html
 <h3>Lysley Tenorio visits campus April 8 as part of Asian Pacific Islander Heritage Month</h3><p>Short-story writer Lysley Tenorio will read from his work April 8 at CSU Monterey Bay. The public is invited to this free event.
 </p><p>Tenorio is the author of <em>Monstress</em>, which binds together eight tales of isolated misfits in San Francisco and the Philippines. They have been described as “tender” and “quirky,” written from the point of view of charlatans, B movie starlets, superhero obsessives and transgender cocktail waitresses.
 </p><p>NPR said of the stories: “Filipino traditions meet Californian modernity again and again, each encounter revealing something unexpected about both cultures.”
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><em>Tenorio…has taken a uniquely Filipino-American perspective, polyglot and glittering with cinema dreams, and used it to make a bold collection of stories of the rejected, the helpless and the lost. Monstress is the debut of a singular talent.</em> ?– NPR
 </p><p>*. . . refreshingly off-kilter…his stories are impeccably constructed, leading us calmly but insistently through the characters’ external and internal landscapes.* ?– The New York Times Book Review
 </p>
+```

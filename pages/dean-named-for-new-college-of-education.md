@@ -4,6 +4,7 @@ title: "Dean named for new College of Education"
 date: January 01 2020
 ---
 
+```html
 <p>Jose Luis Alvarado, who has served as associate dean for the College of Education at San Diego State University since 2010, has been named dean of Cal State Monterey Bay’s newly created College of Education.
 </p><p>Dr. Alvarado will begin his new duties July 14.
 </p><p>“We are pleased that Dr. Alvarado has agreed to lead our College of Education,” said CSUMB President Eduardo Ochoa. “The position attracted a strong field of candidates. However, the breadth of his experience and his vision of the role the college could play, both within the university and in reaching out to the larger community, helped Dr. Alvarado emerge as the clear choice of the search committee.”
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Dr. Alvarado earned his bachelor’s degree in psychology and master’s in special education from San Diego State University and his Ph.D. from the University of Virginia.  
 </p><p> 
 </p>
+```

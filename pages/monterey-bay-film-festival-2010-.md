@@ -4,6 +4,7 @@ title: "Monterey Bay Film Festival 2010 "
 date: January 01 2020
 ---
 
+```html
 <p>March 19, 2010
 </p><p>&#42;<strong>'Charlie and the Rabbit' to be screened</strong>&#42;
 </p><p>CSU Monterey Bay presents the Monterey Bay Film Festival on April 3 at the World Theater on Sixth Avenue. Doors will open at 12:30 p.m. and screenings will begin at 1 p.m. Admission and parking are free.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><strong>12:30 p.m.</strong>, doors open <strong>1 p.m.</strong>, Films by Young People &#40;work by teenagers and college students&#41; <strong>2:15 p.m.</strong>, reception and discussion with filmmakers <strong>3 p.m.</strong>, short films curated by Mike Plante
 </p><p>There's <a href="http://www.montereybayfilmfestival.com/">more information about the festival</a>, including a list of the short films to be presented.
 </p>
+```

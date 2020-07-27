@@ -4,6 +4,7 @@ title: "TAT student is 'All Shook Up'"
 date: January 01 2020
 ---
 
+```html
 <p>Christopher Marcos is proving that students in the Teledramatic Arts and Technology program at CSU Monterey Bay can excel on both sides of the camera.
 </p><p>Marcos is currently starring in Pacific Repertory Theatre's production of the Broadway musical, "All Shook Up," the first offering of the theater's School of Dramatic Arts.
 </p><p>"All Shook Up" is set in 1955. Marcos plays the lead role of Chad, a hip-swiveling, guitar-playing stranger who comes to town and falls in love with a local girl who dreams of leaving her sleepy town for the more exciting life of the big city.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Marcos appeared in several other PacRep productions, including "High School Musical" and "The 25th Annual Putnam County Spelling Bee," but this is his biggest role.
 </p><p>The play will be presented on weekends through Feb. 14 at the Golden Bough Theatre, located on Monte Verde between Eighth and Ninth avenues in Carmel. For tickets or more information, call 622-0100 or go online at <a href="http://www.pacrep.org/">www.pacrep.org</a>.
 </p>
+```

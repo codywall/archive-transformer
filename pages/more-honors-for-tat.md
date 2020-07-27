@@ -4,6 +4,7 @@ title: "More honors for TAT"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 2, 2009
 </p><p>Students and faculty members in the Teledramatic Arts and Technology program continue to earn accolades for their work.
 </p><p>At last month's Carpinteria Valley Arts Center's first animation festival, student Andrew Dolan's entry, "The Green Knight," won honorable mention. A student-faculty collaboration, "Olive's Backyard Concert," created by Dolan and faculty member Enid Baxter Blader, won the Audience Appreciation Award.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

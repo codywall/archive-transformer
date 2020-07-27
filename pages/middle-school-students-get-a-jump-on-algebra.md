@@ -4,6 +4,7 @@ title: "Middle school students get a jump on algebra"
 date: January 01 2020
 ---
 
+```html
 <p>Standing in front of 50 middle school students, CSU Monterey Bay Professor Hongde Hu demonstrated the solution to a math problem as though he were decoding the collective wisdom of the universe. The class was part of the annual Algebra Academy sponsored by Graniterock, which took place over the students’ winter break. Youngsters from Aromas and Rolling Hills middle schools volunteered to attend. Four days of classes were held at the company’s corporate headquarters in Watsonville. The fifth day, a Friday, saw the students visit CSUMB, where they spent time in a math classroom playing a game called “Survivor: Math Camp” that called on the skills they learned earlier in the week. They also got a tour of campus, had lunch in the dining hall and learned what they have to do to prepare for college. The academy concluded on Jan. 5 back in Watsonville with a graduation ceremony and awards presentation to the top 10 students. Watsonville Mayor Lowell Hurst attended. For the third year, Graniterock provided the class materials, stipends for the teaching assistants and snacks for the students. CSUMB provided the instructors, four teaching assistants and the curriculum. Dr. Hu supplied the energy and enthusiasm to captivate the middle schoolers.
 </p><p>?After Friday’s session, he proudly pointed out how quickly the students absorbed the lessons, covering review material in two days, and then going on to new material. “It was a great group of students,” he said. “They got it from the first day.” That allowed him to present material he called a “stretch,” high school-level concepts he introduced to give them an idea of the fun that’s in store if they stick with the subject. 
 </p><p>“It gives them momentum for when they go back to their regular classroom,” he said.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/math">Learn more about the math program at CSUMB.</a>
 </p><p><a href="http://success.csumb.edu/hongde-hu">Read a profie of Dr. Hu.</a>  
 </p>
+```

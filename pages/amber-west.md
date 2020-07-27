@@ -4,6 +4,7 @@ title: "amber west"
 date: January 01 2020
 ---
 
+```html
 <h4>Amber West turns struggles into successes</h4><p>As Amber West counts down the days until she graduates this spring, she also counts off a series of struggles that she has turned into successes - and it's quite an impressive list.
 </p><p>"First of all, I am hearing impaired. Second of all, I am the first generation in my family to receive a B.A. degree. I am Native American and registered with the Rosebud Sioux Tribe. My family has struggled a lot to provide for us. Third, I am majoring in Collaborative Health and Human Services, concentrating in both social work and public health.
 </p><p>"Fourth, I am applying for graduate school and will definitely be the first in my family to get an M.A. Fifth, I was part of the Vagina Monologues last February. Sixth, the most important of all, my husband went to Iraq and was injured…"
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>As West's countdown to graduation gets shorter and shorter, she's looking forward to easier times ahead - being finished with her B.A., living with her husband for the first time, and welcoming a new companion into the family.
 </p><p>"I'm getting a hearing dog next summer," she said. "I'm so excited!"
 </p>
+```

@@ -4,6 +4,7 @@ title: "Grad uses theater arts to reach young men"
 date: January 01 2020
 ---
 
+```html
 <p>Gilbert Salazar was born to work with young people. He has spent years teaching, guiding and mentoring them in a variety of settings.
 </p><p>Now the former Service Learning Student Leader and 2008 graduate of CSU Monterey Bay’s integrated studies special major is headed to the University of Southern California to pursue a Master of Arts degree in applied theater arts. The program appeals to him because he believes theater can be used to address social issues.
 </p><p>Since graduating, Salazar has worked with at-risk youth at Sunrise House in Salinas in a program called Youth Alternatives to Violence; as a youth coordinator for the United Way; and at the Monterey County Rape Crisis Center, where he teaches MyStrengh classes.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>And that’s a challenge he’s eager to embrace.
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB celebrates Asian Pacific Island culture"
 date: January 01 2020
 ---
 
+```html
 <p>The beauty and diversity of the Asian Pacific Island cultures will be celebrated at Cal State Monterey April 25-29.</p><p>“We create events to educate students about the API culture and traditions we share,” said Matt Menor, president of the campus <a href="http://csumbapia.weebly.com/events.html">Asian Pacific Islander Association</a>. “We would like to showcase our culture to students so they are aware of our traditions and  beliefs, and to make sure that they are educated on who we are,” he said.
 </p><p>Here's the schedule:
 </p><p><strong>• April 25: Showcase, 6&#45;8 p.m., East Lounge of the Student Center</strong>
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>For more information or disability accommodations, contact <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#99;&#115;&#x75;&#x6d;&#x62;&#x61;&#x70;&#105;&#97;&#64;&#103;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;">csumbapia@gmail.com</a>
 </p><p><em>Published April 8, 2016</em>
 </p>
+```

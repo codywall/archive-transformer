@@ -4,6 +4,7 @@ title: "The bucks start here"
 date: January 01 2020
 ---
 
+```html
 <h3>Learn how to use ‘crowd funding’</h3><p>In April 2012, the Jumpstart Our Business Startups – JOBS – Act was signed into law. It has a “crowd funding” amendment that changes restrictions on how businesses can raise capital.
 </p><p>That topic will be explored at the April 8 Entrepreneurship Forum at CSU Monterey Bay.
 </p><p>The forum, from 4 to 6 p.m. in the World Theater, will focus on the changes in funding opportunities for new and growing ventures created by the JOBS Act. The act creates opportunities for fundraising on the Internet using platforms such as Kickstarter; it also allows equity fundraising for small companies through funding portals.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The forum is sponsored by the <a href="http://innovation.csumb.edu/">Institute for Innovation and Economic Development</a>, CSUMB’s <a href="http://business.csumb.edu/">School of Business</a>, and the <a href="http://sbdc.csumb.edu/">Small Business Development Center</a> of CSUMB.
 </p><p><strong><em>About CSU Monterey Bay’s Entrepreneurship Forums</em></strong> Each semester, the Institute for Innovation and Economic Development, in partnership with the School of Business, hosts an Entrepreneurship Forum. Past forums have addressed topics such as how startups quickly nail the product that sells; a lenders’ panel; and an entrepreneur panel.
 </p>
+```

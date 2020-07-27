@@ -4,6 +4,7 @@ title: "Youth soccer clinic set for Saturday morning"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay's men's and women's soccer teams will hold a free clinic on Saturday, Aug. 17, at the Otter Sports Complex.
 </p><p>The “fun”-damentals clinic will be held from 9 to 11 a.m. Boys and girls between the ages of 4 and 12 are invited to attend.
 </p><p>CSUMB coaches will serve as instructors. The university’s student-athletes will also be on hand to work with the youngsters.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em>Photo: Youngsters gather around CSUMB's mascot at a youth soccer clinic in 2000</em>
 </p>
+```

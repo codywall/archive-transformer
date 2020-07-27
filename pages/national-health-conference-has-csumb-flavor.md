@@ -4,6 +4,7 @@ title: "National health conference has CSUMB flavor"
 date: January 01 2020
 ---
 
+```html
 <p>The National Conference on Health Disparities took place Nov. 5&#45;8 in Long Beach, and CSU Monterey Bay was well represented.
 </p><p>President Eduardo Ochoa and Dean Britt Rios&#45;Ellis made presentations alongside several members of Congress and national health experts.
 </p><p>Throughout the conference, presenters emphasized the role of social factors, personal responsibility and prevention in initiatives that reduce disparities.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><a href="http://kinesiology.csumb.edu">Learn about kinesiology at CSUMB</a>
 </p><p><a href="http://hhspp.csumb.edu/collaborative&#45;health&#45;human&#45;services&#45;major">Learn about collaborative health and human services</a>&#42;Left to right: Jade Fackler, Gabriela Guzman, Monica Nicholas, Dean Britt Rios&#45;Ellis, Congressman Jim Clyburn, Kendra Contente&#42;
 </p>
+```

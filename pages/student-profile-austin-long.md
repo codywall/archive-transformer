@@ -4,6 +4,7 @@ title: "Student Profile: Austin Long"
 date: January 01 2020
 ---
 
+```html
 <p>Austin Long, a senior in the Visual and Public Art Department, already has the sensitivity and worldliness of a great photographer. The son of an artist and a military officer, he spent half of his high school career in Bolivia, where he soaked up the culture and dabbled in photography.
 </p><p>But what was once a hobby is now his career focus. Last year, Long received recognition for his talents as a photographer, winning the first Roy De Carva/Carrie Mae Weems Photo Prize, a $1,000 scholarship awarded by CSUMB’s VPA program to outstanding student photographers.
 </p><p>“I’m more at home in the VPA program,” he said. “The program’s strength is teaching us how to think like artists, how to conceptualize our work, not just produce it.”
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Long plans to be a commercial photographer when he graduates this spring while continuing to pursue his art.
 </p><p>“Everyone here actually has an art career, on top of teaching,” he said. “It is cool to be able to talk to people who are working artists.”  
 </p>
+```

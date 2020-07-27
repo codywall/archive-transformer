@@ -4,6 +4,7 @@ title: "A helping hand for budding entrepreneurs"
 date: January 01 2020
 ---
 
+```html
 <p>Four high school students gathered around a table at CSU Monterey Bay on April 29, brainstorming ideas for a business. They decided to design an app to help users of the local public transportation system.
 </p><p>They and 25 other students from Monterey and Seaside high schools had four hours to research and develop effective, real&#45;world business plans for a new enterprise of their own design. Seven teams took part.
 </p><p>The competition was the culmination of a program that started earlier in the year at the high schools. CSU Monterey Bay business majors and community volunteers presented Junior Achievement’s seven&#45;week classroom&#45;based program, “Be Entrepreneurial,” preparing the students for the Business Plan Challenge.
@@ -27,3 +28,4 @@ Top finishers at the Business Plan Challenge:
 </p><p>Re&#45;purpose former military facility in Seaside to develop a paintball center to provide a safe and fun recreation alternative for customers of all ages, with a particular focus on youth and teens.
 </p><p><em>Team members: Joaquin Ortega, Seaside High; Mari Carmen Diaz, Monterey High; Michael Cortez, Monterey High; Marion Ramos, Seaside High; Justin Doolittle, Seaside High</em>
 </p>
+```

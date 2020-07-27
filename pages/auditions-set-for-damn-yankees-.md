@@ -4,6 +4,7 @@ title: "Auditions set for 'Damn Yankees' "
 date: January 01 2020
 ---
 
+```html
 <p>April 26, 2010
 </p><p>Auditions for a 2011 production of the musical comedy "Damn Yankees" will be held on Tuesday, May 4, and Wednesday, May 5, at 7:30 p.m. in the Music Hall at California State University, Monterey Bay.
 </p><p>Singers should prepare two songs, one from a musical, and are asked to bring their own accompaniment. Those auditioning will also be asked to read from the script.  
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>A campus map and driving directions are available at csumb.edu/map.
 </p><p>This production will be staged next April  21, 22, and 23. Rehearsals will start in the fall. For more information, call 582-3005.
 </p>
+```

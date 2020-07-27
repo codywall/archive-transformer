@@ -4,6 +4,7 @@ title: "Film chronicles history of LGBT movement in L.A."
 date: January 01 2020
 ---
 
+```html
 <p>April 1, 2010
 </p><p>Not everything began with Stonewall.
 </p><p>On April 14, filmmaker Glenne McElhinney (pictured at right) will screen her film, "On These Shoulders We Stand" at 7 p.m. in the Tanimura &amp; Antle Family Memorial Library, Room 1188.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The presentation is sponsored by the Division of Humanities and Communication, Out &amp; About and the Department of Teledramatic Arts and Technology.
 </p><p> 
 </p>
+```

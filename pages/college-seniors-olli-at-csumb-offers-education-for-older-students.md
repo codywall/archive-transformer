@@ -4,6 +4,7 @@ title: "College Seniors: OLLI at CSUMB offers education for older students"
 date: January 01 2020
 ---
 
+```html
 <p>After a career in the Army, and a second one spent in the mining industry in Peru, Dick Guthrie of Pebble Beach was looking for ways to satisfy his curiosity about, well, almost everything.
 </p><p>He heard about the Osher Lifelong Learning Institute from someone he knew and discovered that for a $149 annual fee, he could participate in a variety of programs for a single price.
 </p><p>Guthrie signed up, and is now in his second year.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>“I always thought of myself as a writer – I loved that part of my job. I’m reporting on my life now; I reported on other people’s lives then,” she said.
 </p><p>“Writing about my life is a way to give it validation.”
 </p>
+```

@@ -4,6 +4,7 @@ title: "'Bad Indians: A Tribal Memoir' author to read Jan. 24"
 date: January 01 2020
 ---
 
+```html
 <h3>Identity and history at their most dynamic, creative and personal</h3><p>Deborah Miranda, a member of the Ohlone Costanoan Esselen Nation, will give a presentation at CSU Monterey Bay on Jan. 24. The public is invited to the free event.
 </p><p>Dr. Miranda will read from her new book, “Bad Indians: A Tribal Memoir.” The book, part tribal history, part lyric, part intimate memoir – should be required reading for anyone interested in California Indian history. She tells stories of her family as well as the experience of other California Indians through oral histories, newspaper clippings, recordings, personal reflections and poems.
 </p><p>The result is a work of literary art that is wise, angry and playful all at once.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><em>A searing indictment of the ravages of the past and a hopeful look at the courage to confront and overcome them.</em> — Kirkus Reviews
 </p><p> 
 </p>
+```

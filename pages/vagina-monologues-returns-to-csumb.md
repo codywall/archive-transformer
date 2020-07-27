@@ -4,6 +4,7 @@ title: "Vagina Monologues returns to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Of all the parts of a woman's body, none is quite as shrouded in mystery as the vagina.
 </p><p>The very word is rarely spoken aloud; it is confined to hushed tones and furtive glances, a word to be vaguely embarrassed by. This will not be the case at the World Theater Feb. 4, 5 and 6, though, where that most private part finds itself thrust into the spotlight in "The Vagina Monologues."
 </p><p>The play has received rave reviews in San Francisco, Los Angeles and New York. Written by Eve Ensler, the "Vagina Monologues" tells the stories of a variety of women, their connections with each other and with the world. CSUMB's production is student-run, student-directed and features student actors.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>For more information or disability-related accommodations, contact <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x73;&#118;&#101;&#106;&#x76;&#x6f;&#x64;&#97;&#64;&#99;&#x73;&#x75;&#x6d;&#98;&#46;e&#x64;&#x75;">svejvoda@csumb.edu</a>.
 </p><p>Event: Vagina MonologuesWhere: World Theater on Sixth AvenueWhen: Feb. 4, 5, 6, all performances at 8 p.m. Tickets: $15 general admission; $7 students with ID and seniors; available by calling the box office at 582-4580Parking: FreeInformation: <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x73;&#118;&#101;&#106;&#x76;&#x6f;&#x64;&#97;&#64;&#99;&#x73;&#x75;&#x6d;&#98;&#46;e&#x64;&#x75;">svejvoda@csumb.edu</a>Driving directions/campus map: Available at csumb.edu/map 
 </p>
+```

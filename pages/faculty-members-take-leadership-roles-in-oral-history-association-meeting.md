@@ -4,6 +4,7 @@ title: "Faculty members take leadership roles in Oral History Association meetin
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 16, 2010
 </p><p> 
 </p><p>David Reichard and Rina Benmayor of the Division of Humanities and Communication, and former CSUMB faculty member Tomás Summers Sandoval are playing key roles in the upcoming Oral History Association's annual meeting.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

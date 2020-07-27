@@ -4,6 +4,7 @@ title: "Federal grant provides student support services "
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 13, 2010
 </p><p>CSU Monterey Bay will receive $1.27 million from the federal government to help low-income and first-generation college students and students with disabilities complete their education.
 </p><p>Each year for five years, 160 incoming freshmen will benefit from the grant through academic advising, mentoring, financial assistance and special services to help them stay in school.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The five-year grant will start Sept. 1.
 </p><p> 
 </p>
+```

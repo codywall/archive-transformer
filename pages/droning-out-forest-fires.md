@@ -4,6 +4,7 @@ title: "Droning out forest fires"
 date: January 01 2020
 ---
 
+```html
 <p>June 20, 2009
 </p><h2>CSUMB researcher honored for work in fighting wildfires from the sky</h2><p>A CSU Monterey Bay adjunct faculty member and senior research scientist at NASA has received the space agency's Exceptional Public Service Medal.
 </p><p>Vince Ambrosia (pictured at left) of the university's Division of Science and Environmental Policy and NASA's Ames Research Center in Mountain View was honored for his work on the development and use of unmanned aerial vehicle (UAV) technologies to provide critical information to firefighters.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Dr. Susan Alexander is the faculty principal investigator for the cooperative agreement between NASA and CSUMB. The two organizations conduct collaborative research in ecological and watershed systems with an emphasis on local, regional and global environmental problems and issues resulting from changing climatic and land-use patterns.
 </p><p>Graduate students in CSUMB's master's program in Coastal and Watershed Science and Policy and advanced undergraduates in the Environmental Science, Technology and Policy program have the opportunity to work with researchers at NASA Ames.
 </p>
+```

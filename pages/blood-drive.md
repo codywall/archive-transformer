@@ -4,6 +4,7 @@ title: "Blood Drive"
 date: January 01 2020
 ---
 
+```html
 <p>A donor team staffed by the American Red Cross spent the afternoon in the Alumni and Visitors Center as part of its holiday blood drive.
 </p><p>They collected 30 units of blood. Some potential donors had to be turned away (or "deferred," as the Red Cross staff members said) for a variety of reasons - they've had a tattoo recently, they had a low blood count, were getting over a cold, etc.
 </p><p>"We were pleased with the turnout," said Sherrie Pfefferkorn, charge nurse with the Red Cross. "We definitely plan on doing this again."
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The blood drive was co-sponsored by Omega Delta Phi-AK and its service chair, Efren Camacho; the Campus Health Center; and the Alumni and Visitors Center.
 </p><p>The Red Cross will be back on campus four times in 2008: Feb. 20, April 23, Sept. 10 and Dec. 10.
 </p>
+```

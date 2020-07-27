@@ -4,6 +4,7 @@ title: "Ocean science researcher gets career boost"
 date: January 01 2020
 ---
 
+```html
 <p>Madison Heard applied for a spot in the CSU Monterey Bay-based ocean science summer program as a way to “test the waters of research” for a possible career.</p><p>Consider the test a success.
 
 “After only a few weeks at the Monterey Bay Aquarium Research Institute, I am positive I want to continue on this path,” she said.
@@ -20,3 +21,4 @@ By the end of the summer, the students will have completed an independent resear
 </p><p>“This experience has been nothing short of life changing, and I am excited to take what I’ve learned and apply it to my path as a marine scientist.”
 </p><p>Follow the students' research on <a href="https://storify.com/funnyfishes">social media</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "One man's fight to stop street violence"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. David Kennedy of Harvard’s John F. Kennedy School of Government will speak at CSU Monterey Bay on March 28 as the <a href="http://president.csumb.edu/presidents-speaker-series">President’s Speaker Series</a> continues.
 </p><p>Dr. Kennedy is director of the Center for Crime Prevention and Control at John Jay College of Criminal Justice and former director of the Boston Gun Project. A self-taught criminologist, he has devoted his career to reducing gang- and drug-related violence.
 </p><p>He has been profiled by 60 Minutes and the New Yorker, and has been decorated by the International Association of Chiefs of Police.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>The series, with the theme “Flourish Monterey County,” concludes on April 9 with a visit from Jeff Edmondson of Strive Together, a national organization that works to improve the cradle-to-career pipeline. The series kicked off on March 4 with a presentation by Mary Jo Waits, director of the Economic, Human Services and Workforce Division of the National Governors Association. Her topic: “Leveraging Universities in Regional Economic Development.”
 </p><p><em>Dr. Kennedy was interviewed on NPR on Nov. 1, 2011. Read a transcript of the interview <a href="http://www.npr.org/2012/11/09/164732917/interrupting-violence-with-the-message-dont-shoot">here</a>.   </em>
 </p>
+```

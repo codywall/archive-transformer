@@ -4,6 +4,7 @@ title: "CSUMB earns recognition in U.S. News"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 20, 2009
 </p><p>The service learning program at CSU Monterey Bay has been recognized by the editors of U.S. News &amp; World Report in the magazine's 2010 edition of America's Best Colleges.
 </p><p>The magazine names "academic programs to look for," which it defines as "outstanding examples of academic programs that are linked to student success." CSUMB's service learning program is listed among the top programs in the country – and is one of only nine public schools included in the ranking. It's the sixth straight year the university has been honored in this category.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p><strong>  </strong>
 </p>
+```

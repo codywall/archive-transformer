@@ -4,6 +4,7 @@ title: "Students are 'celebrities' at 2011 commencement"
 date: January 01 2020
 ---
 
+```html
 <h3>‘You are today’s celebrities,’ President Harrison tells graduates</h3><p>On a sunny, breezy morning, President Dianne Harrison shared a few pieces of advice with the 1,000 graduates of California State University, Monterey Bay, and told the stories of several of them.
 </p><p>“Rather than bringing in an outside celebrity who really doesn’t know you, YOU, our graduates are today’s celebrities,” she told the graduates and a capacity crowd of 8,000 of their friends and family members, “and that’s the story I want the community to take away from today’s commencement.”
 </p><p>She reminded students that graduation symbolizes not the conclusion of something but the commencement of all that awaits them.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>Bell will pursue a master’s degree in psychology at Sonoma State University in the fall, with the goal of going on to a Ph.D. program.
 </p><p>Two faculty members were honored during the ceremony. Frances Payne Adler was awarded emeriti faculty status, acknowledging her distinguished service to the university. Dr. Scott Waltz was acknowledged for winning this year’s Griffin Award for outstanding teaching.
 </p>
+```

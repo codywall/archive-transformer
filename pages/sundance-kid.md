@@ -4,6 +4,7 @@ title: "SUNDANCE KID"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB alum makes return trip to film festival</h3><p>A pair of short films made on an iPhone have put a graduate of the Teledramatic Arts and Technology program at CSU Monterey Bay on the stage of the most prestigious film festival in the United States.
 </p><p>Robert Machoian will have two entries screened as part of the narrative short films program at the Sundance Film Festival in Park City, Utah, Jan. 17-27.
 </p><p>The two are from a series Machoian calls Movies Made from Home.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>For more information, visit the <a href="http://www.news/csumb-grads-film-screen-sundance.org/festival/release/2013-news/csumb-grads-film-screen-sundance-film-festival-announces-short-film-program/">festival website</a>.
 </p><p><a href="http://csumb.edu/tat">Learn more about the Teledramatic Arts and Technology Department at CSUMB.</a>
 </p>
+```

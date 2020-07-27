@@ -4,6 +4,7 @@ title: "CSUMB art students get hands-on at museum"
 date: January 01 2020
 ---
 
+```html
 <p>San Francisco artist Andrew Schoultz has created a mural and a site-specific installation at the Monterey Museum of Art, with help from a trio of CSU Monterey Bay art students.
 </p><p>His work, on display at the museum’s La Mirada facility through Nov. 17, is based on local histories of Monterey.
 </p><p>For years, the university’s Visual and Public Art Department and the museum have collaborated on projects, and countless students have done internships there. Last spring, Professor Johanna Poethig recruited Teryn Thomason and Jorge Amezcua from her painting and mural class to help with Schoultz’s exhibit. The third student, Devin Johnson, took a more indirect route: he relied on old-fashioned perseverance.
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

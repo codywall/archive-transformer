@@ -4,6 +4,7 @@ title: "Science informs art"
 date: January 01 2020
 ---
 
+```html
 <p>Images from the <a href="http://seafloor.otterlabs.org">Seafloor Mapping Lab </a>at CSU Monterey Bay have been put to use by an East Coast artist. 
 </p><p>Margaret Boozer, a ceramist and sculptor with a studio in the Washington, D.C., area, tapped into the lab’s website for her work on a commission for a private residence in San Francisco.
 </p><p>“I’ve been working on a project using visual information from the lab as base material for a sculptural translation,” she wrote in an email to SFML director Rikk Kvitek.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

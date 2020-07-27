@@ -4,6 +4,7 @@ title: "Students to present research at COAST"
 date: January 01 2020
 ---
 
+```html
 <p>A poster created by five students in CSUMB’s Division of Science and Environmental Policy is one of 21 selected by the CSU’s Council on Ocean Affairs, Science and Technology (COAST) for display at its inaugural student-research showcase Jan. 25 in Long Beach.
 </p><p>The poster presentations will be made to the CSU’s Board of Trustees and campus presidents at the conclusion of the regular Board of Trustees meeting.
 </p><p>The faculty mentors and student researchers will discuss the results of their marine and coastal investigations. The studies – which represent 20 campuses and the CSU’s Moss Landing Marine Laboratory – focus on topics that include invasive species, unseen internal waves, sustainable seafood, marine-protection areas, environmental contaminants, ocean acidification, gene-tracking in the sea, and ripple patterns in submerged sand.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The purpose of the event is to provide a measure of the excellence and relevance of marine and coastal research conducted within the CSU system. For more about COAST, visit <a href="http://www.calstate.edu/coast" title="www.calstate.edu/coast">www.calstate.edu/coast</a>.  
 </p><p> 
 </p>
+```

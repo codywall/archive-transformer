@@ -4,6 +4,7 @@ title: "The future of burial: From cradle to compost?"
 date: January 01 2020
 ---
 
+```html
 <p>You might take solace in the fact that when you die, your days of polluting the planet are over. But the truth is that the method you choose to dispose of your mortal remains has more of a deleterious impact on the environment than you might think. </p><p>That’s according to Katrina Spade, founder of the Urban Death Project. The Seattle architect is leading a growing effort in support of a green alternative to caskets and cremation: human composting. She'll visit Cal State Monterey Bay on Oct. 2 to discuss the project.
 </p><p>She is working with a team of engineers and scientists on a process that would allow corpses to decompose into nutrient&#45;rich fertilize rover a period of a few months, according to a <a href="https://www.kickstarter.com/projects/546469190/the&#45;urban&#45;death&#45;project&#45;laying&#45;our&#45;loved&#45;ones&#45;to&#45;r/description">Kickstarter page</a> set up by the nonprofit.
 
@@ -20,3 +21,4 @@ The public is invited to this free event. Visitors will need to purchase a $1 pa
 
 Details:
 </p>
+```

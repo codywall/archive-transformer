@@ -4,6 +4,7 @@ title: "Got an Otter ID card? Ride the bus for free"
 date: January 01 2020
 ---
 
+```html
 <h2>Convenience, savings with free rides</h2><h4>CSUMB username serves as transit pass on all MST routes</h4><p>It’s really a free ride.
 </p><p>Starting Jan. 15, Cal State Monterey Bay students enrolled in the spring semester, as well as faculty and staff members, will be able to ride all Monterey-Salinas Transit buses for free.
 </p><p>The UPASS program makes taking the bus more convenient than ever. No more fumbling for exact change – Otter identification card holders can just flash their IDs to the bus driver and take a seat.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>Now, CSUMB username card holders can use those routes, as well as take the bus to Big Sur, Carmel, South Monterey County, and as far north as San Jose – all for free.
 </p><p>The 2011 MST Rider’s Guide contains maps and schedules for all routes and is available at the Student Center, in Suite A of Mountain Hall, and online at <a href="http://www.mst.org" title="www.mst.org">www.mst.org</a> and csumb.edu/trip.
 </p>
+```

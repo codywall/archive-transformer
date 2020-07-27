@@ -4,6 +4,7 @@ title: "Former Foreign Service officer to discuss U.S.-Cuba relations"
 date: January 01 2020
 ---
 
+```html
 <p>Former Foreign Service officer Charles Barclay will visit Cal State Monterey Bay April 14 to present a talk on U.S.&#45;Cuba relations.
 </p><p>The talk will be held from noon to 2 p.m. in the <a href="https://csumb.edu/maps">University Center</a> living room. The public is invited to this free event, but reservations are requested and can be made by e&#45;mail to bretaylor@csumb.edu.
 </p><p>Between September 2009 and July 2012, Barclay served as deputy chief of mission at the U.S. Interests Section of the Swiss Embassy in Havana, which occupies the former U.S. Embassy building that was shuttered in 1961.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>That ammunition, he told the paper, would include the end of state&#45;sanctioned targeting of Cuban civil rights advocates and investment in the expansion of the Cuban private sector.
 </p><p>The talk is sponsored by the Division of Social, Behavioral and Global Studies.
 </p>
+```

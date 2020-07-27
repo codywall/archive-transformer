@@ -4,6 +4,7 @@ title: "Mental health advocate visits campus Oct. 3"
 date: January 01 2020
 ---
 
+```html
 <p>Jamie Tworkowski didn’t expect to start an internationally known organization. He didn’t do it for money, praise or fame.
 </p><p>His motivation was simple – he started a suicide prevention group to help a friend.
 </p><p>The founder of To Write Love on Her Arms – a global movement dedicated to presenting hope and finding help for those who suffer from depression, addiction, self-injury and suicidal tendencies – will speak Oct. 3 at CSU Monterey Bay’s World Theater. Doors will open at 7 p.m., the program will start at 7:30.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Tickets are free for CSUMB students and $10 for the public at the door.
 </p><p>Associated Students, the Personal Growth and Counseling Center and the office of Student Activities and Leadership Development sponsor the program. It is presented as part of CSUMB’s celebration of Mental Health Awareness Week. More information can be found on the organization's <a href="http://www.twloha.com">website</a>.
 </p>
+```

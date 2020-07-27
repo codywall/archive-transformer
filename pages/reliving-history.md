@@ -4,6 +4,7 @@ title: "Reliving History"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 4, 2009
 </p><p>The public is invited to attend a World War II living history symposium sponsored by the Fort Ord Alumni Association (FOAA) and California State University, Monterey Bay on Nov. 7.
 </p><p>The symposium will start at 2 p.m. in the university's Alumni and Visitors Center, located on the corner of Gen. Jim Moore Boulevard and Inter-Garrison Road. Admission is free; donations will be accepted for FOAA's scholarship fund.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

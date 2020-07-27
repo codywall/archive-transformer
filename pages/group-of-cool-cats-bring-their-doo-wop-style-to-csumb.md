@@ -4,6 +4,7 @@ title: "Group of cool cats bring their doo-wop style to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>California State University, Monterey Bay’s World Theater will present a tribute to the greatest hits of the 1950s and ’60s when The Alley Cats perform on Oct. 20.
 </p><p>Showtime is 7:30 p.m.
 </p><p>By bringing their own contemporary style to tunes from that era, The Alley Cats appeal to fans of all ages, breathing new life into everyone's favorite doo-wop classics.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Tickets are $40 premium, $29 general. Discounts are available for students and seniors. Tickets can be purchased online at csumb.edu/worldtheater or by calling the box office at 582-4580.
 </p><p>Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.  
 </p>
+```

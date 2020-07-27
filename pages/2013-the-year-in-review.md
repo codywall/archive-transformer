@@ -4,6 +4,7 @@ title: "2013: The Year in Review"
 date: January 01 2020
 ---
 
+```html
 <p>The <a href="http://news.csumb.edu/news/2013/nov/18/campus&#45;celebrates&#45;investiture&#45;president&#45;eduardo&#45;ochoa">investiture of the president</a>, groundbreaking for a new academic building and good news on the budget front highlighted 2013 at CSU Monterey Bay.
 </p><p>President Eduardo Ochoa laid out a <a href="http://president.csumb.edu/sites/default/files/52/attachments/files/presidentochoasinvestiturespeech0.pdf">blueprint for the university’s future</a> during his investiture ceremony Nov. 15 in which fellow academics, staff and members of the community officially marked his position at the university.
 </p><p>The formal investiture — akin to a presidential swearing&#45;in — came six months after Dr. Ochoa took the position on a permanent basis. Dozens of academic dignitaries in colorful gowns, hoods and mortarboards formed a procession into the World Theater for the event. Its theme was “advancing the vision.”?
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>CSU Chancellor Timothy White made his official campus visit in early October, meeting with students, faculty and staff.
 </p><p>The <a href="http://extended.csumb.edu/osher&#45;lifelong&#45;learning.htm">Osher Lifelong Learning Institute</a> – known as OLLI – brought a record number of people to campus. It recently concluded its sixth year of offering stimulating educational opportunities to those 50 and older. Its 549 members enrolled in a record 78 class offerings for a total course attendance of 2,272. The program also extended its reach by partnering with the Monterey Museum of Art, the Museum of Monterey, the World Affairs Council and the National Steinbeck Center.
 </p>
+```

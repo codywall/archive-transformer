@@ -4,6 +4,7 @@ title: "CSUMB's 'STAR' interns with NASA"
 date: January 01 2020
 ---
 
+```html
 <h3>Math major prepares for teaching career</h3><p>Kim Margosian landed an unusual internship for an aspiring teacher.
 </p><p>The math major at Cal State Monterey Bay is spending the summer at NASA’s Dryden Flight Research Center at Edwards Air Force Base through the CSU’s Science Teacher and Researcher (STAR) program.
 </p><p>The STAR program selects teachers-to-be – upper division science, math and engineering majors and teaching credential students – as fellows. After an orientation, the fellows are sent for nine-week paid internships at national laboratories and other research centers to investigate technical questions along challenging lines of research while working with the labs’ engineers and scientists.
@@ -27,3 +28,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

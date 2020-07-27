@@ -4,6 +4,7 @@ title: "Poets visit campus for Voices of Justice poetry reading Oct. 28"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 10, 2010
 </p><p><strong>Francisco Alarcon among poets at CSUMB on Oct. 28</strong>
 </p><p>Francisco Alarcon, Odilia Galvan Rodriguez and Abel Salas will be featured at Voces de Justicia-Voices of Justice, a poetry reading to be held at 7 p.m. Oct. 28 in the University Center ballroom at CSU Monterey Bay. The event is free and open to the public. 
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p><em> </em>
 </p>
+```

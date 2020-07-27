@@ -4,6 +4,7 @@ title: "Baseball team lands nine in early signing "
 date: January 01 2020
 ---
 
+```html
 <p>Head baseball coach Walt White’s tenure at CSUMB is off to a good start with the early signing of nine recruits for fall 2011.
 </p><p>“This is the best early-sign class I have had in my 16 years of coaching,” White said. “This is a deep, balanced, dynamic, and athletic class that will come in and have a huge impact on our program. Every one of these players has great baseball ability, but more importantly, they bring an attitude and personality to our program that will set the tone for this baseball team from here on out.”
 </p><p>With the new recruits, White thinks his team will have the potential to emerge as a national power.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>He was the starting shortstop at Sonoma State in 1993 and 1994, then spent five seasons in the Florida Marlins minor-league system and three years at Triple A Tucson in the Arizona Diamondbacks’ organization. In 2002, he returned to Sonoma State to earn his bachelor’s degree in kinesiology. In 2005, he received a master’s degree in education from the University of Phoenix.
 </p><p>To read Coach White’s comments on each player, click <a href="http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx" title="http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx">http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx</a>  
 </p>
+```

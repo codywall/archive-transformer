@@ -4,6 +4,7 @@ title: "Alumna earns first Perry Scholarship"
 date: January 01 2020
 ---
 
+```html
 <p>Maritza Bautista’s third-grade teacher influenced her career choice.
 </p><p>“Just as she helped me, I want to return the favor to my community,” said the CalState TEACH student and Salinas resident. “I want to be as committed as she was.”
 </p><p>Bautista, a 2013 graduate of CSU Monterey Bay, has just gotten some help in her pursuit of a teaching credential, in the form of the John and Dorothy Perry Scholarship. The $2,000 scholarship honors longtime public school teacher and administrator John Perry, who spent the last part of his career with CalState TEACH. Bautista is the first recipient of the award and was chosen among 12 applicants by a committee of faculty members.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>CalState TEACH is an online credential program for people who wish to become teachers but are unable to attend traditional classes because of their busy schedules or because they live in remote areas. The program’s foundation is self-study with online materials, e-texts, videos, web-based class discussions and on-site coaching. The state is served from four regional offices, including one at CSUMB.
 </p><p><a href="http://calstateteach.net/?_csumbsearch=CalStateTeach">Learn more about CalState TEACH</a>  
 </p>
+```

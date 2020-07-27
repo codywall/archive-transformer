@@ -4,6 +4,7 @@ title: "University to host world premiere of play"
 date: January 01 2020
 ---
 
+```html
 <p>“The Fisherman Ming Cho Yee and the Princess under the Sea,” a play written by Music and Performing Arts faculty member Will Shephard, will have its first public performances at CSU Monterey Bay’s University Center in November.
 </p><p>The play, partially based on Monterey and Pacific Grove history and partially on a classic folk tale, will be presented Nov. 9 and 10 at 7:30 p.m., and at a matinee performance Nov. 10 at 2 p.m. The University Center is located on Sixth Avenue at B Street on the CSUMB campus.
 </p><p>The play begins in a Chinese village by the sea at Point Alones near Pacific Grove in the year 1894.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

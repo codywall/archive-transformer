@@ -4,6 +4,7 @@ title: "Visiting Artists Lecture Series starts Sept. 22"
 date: January 01 2020
 ---
 
+```html
 <p>“The whole Mission neighborhood is a massive public artwork, both sacred and profane.” – Carlos Santana
 </p><p>The Visual and Public Art Department will kick off this semester's Visiting Artists Lecture Series on Sept. 22 with a presentation by Annice Jacoby, editor of "Street Art San Francisco: Mission Muralismo."
 </p><p>The lecture will start at 6 p.m. in the Alumni and Visitors Center, located on the corner of Gen. Jim Moore Boulevard and Inter-Garrison Road.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>Jacoby has produced innovative public art projects incorporating visual arts, literature, theater and media. She has served as director of performing arts public events at the University of California, Santa Cruz, and director of public relations at the San Francisco Museum of Modern Art. Her work includes launching City of Poets for the San Francisco Public Library; The Roof Is on Fire, No Blood, No Foul, multimedia community performances with youth, police, and national media, in collaboration with the California College of the Arts and the City of Oakland; The Fort Point Project, in collaboration with the United Nations, a multimedia site-specific performance; and Watershed &amp; River of Words, national environmental programs with Poet Laureate Robert Hass.
 </p><p>The public is invited to this free lecture. For more information or to request disability accommodations, call 582-4337. Driving directions and a campus map are available <a href="http://csumb.edu/map">here</a>.
 </p>
+```

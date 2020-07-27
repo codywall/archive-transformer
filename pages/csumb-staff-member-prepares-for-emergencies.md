@@ -4,6 +4,7 @@ title: "CSUMB staff member prepares for emergencies"
 date: January 01 2020
 ---
 
+```html
 <p>July 8, 2010
 </p><p><strong>Ehlers attends Homeland Security training course</strong>
 </p><p>CSU Monterey Bay staff member Diane Ehlers recently completed a course for emergency responders at the Center for Domestic Preparedness in Anniston, Ala. The center is operated by the U.S. Department of Homeland Security's Federal Emergency Management Agency &#40;FEMA&#41;.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Ehlers volunteered for the all&#45;expenses&#45;paid course. She has worked at CSUMB for 15 years.
 </p><p>Learn more about <a href="https://csumb.edu/ephs">environmental protection, health and safety</a> at CSUMB.
 </p>
+```

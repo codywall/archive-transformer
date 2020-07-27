@@ -4,6 +4,7 @@ title: "Big help for small business"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 2, 2009
 </p><p>California State University, Monterey Bay invites the community to visit its Small Business Development Center, an innovative program that provides management and technical assistance to small businesses and entrepreneurs.The SBDC is located at 425 Belden St. in Gonzales. The grand opening was held on Nov. 30, celebrated with a ribbon cutting (at left) and reception.
 </p><p>This office serves the area along the Highway 101 corridor from Gilroy to King City and provides critical services to small business owners, helping to create and retain jobs in order to help strengthen the local economy. Services at CSU Monterey Bay's center compliment and expand on the programs already being provided to Monterey and Santa Cruz counties' coastal communities by the Central Coast SBDC hosted by Cabrillo College in Aptos.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>University faculty members make up about half of the 20 people available to give entrepreneurs free advice. "We've got quite a large skill set" of counselors, said Andrea Zeller-Nield, associate director of the center. Some of the counselors have knowledge of key local industries, such as wine and agriculture.
 </p><p>More information about the SBDC is available at <a href="http://ucmsbdc.ecenterdirect.com/">http://ucmsbdc.ecenterdirect.com/</a> or <a href="http://www.sba.gov/sbdc">www.sba.gov/sbdc</a>.
 </p>
+```

@@ -4,6 +4,7 @@ title: "Students inspire couple to help"
 date: January 01 2020
 ---
 
+```html
 <h3>Two UROCers get research support</h3><p>Two more CSU Monterey Bay students have benefitted from the generosity of Barbara Baldock and Phillip Butler.
 </p><p>The Monterey residents have sponsored students through CSU Monterey Bay’s <a href="http://uroc.csumb.edu">Undergraduate Research Opportunities Center</a> since 2010-11.
 </p><p>“We see it as helping give a little bit of a push to students on their way to a higher-level degree,” Dr. Butler told the university’s magazine several years ago.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

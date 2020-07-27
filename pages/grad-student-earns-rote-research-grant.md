@@ -4,6 +4,7 @@ title: "Grad student earns Rote research grant"
 date: January 01 2020
 ---
 
+```html
 <p>More will be known about raccoons, striped skunks, bobcats, foxes and other mammals that live on former Fort Ord lands as the result of a study by CSUMB graduate student Bart Kowalski.
 </p><p>Kowalski is mapping the distribution of these animals on lands managed by the federal Bureau of Land Management, the Army and the Fort Ord Reuse Authority as part of his master’s degree program in Coastal and Watershed Science and Policy at CSUMB.
 </p><p>The largest share of the former Army base was deeded to the BLM, which manages it for multiple uses including “environmentally sensitive recreation.” His study will provide land managers with information on the factors that impact the distribution of these mammals.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>He is planning to graduate in fall 2011.
 </p><p>Erin Stanfield won the first Rote Research Grant, which she used to buy equipment for her study of algae in Pinto Lake near Watsonville. Scott Toews was last year’s recipient. His grant was used to purchase equipment necessary for his research in the mechanisms that drive genetic diversity in Monterey Bay.  
 </p>
+```

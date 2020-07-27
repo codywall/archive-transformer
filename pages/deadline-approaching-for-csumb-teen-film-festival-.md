@@ -4,6 +4,7 @@ title: "Deadline approaching for CSUMB teen film festival "
 date: January 01 2020
 ---
 
+```html
 <p>Jan. 4, 2010
 </p><p>*******Entries must be submitted by Feb. 12***
 </p><p>Time is running out for young filmmakers to submit their work to the Monterey Bay Teen Film Festival sponsored by California State University, Monterey Bay.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

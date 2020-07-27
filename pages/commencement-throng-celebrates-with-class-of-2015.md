@@ -4,6 +4,7 @@ title: "Commencement throng celebrates with Class of 2015"
 date: January 01 2020
 ---
 
+```html
 <p>'BECOME ADVOCATES FOR PUBLIC EDUCATION,' GRADUATES TOLD</p><p>More than 8,600 well&#45;wishers crowded the stands of Freeman Stadium May 16 for the <a href="https://www.tagboard.com/MBgrad15">commencement ceremony</a> at California State University, Monterey Bay.
 </p><p>On a cool, overcast day, Hugo Morales urged the graduates to remember that they can make a difference.
 </p><p>Mr. Morales, founder of Radio Bilingue and a member of the CSU Board of Trustees, was the keynote speaker at the university’s 19th annual commencement. More than 1,500 students were awarded bachelor’s and master’s degrees and teaching credentials before the capacity crowd.
@@ -22,3 +23,4 @@ He recounted how, in 1980, he organized farmworkers, teachers, students and arti
 </p><p>Dr. Linda Bynoe of the Liberal Studies Department; Dr. Rita Benmayor, Division of Humanities and Communication; Dr. William Head, Division of Science and Environmental Policy; and Dr. Rosalie Strong, School of Computing and Design, were awarded emeritus status acknowledging their service to the university.
 </p><p><em>Decorated mortarboards were popular with members of the graduating class.</em>
 </p>
+```

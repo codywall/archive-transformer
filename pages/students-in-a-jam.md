@@ -4,6 +4,7 @@ title: "STUDENTS IN A JAM"
 date: January 01 2020
 ---
 
+```html
 <h3>Upward Bound, Talent Search participants learn teamwork at Summer Jam</h3><p>Kevin Martinez will have to make some tough decisions about his education when he graduates from Soledad High School in 2016.
 </p><p>The 14-year-old, who is thinking about becoming a doctor, is leaning toward attending Stanford or a University of California campus.
 </p><p>Quentin Davis, a senior at Seaside High who is considering a career in business law or psychiatry before heading into politics, will also have to decide which road to take when he graduates next June.
@@ -20,3 +21,4 @@ date: January 01 2020
 </p><p>CSUMB’s Education Talent Search program serves students at Alisal, Gonzales, Greenfield, King City, Seaside, Soledad and Watsonville high schools.
 </p><p><em>Learn more about <a href="http://eosp.csumb.edu/upward-bound">Upward Bound</a> and <a href="http://eosp.csumb.edu/educational-talent-search">Educational Talent S</a> <a href="http://eosp.csumb.edu/educational-talent-search">earch</a> at Cal State Monterey Bay.</em>  
 </p>
+```

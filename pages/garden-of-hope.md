@@ -4,6 +4,7 @@ title: "GARDEN OF HOPE"
 date: January 01 2020
 ---
 
+```html
 <h3></h3><h3>CSUMB invites visitors to Shoreline Food Garden</h3><p>A garden that has sprung up on an empty lot on the former Fort Ord is producing nutritious food and offering opportunities for job training.
 </p><p>The community is invited to visit the Shoreline Food Garden on Sept. 29. The garden is located at 249 Tenth Street in Marina, off Imjin Parkway.
 </p><p>From 10 a.m. to 2 p.m. that day, tours of the 1.5-acre garden will be offered, along with information on organic gardening and landscaping with native plants.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://service.csumb.edu/marina-community-gardens">Learn more about the Community Food Project.</a>
 </p><p><a href="http://service.csumb.edu">Learn more about the Service Learning Institute at CSUMB.</a>  
 </p>
+```

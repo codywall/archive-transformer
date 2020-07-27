@@ -4,6 +4,7 @@ title: "CSUMB named 'military friendly school'"
 date: January 01 2020
 ---
 
+```html
 <h3>Campus support team eases transition</h3><p>CSU Monterey Bay admissions counselor Louis Martin enjoys working with veterans.
 </p><p>“They’re the best students to work with because they realize the value of an education – more so than the average 17-year-old,” Martin said.
 </p><p>“They’re intelligent and have interesting backgrounds.”
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p><a href="http://ar.csumb.edu/veterans-services">Learn more about veterans programs at CSUMB</a>.
 </p><p> 
 </p>
+```

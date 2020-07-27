@@ -4,6 +4,7 @@ title: "KOREA IN FOCUS"
 date: January 01 2020
 ---
 
+```html
 <p>Two upcoming events at Cal State Monterey Bay will focus on the Republic of Korea.
 </p><p>Korea’s consul general in San Francisco, Han Dong&#45;Man, will visit campus on Oct. 15 to reflect on his most recent book, <em>The Next 10 Years of Korea.</em> He’ll discuss South Korea’s economic development and his country’s relationship with North Korea and the United States. He’ll also touch on the popularity of Korean culture in the U.S.
 
@@ -22,3 +23,4 @@ The free event will be held from 2 to 4 p.m. in the <a href="https://csumb.edu/s
 </p><p>Visitors are reminded that parking permits must bepurchased from machines on the University Center lot. Cost is $1 per hour.
 </p><p>For information on both events, or to request disability accommodations, call Brendan Taylor at 831&#45;582&#45;3890.
 </p>
+```

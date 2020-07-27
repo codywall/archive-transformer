@@ -4,6 +4,7 @@ title: "Students earn pre-doctoral fellowships"
 date: January 01 2020
 ---
 
+```html
 <p>Four CSU Monterey Bay students – whose research interests include gene splicing, agricultural pathogens, population dynamics in Monterey Bay and computer network security – have been recognized by the California Pre-Doctoral Fellowship Program.</p><p>Three of the award winners –Julio Martinez, Elisabeth Carrillo and Avery Thurston – were named 2015&#45;16 <a href="http://www.calstate.edu/predoc/scholars/">Sally Casanova Pre&#45;Doctoral Scholars</a>. Each will receive $3,000, with the opportunity to apply for additional research funding during the summer after they graduate in 2016.
 </p><p>Megan Golbek earned honorable mention honors, and will receive $2,000.
 </p><p>The program is designed to increase diversity within the pool of university faculty by supporting the doctoral aspirations of CSU students.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p>Martinez and Thurston were awarded approximately $5,500 each for their summer work – to cover the cost of housing, meals and a research stipend.
 </p><p><em>Updated May 12, 2016</em>
 </p>
+```

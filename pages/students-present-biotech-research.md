@@ -4,6 +4,7 @@ title: "Students present biotech research"
 date: January 01 2020
 ---
 
+```html
 <h3>Student-industry networking on the agenda at annual conference</h3><p>Students and faculty from CSU Monterey Bay will join colleagues from other California State University campuses to present research on genes, proteins, cancers, crops, water quality and other topics at the 23rd annual CSU Biotechnology Symposium Jan. 7 and 8 at the Hyatt Regency Orange County. Six CSUMB students – four undergraduates and two master’s degree students – will present their work. Dr. Aparna Sreenivasan, who teaches cell and molecular biology, is one of the organizers of the event and helped to select one of this year’s award winners. CSUMB’s Erin Stanfield is a finalist for the annual Eden Graduate Student Research Award, worth $1,750 to cover educational and travel-related expenses. Stanfield’s research uses molecular methods to tackle a problem in the Monterey Bay area – the presence of potential toxin-producing cyanobacteria in local lakes. She worked for more than a year at Pinto Lake in Watsonville; her work will help inform water management agencies around the area and garner new information about how these complex organisms sense their environment and produce toxins. Undergraduates Jen Cleveland, Kevin Johnson, Mark Callaghan and Pierre Boivin and grad student Maren Mitch are also presenting their work at the two-day conference. With roughly 500 CSU students and faculty joining nearly 100 industry professionals, community college representatives and elected officials, the symposium is the major annual event dedicated to developing biotechnology researchers in California.
 </p><p>The symposium will also feature expert panels of scientists, engineers and journalists addressing healthcare solutions for the developing world, public understanding of human DNA analysis, and the commercialization of life-science innovations. CSU scholars will also discuss innovative research on using databases to discover new drugs, biogeochemistry and cellular physiology, and insulin production in pancreatic cells.
 </p><p>Networking sessions for students and workshops for faculty are also on the agenda.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Helpful links:
 </p><p>• Symposium: <a href="http://www.calstate.edu/csuperb/symposium/2011/" title="http://www.calstate.edu/csuperb/symposium/2011/">http://www.calstate.edu/csuperb/symposium/2011/</a> • CSUPERB: <a href="http://www.calstate.edu/csuperb" title="http://www.calstate.edu/csuperb">http://www.calstate.edu/csuperb</a>
 </p>
+```

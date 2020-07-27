@@ -4,6 +4,7 @@ title: "Making college 'super'"
 date: January 01 2020
 ---
 
+```html
 <p>COLLEGE IS FOR YOU, ADMINISTRATORS TELL CHURCH MEMBERS
 </p><p>Parishioners at two local churches will get more than a sermon at the Feb. 28 services. They’ll get a pitch for the value of a college education – straight from the pulpit.
 </p><p>Cal State Monterey Bay administrators will visit churches in Seaside that day as part of a California State University program called Super Sunday.
@@ -19,3 +20,4 @@ Now in its 11th year, Super Sunday is part of an educational outreach led by the
 For more information, contact CSUMB’s Office of Admissions at 582&#45;3738.
 </p><p><em>Published Feb. 25, 2016</em>
 </p>
+```

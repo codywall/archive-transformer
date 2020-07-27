@@ -4,6 +4,7 @@ title: "Student films shown at Carmel festival June 19"
 date: January 01 2020
 ---
 
+```html
 <h3>Outdoor Forest Theater hosts third annual event </h3><p>Work by students at California State University, Monterey Bay will be presented at the third annual Carmel Short Film Festival scheduled for dusk on June 19 at the Outdoor Forest Theater.
 </p><p>Sponsored by the Forest Theater Guild, CSU Monterey Bay's Department of Teledramatic Arts and Technology and the Monterey Bay Film Society, the screening is an encore presentation of work shown at the university’s Capstone Festival in May. "Capstones" are senior projects, a graduation requirement for all CSUMB students.
 </p><p>Among the "shorts" – all are under six minutes – to be screened are music videos, documentaries, animation and narratives. All films are family-friendly (PG-13 content). Tickets are $12 and can be purchased at the door. The program is expected to start around 8 p.m. Spectators are advised to wear warm clothing and may want to bring a blanket. Concessions will be available.The Forest Theater is located at the corner of Mountain View and Santa Rita streets near downtown Carmel. For information, visit the web at <a href="http://www.foresttheaterguild.org" title="www.foresttheaterguild.org">www.foresttheaterguild.org</a>. On the program are:
@@ -26,3 +27,4 @@ date: January 01 2020
 </p><p><em>EPIC!</em> by Tyler Lee A pair of adventurers in a fantasy role-playing game find themselves faced with a seemingly unbeatable foe: A Dungeon Master that takes himself too seriously. What will happen when rules are overlooked and egos get in the way? Find out in an adventure where imagination and reality collide!
 </p><p><em>ON BOARD</em> by Dustin Brockman A personal narrative-style documentary that brings viewers literally “on board” into the world of surfing, told by those who truly embrace it.   
 </p>
+```

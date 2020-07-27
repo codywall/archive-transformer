@@ -4,6 +4,7 @@ title: "Peering down on California's water problems"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB scientists recognized for work with NASA to improve water management in California</h3><p>A project to provide useful information to California growers and water managers has won an award from the Federal Laboratory Consortium for Technology Transfer (FLC).
 </p><p>The consortium helps federal labs link their technologies and expertise with the marketplace.
 </p><p>As part of the award-winning project, senior research scientists at CSU Monterey Bay – Forrest Melton, Lars Pierce, Lee Johnson and Chris Lund – teamed with engineers and scientists from NASA, the California Department of Water Resources (DWR), growers and other partners to develop a system for mapping daily irrigation demand throughout the state.
@@ -25,3 +26,4 @@ date: January 01 2020
 </p><p>To learn more about the CSUMB/NASA Ames Cooperative Agreement, click <a href="http://home.csumb.edu/a/alexandersusan/world/coop.htm">here</a>.
 </p><p><em>Photo courtesy of USDA Natural Resources Conservation Service</em>  
 </p>
+```

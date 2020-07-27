@@ -4,6 +4,7 @@ title: "Comedy icon Second City visits March 3"
 date: January 01 2020
 ---
 
+```html
 <p>In December 1959, a revolution in comedy began in front of a small crowd in a former laundry building in Chicago.
 </p><p>An improvisational group called Second City gave its first performance, satirizing the Eisenhower era.
 </p><p>Since then millions of people have attended Second City shows or watched the group’s many alumni on television or in movies. It has been called the “Harvard of humor,” and among its former members are Alan Arkin, Joan Rivers, Bill Murray, John Belushi, Mike Myers, Tina Fey and Stephen Colbert.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Perhaps a future SNL cast member or TV star will be on stage when Second City performs at the World Theater.
 </p><p>Tickets range from $10 to $40 and can be purchased <a href="http://csumb.edu/worldtheater">online</a> or by calling the box office at 582-4580. Driving directions and a campus map are available<a href="http://csumb.edu/map"> here</a>.
 </p>
+```

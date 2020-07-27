@@ -4,6 +4,7 @@ title: "Haunting direction"
 date: January 01 2020
 ---
 
+```html
 <p>Things that go bump in the night don’t seem to faze Joey Blackburn.
 </p><p>So, it's not surprising that the first film festival to accept his capstone, “A Fly in the Room,” is Elvira’s Horror Hunt. The indie genre festival is named for Elvira, Mistress of the Dark, the Los Angeles TV horror hostess played by actress Cassandra Peterson.
 </p><p>Blackburn (’12, TAT) describes his black-and-white film this way: “A writer is driven mad when he can’t get the buzzing sound of a fly out of his mind.”
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>“I wanted to show how dignified the knight was in sacrificing himself,” he said. “. . . I have friends who are serving in the Army and when I was making the film, I felt as though I was making it for them.”
 </p><p><a href="http://tat.csumb.edu">Learn more about the Teledramatic Arts and Technology Department.  </a>
 </p>
+```

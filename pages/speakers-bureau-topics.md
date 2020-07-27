@@ -4,6 +4,7 @@ title: "Speakers Bureau topics"
 date: January 01 2020
 ---
 
+```html
 <p>Topics currently available:
 </p><h3>About CSUMB</h3><p><strong>Innovation in Higher Education</strong>
 </p><p>Higher education is facing challenges in an era of increased demand, changing demographics and declining state support. American colleges and universities will need to adopt new educational approaches and technologies to serve more students while maintaining quality. CSUMB is addressing this through a variety of ways: a new three-year computer science degree developed in partnership with Hartnell College; creation of an Institute for Innovation and Economic Development; and exploring the potential to use technology for online programs.
@@ -115,3 +116,4 @@ and counselor-at-law in graduate and undergraduate education and consultant.
 Other research interests include the global impact, legal, ethical and social
 implications of Exponential Technologies and Evolving Notions of Legal
 Personhood and Human Rights.</p>
+```

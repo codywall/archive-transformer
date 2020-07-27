@@ -4,6 +4,7 @@ title: "Learn what to do in an emergency"
 date: January 01 2020
 ---
 
+```html
 <h4>Preparedness Fair set for Sept. 11</h4><p>Should a disaster strike, university officials want campus community members to be prepared, educated on what to do and have the resources and training to be emergency-ready.
 </p><p>A good place to start is the Otter Preparedness Fair, which will be held from 11 a.m. to 2 p.m., Sept. 11 on the campus quad. The third annual event is sponsored by the Emergency Management, Health and Safety Division of the University Police Department.
 </p><p>Attendees will learn how to prepare themselves, their families, pets, homes and communities for an emergency. They can sign up for first aid, CPR and automatic external defibrillator (AED) training as well as Community Emergency Response Team (CERT) training.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><a href="http://police.csumb.edu/emergency-management">Learn about the Division of Emergency Management, Health and Safety at CSUMB</a>
 </p><p> 
 </p>
+```

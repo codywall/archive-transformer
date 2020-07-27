@@ -4,6 +4,7 @@ title: "CSUMB receives McNair Scholars grant"
 date: January 01 2020
 ---
 
+```html
 <p>The U.S. Department of Education has awarded CSUMB nearly $1 million in grant money to help students from underrepresented backgrounds prepare for doctoral studies, President Dianne F. Harrison has announced.
 </p><p>Funded through the Ronald E. McNair Postbaccalaureate Achievement Program, the grant will support 25 students each year for four years as they pursue research and other scholarly activities.
 </p><p>The goal of the program, named for the African-American astronaut and scientist who died in the Challenger disaster in 1984, is to increase the number of underrepresented, low income and first-generation college students who earn doctoral degrees.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The first group of McNair Scholars will be recruited this academic year. They must have a minimum grade-point average of 3.0, and sophomore, junior or senior standing. Participants will be selected based on academic potential and interest in pursing a doctoral degree.
 </p><p>"McNair Scholars come to understand the world of academia and to imagine themselves as active participants in it. They embrace themselves as intellectuals, cherish their intellectual curiosity, and establish a sense of scholarly discipline necessary to carry them through to the Ph.D," said Dr. Curry.
 </p>
+```

@@ -4,6 +4,7 @@ title: "President Harrison meets with Governor Brown"
 date: January 01 2020
 ---
 
+```html
 <h3>Sacramento visit to advocate against more budget cuts</h3><p>CSU Monterey Bay President Dianne Harrison joined Chancellor Charles Reed and her fellow CSU presidents today in a meeting with Gov. Jerry Brown in Sacramento to discuss the state budget and its impact on higher education.
 </p><p>Like her counterparts, Harrison was accompanied at the meeting by a local business leader, Mary Ann Leffel, president of the Monterey County Business Council.
 </p><p>Harrison said she was encouraged by Brown's continued commitment to avoiding an "all-cuts" budget for fiscal year 2011-2012, which could mean a $1 billion reduction in funding for the CSU.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Leffel, who emphasized the role of higher education in preparing a workforce to meet local needs, said a decline in state support means that more qualified students will be shut out of the state's public universities.
 </p><p>"Educating fewer students will slow our economic recovery and ultimately lead to a smaller tax base,” she said.  
 </p>
+```

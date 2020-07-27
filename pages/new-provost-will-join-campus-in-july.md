@@ -4,6 +4,7 @@ title: "New provost will join campus in July"
 date: January 01 2020
 ---
 
+```html
 <p>Bonnie Irwin, dean of the College of Arts and Humanities and professor of English at Eastern Illinois University, has been named provost and vice president for academic affairs at CSU Monterey Bay. Her appointment follows a national search.
 </p><p>“Both the search committee and the campus community were impressed by Dr. Irwin’s experience, vision and leadership qualities,” said CSUMB President Eduardo Ochoa.
 </p><p>“We were pleased by the strong field of candidates that responded to the job announcement, but, even in that group, Dr. Irwin’s credentials set her apart. All of us here at Cal State Monterey Bay look forward to working with her as we continue to advance the academic excellence of our campus.”
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>“I am thrilled to be joining the CSUMB community,” Dr. Irwin said. “During my recent visit, I was impressed by the dedication, idealism, and talents of the faculty and staff, who are clearly invested in the success of the students and the wellbeing of the entire region.
 </p><p>“I look forward to being part of the CSUMB team for the journey ahead as we grow and flourish as a great institution of higher learning.”
 </p>
+```

@@ -4,6 +4,7 @@ title: "Imagine College opens doors for youth"
 date: January 01 2020
 ---
 
+```html
 <h3>Program brings Seaside HS students to campus</h3><p>For many students, writing is a daunting task. Putting pen to paper (or fingers to keyboard) is a homework chore, not a summertime activity.
 </p><p>But for 72 high school students at CSU Monterey Bay this summer, writing is a passion.
 </p><p>Students from Seaside High were on campus as part of the fifth annual Imagine College Summer Scholar Institute, which brings approximately 240 high school students to CSUMB for a trio of one-week sessions. Nearly 70 percent of them come from families where no one has attended college.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>She learned that “creativity is the act of defiance, and I am always the kid who won’t speak up in class because I think people have better things to say than me.” In her creative writing class, she said, she has learned she can write it down on paper, and not worry about what she says.
 </p><p><a href="http://shs-mpusd-ca.schoolloop.com/imaginecollege">Learn more about Imagine College</a>
 </p>
+```

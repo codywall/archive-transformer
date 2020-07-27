@@ -4,6 +4,7 @@ title: "First class of nursing students gets 'pinned'"
 date: January 01 2020
 ---
 
+```html
 <p>For one group of history-making Cal State Monterey Bay graduates, it’s not about the caps and gowns. It’s all about the pin.
 </p><p>CSUMB’s first class of 10 nursing graduates participated in a pinning ceremony on Dec. 20. Commencement will follow in May.
 </p><p>“The ceremony is a tradition in nursing, where graduates receive a pin unique to that program,” said Dr. Marianne Hultgren, director of nursing at CSUMB. “It dates back to the days of Florence Nightingale, when a pin was a way to identify a nurse.”
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><em>Photos Top: The 10 members of the inaugural class of nurses at CSUMB</em>
 </p><p><em>Right: Jennifer Riccobono</em>
 </p>
+```

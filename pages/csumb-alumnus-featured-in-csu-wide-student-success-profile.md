@@ -4,6 +4,7 @@ title: "CSUMB Alumnus Featured in CSU-Wide Student Success Profile"
 date: January 01 2020
 ---
 
+```html
 <p>SEASIDE, Calif., Feb. 27, 2017 – CSUMB alumnus and owner of J&P Organics Juan Perez was featured by the CSU for his successful ventures after graduating from CSUMB. Perez credits inspirational faculty, summer internships and a strong family support system for his success. </p><p>The CSU feature can be viewed below or at the <a href="https://www2.calstate.edu/impact&#45;of&#45;the&#45;csu/student&#45;success/Profiles/Pages/Juan&#45;Perez&#45;.aspx">CSU Student Success</a> profile page.
 </p><h3>CSU Feature</h3><p>Juan Perez's days start early. He first stops in his office to check emails for the day's orders. Then he heads to the place he really wants to be: outside on his farm
 </p><p>"By the time I'm here, the sun is coming up, and we start to harvest produce and get the boxes ready for delivery," he says. "After deliveries, we come back and start harvesting for the next day, and we work until about 9 or 10 at night."
@@ -38,3 +39,4 @@ date: January 01 2020
 </p><p>Perez's customers also come to the farm for U&#45;pick days. "Our members know our family. They know the farmer that grows their food, and our fruits and vegetables taste good," he says. "They want to feed their kids good food with no chemicals or pesticides.
 </p><p>"And it's grown right here in their own backyard, the Salinas Valley. I know that we are doing something good for ourselves, our health, the community and the environment."
 </p>
+```

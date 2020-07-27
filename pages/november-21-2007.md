@@ -4,6 +4,7 @@ title: "November 21, 2007"
 date: January 01 2020
 ---
 
+```html
 <p><strong>CSUMB hosts chemistry competition</strong>? A team from Alisal High School placed first in the recent Monterey Bay Titration Competition sponsored by the Division of Science and Environmental Policy and the American Chemical Society &#40;ACS&#41; and hosted by CSUMB's Science Club. The competition was held to celebrate National Chemistry Week.
 </p><p>More than 50 students from Alisal, Gonzales, Monterey and Seaside high schools as well as CSUMB competed in the event, in which titration skills were used to determine the concentration of acetic acid in vinegar. CSUMB finished second.
 </p><p>All participants were treated to lunch and were entered into a raffle for an iPod, a beach towel of the periodic table and other items donated by the ACS.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p><strong>Shantytown builds awareness &#45; CSUMB students shed light on homelessness</strong>A group of students at California State University, Monterey Bay will camp out at the school this week to bring attention to homelessness. A "shantytown" was set up Wednesday in the university's Main Quad to illustrate living conditions and statistics relevant to homelessness, poverty and inadequate housing in Monterey County. The display is part of CSUMB's week of activities to commemorate National Hunger and Homelessness Awareness Week, which began Tuesday and runs through Monday.&#45; &#42;Salinas Californian&#42;, Nov. 15, 2007
 </p><p>For campus news, activities and events, please visit our <a href="http://www.csumb.edu/news%20">news website</a>.
 </p>
+```

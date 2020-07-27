@@ -4,6 +4,7 @@ title: "CSUMB lands $12.6 million grant"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 12, 2009
 </p><p>CSU Monterey Bay is one of three universities that will share a $12.6 million grant from the federal government for improvement and innovation in their teacher education programs.
 </p><p>The Teacher Quality Partnership grant from the U.S. Department of Education is aimed at improving teachers' skills and training so that students in rural areas can get a better education. Emphasis will be placed on math, science and special education, but all teacher preparation programs will be affected.
@@ -33,3 +34,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

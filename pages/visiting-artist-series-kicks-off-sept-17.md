@@ -4,6 +4,7 @@ title: "Visiting artist series kicks off Sept. 17"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay’s visiting artist series kicks off Sept. 17 when Los Angeles artists Karla Diaz and Mario Ybarra Jr. visit campus.
 </p><p>Their presentation will get under way at 6 p.m. in Visual and Public Art Building 72 on Inter-Garrison Road at Fifth Avenue. The presentation is free and open to the public.
 </p><p>In 2002, Ybarra and Diaz founded Slanguage Studio in Wilmington, the port district of Los Angeles, Slanguage began modestly as an expanded studio providing work space for the artists as well as an open space for the community to draw, sculpt, dance or just tell stories and hang out. Before it closed earlier this year, Slanguage Studio had evolved into a gallery, a site for workshops and events, as well as a residency that brought in other artists.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>For more information, or to request disability accommodations, call 582-4337.
 </p><p> 
 </p>
+```

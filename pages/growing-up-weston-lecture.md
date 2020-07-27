@@ -4,6 +4,7 @@ title: "'Growing Up Weston' lecture"
 date: January 01 2020
 ---
 
+```html
 <h3>Kim Weston kicks off Visiting Artist series</h3><p>Kim Weston, artist and grandson of photographer Edward Weston, will kick off the spring visiting artists lecture series at CSU Monterey Bay on February 17, 2011.
 </p><p>The event will be held in the University Center living room starting with a reception at 6 p.m. The talk will follow at 6:30. The public is invited to attend this free event.
 </p><p>“Growing Up Weston” is the title of his illustrated lecture. Kim’s talk will reveal insights into three generations of one of the most important and creative families in photography.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p>Driving directions and a campus map are available at csumb.edu/map.
 </p><p>Other artists scheduled to visit this semester are printmakers Imin Yeh on March 3 and Nancy Hom on April 7, 2011.
 </p>
+```

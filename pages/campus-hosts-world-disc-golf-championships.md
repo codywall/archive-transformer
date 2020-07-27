@@ -4,6 +4,7 @@ title: "Campus hosts World Disc Golf Championships"
 date: January 01 2020
 ---
 
+```html
 <p>When the <a href="//www.2011proworlds.com/">2011 Pro Disc Golf World Championships</a> tee off on Aug. 9, it will mark the tournament’s return to California after a 30-year absence. This time, the <a href="//www.2011proworlds.com/courses/csumb/">Oaks Course</a> at CSU Monterey Bay is one of four Monterey Bay courses that will host tournament rounds.
 </p><p>Spectators are invited. Play at CSUMB will be held Tuesday through Friday with 10 a.m. shotgun starts daily (except Thursday, when play will start at 9:30 a.m.). For tee times, click <a href="http://www.2011proworlds.com/results/">here</a>. 
 </p><p>Since championship-level play requires 27-hole courses, nine holes of the Cypress Course will be used in addition to the Oaks Course.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p>The syllabus describes the class this way: “Low-impact and easy to learn, provides students with the fundamental skills, beginning through advanced, to enjoy disc golf. Students, athletic or not, all genders and all ages, can learn to play, and develop a life sport.” That description entices about 50 students to enroll each semester.
 </p><p>The event is free to the public, but a $2 parking pass must be purchased from dispensers located on the parking lots. For driving directions and a campus map, click <a href="http://csumb.edu/map">here</a>.  
 </p>
+```

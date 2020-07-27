@@ -4,6 +4,7 @@ title: "CSUMB staff member named Broadband Champion"
 date: January 01 2020
 ---
 
+```html
 <h3>Arlene Krebs acts to close the digital divide</h3><p>Arlene Krebs, technology development officer at CSU Monterey Bay, has been named a 2014 Broadband Champion by the California Emerging Technology Fund.
 </p><p>Krebs, founding director of the <a href="http://wetec.csumb.edu/about-wetec">Wireless Education and Technology Center</a> (WeTEC) at CSUMB, is one of 15 people recognized for their groundbreaking work and strong commitment to close the digital divide.
 </p><p>The award winners were selected in consultation with dozens of broadband leaders, community advocates and state and local policymakers. The 15 individuals will be recognized at events in San Francisco and Pasadena.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>She also has worked to build career paths for local residents. As vice-chair of Loaves, Fishes &amp; Computers, she developed a program to train people how to refurbish computers. That has led some participants to start a small micro-enterprise refurbishing business. Her commitment to use of broadband has had far-reaching influence on the Central Coast. On March 27, Krebs attended the awards ceremony in San Francisco. She returned via Salinas, where she gave a presentation to 35 adults in a digital literacy class at Cesar Chavez Library, explaining how to subscribe to low-cost Internet service and how to get a free or low-cost refurbished computer.
 </p><p>"It struck me that these are the parents of our next generation of CSUMB students, that by helping them connect to their children's schools, and by having a computer at home for their children to use for schoolwork is among the best preparations we can offer our underserved community," she said.
 </p>
+```

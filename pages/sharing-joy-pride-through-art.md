@@ -4,6 +4,7 @@ title: "Sharing joy, pride through art"
 date: January 01 2020
 ---
 
+```html
 <h3>Simon Silva lectures at CSUMB April 11</h3><p>Artist and author Simon Silva has channeled the difficult and painful experiences of his childhood in a family of migrant farm workers into bold and proud expressions of Chicano culture.
 </p><p>The community is welcome to attend his presentation on “Nurturing Creativity,” set for 7 p.m., April 11, in the University Center on Sixth Avenue on the CSU Monterey Bay campus. The event is free; no tickets or reservations are required.
 </p><p>Silva is famous for his vibrant paintings that depict stylized portraits of farm workers bending to harvest crops, suns radiating heat and picturesque fields and valleys. He has used his painting to empower himself, honor Chicano culture and honor the dignity of farm workers.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>The event is sponsored by the Associated Students Cultural Enrichment Committee, Student Activities &amp; Leadership Development, and the Office of the Dean of Students. Books and prints will be available for sale at the event.
 </p><p>For driving directions and a campus map, click <a href="http://csumb.edu/map">here</a>.
 </p>
+```

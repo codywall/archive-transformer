@@ -4,6 +4,7 @@ title: "Panel examines policymaking process"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 3, 2009
 </p><p>The Master's of Public Policy program at CSU Monterey Bay is sponsoring a panel discussion involving local policymakers from 6:30 to 8 p.m. on Monday, Dec. 7 in the University Center conference rooms.
 </p><p>Panelists are Judy Darnell, public policy director for United Way of California and a 2006 graduate of the MPP program; Monterey County Supervisor Simon Salinas; and Monterey County Chief Administrative Officer Lew Bauman.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The University Center is located on Sixth Avenue. Driving directions and a campus map are available at <a href="http://csumb.edu/map">csumb.edu/map</a>.
 </p><p> 
 </p>
+```

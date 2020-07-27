@@ -4,6 +4,7 @@ title: "Elevating Youth "
 date: January 01 2020
 ---
 
+```html
 <p>CSUMB’s Upward Bound serves largest group ever of first-generation students this summer </p><p>Cal State Monterey Bay’s Upward Bound program continues to grow. The program is hosting nearly 100 under&#45;privileged youth from North Monterey County, Soledad and Watsonville high schools, the largest summer group ever for the Monterey Bay region. The federally&#45;funded program began serving local students in 1999.
 </p><p>A year&#45;round program, Upward Bound guides first&#45;generation and low income students through the college application process and is divided into two parts.
 </p><p>During the academic year, the students receive tutoring, academic advising, college and career exploration and financial aid mentoring from Upward Bound staff members during school visits. During the six&#45;week summer session, the students live in CSUMB residence halls and participate in academic, social, recreational and cultural activities. The six&#45;week session qualifies as a four unit academic class, giving students a head start on college credits after they finish high school.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The national Upward Bound program was established shortly after the passage of the Economic Opportunity Act of 1964 under then President Lyndon B. Johnson.
 </p><p>To read more about Upward Bound at CSUMB, click <a href="https://csumb.edu/eosp/upward&#45;bound">here.</a>
 </p>
+```

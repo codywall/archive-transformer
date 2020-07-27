@@ -4,6 +4,7 @@ title: "Student group helps veterans go from military to campus"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay has joined a growing number of colleges and universities nationwide that have established a Student Veteran Organization.
 </p><p>“Given the strong military and veterans presence in the area, we decided the campus needed a group for student veterans,” said Rosalba Beltran, a senior kinesiology major and Navy veteran (pictured at left).
 </p><p>At the start of the school year, Beltran and several other former military members came together to get the new SVO off the ground. The organization became an official campus club in September with the election of officers. Beltran was elected vice president.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

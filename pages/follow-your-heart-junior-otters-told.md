@@ -4,6 +4,7 @@ title: "'Follow your heart,' Junior Otters told"
 date: January 01 2020
 ---
 
+```html
 <h3>Nationally honored program ‘graduates’ 180</h3><p>“Find your heart. Follow your heart and you will find your destiny,” playwright Luis Valdez told a group assembled in the University Center at CSU Monterey Bay on July 30.
 </p><p>Valdez, founder of El Teatro Campesino and an original faculty member at CSUMB, spoke to an audience of several hundred youngsters, their parents and educators.
 </p><p>His remarks were made at the graduation ceremony of the Migrant Junior Otter program. A monthlong collaboration among the university, the Monterey County Office of Education and El Teatro, the program involves youngsters from migrant families in grades four through eight from nine local school districts.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><a href="http://instagram.com/p/rIBvd-rmPw">Watch a short video on Instagram</a>
 </p><p><a href="http://eosp.csumb.edu/educational-opportunity-program">Learn about CSUMB’s early outreach and support programs</a><em>Photos and video by Patia Stephens Top: Monterey County Office of Education officials welcome the Junior Otter and their families to the closing ceremony Bottom: Luis Valdez delivers keynote address. The theme for the monthlong program was "Head, Heart and Hands"</em>  
 </p>
+```

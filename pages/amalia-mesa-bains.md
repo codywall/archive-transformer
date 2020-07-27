@@ -4,6 +4,7 @@ title: "Amalia Mesa-Bains"
 date: January 01 2020
 ---
 
+```html
 <p><strong>Dr. Amalia Mesa-Bains to participate in Kahlo conference</strong>
 </p><p>Dr. Amalia Mesa-Bains, co-chair of the Department of Visual and Public Art at CSUMB, has been invited to London to participate in a conference on Mexican artist Frida Kahlo.
 </p><p>The Tate Modern -- one of four galleries that display selections from the Tate Collection -- will host the event Sept. 30 and Oct. 1 in conjunction with a major exhibit of Kahlo's work that has been on display there this summer.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>Among her many awards is a 1992 Distinguished MacArthur Fellowship. She is a former commissioner of arts for the city of San Francisco.
 </p><p>For more information on Dr. Bains, visit <a href="http://vpa.csumb.edu/faculty/mesa_bains.htm">http://vpa.csumb.edu/faculty/mesa_bains.htm</a>
 </p>
+```

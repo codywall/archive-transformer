@@ -4,6 +4,7 @@ title: "Museum director kicks off visiting artist series"
 date: January 01 2020
 ---
 
+```html
 <p>Nina Simon – called a “visionary” by Smithsonian Magazine – wants people to be excited about museums.
 </p><p>She told the Santa Cruz Sentinel: “To me, a great museum is like a great dinner party – somebody greets you at the door and says, ‘I’m so glad you’re here. Let me introduce you to everyone.’”
 </p><p>The executive director of the Santa Cruz Museum of Art and History will bring that message to CSU Monterey Bay on Feb. 23 when she kicks off the Visiting Artist Lecture Series.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><a href="http://csumb.edu/map">Driving directions and a campus map</a>.
 </p><p><a href="http://vpa.csumb.edu/vpa&#45;home&#45;page">Learn more about the Visual and Public Art Department here</a>.
 </p>
+```

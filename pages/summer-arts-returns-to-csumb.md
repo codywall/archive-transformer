@@ -4,6 +4,7 @@ title: "Summer Arts returns to CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>This year marks the 30th anniversary of CSU Summer Arts, and the program – which starts in late June – invites students to register now for this year’s classes. 
 
 </p><p>Summer Arts, which began as a small dance program in 1985, has transformed the lives of more than 12,000 student artists since its inception and has grown into one of California State University’s most dynamic, hands&#45;on programs.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p>Information about courses, registration, artists and scholarships is available on the <a href="http://csusummerarts.org">Summer Arts website</a>.
 </p><p>– CSU Public Affairs
 </p>
+```

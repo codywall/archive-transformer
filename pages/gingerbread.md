@@ -4,6 +4,7 @@ title: "Gingerbread"
 date: January 01 2020
 ---
 
+```html
 <p>Really serious.
 </p><p>Serious enough to buy and construct a 3-D puzzle of the cathedral. "Then, we went online and found the floor plan," said Lianne Minemoto. "We knew where all the domes were located."
 </p><p>The cathedral was in keeping with the contest theme of "It's a Small World - Campus Edition."
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The competition demonstrated that you don't have to be a pastry chef to build a great gingerbread house.
 </p><p>.
 </p>
+```

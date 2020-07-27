@@ -4,6 +4,7 @@ title: "President Harrison heads to Middle East"
 date: January 01 2020
 ---
 
+```html
 <p>When California State University, Monterey Bay President Dianne Harrison travels to Jordan and Oman later this month, she will take a step toward the goal of establishing exchange programs with universities in the Middle East.
 </p><p>Dr. Harrison is one of seven college and university presidents selected for the 2011 Fulbright-Hays Seminars Abroad Program. Her group will leave March 24 for the Middle East and return to the United States on April 8.
 </p><p>The seminar is an opportunity for them to learn about the changing higher education scene in the Arab world and return home to share opportunities for future program development in the region with their respective campuses.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Dr. Harrison’s group will spend five days in Oman before moving on to Jordan for five days. During that time, according to information from the U.S. Department of Education, which administers the program, the group will:
 </p><p>• Be exposed to Arab and Islamic culture; • Have opportunities to observe and compare higher education systems with local counterparts; • Meet with Education USA staff members who advise undergraduate and graduate students seeking information about study in the United States; • Have discussions with administrators of study abroad programs for U.S. students; and • Have opportunities to learn of special higher education initiatives such as the El Hassan Science City in Jordan and Oman’s development of a unified online admissions system.
 </p>
+```

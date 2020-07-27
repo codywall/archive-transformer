@@ -4,6 +4,7 @@ title: "Joseph Wilson"
 date: January 01 2020
 ---
 
+```html
 <h5>Former Ambassador Joseph Wilson to speak Dec. 6</h5><p>Joseph Wilson, former U.S. diplomat and husband of exposed CIA agent Valerie Plame, will discuss "The Politics of Truth" at 7 p.m., Dec. 6 in the University Center ballroom.
 </p><p>Wilson was called a "true American hero" by former president George H.W. Bush for his many years of diplomatic service, including his face-to-face confrontations with Saddam Hussein in the days leading up to the first Gulf War. He may well have faded quietly into the sunset had he not written an opinion piece for The New York Times in which he accused President George W. Bush of "exaggerating the Iraqi threat" in order to justify war, specifically with respect to Iraq's alleged attempts to acquire uranium from Niger. Shortly thereafter, columnist Robert Novak noted that Wilson's wife, Valerie Plame, was a covert CIA operative, a revelation that was potentially a criminal offense.
 </p><p>Wilson charged that Plame's CIA status was deliberately exposed by Bush administration officials, as retaliation for his public charge that U.S. intelligence concerning weapons of mass destruction in Iraq was largely a conspiracy to falsify and fabricate evidence to support the war.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p>"Fascinating...dissent not from the radical fringe but from the heart of the establishment." -Tim Rutten, Los Angeles Times
 </p><p>"Wilson's account of his diplomatic tours in Niger, Togo, South Africa, Burundi, the Congo, Iraq, Gabon and Washington are superb.... Wilson's allegations carry the ring of truth" -Steve Weinberg, St. Louis Post-Dispatch
 </p>
+```

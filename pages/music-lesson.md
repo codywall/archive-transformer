@@ -4,6 +4,7 @@ title: "MUSIC LESSON"
 date: January 01 2020
 ---
 
+```html
 <p>The Music and Performing Arts Department at Cal State Monterey Bay invites the public to attend a free master class with the Latin Jazz Collective. </p><p>The class will be held at 1 p.m., March 28, in the <a href="https://csumb.edu/maps">Music Hall</a>, located on Sixth Avenue near Colonel Durham Road.
 </p><p><a href="https://www.facebook.com/pages/Latin&#45;Jazz&#45;Collective&#45;with&#45;John&#45;Nava/306196949484453">LJC</a> is comprised of a core group of six musicians assembled by John Nava and Martin Binder. They use original and established contemporary jazz compositions arranged with Latin rhythms as a foundation.
 </p><p>Group members include John Nava, congas; Kevin McCollough, piano; Faris Jarrah, trombone; Steve Uchello, bass; Martin Binder, drums; and Patt Caison, saxophone and flute. Combined, they have more than 50 years of experience in the studio, on stage and in the classroom; they perform as bandleaders, arrangers and educators throughout the Central Coast and the Bay Area.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>• April 30, 2 p.m., Mariachi Reyna de Los Angeles
 </p><p>• May 7, 7 p.m., musicians and composers LeBoeuf Brothers
 </p>
+```

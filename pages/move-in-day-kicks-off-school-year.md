@@ -4,6 +4,7 @@ title: "Move-in day kicks off school year"
 date: January 01 2020
 ---
 
+```html
 <p>Hundreds of excited students carried, dragged and wheeled their belongings into the residence halls at CSU Monterey Bay on Aug. 24, the first day of the three-day move-in weekend.
 </p><p>By the time classes start on Aug. 27, the 2,800 students who live in residence halls on the main campus and in East Campus housing will be settled into the rooms and apartments that will be their home for the next year.
 </p><p>All the activity happened with the help of dozens of staff, faculty and students who had volunteered for the Otter Welcome Team. They directed traffic, answered questions, carried boxes and gave directions to the new students, most of whom had parents and siblings along to help.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p>The incoming class includes 885 freshmen and 643 new transfer students. Total enrollment is approximately 5,400.
 </p><p><em>Photos by Kevin Garcia Top: Family members help their student move into North Quad housing Bottom: President Eduardo Ochoa greets students on the campus quad</em>
 </p>
+```

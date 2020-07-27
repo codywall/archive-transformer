@@ -4,6 +4,7 @@ title: "Salinas City Council honors CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 10, 2010
 </p><p><strong>President Harrison accepts plaque for University Promise program</strong>
 </p><p>The Salinas City Council gave President Dianne Harrison a plaque of commendation Tuesday in appreciation for CSU Monterey Bay's University Promise program of outreach to Salinas sixth-graders.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Dr. Harrison (pictured above) also briefed the council and audience at Salinas City Hall on the many strong connections between the university and the community, which is home to about 10 percent of CSUMB students.
 </p><p> 
 </p>
+```

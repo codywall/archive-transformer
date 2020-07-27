@@ -4,6 +4,7 @@ title: "String quartet performs at CSUMB"
 date: January 01 2020
 ---
 
+```html
 <h3>Free chamber music concert set for Dec. 6</h3><p>The community is invited to a free concert of chamber music at CSU Monterey Bay on Dec. 6.
 </p><p>Since forming the Friction Quartet while they were students at the San Francisco Conservatory of Music, Doug Machiz, Kevin Rogers, Otis Harriel and Pei-Ling Lin have established a reputation for edgy programming and exhilarating performance of contemporary works.
 </p><p>Recent performances include La Belle Vie Concert Series at the Legion of Honor, San Francisco Friends of Chamber Music’s Chamber Music Day, and Garrett-Moulton Productions’ A Show of Hands for quartet and dancers.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>Photos courtesy of the Friction Quartet Top photo (left to right): Otis Harriel, Pei-Ling Lin, Doug Machiz, Kevin Rogers
 </p><p> 
 </p>
+```

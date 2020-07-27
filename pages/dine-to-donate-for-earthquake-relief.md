@@ -4,6 +4,7 @@ title: "'Dine to Donate' for earthquake relief"
 date: January 01 2020
 ---
 
+```html
 <h3>Dining Commons event raises more than $1,000</h3><p>It seems that people and food come together in times of great tragedy.
 </p><p>After the March 11 earthquake and tsunami that devastated parts of Japan, Aya Kamata, an international student from that country, contacted Campus Dining at CSU Monterey Bay with the idea of featuring Japanese cuisine as a fundraising opportunity.
 </p><p>Kamata and Sodexo, the university's food service provider, had worked together in the fall semester when her entry in the “Favorites from Home” contest was selected as one of the winners. She had submitted a recipe for tonkatsu, a meal traditionally served in Japan before a major competition – such as an exam or sports event.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>Japanese exchange students at CSUMB, as well as students in the Japan Club and the International Club began raising money to help victims almost immediately after news reports broke. By March 17, when most students left campus for spring break, $700 had been raised. That money was  donated to the Japan Democratic Medical Organization. Donations are still being collected at various locations around campus.
 </p><p>To view local news coverage of the event, click <a href="http://www.flickr.com/photos/csumbdiningserv/5572360917/">here</a>. To view a video made by CSUMB Strategic Communications, click <a href="http://www.youtube.com/watch?v=GvBxchvVoJU">here</a>.  
 </p>
+```

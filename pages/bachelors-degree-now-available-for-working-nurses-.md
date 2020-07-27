@@ -4,6 +4,7 @@ title: "Bachelor's degree now available for working nurses "
 date: January 01 2020
 ---
 
+```html
 <h3>Class schedule accommodates employed professionals</h3><p>To help meet a growing demand for nurses with bachelor’s degrees, CSU Monterey Bay started a nursing program in 2012, partnering with four local community colleges.
 </p><p>Starting in June, the program will add a tract for already-employed nurses with associate’s degrees who want to earn a bachelor’s while they continue to work.
 </p><p>Classes will be held in the late afternoons and evenings; some will be traditional face-to-face classes, some will be online.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>“We need to partner with health care organizations and be responsive to their needs,” Dr. Hultgren said.
 </p><p><a href="http://nursing.csumb.edu/adn-bsn-completion-program">Learn more about the program.</a>
 </p>
+```

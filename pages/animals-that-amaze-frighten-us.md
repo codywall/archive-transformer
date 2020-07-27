@@ -4,6 +4,7 @@ title: "Animals that amaze, frighten us"
 date: January 01 2020
 ---
 
+```html
 <h4>Spidershark, pandaroo and other creatures come to life</h4><p>Wired magazine and online publication enlisted alumni from CSUMB’s science illustration program to bring to life – so to speak – an <a href="http://www.wired.com/wiredscience/2013/06/hybrid-animal-wish-list/">animal hybrid wish list.</a>
 </p><p>The website’s readers inspired the list of imaginary creatures. Wired reporter Nadia Drake writes, “readers seem to be interested in everything we write about spiders or sharks. Thus, the spidershark,” just one of the critter combos depicted on the website. Wired enticed 11 alums to take on the fictional creatures and make them look real, according to Drake. “Their awesome talent and creativity resulted in the beautiful, awe-inspiring, and sometimes terrifying visual creations in this collection,” Drake writes. Those creations include: • Spidershark, by <a href="http://www.luczoillustration.com/">Calene Luczo</a> 
 </p><p> 
@@ -92,3 +93,4 @@ date: January 01 2020
 </p><p>Drake reports that the images will be displayed at the Science Online Bay Area event scheduled for June 12 in San Francisco. “They’re going to project the hybrids onto big screens throughout the evening,” she says. “I’ll be doing a question-and-answer onstage with two of the artists.” <a href="http://scienceillustration.org/">Learn about the Science Illustration program at CSUMB.</a>  
 </p><p> 
 </p>
+```

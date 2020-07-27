@@ -4,6 +4,7 @@ title: "East meets West in gesture and voice"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB hosts theatrical dance performance by Sheetal Gandhi</h3><p>Nationally acclaimed choreographer and performer Sheetal Gandhi will visit California State University, Monterey Bay’s World Theater on Oct. 9. Showtime is 7:30 p.m.
 </p><p>She will perform her one-woman show, “Bahu-Beti-Biwi” (Daughter-in-law, Daughter, Wife), which explores her cultural heritage as a 21st century Californian whose life is still shaped by age-old Indian traditions.
 </p><p>“Bahu-Beti-Biwi” wraps North Indian music and family characters into a contemporary exploration that moves between humorous portraiture and active resistance. Gandhi merges dance, singing and the text and subtext of centuries-old North Indian women’s songs to move from one portrayal to another. Her characters have conversations with each other across time and space, revealing complex tensions around freedom and compromise, desire and longing, duty and love.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>The performance is sponsored by Student Activities and Leadership Development and the World Theater, with funding support from the New England Foundation for the Arts National Dance Project.
 </p><p>For more information, contact Tim Bills, director of Student Activities and Leadership Development, at 582-4645 or <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#116;&#x62;&#x69;&#108;&#x6c;&#x73;&#64;&#99;&#x73;&#117;&#109;&#x62;&#x2e;&#101;&#x64;&#x75;">tbills@csumb.edu</a>
 </p>
+```

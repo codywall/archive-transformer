@@ -4,6 +4,7 @@ title: "Environmental visionary visits Monterey"
 date: January 01 2020
 ---
 
+```html
 <h3>David Orr gives public talk May 14</h3><p>Oberlin, Ohio, is miles away from what would be considered national centers of political or economic power. But that’s where David Orr is working to fundamentally change the way we live.
 </p><p>Dr. Orr, professor of environmental studies and politics and adviser to the president of Oberlin College, is a visionary in dealing with climate change.
 </p><p>He has written several hundred articles and seven books on environmentalism, sustainability, green engineering and building, education and climate change.
@@ -18,3 +19,4 @@ date: January 01 2020
 </p><p><a href="http://ideals.csumb.edu/sustainability">Learn about sustainability at CSUMB</a>.
 </p><p><em>Photo of Dr. Orr courtesy of Oberlin College</em>  
 </p>
+```

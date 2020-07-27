@@ -4,6 +4,7 @@ title: "Classroom becomes stage in"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 5, 2009
 </p><p>A class meets to read and discuss Shakespeare's play, "A Midsummer Night's Dream." As the class begins, the students chat among themselves about the usual things – their personal relationships, school events and such.
 </p><p>Then something unusual happens. The students and professor begin to slip into the play, becoming the characters and performing their actions as if taken over by the power of the verse itself.
@@ -29,3 +30,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

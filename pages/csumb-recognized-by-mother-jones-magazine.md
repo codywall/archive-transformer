@@ -4,6 +4,7 @@ title: "CSUMB recognized by Mother Jones magazine"
 date: January 01 2020
 ---
 
+```html
 <p>Aug. 20, 2009
 </p><p>MJ, one of the country's oldest investigative magazines, has included CSU Monterey Bay in its first Mini College Guide - a list of 10 diverse schools that "will blow your mind, not your budget," according to its Aug. 20 edition.
 </p><p>While the magazine admits that its listing is unscientific, it includes schools that have "good values and good value." Among them are public and private colleges and universities, religious and secular schools and urban and rural campuses.
@@ -12,3 +13,4 @@ date: January 01 2020
 </p><p>The article can be found here: <a href="http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide">http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide</a>
 </p><p> 
 </p>
+```

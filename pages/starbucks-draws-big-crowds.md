@@ -4,6 +4,7 @@ title: "Starbucks draws big crowds"
 date: January 01 2020
 ---
 
+```html
 <p>A steady stream of customers lined up for lattes, cappuccinos, mochas and just plain coffee when Starbucks opened in the Student Center on Jan. 23. The newly redesigned space provides a comfortable place to gather, and offers the standard Starbucks beverage lineup and some food. Besides the traditional café seating, there’s a computer bar, and tables and chairs on a newly constructed patio. Meal plans are accepted as payment, along with OtterBucks, credit/debit cards and Starbucks gift cards.
 </p><p>The grand opening is scheduled for 10 a.m., Feb. 15.
 </p><p>The decision to bring Starbucks to campus resulted from student feedback. Last year, Dining Services surveyed students about their preferences for food options on campus. Focus groups and student interviews and surveys were conducted.??
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p><em>Bottom: Aracely Garcia, Starbucks shift leader, takes an order from Gabby Rubio</em>
 </p><p> 
 </p>
+```

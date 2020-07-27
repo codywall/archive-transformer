@@ -4,6 +4,7 @@ title: "Woods Tea Co. steeped in tradition"
 date: January 01 2020
 ---
 
+```html
 <p>Oct. 1, 2009
 </p><p><strong>Folk group performs at World Theater Oct. 23</strong>
 </p><p><strong><em> </em></strong>Folk music returns to the stage at California State University, Monterey Bay's World Theater on Oct. 23 when the Woods Tea Company performs. Showtime is 7:30 p.m.
@@ -23,3 +24,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

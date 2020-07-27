@@ -4,6 +4,7 @@ title: "Alumna interns at White House"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay alumna Zoe Carter knew an internship in the nation's capital was a long shot, but she applied anyway.
 </p><p>Her first reaction to learning that she had been accepted was, “Take that, you Ivy League kids. This CSU kid is at the White House,” she told the Santa Ynez Valley Journal.
 </p><p>Her four-month unpaid stint at 1600 Pennsylvania Avenue was better than anything she could have expected.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p><em>Photo: Zoe and Bo, the first dog</em>
 </p><p> 
 </p>
+```

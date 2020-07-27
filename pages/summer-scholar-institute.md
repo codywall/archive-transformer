@@ -4,6 +4,7 @@ title: "Summer Scholar Institute"
 date: January 01 2020
 ---
 
+```html
 <p>June 26, 2009
 </p><h2>Program fuels college dreams</h2><p>Heather Barney was definite about her reason for attending Imagine College.
 </p><p>“I’m here to get that scholarship,” said the 11th-grader-to-be at Seaside High.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p>“And I like the food. The food’s good.”
 </p><p>CSUMB, the UC Santa Cruz Educational Partnership Center, the Monterey Peninsula Foundation and the Monterey Peninsula Unified School District sponsor the program.
 </p>
+```

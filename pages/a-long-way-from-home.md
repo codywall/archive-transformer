@@ -4,6 +4,7 @@ title: "A long way from home"
 date: January 01 2020
 ---
 
+```html
 <h3>Cycling across America to help the homeless</h3><p>After commencement, Daniel Troia didn't spent much time celebrating. Nine days after receiving his degree in kinesiology, he and current student Luke Young headed off on a 3,500-mile cross-country bike ride to see America and to raise money for a good cause.
 </p><p>The pair took a 20-hour train ride from Salinas to Portland, arriving on May 26. Their adventure began in earnest on June 1, when they left Oregon and headed to Idaho. They expect to arrive in New York City in about 10 weeks – in time for Young to get back to campus to complete his degree in environmental science.
 </p><p>Troia, 28, from Monterey, and Young, 25, from Murrieta, understand the trip will be strenuous, uncomfortable and maybe even dangerous.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>They expect to average 60 miles a day. En route to New York, they will travel through Oregon, Idaho, Montana, Wyoming, North Dakota, Minnesota, Iowa, Illinois, Indiana, Ohio and Pennsylvania. Visit their <a href="http://alongwayfromhome2014.weebly.com">blog</a> Follow them on <a href="http://Facebook.com/alongwayfromhome2014">Facebook</a>
 </p><p><em>Photos Top: Luke Young and Daniel Troia pose for photo before embarking on their 10-week journey Bottom: Luke in Portland</em>
 </p>
+```

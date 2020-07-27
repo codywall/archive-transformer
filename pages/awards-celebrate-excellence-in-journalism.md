@@ -4,6 +4,7 @@ title: "Awards celebrate excellence in journalism"
 date: January 01 2020
 ---
 
+```html
 <p>The third annual Otter Realm Awards, recognizing students who have done excellent work in journalism – print, video, photography and page design – were handed out at a campus ceremony on May 6.</p><p>In all, 75 students in Liberal Studies, Global Studies, Visual and Public Art, Communication Design and Human Communication entered 90 submissions.
 </p><p>Entries were judged on storytelling ability, technical quality, aesthetic quality, journalistic value and creativity_._
 </p><p>The winning entries were selected by a panel of judges including Dr. William Freivog, director of the School of Journalism at Southern Illinois University; Dr. Twange Kasoma, faculty member in the School of Communication at Radford University; Doug McKnight, former TV news director and general manager of NPR affiliate KAZU; Cierra Bailey, production and promotions assistant with KOFY television, staff reporter for the Pleasanton Weekly and CSUMB alumna; and Alex Hulanicki, journalism and English instructor at Monterey Peninsula College.
@@ -24,3 +25,4 @@ date: January 01 2020
 </p><p>Itzet Vazquez, "What Teachers do Outside School"
 </p><p>&#40;from <em>El Talon</em> newspaper of North Monterey County High&#41;
 </p>
+```

@@ -4,6 +4,7 @@ title: "Biology major earns coveted internship with public media"
 date: January 01 2020
 ---
 
+```html
 <p>As a child, Grace Singer explored tide pools on the Monterey Peninsula. She was hooked.
 </p><p>That led to degrees in biology and chemistry at a local community college, an internship at Hopkins Marine Station and volunteer work at the Monterey Bay Aquarium. Her goal is to pursue a career in science communication.
 </p><p>With the help of generous donors, Singer is getting a head start on that career with a summer internship at KQED in San Francisco.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><em>About the donor: Allen Fuhs, Ph.D., is a distinguished professor emeritus at the Naval Postgraduate School in Monterey, where he chaired the mechanical engineering and aeronautics departments. Among his achievements, Dr. Fuhs was an Honorary Fellow of the American Institute of Aeronautics and Astronautics, one of the most prestigious honors in aerospace.</em>
 </p><p><em>Published June 11, 2015</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Santa Cruz artist connects the bots"
 date: January 01 2020
 ---
 
+```html
 <p>Margo Mullen continues to attract attention – and commissions – with her robots.
 </p><p>The 2006 graduate of CSU Monterey Bay’s visual and public art program created a pair of robots for a public art project in Santa Cruz last summer. Her canvas: a square traffic controller box located on a street corner. The box houses the equipment that operates traffic signals.
 </p><p>Her tiny mural shows two robots, one red and the other yellow, holding hands. Their clasped hands form a heart.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p><a href="http://vpa.csumb.edu/">Read about the Visual and Public Art Department</a>.
 </p><p><em>Images courtesy of Margo Mullen Top: Jet pack robot image for the Oakland Museum of California Bottom: Margo in her Santa Cruz studio</em>  
 </p>
+```

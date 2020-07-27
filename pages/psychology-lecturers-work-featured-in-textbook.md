@@ -4,6 +4,7 @@ title: "Psychology lecturer's work featured in textbook"
 date: January 01 2020
 ---
 
+```html
 <p>Kathryn England-Aytes, a lecturer in psychology at CSUMB, has contributed to a book that’s the first of its kind for educational publishing.
 </p><p>“Teaching Truly: A Curriculum to Indigenize Mainstream Education,” published by Peter Lang Publishers, was written by American Indian rights activist Four Arrows. It provides guidance on incorporating indigenous perspectives into classrooms from kindergarten through college.
 </p><p>Guest authors, including Professor England-Aytes, contributed six of the book’s 13 chapters. Her chapter deals with American Indian historical trauma and education.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Read more about Professor England-Aytes <a href="http://news.csumb.edu/news/professor-honors-work-chief-wilma-mankiller">here</a> and <a href="http://sbgs.csumb.edu/faculty/news/professor-honors-work-chief-wilma-mankiller">here</a>.
 </p><p><a href="http://sbgs.csumb.edu/psychology-major">Learn about the psychology program at CSUMB.</a><em><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">Read about what faculty members at CSUMB are doing.</a></em>  
 </p>
+```

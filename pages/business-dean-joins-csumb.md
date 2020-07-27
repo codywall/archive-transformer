@@ -4,6 +4,7 @@ title: "Business dean joins CSUMB"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay President Eduardo Ochoa has named Shyam Kamath dean of the university’s College of Business Administration.
 </p><p>Dr. Kamath assumes leadership of the newly created college on Sept. 1.
 </p><p>“I am delighted to join CSUMB as the founding dean of the new College of Business. I look forward to building on the excellent foundations created by those who have established an outstanding school of business in the past two decades since CSUMB was established,” Dr. Kamath said.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

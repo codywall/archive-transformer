@@ -4,6 +4,7 @@ title: "EMBA program accepting students"
 date: January 01 2020
 ---
 
+```html
 <p>Sept. 4, 2009
 </p><p><strong><em>Next session of CSUMB's online program starts Oct. 12</em></strong>
 </p><p>The next start date for the Executive MBA program at California State University, Monterey Bay is Oct. 12.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p> 
 </p>
+```

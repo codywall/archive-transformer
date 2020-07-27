@@ -4,6 +4,7 @@ title: "Alumna making a difference for Oakland families"
 date: January 01 2020
 ---
 
+```html
 <h3>Jefferson Award winner helps preschoolers thrive</h3><p>CSU Monterey Bay alumna Angela Louie Howard “models cultural awareness, humility and responsiveness by working across cultural, linguistic, ethnic and economic lines.”
 </p><p>That’s according to an Oakland nonprofit organization, Civic Pride, when it gave her its Civic Award for Distinguished Community Service. It was one of two awards Louie Howard received in 2011. The other was from PG&amp;E.
 </p><p>In April of 2013, she received yet another honor when she was named a Jefferson Award winner by San Francisco-area media outlets KPIX television and KCBA radio. 
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p><a href="https://www.baycitizen.org/blogs/change-agents/childrens-center-caters-diverse/">Read a profile of Angela in the June 2012 San Francisco Bay Guardian</a>
 </p><p><em>Image from PG&amp;E </em>  
 </p>
+```

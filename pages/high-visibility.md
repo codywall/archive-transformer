@@ -4,6 +4,7 @@ title: "HIGH VISIBILITY"
 date: January 01 2020
 ---
 
+```html
 <p>Alumna performs at Pan American Games</p><p>Ania Flatau &#40;Kinesiology 2015&#41; doesn’t let anything get in her way.
 </p><p>The wheelchair athlete and dancer has participated in swimming, basketball, kickboxing and other sports since she was a child. As she got older, she added ballroom and salsa dancing.
 </p><p>On July 26, she appeared on her biggest stage yet when she performed with the American DanceWheels Foundation at the closing ceremony of the Pan Am Games in Toronto.
@@ -15,3 +16,4 @@ She plans to pursue a master’s degree in occupational therapy. Flatau, 27, was
 </p><p>“I think it’s important for injured people and people with disabilities to be visible . . . I want to highlight the culture and community,” she said in an interview with the CSUMB magazine in 2014.
 </p><p><a href="https://www.facebook.com/ania.questionmarkski/videos/vb.504056139/10153388364121140/?type=2&amp;theater">Watch a video of her rehearsal</a>
 </p>
+```

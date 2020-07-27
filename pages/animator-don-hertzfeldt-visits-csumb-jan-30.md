@@ -4,6 +4,7 @@ title: "Animator Don Hertzfeldt visits CSUMB Jan. 30"
 date: January 01 2020
 ---
 
+```html
 <h3>Cult figure to screen his newest film</h3><p>Stick figures have never looked as good as they do in Don Hertzfeldt’s films.
 </p><p>While most animators have tossed aside their pencils in favor of computers, the Oscar-nominated filmmaker still works by hand.
 </p><p>The public will get an opportunity to see Hertzfeldt’s work when he visits CSU Monterey Bay for two presentations on Jan. 30.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em>Top photo from Wikipedia Bottom drawing (c) 2012 Don Hertzfeldt</em>  
 </p>
+```

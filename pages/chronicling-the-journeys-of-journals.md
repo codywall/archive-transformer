@@ -4,6 +4,7 @@ title: "Chronicling the journeys of journals"
 date: January 01 2020
 ---
 
+```html
 <p>A project that started with bathroom graffiti has found its way to CSU Monterey Bay.
 </p><p>A San Francisco graphic designer who goes by the name Someguy read what people wrote on bathroom walls. The uncensored messages captured his attention; he realized that people will say anything as long as their comments are anonymous.
 </p><p>"And then I thought, 'Wouldn't it be great if people could write in a book and make their own comments,' " he told the San Francisco Chronicle.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><em>Image from the Journals Around Campus Facebook page</em>
 </p><p> 
 </p>
+```

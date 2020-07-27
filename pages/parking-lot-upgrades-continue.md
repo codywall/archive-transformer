@@ -4,6 +4,7 @@ title: "Parking lot upgrades continue"
 date: January 01 2020
 ---
 
+```html
 <p>A project to improve lighting and overall conditions in campus parking lots started last summer. The upgrades are being done to improve safety for everyone on campus.</p><p>The work will continue over the winter break; it requires the closure of six parking lots from <strong>Dec. 19 to approximately Jan. 15.</strong>
 </p><p>Affected lots include 12, 16, 18, 30, 45 and 201.
 </p><p>• <strong>PARKING LOT 12</strong>, adjacent to the Student Center, Cypress Hall and Willet Hall, will be closed with entrances blocked at Inter&#45;Garrison Road and Fifth Avenue. Alternate parking area is lot 71, adjacent to the Visual and Public Art buildings.
@@ -16,3 +17,4 @@ date: January 01 2020
 </p><p><strong>• PARKING LOT 201</strong>, to the east of the University Corporation Building &#40;201&#41;, Science Instructional Lab Annex and World Languages and Cultures North, will be closed with entrances blocked at Inter&#45;Garrison and A Street. Alternate parking area for University Corporation is lot 71; for Science Instructional Lab Annex, alternate parking is lot 13; for World Languages and Cultures North, alternate parking is lot 13 or lot 28.
 </p><p>For more information, contact Michael Tebo, project manager, Campus Planning and Development, or Sgt. Stacie Russo, University Police Department.
 </p>
+```

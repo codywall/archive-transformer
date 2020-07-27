@@ -4,6 +4,7 @@ title: "November 14, 2007"
 date: January 01 2020
 ---
 
+```html
 <p><strong>Division of Student Affairs launches First&#45;Year Call Center</strong>
 </p><p>The Vice President's Office of Student Affairs has implemented the First&#45;Year Call Center. The Call Center provides another way to reach out to first&#45;year students and inform them of campus information, advising and registration deadlines, discuss their overall satisfaction, educate them about how to get involved, as well as answering any questions or concerns. "Our goal is to call each student twice during their first year; collecting this information will lend insight into increasing our institutional effectiveness," says Sue Borrego, vice president for student affairs.
 </p><p>Coordinated by staff member Rachelle Bass, the Call Center is located in the Student Services Building &#40;47&#41;. A student team has been trained and will contact each new freshman and transfer student. The information collected from these calls will be evaluated to determine any themes and inform programs geared toward increasing students' success. First&#45;Year Call Center team members are Maria Ceja, Louie Okamoto, Isabel Lopez, Yandara Rodriguez&#45;Jacob, Marianne Roush, and Zachary Kasow. For any questions concerning the Call Center, please contact Rachelle at 582&#45;4160 or via e&#45;mail.
@@ -41,3 +42,4 @@ date: January 01 2020
 </p><p>There's a rare chance today to see Enid Baxter Blader's "Local 909er," an experimental documentary that explores the rapid transformation of the Inland region from orchards and dairy farms to box stores and McMansions. . . Blader, assistant professor of digital cinema at Cal State Monterey Bay whose artworks have been shown at MOCA and the Smithsonian, is a filmmaker, painter, bluegrass singer and new mother with a family emergency that will keep her from attending. The theme came to Blader when she was living in Upland a few years ago and noticed the disparity between the historic downtown and the hoopla surrounding new developments. She began to wonder about the loss of identity of place.&#45; &#42;Riverside Press&#45;Enterprise&#42;, Nov. 7, 2007
 </p><p>For campus news, activities and events, please visit our <a href="http://www.csumb.edu/news%20">news website</a>.
 </p>
+```

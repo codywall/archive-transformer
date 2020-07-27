@@ -4,6 +4,7 @@ title: "Mind-boggling creativity"
 date: January 01 2020
 ---
 
+```html
 <p>Feb. 5, 2010
 </p><p><strong><em>Performer's act is magical entertainment</em></strong>
 </p><p>Andy Gross has been described as a Renaissance man. During his one-man performances, he might throw his voice, perform a magic trick, and then bend a spoon with his mind. He may do a little stand-up comedy, and then haul out his ventriloquist's dummy. He brings all of these talents to California State University, Monterey Bay's World Theater at 7:30 p.m. on March 4 in "Mind Boggling: The Show."
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Art in the service of science"
 date: January 01 2020
 ---
 
+```html
 <p>Science illustration students exhibit work at P.G. Museum</p><p>If you’ve ever wondered about the artwork that illustrates science textbooks, field guides, and interpretive signs in parks and nature preserves, you have the opportunity to learn about it at an exhibit in Pacific Grove.
 </p><p>Illustrating Nature, the annual exhibit of work by students in the CSU Monterey Bay Science Illustration Program, will be on display at the <a href="http://www.pgmuseum.org/">Pacific Grove Museum of Natural History</a> May 7 through June 12. The museum is located at 165 Forest Ave., Pacific Grove.
 </p><p>The opening reception will be held from 5 to 7 p.m. on May 6.
@@ -16,3 +17,4 @@ date: January 01 2020
 
 <em>Published April 18, 2016</em>
 </p>
+```

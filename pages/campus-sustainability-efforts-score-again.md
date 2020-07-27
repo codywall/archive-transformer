@@ -4,6 +4,7 @@ title: "Campus sustainability efforts score again"
 date: January 01 2020
 ---
 
+```html
 <p>CSU Monterey Bay’s alternative transportation program has earned another recognition: a Best Practices Award from the California Higher Education Sustainability Conference.
 </p><p>The program was honored in the category of Sustainability Innovations.
 </p><p>Transportation on campus has become more environmentally friendly since Megan Tolbert was hired in 2010 as the university’s first transportation planner.
@@ -27,3 +28,4 @@ date: January 01 2020
 </p><p>• CSUMB maintains a robust <a href="http://sustainability.csumb.edu/waste-and-recycling">recycling program</a>
 </p><p>• CSUMB named <a href="http://news.csumb.edu/news/2013/apr/25/csumb-earns-another-green-honor">‘green’ school by Princeton Review</a>
 </p>
+```

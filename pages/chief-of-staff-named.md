@@ -4,6 +4,7 @@ title: "Chief of staff named"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 4, 2009
 </p><p>CSU Monterey Bay President Dianne Harrison has announced the appointment of Dr. Patti Hiramoto to the position of chief of staff.
 </p><p>In that role, she will oversee the Office of the President, serve as a member of the Senior Leadership Team and assist the president with external relations.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p><strong>  </strong>
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "CSUMB grads' film to screen at Sundance"
 date: January 01 2020
 ---
 
+```html
 <p>Dec. 9, 2009
 </p><p><em>Professor Enid Baxter Blader and two students are attending the festival. Read their blog <a href="http://local909er.typepad.com/">here</a>.</em>
 </p><p>A film directed by two recent California State University, Monterey Bay graduates has been selected to appear at the 2010 Sundance Film Festival in Utah. The festival will be held Jan. 21-31.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em> </em>
 </p>
+```

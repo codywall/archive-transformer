@@ -4,6 +4,7 @@ title: "Pollack honored for service-learning achievements"
 date: January 01 2020
 ---
 
+```html
 <p>In recognition of his work to promote service learning and community-campus partnerships throughout the Monterey Bay and Salinas Valley, Seth Pollack has been named winner of the 2013 Richard E. Cone Award by California Campus Compact.
 </p><p>For more than 15 years, Dr. Pollack has been director of CSU Monterey Bay’s Service Learning Institute. He has helped the university become a national leader in service learning and civic engagement.
 </p><p>“Service learning and partnerships are part of the very fiber of our being as a campus, and that is due in large part to the continued leadership on the part of Dr. Pollack,” said CSUMB Provost Kathy Cruz-Uribe.
@@ -21,3 +22,4 @@ date: January 01 2020
 </p><p><a href="http://success.csumb.edu/seth-pollack">Learn more about Dr. Pollack</a>
 </p><p><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"><em>Read more faculty news</em></a>  
 </p>
+```

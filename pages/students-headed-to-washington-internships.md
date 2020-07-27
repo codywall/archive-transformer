@@ -4,6 +4,7 @@ title: "Students headed to Washington internships"
 date: January 01 2020
 ---
 
+```html
 <p>Two CSU Monterey Bay students are about to get an up-close look at the inner workings of government.
 </p><p>In late August, Jesse Reyes and Dahlia Ezekwonna will travel to Washington, D.C.,where they will spend the semester working as interns and earning academic credit.
 </p><p>Reyes is a senior majoring in environmental studies. He is passionate about conservation and committed to keeping green spaces accessible to young people.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The Washington Center arranges internships for approximately 300 students each semester. The students work 35 to 40 hours a week and take academic courses, including a leadership forum, at the center.
 </p><p><em>Photos courtesy of Service Learning Top: Jesse Reyes Below: Dahlia Ezekwonna</em>  
 </p>
+```

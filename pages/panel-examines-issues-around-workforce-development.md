@@ -4,6 +4,7 @@ title: "Panel examines issues around workforce development"
 date: January 01 2020
 ---
 
+```html
 <p>Building the workforce of the 21st century will be the topic addressed by a panel of experts on March 2, when the President’s Speaker Series resumes at Cal State Monterey Bay.</p><p>A thriving Monterey Bay region requires a skilled, educated workforce to power future high&#45;tech, high&#45;value, sustainable industries of the 21st century. How can we identify what skills academic and vocational institutions should teach their students to help us achieve these goals? What are the new educational and training models that leverage technology to connect students and workers with the jobs and companies of the future?
 </p><p>Panelists include:
 </p><p>This year’s speaker series is made possible by a generous contribution from Bud and Rebecca Colligan.
@@ -13,3 +14,4 @@ date: January 01 2020
 </p><p>The speaker series is in keeping with Cal State Monterey Bay’s role as a community resource, providing forums for provocative discussions that can impact thought and action on issues important to our community.
 </p><p><em>Published Feb. 8, 2016</em>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Student researchers work on dam removal project"
 date: January 01 2020
 ---
 
+```html
 <p>After years of work, the permits are finally in place for removal of the sediment-filled San Clemente Dam on the Carmel River.
 </p><p>On June 21, federal, state and local officials celebrated the start of the largest dam removal in California history, calling it a crucial environmental restoration project that could serve as a precedent for other dams in the state and the nation.
 </p><p>The project, due to start in August, includes removing the 106-foot-high dam located 15 miles above Carmel. It has been out of use for years, with tons of sediment accumulating behind the aging structure, and was deemed seismically unsafe in the 1990s.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Commencement set for May 22"
 date: January 01 2020
 ---
 
+```html
 <p>May 21, 2010
 </p><p>*** Sylvia Panetta keynote speaker***
 </p><p>Sylvia Panetta will give the keynote address at California State University, Monterey Bay's 14th annual commencement ceremony on Saturday, May 22.
@@ -19,3 +20,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

@@ -4,6 +4,7 @@ title: "Exchange program sends CSUMB students to Japan"
 date: January 01 2020
 ---
 
+```html
 <p>In July, 10 students from Cal State Monterey Bay will head overseas as participants in the Japanese Exchange and Teaching Program, better known as JET.</p><p>The program is an effort by the Japanese government to promote internationalization at the local level by bringing young, college&#45;educated people to work in communities throughout the country.
 </p><p>Heading to Japan are Christian McGlothlin&#45;Clason, Kiara McLaurin, Alexander Castillo, Addie Gingold, D’Andre Thompson, Andrew Ramirez, Andrew Elisalde, Mary McElroy, Kristen Simonsen and Selena Miranda. All but Simonsen and Miranda are Japanese Language and Culture majors.
 </p><p>“This is a record&#45;breaking number for CSUMB,” said Professor Shigeko Sekine. “We had a 100 percent acceptance rate from our study group, and I'm proud of them.”
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>Placements are competitive. According to the JET website, 2,695 Americans served with the program last year.
 </p><p><em>Published April 11, 2016</em>
 </p>
+```

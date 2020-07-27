@@ -4,6 +4,7 @@ title: "NAACP president gets early start on the job"
 date: January 01 2020
 ---
 
+```html
 <p>When she was elected in the spring of 2014 to head the campus chapter of the NAACP, Mia Elliott said, “I can’t wait to start. I am really looking forward to being president.”
 </p><p>A sophomore Liberal Studies major from Sacramento, Elliott will take over in the fall – when the chapter celebrates its third year of existence.
 </p><p>She's getting a head start on the position, attending the civil rights organization's annual convention July 19-23 in Las Vegas. 
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>The campus chapter was chartered in July of 2012 and held its first meeting in September of that year. Shiyla Goodie served as president the first two years.
 </p><p>Under her leadership, the group worked to register voters before the 2012 presidential election; educated students on the importance of voting; connected with cultural clubs and organizations on campus to promote civil rights; and organized service projects in the community.
 </p>
+```

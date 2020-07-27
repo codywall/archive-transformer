@@ -4,6 +4,7 @@ title: "New book traces history of batá drumming"
 date: January 01 2020
 ---
 
+```html
 <p>Dr. Umi Vaughan, assistant professor of Africana Studies in CSUMB’s Division of Humanities and Communication, has co-authored a book with Carlos Aldama. In it, the master and student trace the history of batá drumming from Arica to Cuba to the United States.
 </p><p>Batá identifies both the two-headed, hourglass-shaped drum of the Yoruba people and the culture and style of drumming, singing and dancing associated with it. Aldama is one of the masters of the batá drum. The book, “Carlos Aldama’s Life in Batá: Cuba, Diaspora, and the Drum,” recounts his life story and traces the history of batá culture on its trek from Africa to Cuba and then to the United States.
 </p><p>For the enslaved Yoruba, batá rhythms helped sustain the religious and cultural practices of a people who had been torn from their roots. Aldama, as guardian of Afro-Cuban music and as a Santería priest, maintains the link with this tradition. By sharing his stories, Aldama and his student Dr. Vaughan bring to light the techniques and principles of batá in all its aspects, documenting the tensions of maintaining a tradition between generations and worlds, old and new.
@@ -15,3 +16,4 @@ date: January 01 2020
 </p><p> 
 </p><p><em>Photo of Dr. Vaughan courtesy of Indiana University Press</em>
 </p>
+```

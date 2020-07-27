@@ -4,6 +4,7 @@ title: "Grad student pays it forward"
 date: January 01 2020
 ---
 
+```html
 <h3>UROC propels Liz Lopez to master's program at USD</h3><p>Liz Lopez, a 2013 graduate of CSU Monterey Bay, has fit right in at the University of San Diego, where she is pursuing a master’s degree in marine science.
 </p><p>Last spring, Lopez, Michael Diaz and Emily Roncase received National Science Foundation Graduate Research Fellowships. Each was awarded $90,000 over three years.
 </p><p>For outstanding students in the sciences, the fellowships are a golden ticket. The CSUMB students were among approximately 2,000 winners from a pool of more than 13,000 applicants nationwide.
@@ -17,3 +18,4 @@ date: January 01 2020
 </p><p>And that’s something she learned through UROC, where her mentors were CSUMB Professor James Lindholm, and Professor Sarah Henkel at Oregon State University’s Hatfield Marine Science Center.
 </p><p><em>Photos courtesy of the University of San Diego</em>  
 </p>
+```

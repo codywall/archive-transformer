@@ -4,6 +4,7 @@ title: "Online bridge between cultures"
 date: January 01 2020
 ---
 
+```html
 <h3>CSUMB students join in global dialogue</h3><p>Briana Cagle was one of the lucky ones.
 </p><p>Unlike some of her classmates, Cagle didn’t have to get up at 4 a.m. to find her laptop and log on to join a conversation with seven students from the Middle East, Europe and the U.S. Her sessions started at the relatively late hour of 8:30.
 </p><p>Using video conferencing technology and the resources of the nonprofit organization Soliya, the junior Global Studies major talked with other university students about issues that sometimes divide the West from the Arab and Muslim world.
@@ -30,3 +31,4 @@ date: January 01 2020
 </p><p><a href="http://www.soliya.net">Learn more about Soliya</a>.
 </p><p><a href="http://sbgs.csumb.edu/programs/global-studies-major">Learn about the Global Studies program at CSUMB.</a>
 </p>
+```

@@ -4,6 +4,7 @@ title: "Cine Arts student headed to Cannes"
 date: January 01 2020
 ---
 
+```html
 <p>Andrea Valenzuela will head to France in May as a participant in the Creative Minds Filmmaker Institute held in conjunction with the Cannes Film Festival.</p><p>The festival is home to the largest film market in the world. More than half a million people – celebrities, filmmakers, journalists, industry professionals and fans – descend on the French Riviera town for two weeks every May.
 </p><p>“I’ll have to miss the premiere of my capstone film,” Valenzuela said, “and graduation, but that’s a small price to pay for such a great opportunity.”
 </p><p>The Creative Minds Filmmaker Institute is designed to provide young filmmakers a platform to showcase their product while also educating them on how to capitalize on an international marketplace where films are bought, sold, distributed and financed.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>When she returns from France, she’ll head home to Southern California to work at the L.A. Film Festival. “After that, I have no idea,” she said.
 </p><p>“But I can’t wait for the weeks ahead.”
 </p>
+```

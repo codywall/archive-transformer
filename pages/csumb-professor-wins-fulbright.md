@@ -4,6 +4,7 @@ title: "CSUMB professor wins Fulbright"
 date: January 01 2020
 ---
 
+```html
 <p>Nov. 30, 2009
 </p><p><strong><em>Dr. Gerald Shenk to work in the Philippines</em></strong>
 </p><p>Gerald Shenk, professor of social, behavioral and global studies at California State University, Monterey Bay, has been named a Fulbright Scholar and will work in the Philippines.
@@ -22,3 +23,4 @@ date: January 01 2020
 </p><p> 
 </p><p> 
 </p>
+```

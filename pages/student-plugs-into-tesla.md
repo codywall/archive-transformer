@@ -4,6 +4,7 @@ title: "Student plugs into Tesla"
 date: January 01 2020
 ---
 
+```html
 <h3>Lands summer internship with upscale car company</h3><p>It’s hard to tell who is more excited about Brett Roberts’ summer internship at Tesla – Roberts or his professor, Jonathan Shu.
 </p><p>Shu, who calls Tesla “one of the hottest companies in Silicon Valley,” said he “nagged” his students to apply for summer jobs, and specifically mentioned Tesla, the electric car company headquartered in Palo Alto. (Manufacturing and production take place at the former Nummi plant in Fremont.)
 </p><p>Roberts followed up on the suggestion, in part because his best friend “always talked about how much he wanted to work at Tesla.” An application to work in the company’s information technology division brought a call from a recruiter and a conversation that covered the basics. A second call followed, from the person to whom he would be reporting.
@@ -14,3 +15,4 @@ date: January 01 2020
 </p><p>Roberts, the 2013-14 student body president, is a senior <a href="http://itcd.csumb.edu/bs-computer-science-information-technology?utm_source=redirect&amp;utm_medium=marketing&amp;utm_campaign=redirect">computer science</a> major with a concentration in software engineering. He will graduate in December.
 </p><p>“When I graduate, I really would love to work for Tesla full-time,” he said. “I think this internship is a good first step toward trying to get a job there.”
 </p>
+```
