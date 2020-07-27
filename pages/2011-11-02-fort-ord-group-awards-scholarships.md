@@ -3,7 +3,7 @@ title: Fort Ord group awards scholarships
 date: November 2 2011
 slug: fort-ord-group-awards-scholarships
 ---
-
+```html
 
 
 
@@ -86,3 +86,4 @@ and CSUMB President Dianne Harrison</em></br></p>
 
 
 
+```

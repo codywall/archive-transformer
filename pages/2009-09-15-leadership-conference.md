@@ -3,7 +3,7 @@ title: Students learn art of leadership
 date: September 15 2009
 slug: students-learn-art-of-leadership
 ---
-
+```html
 
 
 
@@ -70,3 +70,4 @@ register, call 582-4625.</p>
 
 
 
+```

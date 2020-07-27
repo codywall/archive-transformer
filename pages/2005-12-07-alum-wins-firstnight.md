@@ -3,7 +3,7 @@ title: Alum Wins FirstNight
 date: December 7 2005
 slug: alum-wins-firstnight
 ---
-
+```html
 
 
 
@@ -48,3 +48,4 @@ throughout downtown Monterey to welcome in the new year.</p>
 
 
 
+```

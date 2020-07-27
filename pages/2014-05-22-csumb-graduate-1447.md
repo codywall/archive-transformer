@@ -3,7 +3,7 @@ title: CSUMB to graduate 1447
 date: May 22 2014
 slug: csumb-to-graduate-1447
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ the 18th commencement ceremonies at Cal State Monterey Bay.<br>
 
 
 
+```

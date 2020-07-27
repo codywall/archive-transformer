@@ -3,7 +3,7 @@ title: The vision mural through a new lens
 date: January 2 2015
 slug: the-vision-mural-through-a-new-lens
 ---
-
+```html
 
 
 
@@ -81,3 +81,4 @@ mural</em></p>
 
 
 
+```

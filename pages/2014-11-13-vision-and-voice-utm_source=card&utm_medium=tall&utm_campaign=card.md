@@ -3,7 +3,7 @@ title: Vision and Voice
 date: November 13 2014
 slug: vision-and-voice
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ Behavioral and Global Studies at CSUMB</a><br>
 
 
 
+```

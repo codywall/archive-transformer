@@ -3,7 +3,7 @@ title: CSUMB awarded $8.6 million to boost teacher quality
 date: October 9 2014
 slug: csumb-awarded--8-6-million-to-boost-teacher-quality
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ teacher education programs at CSUMB</a>.</p>
 
 
 
+```

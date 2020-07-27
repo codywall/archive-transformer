@@ -3,7 +3,7 @@ title: Campus closed for holidays through Jan. 2
 date: December 23 2014
 slug: campus-closed-for-holidays-through-jan--2
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ for business operations on Friday, Jan. 2.</p>
 
 
 
+```

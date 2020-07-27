@@ -3,7 +3,7 @@ title: Food drive helps to ease hunger in local area
 date: November 22 2011
 slug: food-drive-helps-to-ease-hunger-in-local-area
 ---
-
+```html
 
 
 
@@ -55,3 +55,4 @@ approximately 10,800 people.</p>
 
 
 
+```

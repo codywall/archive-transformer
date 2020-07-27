@@ -6,7 +6,7 @@ date: October 24 2006
 slug: &gt;-
   journalists-at-head-of-author-apos-s-table-event---x2013--investigative-reporters-mark-fainaruwada-and-lance-williams-broke-open-steroid-scandal-story
 ---
-
+```html
 
 
 
@@ -22,3 +22,4 @@ fans at intimate dinners.<br>
 
 
 
+```

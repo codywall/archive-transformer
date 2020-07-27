@@ -3,7 +3,7 @@ title: Campus food clothing drives help the community
 date: November 23 2014
 slug: campus-food-clothing-drives-help-the-community
 ---
-
+```html
 
 
 
@@ -58,3 +58,4 @@ Photo courtesy of Madeline Britt</br></br></br></br></em></br></br></br></p>
 
 
 
+```

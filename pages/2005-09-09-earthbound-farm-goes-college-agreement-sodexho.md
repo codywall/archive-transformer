@@ -3,7 +3,7 @@ title: Earthbound Farm goes to college via agreement with Sodexho
 date: September 9 2005
 slug: earthbound-farm-goes-to-college-via-agreement-with-sodexho
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ movement that links schools and farms.<br>
 
 
 
+```

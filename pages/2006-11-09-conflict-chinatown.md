@@ -3,7 +3,7 @@ title: Conflict in Chinatown
 date: November 9 2006
 slug: conflict-in-chinatown
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ director of CSUMB&apos;s Service Learning Institute.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Students travel to Spain for summer school
 date: June 24 2014
 slug: students-travel-to-spain-for-summer-school
 ---
-
+```html
 
 
 
@@ -62,3 +62,4 @@ her post.</p>
 
 
 
+```

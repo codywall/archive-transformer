@@ -3,7 +3,7 @@ title: Annual Dia de Los Padres in Salinas
 date: February 21 2011
 slug: annual-dia-de-los-padres-in-salinas
 ---
-
+```html
 
 
 
@@ -51,3 +51,4 @@ Registration can be completed online at <a href="http://admissions.csumb.edu/dia
 
 
 
+```

@@ -3,7 +3,7 @@ title: Service in coast guard leads to marine science
 date: November 2 2010
 slug: service-in-coast-guard-leads-to-marine-science
 ---
-
+```html
 
 
 
@@ -35,3 +35,4 @@ said, &#x201C;and we are all part of the solution.&#x201D;</p>
 
 
 
+```

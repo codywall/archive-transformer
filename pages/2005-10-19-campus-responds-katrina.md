@@ -3,7 +3,7 @@ title: Campus responds to Katrina
 date: October 19 2005
 slug: campus-responds-to-katrina
 ---
-
+```html
 
 
 
@@ -46,3 +46,4 @@ receive the money collected.</p>
 
 
 
+```

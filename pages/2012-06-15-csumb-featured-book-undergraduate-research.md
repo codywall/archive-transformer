@@ -3,7 +3,7 @@ title: CSUMB featured in book on undergraduate research
 date: June 15 2012
 slug: csumb-featured-in-book-on-undergraduate-research
 ---
-
+```html
 
 
 
@@ -51,3 +51,4 @@ by the Council on Undergraduate Research. Order it&#xA0;<a href="http://www.cur.
 
 
 
+```

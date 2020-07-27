@@ -3,7 +3,7 @@ title: Community invited to Dec. 6 winter concert
 date: November 14 2014
 slug: community-invited-to-dec--6-winter-concert
 ---
-
+```html
 
 
 
@@ -33,3 +33,4 @@ and the Music and Performing Arts Department.</br></br></p>
 
 
 
+```

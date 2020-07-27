@@ -3,7 +3,7 @@ title: Jose Hernandez named Hearst Scholar
 date: November 9 2012
 slug: jose-hernandez-named-hearst-scholar
 ---
-
+```html```html
 
 
 
@@ -57,3 +57,4 @@ and for being role models.&#xA0;</p>
 
 
 
+``````

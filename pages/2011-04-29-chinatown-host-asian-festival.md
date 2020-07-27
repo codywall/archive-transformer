@@ -3,7 +3,7 @@ title: Chinatown to host Asian Festival
 date: April 29 2011
 slug: chinatown-to-host-asian-festival
 ---
-
+```html
 
 
 
@@ -37,3 +37,4 @@ For more information, visit <a href="http://www.salinasasianfestival.com" title=
 
 
 
+```

@@ -3,7 +3,7 @@ title: Another campus building earns LEED award
 date: October 17 2011
 slug: another-campus-building-earns-leed-award
 ---
-
+```html
 
 
 
@@ -49,3 +49,4 @@ silver certification.<br>
 
 
 
+```

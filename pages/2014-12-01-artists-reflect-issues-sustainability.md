@@ -3,7 +3,7 @@ title: Artists reflect on issues of sustainability
 date: December 1 2014
 slug: artists-reflect-on-issues-of-sustainability
 ---
-
+```html
 
 
 
@@ -48,3 +48,4 @@ directions and a campus map are available <a href="http://csumb.edu/maps" rel="n
 
 
 
+```

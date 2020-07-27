@@ -3,7 +3,7 @@ title: Stanford researcher visits CSUMB March 27
 date: March 16 2013
 slug: stanford-researcher-visits-csumb-march-27
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ issues important to our community and our nation.</p>
 
 
 
+```

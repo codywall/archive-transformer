@@ -3,7 +3,7 @@ title: Feeling out the campus
 date: March 5 2006
 slug: feeling-out-the-campus
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ fundraising.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Middle school students get a jump on algebra
 date: January 7 2013
 slug: middle-school-students-get-a-jump-on-algebra
 ---
-
+```html
 
 
 
@@ -88,3 +88,4 @@ a profie of Dr. Hu.</a><br>
 
 
 
+```

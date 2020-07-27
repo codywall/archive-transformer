@@ -3,7 +3,7 @@ title: Learn what to do in an emergency
 date: September 8 2014
 slug: learn-what-to-do-in-an-emergency
 ---
-
+```html
 
 
 
@@ -49,3 +49,4 @@ and Safety at CSUMB</a></p>
 
 
 
+```

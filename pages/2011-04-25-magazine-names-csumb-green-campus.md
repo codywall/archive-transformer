@@ -3,7 +3,7 @@ title: Magazine names CSUMB &apos;green&apos; campus
 date: April 25 2011
 slug: magazine-names-csumb--apos-green-apos--campus
 ---
-
+```html
 
 
 
@@ -95,3 +95,4 @@ sustainability can be found <a href="http://csumb.edu/green" rel="nofollow">here
 
 
 
+```

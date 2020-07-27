@@ -3,7 +3,7 @@ title: Religion Peace and Justice in the Middle East speaker series
 date: November 4 2012
 slug: religion-peace-and-justice-in-the-middle-east-speaker-series
 ---
-
+```html
 
 
 
@@ -41,3 +41,4 @@ slug: religion-peace-and-justice-in-the-middle-east-speaker-series
 
 
 
+```

@@ -3,7 +3,7 @@ title: Brave New Education
 date: August 29 2013
 slug: brave-new-education
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ laying the path to a more competitive workforce.<br>
 
 
 
+```

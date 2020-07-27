@@ -3,7 +3,7 @@ title: Experience Japanese tea ceremony
 date: September 10 2014
 slug: experience-japanese-tea-ceremony
 ---
-
+```html
 
 
 
@@ -28,3 +28,4 @@ please RSVP by Sept. 12 at <a href="mailto:wlc@csumb.edu">wlc@csumb.edu</a> or c
 
 
 
+```

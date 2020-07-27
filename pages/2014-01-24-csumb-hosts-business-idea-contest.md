@@ -3,7 +3,7 @@ title: CSUMB hosts business idea contest
 date: January 24 2014
 slug: csumb-hosts-business-idea-contest
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ week at CSUMB. The university will host a Startup Weekend &#x2013; a
 
 
 
+```

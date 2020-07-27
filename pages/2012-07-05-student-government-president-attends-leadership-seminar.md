@@ -3,7 +3,7 @@ title: Student government president attends leadership seminar
 date: July 5 2012
 slug: student-government-president-attends-leadership-seminar
 ---
-
+```html
 
 
 
@@ -61,3 +61,4 @@ Publilc Policy director Sylvia Panetta &#xA0;</em></p>
 
 
 
+```

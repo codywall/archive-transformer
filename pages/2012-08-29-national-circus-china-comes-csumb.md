@@ -3,7 +3,7 @@ title: National Circus of China comes to CSUMB
 date: August 29 2012
 slug: national-circus-of-china-comes-to-csumb
 ---
-
+```html
 
 
 
@@ -44,3 +44,4 @@ by calling the box office at 582-4580.</p>
 
 
 
+```

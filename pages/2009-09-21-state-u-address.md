@@ -3,7 +3,7 @@ title: State of the University address set for Thursday
 date: September 21 2009
 slug: state-of-the-university-address-set-for-thursday
 ---
-
+```html
 
 
 
@@ -39,3 +39,4 @@ via the web, accessible from <a href="http://csumb.edu/site/x12349.xml" title="h
 
 
 
+```

@@ -3,7 +3,7 @@ title: intergarrison to close
 date: November 10 2007
 slug: intergarrison-to-close
 ---
-
+```html
 
 
 
@@ -36,3 +36,4 @@ been closed for several months. It will reopen on Tuesday, Nov.
 
 
 
+```

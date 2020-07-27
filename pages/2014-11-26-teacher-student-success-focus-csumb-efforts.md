@@ -3,7 +3,7 @@ title: Teacher student success focus of CSUMB efforts
 date: November 26 2014
 slug: teacher-student-success-focus-of-csumb-efforts
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ and to enhance our teacher preparation programs.<br>
 
 
 
+```

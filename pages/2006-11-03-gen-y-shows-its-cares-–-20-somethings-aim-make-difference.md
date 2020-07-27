@@ -3,7 +3,7 @@ title: Gen Y shows its cares &#x2013; 20somethings aim to make a difference
 date: November 3 2006
 slug: gen-y-shows-its-cares---x2013--20somethings-aim-to-make-a-difference
 ---
-
+```html
 
 
 
@@ -21,3 +21,4 @@ graduates this fall, is typical of her generation.<br>
 
 
 
+```

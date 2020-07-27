@@ -3,7 +3,7 @@ title: Earth Day celebrated with week&apos;s worth of activities
 date: April 17 2013
 slug: earth-day-celebrated-with-week-apos-s-worth-of-activities
 ---
-
+```html
 
 
 
@@ -69,3 +69,4 @@ CSUMB.</a><br>
 
 
 
+```

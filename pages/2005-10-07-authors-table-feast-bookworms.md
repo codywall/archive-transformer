@@ -3,7 +3,7 @@ title: Author&apos;s Table a feast for bookworms
 date: October 7 2005
 slug: author-apos-s-table-a-feast-for-bookworms
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ Monterey County.<br>
 
 
 
+```

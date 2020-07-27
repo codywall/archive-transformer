@@ -3,7 +3,7 @@ title: Lack of &apos;order&apos; infuses CSUMB&apos;s student CD
 date: March 30 2006
 slug: lack-of--apos-order-apos--infuses-csumb-apos-s-student-cd
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ came about when I was moving apartments,&quot; said Sara Bailey, a
 
 
 
+```

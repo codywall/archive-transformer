@@ -3,7 +3,7 @@ title: CSUMB earns national honor for Service Learning
 date: January 7 2015
 slug: csumb-earns-national-honor-for-service-learning
 ---
-
+```html
 
 
 
@@ -75,3 +75,4 @@ about Service Learning at CSUMB</a></p>
 
 
 
+```

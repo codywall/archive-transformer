@@ -3,7 +3,7 @@ title: Hiramoto named VP for advancement
 date: November 2 2011
 slug: hiramoto-named-vp-for-advancement
 ---
-
+```html
 
 
 
@@ -57,3 +57,4 @@ bachelor of arts degree in architecture from UC Berkeley.</br></br></br></br></b
 
 
 
+```

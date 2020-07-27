@@ -3,7 +3,7 @@ title: Smoke coming our way from Soledad fire
 date: August 28 2009
 slug: smoke-coming-our-way-from-soledad-fire
 ---
-
+```html
 
 
 
@@ -39,3 +39,4 @@ website at <a href="http://www.mbuapcd.org/" target="_blank" rel="nofollow">www.
 
 
 
+```

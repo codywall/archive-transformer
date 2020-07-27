@@ -3,7 +3,7 @@ title: CSUMB lands $5.6 million grants for science program
 date: September 27 2011
 slug: csumb-lands--5-6-million-grants-for-science-program
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ into the field to conduct real-world, hands-on research.&#x201D;<br>
 
 
 
+```

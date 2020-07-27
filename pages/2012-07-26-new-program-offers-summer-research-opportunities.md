@@ -3,7 +3,7 @@ title: New program offers summer research opportunities
 date: July 26 2012
 slug: new-program-offers-summer-research-opportunities
 ---
-
+```html
 
 
 
@@ -91,3 +91,4 @@ habitat use of green sea turtles in San Diego Bay</em></p>
 
 
 
+```

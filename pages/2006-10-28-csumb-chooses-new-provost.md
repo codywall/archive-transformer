@@ -3,7 +3,7 @@ title: CSUMB chooses new provost
 date: October 28 2006
 slug: csumb-chooses-new-provost
 ---
-
+```html
 
 
 
@@ -21,3 +21,4 @@ president of academic affairs at CSU-Monterey Bay.<br>
 
 
 
+```

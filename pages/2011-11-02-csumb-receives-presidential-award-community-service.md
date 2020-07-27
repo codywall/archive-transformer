@@ -3,7 +3,7 @@ title: CSUMB receives Presidential Award for community service
 date: November 2 2011
 slug: csumb-receives-presidential-award-for-community-service
 ---
-
+```html
 
 
 
@@ -126,3 +126,4 @@ children expressed a desire to attend college.</br></br></br></br></br></br></br
 
 
 
+```

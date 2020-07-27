@@ -3,7 +3,7 @@ title: Visiting artist series continues Oct. 3
 date: September 25 2013
 slug: visiting-artist-series-continues-oct--3
 ---
-
+```html
 
 
 
@@ -46,3 +46,4 @@ and Folk Art Museum</em></p>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Thinking outside the borders
 date: October 22 2014
 slug: thinking-outside-the-borders
 ---
-
+```html
 
 
 
@@ -57,3 +57,4 @@ thinking at the same time.</em><br>
 <p><br>
 &#xA0;</br></p>
 
+```

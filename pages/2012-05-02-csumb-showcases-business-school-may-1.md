@@ -3,7 +3,7 @@ title: CSUMB showcases Business School on May 1
 date: May 2 2012
 slug: csumb-showcases-business-school-on-may-1
 ---
-
+```html
 
 
 
@@ -38,3 +38,4 @@ us &#x2013; especially those who are employers in the area.&#x201D;</br></br></b
 
 
 
+```

@@ -3,7 +3,7 @@ title: Dean named for new College of Education
 date: June 5 2014
 slug: dean-named-for-new-college-of-education
 ---
-
+```html
 
 
 
@@ -62,3 +62,4 @@ his Ph.D. from the University of Virginia.<br>
 
 
 
+```

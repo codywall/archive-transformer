@@ -3,7 +3,7 @@ title: Alcohol Awareness Week comes to CSUMB
 date: October 14 2014
 slug: alcohol-awareness-week-comes-to-csumb
 ---
-
+```html
 
 
 
@@ -81,3 +81,4 @@ Highway Patrol.</p>
 
 
 
+```

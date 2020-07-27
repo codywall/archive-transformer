@@ -3,7 +3,7 @@ title: Faculty grants support summer projects
 date: May 12 2014
 slug: faculty-grants-support-summer-projects
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ Incorporating &#x201C;Teaching Naked&#x201D; pedagogy into the new BIO 211
 
 
 
+```

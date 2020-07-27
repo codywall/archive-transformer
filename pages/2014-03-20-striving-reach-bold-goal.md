@@ -3,7 +3,7 @@ title: Striving to reach a bold goal
 date: March 20 2014
 slug: striving-to-reach-a-bold-goal
 ---
-
+```html
 
 
 
@@ -80,3 +80,4 @@ and Growth: Finding Alternatives to Violence.</p>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Obama adviser to speak at CSUMB commencement
 date: May 1 2014
 slug: obama-adviser-to-speak-at-csumb-commencement
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ White House, is director of the Domestic Policy Council.<br>
 
 
 
+```

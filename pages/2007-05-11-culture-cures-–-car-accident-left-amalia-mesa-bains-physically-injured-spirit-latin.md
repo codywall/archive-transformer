@@ -6,7 +6,7 @@ date: May 11 2007
 slug: &gt;-
   culture-cures---x2013--a-car-accident-left-amalia-mesabains-physically-injured-but-the-spirit-of-the-latina-artist-thrives
 ---
-
+```html
 
 
 
@@ -24,3 +24,4 @@ cultura.&quot;<br>
 
 
 
+```

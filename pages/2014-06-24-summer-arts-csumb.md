@@ -3,7 +3,7 @@ title: Summer Arts at CSUMB
 date: June 24 2014
 slug: summer-arts-at-csumb
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ interactive art and sculpture.<br>
 
 
 
+```

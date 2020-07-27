@@ -3,7 +3,7 @@ title: Awards recognize excellence in journalism
 date: May 9 2014
 slug: awards-recognize-excellence-in-journalism
 ---
-
+```html
 
 
 
@@ -96,3 +96,4 @@ Silent Protest, winner in the Best Photography category</br></em></br></br></br>
 
 
 
+```

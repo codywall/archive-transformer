@@ -3,7 +3,7 @@ title: Grad uses theater arts to reach young men
 date: November 7 2012
 slug: grad-uses-theater-arts-to-reach-young-men
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ staging a production; it&#x2019;s about education and creating change.</p>
 
 
 
+```

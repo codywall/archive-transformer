@@ -3,7 +3,7 @@ title: API community celebrates graduation
 date: May 23 2013
 slug: api-community-celebrates-graduation
 ---
-
+```html
 
 
 
@@ -42,3 +42,4 @@ commencement on May 17.</em></br></img></p>
 
 
 
+```

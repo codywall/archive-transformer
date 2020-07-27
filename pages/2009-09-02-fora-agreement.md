@@ -3,7 +3,7 @@ title: CSUMB reaches agreement with Marina FORA on future growth
 date: September 2 2009
 slug: csumb-reaches-agreement-with-marina-fora-on-future-growth
 ---
-
+```html
 
 
 
@@ -70,3 +70,4 @@ about 4,300 today.</p>
 
 
 
+```

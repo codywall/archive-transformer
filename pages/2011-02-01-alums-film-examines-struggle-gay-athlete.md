@@ -3,7 +3,7 @@ title: Alum&apos;s film examines struggle of gay athlete
 date: February 1 2011
 slug: alum-apos-s-film-examines-struggle-of-gay-athlete
 ---
-
+```html
 
 
 
@@ -91,3 +91,4 @@ others.<br>
 
 
 
+```

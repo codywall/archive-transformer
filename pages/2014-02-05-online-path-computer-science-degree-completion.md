@@ -3,7 +3,7 @@ title: Online path to computer science degree completion
 date: February 5 2014
 slug: online-path-to-computer-science-degree-completion
 ---
-
+```html
 
 
 
@@ -34,3 +34,4 @@ call 1-800-247-5168 to speak directly with a college coach.</p>
 
 
 
+```

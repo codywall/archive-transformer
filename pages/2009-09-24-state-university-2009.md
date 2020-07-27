@@ -3,7 +3,7 @@ title: CSUMB ready for challenges ahead
 date: September 24 2009
 slug: csumb-ready-for-challenges-ahead
 ---
-
+```html
 
 
 
@@ -87,3 +87,4 @@ for it.&quot;</p>
 
 
 
+```

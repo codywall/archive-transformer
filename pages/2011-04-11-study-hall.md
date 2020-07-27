@@ -3,7 +3,7 @@ title: STUDY HALL
 date: April 11 2011
 slug: study-hall
 ---
-
+```html
 
 
 
@@ -54,3 +54,4 @@ I&#x2019;m in here nearly every day.&#x201D;</p>
 
 
 
+```

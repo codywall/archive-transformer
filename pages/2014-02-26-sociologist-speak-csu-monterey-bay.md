@@ -3,7 +3,7 @@ title: Sociologist to speak at CSU Monterey Bay
 date: February 26 2014
 slug: sociologist-to-speak-at-csu-monterey-bay
 ---
-
+```html
 
 
 
@@ -40,3 +40,4 @@ available from rita zhang at <a href="mailto:rzhang@csumb.edu">rzhang@csumb.edu<
 
 
 
+```

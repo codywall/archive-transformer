@@ -3,7 +3,7 @@ title: Sierra Club names CSUMB a &apos;Cool School&apos;
 date: September 27 2013
 slug: sierra-club-names-csumb-a--apos-cool-school-apos-
 ---
-
+```html
 
 
 
@@ -89,3 +89,4 @@ from its solar array</br></em><br>
 
 
 
+```

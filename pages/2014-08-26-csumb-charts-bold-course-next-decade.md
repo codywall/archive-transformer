@@ -3,7 +3,7 @@ title: CSUMB charts &apos;bold course&apos; for next decade
 date: August 26 2014
 slug: csumb-charts--apos-bold-course-apos--for-next-decade
 ---
-
+```html
 
 
 
@@ -97,3 +97,4 @@ Studies were promoted to full professor.</br></br></br></br></br></br></br></br>
 
 
 
+```

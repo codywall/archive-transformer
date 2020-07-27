@@ -3,7 +3,7 @@ title: President Harrison gets national responsibilities
 date: April 12 2011
 slug: president-harrison-gets-national-responsibilities
 ---
-
+```html
 
 
 
@@ -34,3 +34,4 @@ as an ex-officio member representing the Presidents Council.<br>
 
 
 
+```

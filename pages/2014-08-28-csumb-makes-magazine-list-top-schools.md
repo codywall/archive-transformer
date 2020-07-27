@@ -3,7 +3,7 @@ title: CSUMB makes magazine list of top schools
 date: August 28 2014
 slug: csumb-makes-magazine-list-of-top-schools
 ---
-
+```html
 
 
 
@@ -47,3 +47,4 @@ and outcome.</p>
 
 
 
+```

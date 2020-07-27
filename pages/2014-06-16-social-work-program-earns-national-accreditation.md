@@ -3,7 +3,7 @@ title: Social work program earns national accreditation
 date: June 16 2014
 slug: social-work-program-earns-national-accreditation
 ---
-
+```html
 
 
 
@@ -57,3 +57,4 @@ the second and third years of study.</p>
 
 
 
+```

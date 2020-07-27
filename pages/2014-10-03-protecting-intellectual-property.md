@@ -3,7 +3,7 @@ title: Protecting intellectual property
 date: October 3 2014
 slug: protecting-intellectual-property
 ---
-
+```html
 
 
 
@@ -42,3 +42,4 @@ look at crowdfunding.</br></br></p>
 
 
 
+```

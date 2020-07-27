@@ -3,7 +3,7 @@ title: CSUMB recognized for preparedness efforts
 date: September 8 2014
 slug: csumb-recognized-for-preparedness-efforts
 ---
-
+```html
 
 
 
@@ -49,3 +49,4 @@ billions of dollars in damage.<br>
 
 
 
+```

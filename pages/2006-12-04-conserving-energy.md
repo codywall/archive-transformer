@@ -3,7 +3,7 @@ title: Conserving Energy
 date: December 4 2006
 slug: conserving-energy
 ---
-
+```html
 
 
 
@@ -58,3 +58,4 @@ already been completed.</p>
 
 
 
+```

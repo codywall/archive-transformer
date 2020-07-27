@@ -3,7 +3,7 @@ title: enroll early for fall 2010
 date: July 20 2009
 slug: enroll-early-for-fall-2010
 ---
-
+```html
 
 
 
@@ -61,3 +61,4 @@ csumb.edu/financialaid</br></br></p>
 
 
 
+```

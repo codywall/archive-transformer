@@ -3,7 +3,7 @@ title: Campus marks Constitution Day
 date: September 14 2005
 slug: campus-marks-constitution-day
 ---
-
+```html
 
 
 
@@ -52,3 +52,4 @@ they do about the foundations of their government.</p>
 
 
 
+```

@@ -3,7 +3,7 @@ title: CSUMB observes National Collegiate Alcohol Awareness Week
 date: October 28 2014
 slug: csumb-observes-national-collegiate-alcohol-awareness-week
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ and Monterey Garage.<br>
 
 
 
+```

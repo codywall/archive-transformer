@@ -3,7 +3,7 @@ title: CSUMB celebra Dias de la Diversidad
 date: March 4 2006
 slug: csumb-celebra-dias-de-la-diversidad
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ de arte asi como presentaciones de cine.<br>
 
 
 
+```

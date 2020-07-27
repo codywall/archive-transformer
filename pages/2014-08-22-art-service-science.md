@@ -3,7 +3,7 @@ title: Art in the service of science
 date: August 22 2014
 slug: art-in-the-service-of-science
 ---
-
+```html
 
 
 
@@ -93,3 +93,4 @@ world, to be a voice for it.&quot;</em><br>
 
 
 
+```

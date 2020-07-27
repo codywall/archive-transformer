@@ -3,7 +3,7 @@ title: Salinas resident earns CSU Trustee Award
 date: September 22 2014
 slug: salinas-resident-earns-csu-trustee-award
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ honored Sept. 9 at the CSU board meeting in Long Beach<br>
 
 
 
+```

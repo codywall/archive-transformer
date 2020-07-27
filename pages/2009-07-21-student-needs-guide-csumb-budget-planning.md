@@ -3,7 +3,7 @@ title: Student needs guide CSUMB budget planning
 date: July 21 2009
 slug: student-needs-guide-csumb-budget-planning
 ---
-
+```html
 
 
 
@@ -145,3 +145,4 @@ not attend college, and 28 percent are Latino.</p>
 
 
 
+```

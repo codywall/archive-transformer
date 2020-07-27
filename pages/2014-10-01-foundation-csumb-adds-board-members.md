@@ -3,7 +3,7 @@ title: Foundation of CSUMB adds board members
 date: October 1 2014
 slug: foundation-of-csumb-adds-board-members
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ board members.</p>
 
 
 
+```

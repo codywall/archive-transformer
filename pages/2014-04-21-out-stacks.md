@@ -3,7 +3,7 @@ title: Out from the stacks
 date: April 21 2014
 slug: out-from-the-stacks
 ---
-
+```html
 
 
 
@@ -88,3 +88,4 @@ trip blog</a></p>
 
 
 
+```

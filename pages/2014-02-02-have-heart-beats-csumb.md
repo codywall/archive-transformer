@@ -3,7 +3,7 @@ title: a Heart&apos; beats on for CSUMB
 date: February 2 2014
 slug: a-heart-apos--beats-on-for-csumb
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ and Auction&quot; will move off campus to a new venue this year.<br>
 
 
 
+```

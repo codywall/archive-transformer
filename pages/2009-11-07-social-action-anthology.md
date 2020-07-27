@@ -3,7 +3,7 @@ title: Writers on Fire
 date: November 7 2009
 slug: writers-on-fire
 ---
-
+```html
 
 
 
@@ -51,3 +51,4 @@ For driving directions and a campus map, visit csumb.edu/map.</p>
 
 
 
+```

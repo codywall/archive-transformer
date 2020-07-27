@@ -3,7 +3,7 @@ title: Capstone project leads to museum exhibit
 date: July 10 2014
 slug: capstone-project-leads-to-museum-exhibit
 ---
-
+```html
 
 
 
@@ -42,3 +42,4 @@ the Visual and Public Art Department</a></p>
 
 
 
+```

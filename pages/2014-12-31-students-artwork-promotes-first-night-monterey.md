@@ -3,7 +3,7 @@ title: Student&apos;s artwork promotes First Night Monterey
 date: December 31 2014
 slug: student-apos-s-artwork-promotes-first-night-monterey
 ---
-
+```html
 
 
 
@@ -41,3 +41,4 @@ ideas, and you interpret that,&#x201D; she said.<br>
 
 
 
+```

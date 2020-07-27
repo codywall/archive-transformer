@@ -3,7 +3,7 @@ title: Junipero Serra&apos;s legacy examined
 date: November 18 2013
 slug: junipero-serra-apos-s-legacy-examined
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ host a symposium on Serra&apos;s legacy on his birthday.<br>
 
 
 
+```

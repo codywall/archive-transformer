@@ -3,7 +3,7 @@ title: Acidification and summer vacation
 date: July 3 2012
 slug: acidification-and-summer-vacation
 ---
-
+```html
 
 
 
@@ -174,3 +174,4 @@ Marine Labs and Scripps Institution of Oceanography</br></br></br></br></em></br
 
 
 
+```

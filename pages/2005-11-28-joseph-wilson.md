@@ -3,7 +3,7 @@ title: Joseph Wilson
 date: November 28 2005
 slug: joseph-wilson
 ---
-
+```html
 
 
 
@@ -76,3 +76,4 @@ but former Ambassador Joseph Wilson also tells captivating stories
 from his life as a foreign service officer with a long career
 fostering the development of African democracies, and gives us a
 behind-the-scenes blow-by</p>
+```

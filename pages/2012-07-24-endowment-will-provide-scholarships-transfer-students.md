@@ -3,7 +3,7 @@ title: Endowment will provide scholarships for transfer students
 date: July 24 2012
 slug: endowment-will-provide-scholarships-for-transfer-students
 ---
-
+```html
 
 
 
@@ -33,3 +33,4 @@ serve the intellectual and cultural needs of older adults.</br></br></br></br></
 
 
 
+```

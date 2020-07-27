@@ -3,7 +3,7 @@ title: Commencement by the numbers
 date: May 13 2014
 slug: commencement-by-the-numbers
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ about commencement here</a>.</br></br></p>
 
 
 
+```

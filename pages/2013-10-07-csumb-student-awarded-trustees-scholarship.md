@@ -3,7 +3,7 @@ title: CSUMB student awarded Trustees&apos; scholarship
 date: October 7 2013
 slug: csumb-student-awarded-trustees-apos--scholarship
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ helping others is the recipient of a prestigious scholarship.<br>
 
 
 
+```

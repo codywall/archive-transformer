@@ -3,7 +3,7 @@ title: A new high for Otters
 date: October 7 2005
 slug: a-new-high-for-otters
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ any CSUMB athletic program has enjoyed &#x2013; ever.<br>
 
 
 
+```

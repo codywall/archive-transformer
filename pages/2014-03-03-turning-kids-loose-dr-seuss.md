@@ -3,7 +3,7 @@ title: Turning kids loose on Dr. Seuss
 date: March 3 2014
 slug: turning-kids-loose-on-dr--seuss
 ---
-
+```html
 
 
 
@@ -47,3 +47,4 @@ Olsen Elementary School</em></p>
 
 
 
+```

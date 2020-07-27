@@ -3,7 +3,7 @@ title: Psychology lecturer&apos;s work featured in textbook
 date: June 11 2013
 slug: psychology-lecturer-apos-s-work-featured-in-textbook
 ---
-
+```html
 
 
 
@@ -48,3 +48,4 @@ doing.</a></em><br>
 
 
 
+```

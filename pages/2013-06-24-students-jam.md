@@ -3,7 +3,7 @@ title: STUDENTS IN A JAM
 date: June 24 2013
 slug: students-in-a-jam
 ---
-
+```html
 
 
 
@@ -71,3 +71,4 @@ Bound</a> and <a href="http://eosp.csumb.edu/educational-talent-search" rel="nof
 
 
 
+```

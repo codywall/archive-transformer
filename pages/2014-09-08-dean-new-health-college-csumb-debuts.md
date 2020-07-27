@@ -3,7 +3,7 @@ title: Dean of new health college at CSUMB debuts
 date: September 8 2014
 slug: dean-of-new-health-college-at-csumb-debuts
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ Bay. Britt Rios-Ellis is the founding dean of the college.<br>
 
 
 
+```

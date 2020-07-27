@@ -3,7 +3,7 @@ title: Open University opens up opportunities
 date: January 15 2014
 slug: open-university-opens-up-opportunities
 ---
-
+```html
 
 
 
@@ -54,3 +54,4 @@ For more information, visit <a href="http://extended.csumb.edu" rel="nofollow">e
 
 
 
+```

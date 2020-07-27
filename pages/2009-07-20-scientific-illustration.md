@@ -3,7 +3,7 @@ title: Scientific Illustration
 date: July 20 2009
 slug: scientific-illustration
 ---
-
+```html
 
 
 
@@ -78,3 +78,4 @@ More information about the program is available online at <a href="http://www.sc
 
 
 
+```

@@ -6,7 +6,7 @@ date: August 15 2006
 slug: &gt;-
   gauthier-makes-csumb-home---x2013--new-athletic-director-prepared-to-elevate-otter-athletics
 ---
-
+```html
 
 
 
@@ -23,3 +23,4 @@ Division II Southwest Minnesota State University.<br>
 
 
 
+```

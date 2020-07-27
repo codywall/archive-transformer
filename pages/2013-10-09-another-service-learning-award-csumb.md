@@ -3,7 +3,7 @@ title: Another Service Learning award for CSUMB
 date: October 9 2013
 slug: another-service-learning-award-for-csumb
 ---
-
+```html
 
 
 
@@ -77,3 +77,4 @@ New Orleans and Syracuse University also won awards.</p>
 
 
 
+```

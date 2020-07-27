@@ -3,7 +3,7 @@ title: A capstone for a bucket list
 date: December 16 2014
 slug: a-capstone-for-a-bucket-list
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ her capstone project on Dec. 19.<br>
 
 
 
+```

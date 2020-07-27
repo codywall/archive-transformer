@@ -3,7 +3,7 @@ title: Latino Magazine commends CSUMB
 date: November 29 2006
 slug: latino-magazine-commends-csumb
 ---
-
+```html
 
 
 
@@ -39,3 +39,4 @@ earned by Hispanics.</p>
 
 
 
+```

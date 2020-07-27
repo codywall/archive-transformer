@@ -3,7 +3,7 @@ title: CSUMB presents an evening with Lea DeLaria
 date: October 8 2014
 slug: csumb-presents-an-evening-with-lea-delaria
 ---
-
+```html
 
 
 
@@ -42,3 +42,4 @@ Driving directions and a campus map are available <a href="http://csumb.edu/maps
 
 
 
+```

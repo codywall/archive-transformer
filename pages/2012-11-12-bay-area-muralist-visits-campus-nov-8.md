@@ -3,7 +3,7 @@ title: Bay Area muralist visits campus Nov. 8
 date: November 12 2012
 slug: bay-area-muralist-visits-campus-nov--8
 ---
-
+```html
 
 
 
@@ -62,3 +62,4 @@ Artists Program</em></br></br></p>
 
 
 
+```

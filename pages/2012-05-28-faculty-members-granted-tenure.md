@@ -3,7 +3,7 @@ title: Faculty members granted tenure
 date: May 28 2012
 slug: faculty-members-granted-tenure
 ---
-
+```html
 
 
 
@@ -40,3 +40,4 @@ professor.<br>
 
 
 
+```

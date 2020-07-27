@@ -3,7 +3,7 @@ title: John Marker
 date: July 10 2009
 slug: john-marker
 ---
-
+```html
 
 
 
@@ -34,3 +34,4 @@ California to be closer to his family.</p>
 
 
 
+```

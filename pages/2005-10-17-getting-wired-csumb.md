@@ -3,7 +3,7 @@ title: Getting wired at CSUMB
 date: October 17 2005
 slug: getting-wired-at-csumb
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ Center.<br>
 
 
 
+```

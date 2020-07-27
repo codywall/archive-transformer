@@ -3,7 +3,7 @@ title: MPA lecturer honored by composers group
 date: June 11 2013
 slug: mpa-lecturer-honored-by-composers-group
 ---
-
+```html
 
 
 
@@ -45,3 +45,4 @@ his <a href="http://www.laniersammons.com/Main/" rel="nofollow">website</a>.</br
 
 
 
+```

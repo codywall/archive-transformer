@@ -3,7 +3,7 @@ title: More dining options for those with food allergies
 date: August 20 2013
 slug: more-dining-options-for-those-with-food-allergies
 ---
-
+```html
 
 
 
@@ -49,3 +49,4 @@ information about campus dining</a><br>
 
 
 
+```

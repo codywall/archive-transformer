@@ -3,7 +3,7 @@ title: Art exhibit looks to entertain and empower
 date: January 9 2015
 slug: art-exhibit-looks-to-entertain-and-empower
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ Dionicio, is nothing short of a sensory extravaganza . . .
 
 
 
+```

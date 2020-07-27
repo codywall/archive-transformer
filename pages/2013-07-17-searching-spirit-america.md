@@ -3,7 +3,7 @@ title: Searching for the spirit of America
 date: July 17 2013
 slug: searching-for-the-spirit-of-america
 ---
-
+```html
 
 
 
@@ -67,3 +67,4 @@ the blog that Cody and Tyler kept during their trip.</em></a></br></br></p>
 
 
 
+```

@@ -6,7 +6,7 @@ date: June 22 2006
 slug: &gt;-
   new-csumb-chief-gets-off-to-fast-start---x2013--harrison-era-begins-at-university
 ---
-
+```html
 
 
 
@@ -22,3 +22,4 @@ in the university&apos;s success.<br>
 
 
 
+```

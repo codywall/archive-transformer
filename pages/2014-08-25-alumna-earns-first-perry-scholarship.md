@@ -3,7 +3,7 @@ title: Alumna earns first Perry Scholarship
 date: August 25 2014
 slug: alumna-earns-first-perry-scholarship
 ---
-
+```html
 
 
 
@@ -52,3 +52,4 @@ one at CSUMB.</p>
 
 
 
+```

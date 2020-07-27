@@ -3,7 +3,7 @@ title: CSUMB earns gold for sustainability efforts
 date: November 2 2011
 slug: csumb-earns-gold-for-sustainability-efforts
 ---
-
+```html
 
 
 
@@ -81,3 +81,4 @@ there are many more things we can do.&quot;<br>
 
 
 
+```

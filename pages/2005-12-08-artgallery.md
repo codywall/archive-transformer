@@ -3,7 +3,7 @@ title: ArtGallery
 date: December 8 2005
 slug: artgallery
 ---
-
+```html
 
 
 
@@ -36,3 +36,4 @@ application, exhibit content, design and interpretation.</p>
 
 
 
+```

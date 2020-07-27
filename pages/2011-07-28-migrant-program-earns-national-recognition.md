@@ -3,7 +3,7 @@ title: Migrant program earns national recognition
 date: July 28 2011
 slug: migrant-program-earns-national-recognition
 ---
-
+```html
 
 
 
@@ -50,3 +50,4 @@ succeed tremendously in such a short time.&quot;&#xA0;<br>
 To learn more about CAMP at CSUMB, and to view a video about the
 program, click <a href="http://csumb.edu/camp" rel="nofollow">here</a>.&#xA0;</br></br></p>
 
+```

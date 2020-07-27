@@ -3,7 +3,7 @@ title: World Theater presents its 2010 lineup
 date: November 2 2010
 slug: world-theater-presents-its-2010-lineup
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ visit the theater online at <a href="http://worldtheater.csumb.edu/" rel="nofoll
 
 
 
+```

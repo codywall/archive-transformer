@@ -3,7 +3,7 @@ title: City&apos;s rich culture blooms in mural
 date: December 7 2005
 slug: city-apos-s-rich-culture-blooms-in-mural
 ---
-
+```html
 
 
 
@@ -25,3 +25,4 @@ University, Monterey Bay.<br>
 
 
 
+```

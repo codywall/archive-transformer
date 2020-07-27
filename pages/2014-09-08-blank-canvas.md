@@ -3,7 +3,7 @@ title: BLANK CANVAS
 date: September 8 2014
 slug: blank-canvas
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ paint at Inter-Garrison Road and Fifth Avenue.<br>
 
 
 
+```

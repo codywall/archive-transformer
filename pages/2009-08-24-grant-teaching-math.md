@@ -3,7 +3,7 @@ title: Grant helps CSUMB train new math teachers
 date: August 24 2009
 slug: grant-helps-csumb-train-new-math-teachers
 ---
-
+```html
 
 
 
@@ -64,3 +64,4 @@ Noyce, co-inventor of the computer chip and founder of Intel.</p>
 
 
 
+```

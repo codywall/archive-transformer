@@ -3,7 +3,7 @@ title: We&apos;re different now
 date: August 31 2006
 slug: we-apos-re-different-now
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ finds the school is just getting started.<br>
 
 
 
+```

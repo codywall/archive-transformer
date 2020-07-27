@@ -3,7 +3,7 @@ title: CSUMB aims for zero waste moveout
 date: May 8 2013
 slug: csumb-aims-for-zero-waste-moveout
 ---
-
+```html
 
 
 
@@ -57,3 +57,4 @@ Bottom photo: Chalk drawing reminds people to recycle</br></em></p>
 
 
 
+```

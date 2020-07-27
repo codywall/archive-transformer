@@ -3,7 +3,7 @@ title: CSUMB video wins CASE silver medal
 date: July 15 2014
 slug: csumb-video-wins-case-silver-medal
 ---
-
+```html
 
 
 
@@ -45,3 +45,4 @@ View the three-minute version <a href="http://media.csumb.edu/www/details.php?id
 
 
 
+```

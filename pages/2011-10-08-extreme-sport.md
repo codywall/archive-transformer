@@ -3,7 +3,7 @@ title: EXTREME SPORT
 date: October 8 2011
 slug: extreme-sport
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.
 
 
 
+```

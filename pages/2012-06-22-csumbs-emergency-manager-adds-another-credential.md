@@ -3,7 +3,7 @@ title: CSUMB&apos;s emergency manager adds another credential
 date: June 22 2012
 slug: csumb-apos-s-emergency-manager-adds-another-credential
 ---
-
+```html
 
 
 
@@ -50,3 +50,4 @@ improve emergency preparedness at all levels.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Earthquake drill set for Thursday
 date: October 12 2009
 slug: earthquake-drill-set-for-thursday
 ---
-
+```html
 
 
 
@@ -79,3 +79,4 @@ CSUMB, visit <a href="http://police.csumb.edu/site/x5487.xml" rel="nofollow">htt
 
 
 
+```

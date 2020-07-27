@@ -3,7 +3,7 @@ title: CSUMB chief vows more outreach
 date: August 29 2013
 slug: csumb-chief-vows-more-outreach
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ broaden the university&apos;s reach into Salinas.<br>
 
 
 
+```

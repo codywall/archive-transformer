@@ -3,7 +3,7 @@ title: Movein day kicks off school year
 date: August 28 2012
 slug: movein-day-kicks-off-school-year
 ---
-
+```html
 
 
 
@@ -57,3 +57,4 @@ quad</br></br></em></br></p>
 
 
 
+```

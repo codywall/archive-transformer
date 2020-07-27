@@ -3,7 +3,7 @@ title: CAMP grant helps migrant students attain college dream
 date: June 27 2014
 slug: camp-grant-helps-migrant-students-attain-college-dream
 ---
-
+```html```html
 
 
 
@@ -41,3 +41,4 @@ Click <a href="http://eosp.csumb.edu/how-apply-1" rel="nofollow">here</a> for in
 
 
 
+``````

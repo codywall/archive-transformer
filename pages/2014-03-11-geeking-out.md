@@ -3,7 +3,7 @@ title: GEEKING OUT
 date: March 11 2014
 slug: geeking-out
 ---
-
+```html
 
 
 
@@ -47,3 +47,4 @@ years</em></p>
 
 
 
+```

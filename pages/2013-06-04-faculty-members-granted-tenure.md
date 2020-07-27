@@ -3,7 +3,7 @@ title: Faculty members granted tenure
 date: June 4 2013
 slug: faculty-members-granted-tenure
 ---
-
+```html
 
 
 
@@ -32,3 +32,4 @@ Department, were promoted to full professor.</p>
 
 
 
+```

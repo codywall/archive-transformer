@@ -3,7 +3,7 @@ title: Movein day heralds start of school year
 date: August 23 2014
 slug: movein-day-heralds-start-of-school-year
 ---
-
+```html
 
 
 
@@ -50,3 +50,4 @@ apartments.<br>
 </div>
 </fieldset>
 
+```

@@ -3,7 +3,7 @@ title: Students try their hand at balancing state budget
 date: June 20 2012
 slug: students-try-their-hand-at-balancing-state-budget
 ---
-
+```html
 
 
 
@@ -74,3 +74,4 @@ Photo: California State Capitol in Sacramento</br></br></em></p>
 
 
 
+```

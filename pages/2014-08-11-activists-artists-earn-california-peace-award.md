@@ -3,7 +3,7 @@ title: Activists artists earn California Peace Award
 date: August 11 2014
 slug: activists-artists-earn-california-peace-award
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ Zepeda Gonzalez, a social and behavioral sciences major at CSUMB.
 
 
 
+```

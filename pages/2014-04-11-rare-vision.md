@@ -3,7 +3,7 @@ title: Rare vision
 date: April 11 2014
 slug: rare-vision
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ sure images are properly tagged and can speak to a user.<br>
 
 
 
+```

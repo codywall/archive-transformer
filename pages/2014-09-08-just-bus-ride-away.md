@@ -3,7 +3,7 @@ title: Just a bus ride away
 date: September 8 2014
 slug: just-a-bus-ride-away
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ campus. . . . CSUMB get an A for its transportation efforts.<br>
 
 
 
+```

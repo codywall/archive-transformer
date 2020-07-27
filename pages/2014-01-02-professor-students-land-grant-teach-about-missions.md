@@ -3,7 +3,7 @@ title: Professor students land grant to teach about missions
 date: January 2 2014
 slug: professor-students-land-grant-to-teach-about-missions
 ---
-
+```html
 
 
 
@@ -96,3 +96,4 @@ more faculty news</a></br></br></br></br></br></br></br></br></p>
 
 
 
+```

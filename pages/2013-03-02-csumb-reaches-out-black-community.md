@@ -3,7 +3,7 @@ title: CSUMB reaches out to black community
 date: March 2 2013
 slug: csumb-reaches-out-to-black-community
 ---
-
+```html
 
 
 
@@ -56,3 +56,4 @@ and graduation rates among African American students.</p>
 582-3738.<br>
 &#xA0;</br></p>
 
+```

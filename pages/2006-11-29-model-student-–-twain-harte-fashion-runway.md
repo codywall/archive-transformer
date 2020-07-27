@@ -3,7 +3,7 @@ title: Model student &#x2013; from Twain Harte to fashion runway
 date: November 29 2006
 slug: model-student---x2013--from-twain-harte-to-fashion-runway
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ loan this year.<br>
 
 
 
+```

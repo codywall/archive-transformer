@@ -3,7 +3,7 @@ title: Girls Love Science Too
 date: July 16 2014
 slug: girls-love-science-too
 ---
-
+```html
 
 
 
@@ -72,3 +72,4 @@ about Camp SEA Lab</a><br>
 </div>
 </fieldset>
 
+```

@@ -3,7 +3,7 @@ title: NAACP student chapter expands campus role
 date: October 7 2013
 slug: naacp-student-chapter-expands-campus-role
 ---
-
+```html
 
 
 
@@ -55,3 +55,4 @@ Nickerson, Asia Goodall, Kymberly Shavers</br></em><br>
 
 
 
+```

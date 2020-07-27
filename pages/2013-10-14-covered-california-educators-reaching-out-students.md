@@ -3,7 +3,7 @@ title: Covered California educators reaching out to students
 date: October 14 2013
 slug: covered-california-educators-reaching-out-to-students
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ at CSU Monterey Bay about their options for health insurance.<br>
 
 
 
+```

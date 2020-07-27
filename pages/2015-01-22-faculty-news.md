@@ -3,7 +3,7 @@ title: Faculty in the News
 date: January 22 2015
 slug: faculty-in-the-news
 ---
-
+```html
 
 
 
@@ -429,3 +429,4 @@ Jan. 3, 2013</br></p>
 
 
 
+```

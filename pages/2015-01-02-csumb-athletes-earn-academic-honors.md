@@ -3,7 +3,7 @@ title: CSUMB athletes earn academic honors
 date: January 2 2015
 slug: csumb-athletes-earn-academic-honors
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ all-academic teams.<br>
 
 
 
+```

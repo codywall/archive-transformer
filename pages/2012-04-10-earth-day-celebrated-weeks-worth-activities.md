@@ -3,7 +3,7 @@ title: Earth Day celebrated with week&apos;s worth of activities
 date: April 10 2012
 slug: earth-day-celebrated-with-week-apos-s-worth-of-activities
 ---
-
+```html
 
 
 
@@ -58,3 +58,4 @@ three days of food, fun and nature. Register online by April
 
 
 
+```

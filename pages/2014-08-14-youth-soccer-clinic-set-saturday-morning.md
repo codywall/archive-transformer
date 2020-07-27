@@ -3,7 +3,7 @@ title: Youth soccer clinic set for Saturday morning
 date: August 14 2014
 slug: youth-soccer-clinic-set-for-saturday-morning
 ---
-
+```html
 
 
 
@@ -28,3 +28,4 @@ soccer clinic in 2000</em></p>
 
 
 
+```

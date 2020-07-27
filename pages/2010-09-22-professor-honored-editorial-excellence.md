@@ -3,7 +3,7 @@ title: Professor honored for editorial excellence
 date: September 22 2010
 slug: professor-honored-for-editorial-excellence
 ---
-
+```html
 
 
 
@@ -32,3 +32,4 @@ obesity to osteoporosis in the elderly.</p>
 
 
 
+```

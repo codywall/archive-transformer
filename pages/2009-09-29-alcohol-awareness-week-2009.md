@@ -3,7 +3,7 @@ title: Alcohol Awareness Week at CSUMB
 date: September 29 2009
 slug: alcohol-awareness-week-at-csumb
 ---
-
+```html
 
 
 
@@ -85,3 +85,4 @@ calling 582-4437 or e-mailing <a href="mailto:grodriguez@csumb.edu">grodriguez@c
 
 
 
+```

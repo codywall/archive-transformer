@@ -3,7 +3,7 @@ title: CSUMB military friendly school
 date: September 24 2013
 slug: csumb-military-friendly-school
 ---
-
+```html
 
 
 
@@ -16,3 +16,4 @@ named a &quot;military-friendly school&quot; by G.I. Jobs magazine.<br>
 
 
 
+```

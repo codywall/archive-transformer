@@ -3,7 +3,7 @@ title: Films cap college careers &#x2013; CSUMB festival to showcase student pro
 date: December 16 2006
 slug: films-cap-college-careers---x2013--csumb-festival-to-showcase-student-projects
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ shown at the Capstone Festival on Wednesday.<br>
 
 
 
+```

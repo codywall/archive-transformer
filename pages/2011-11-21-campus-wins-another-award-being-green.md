@@ -3,7 +3,7 @@ title: Campus wins another award for being &apos;green&apos;
 date: November 21 2011
 slug: campus-wins-another-award-for-being--apos-green-apos-
 ---
-
+```html
 
 
 
@@ -45,3 +45,4 @@ improvements.<br>
 
 
 
+```

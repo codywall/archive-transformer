@@ -3,7 +3,7 @@ title: CSUMB reaches out to black community through church visits
 date: January 21 2015
 slug: csumb-reaches-out-to-black-community-through-church-visits
 ---
-
+```html
 
 
 
@@ -47,3 +47,4 @@ churches will host CSU representatives on Feb. 8, 15 and 22.</p>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Faculty highlights
 date: January 20 2015
 slug: faculty-highlights
 ---
-
+```html
 
 
 
@@ -851,3 +851,4 @@ Arts program to the Monterey Bay area.<br>
 
 
 
+```

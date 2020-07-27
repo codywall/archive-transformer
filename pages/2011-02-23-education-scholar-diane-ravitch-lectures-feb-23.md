@@ -3,7 +3,7 @@ title: Education scholar Diane Ravitch lectures Feb. 23
 date: February 23 2011
 slug: education-scholar-diane-ravitch-lectures-feb--23
 ---
-
+```html
 
 
 
@@ -61,3 +61,4 @@ For more information, or to request disability accommodations, call
 
 
 
+```

@@ -3,7 +3,7 @@ title: Islam topic of Social Justice Colloquium
 date: February 15 2011
 slug: islam-topic-of-social-justice-colloquium
 ---
-
+```html
 
 
 
@@ -49,3 +49,4 @@ Heather Wilde at 582-4332.</p>
 Photo at right: Rini Iswarini<br>
 &#xA0;</br></p>
 
+```

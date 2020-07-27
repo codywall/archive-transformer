@@ -3,7 +3,7 @@ title: CSUMB commemorates Constitution Day
 date: September 15 2014
 slug: csumb-commemorates-constitution-day
 ---
-
+```html
 
 
 
@@ -29,3 +29,4 @@ an annual program on the Constitution.</p>
 
 
 
+```

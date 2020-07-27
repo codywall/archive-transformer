@@ -3,7 +3,7 @@ title: CSUMB shows Miller&apos;s annual paean to powder
 date: November 12 2012
 slug: csumb-shows-miller-apos-s-annual-paean-to-powder
 ---
-
+```html
 
 
 
@@ -43,3 +43,4 @@ about outdoor recreation at CSUMB.</a></p>
 
 
 
+```

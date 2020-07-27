@@ -3,7 +3,7 @@ title: Mission&apos;s past shines
 date: December 11 2006
 slug: mission-apos-s-past-shines
 ---
-
+```html
 
 
 
@@ -24,3 +24,4 @@ themselves.&quot;<br>
 
 
 
+```

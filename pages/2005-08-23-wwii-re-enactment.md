@@ -3,7 +3,7 @@ title: WWII Reenactment
 date: August 23 2005
 slug: wwii-reenactment
 ---
-
+```html
 
 
 
@@ -84,3 +84,4 @@ and Third Avenue. Tickets can be purchased at the parking lot<br>
 
 
 
+```

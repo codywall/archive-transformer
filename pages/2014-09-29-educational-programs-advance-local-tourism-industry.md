@@ -3,7 +3,7 @@ title: Educational programs advance the local tourism industry
 date: September 29 2014
 slug: educational-programs-advance-the-local-tourism-industry
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ equipped to build and lead eco-friendly tourism businesses.<br>
 
 
 
+```

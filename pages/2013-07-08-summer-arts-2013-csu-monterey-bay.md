@@ -3,7 +3,7 @@ title: Summer Arts 2013 at CSU Monterey Bay
 date: July 8 2013
 slug: summer-arts-2013-at-csu-monterey-bay
 ---
-
+```html
 
 
 
@@ -19,3 +19,4 @@ every day in July.<br>
 
 
 
+```

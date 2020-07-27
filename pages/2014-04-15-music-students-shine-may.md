@@ -3,7 +3,7 @@ title: Music students shine in May
 date: April 15 2014
 slug: music-students-shine-in-may
 ---
-
+```html
 
 
 
@@ -43,3 +43,4 @@ the music program at CSUMB</a>.</p>
 
 
 
+```

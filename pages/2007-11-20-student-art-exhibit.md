@@ -3,7 +3,7 @@ title: Student art exhibit
 date: November 20 2007
 slug: student-art-exhibit
 ---
-
+```html
 
 
 
@@ -65,3 +65,4 @@ available at csumb.edu/map.</p>
 
 
 
+```

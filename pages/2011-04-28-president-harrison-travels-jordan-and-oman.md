@@ -3,7 +3,7 @@ title: President Harrison travels to Jordan and Oman
 date: April 28 2011
 slug: president-harrison-travels-to-jordan-and-oman
 ---
-
+```html
 
 
 
@@ -45,3 +45,4 @@ we also add to our existing diversity on our campus.&#x201D;<br>
 
 
 
+```

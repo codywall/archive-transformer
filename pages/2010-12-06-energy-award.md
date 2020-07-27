@@ -3,7 +3,7 @@ title: Campus energy project delivers
 date: December 6 2010
 slug: campus-energy-project-delivers
 ---
-
+```html
 
 
 
@@ -39,3 +39,4 @@ business council for its work in reducing energy consumption.<br>
 
 
 
+```

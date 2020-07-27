@@ -3,7 +3,7 @@ title: SUSTAINABLE STYLE
 date: March 19 2013
 slug: sustainable-style
 ---
-
+```html
 
 
 
@@ -47,3 +47,4 @@ Visual and Public Art Department at CSUMB</a>.</p>
 
 
 
+```

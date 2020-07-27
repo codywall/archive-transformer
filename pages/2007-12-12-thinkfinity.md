@@ -3,7 +3,7 @@ title: thinkfinity
 date: December 12 2007
 slug: thinkfinity
 ---
-
+```html
 
 
 
@@ -75,3 +75,4 @@ tools within their teaching.</br></p>
 
 
 
+```

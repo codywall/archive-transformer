@@ -3,7 +3,7 @@ title: High Fidelity
 date: July 28 2014
 slug: high-fidelity
 ---
-
+```html
 
 
 
@@ -67,3 +67,4 @@ of the artist)</p>
 
 
 
+```

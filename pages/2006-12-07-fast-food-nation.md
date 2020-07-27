@@ -3,7 +3,7 @@ title: Fast Food Nation
 date: December 7 2006
 slug: fast-food-nation
 ---
-
+```html
 
 
 
@@ -23,3 +23,4 @@ slug: fast-food-nation
 
 
 
+```

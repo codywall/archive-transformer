@@ -3,7 +3,7 @@ title: Santa Cruz attorney donates research vessel to CSUMB
 date: December 20 2010
 slug: santa-cruz-attorney-donates-research-vessel-to-csumb
 ---
-
+```html
 
 
 
@@ -69,3 +69,4 @@ click <a href="../../sep/22/new-marine-science-bs-awaits-approval.html" rel="nof
 
 
 
+```

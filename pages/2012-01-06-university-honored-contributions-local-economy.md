@@ -3,7 +3,7 @@ title: University honored for contributions to local economy
 date: January 6 2012
 slug: university-honored-for-contributions-to-local-economy
 ---
-
+```html
 
 
 
@@ -64,3 +64,4 @@ five years and will enhance the region&#x2019;s vibrant arts scene.<br>
 
 
 
+```

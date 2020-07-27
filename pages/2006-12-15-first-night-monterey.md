@@ -3,7 +3,7 @@ title: First Night Monterey
 date: December 15 2006
 slug: first-night-monterey
 ---
-
+```html
 
 
 
@@ -85,3 +85,4 @@ building community, and creating innovative programming.</p>
 
 
 
+```

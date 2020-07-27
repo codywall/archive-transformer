@@ -3,7 +3,7 @@ title: President Ochoa&apos;s appointment made permanent
 date: June 1 2013
 slug: president-ochoa-apos-s-appointment-made-permanent
 ---
-
+```html
 
 
 
@@ -59,3 +59,4 @@ plans for CSUMB.</a></p>
 
 
 
+```

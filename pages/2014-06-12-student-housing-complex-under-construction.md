@@ -3,7 +3,7 @@ title: Student housing complex under construction
 date: June 12 2014
 slug: student-housing-complex-under-construction
 ---
-
+```html
 
 
 
@@ -37,3 +37,4 @@ Stephens</br></em></p>
 
 
 
+```

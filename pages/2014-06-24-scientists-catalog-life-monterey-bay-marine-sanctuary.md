@@ -3,7 +3,7 @@ title: Scientists catalog life in Monterey Bay marine sanctuary
 date: June 24 2014
 slug: scientists-catalog-life-in-monterey-bay-marine-sanctuary
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ says, &quot;We are going over a rocky reef.&quot;<br>
 
 
 
+```

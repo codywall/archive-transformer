@@ -6,7 +6,7 @@ date: November 15 2006
 slug: &gt;-
   reflections-of-vietnam---x2013--panel-to-discuss-california-apos-s-role-in-the-war
 ---
-
+```html
 
 
 
@@ -23,3 +23,4 @@ Monterey Bay&apos;s College of University Studies and Programs.<br>
 
 
 
+```

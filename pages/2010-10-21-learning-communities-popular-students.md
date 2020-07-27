@@ -3,7 +3,7 @@ title: Learning communities popular with students
 date: October 21 2010
 slug: learning-communities-popular-with-students
 ---
-
+```html
 
 
 
@@ -25,3 +25,4 @@ who take at least two courses together.<br>
 
 
 
+```

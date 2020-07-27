@@ -3,7 +3,7 @@ title: CSUMB artist captures the spirit of Fort Ord
 date: April 11 2014
 slug: csumb-artist-captures-the-spirit-of-fort-ord
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ History in Santa Cruz.<br>
 
 
 
+```

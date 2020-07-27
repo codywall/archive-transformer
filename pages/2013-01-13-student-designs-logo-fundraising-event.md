@@ -3,7 +3,7 @@ title: Student designs logo for fundraising event
 date: January 13 2013
 slug: student-designs-logo-for-fundraising-event
 ---
-
+```html
 
 
 
@@ -68,3 +68,4 @@ To learn more about the design program at CSUMB, click <a href="http://itcd.csum
 
 
 
+```

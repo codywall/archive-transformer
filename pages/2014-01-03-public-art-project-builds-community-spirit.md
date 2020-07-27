@@ -3,7 +3,7 @@ title: Public art project builds community spirit
 date: January 3 2014
 slug: public-art-project-builds-community-spirit
 ---
-
+```html
 
 
 
@@ -18,3 +18,4 @@ panels.<br>
 
 
 
+```

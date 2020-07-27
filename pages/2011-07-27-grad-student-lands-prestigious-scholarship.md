@@ -3,7 +3,7 @@ title: Grad student lands prestigious scholarship
 date: July 27 2011
 slug: grad-student-lands-prestigious-scholarship
 ---
-
+```html```html
 
 
 
@@ -71,3 +71,4 @@ click <a href="http://sep.csumb.edu/ifame/index.php" rel="nofollow">here</a>.<br
 
 
 
+``````

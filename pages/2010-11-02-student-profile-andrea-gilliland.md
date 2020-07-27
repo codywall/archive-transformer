@@ -3,7 +3,7 @@ title: Student Profile&amp;colon; Andrea Gilliland
 date: November 2 2010
 slug: student-profile-amp-colon--andrea-gilliland
 ---
-
+```html
 <span class="date">Posted on Nov 02, 2010 </span>
 
 <p>Andrea Gilliland, a psychology major and certified pastry chef,
@@ -22,3 +22,4 @@ for the Have a Heart for Students Dinner and Auction, the Business
 Showcase Dinner, and this year&#x2019;s post-Commencement luncheon.</p>
 <p>After graduation in spring 2011, she plans to cook her way
 through school as she completes a Master of Social Work degree.</p>
+```

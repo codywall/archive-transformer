@@ -3,7 +3,7 @@ title: CSUMB adds two more fully online graduate degrees
 date: February 1 2013
 slug: csumb-adds-two-more-fully-online-graduate-degrees
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ call 1-800-247-5268 to speak with a Cal State Online coach.</p>
 
 
 
+```

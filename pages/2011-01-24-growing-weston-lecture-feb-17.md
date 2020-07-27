@@ -3,7 +3,7 @@ title: Growing Up Weston lecture Feb. 17
 date: January 24 2011
 slug: growing-up-weston-lecture-feb--17
 ---
-
+```html
 
 
 
@@ -50,3 +50,4 @@ Imin Yeh on March 3 and Nancy Hom on April 7.<br>
 
 
 
+```

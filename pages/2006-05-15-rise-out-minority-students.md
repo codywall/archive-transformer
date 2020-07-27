@@ -3,7 +3,7 @@ title: A RISE out of minority students
 date: May 15 2006
 slug: a-rise-out-of-minority-students
 ---
-
+```html
 
 
 
@@ -21,3 +21,4 @@ sciences.<br>
 
 
 
+```

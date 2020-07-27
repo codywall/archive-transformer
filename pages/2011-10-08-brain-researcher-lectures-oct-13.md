@@ -3,7 +3,7 @@ title: Brain researcher lectures on Oct. 13
 date: October 8 2011
 slug: brain-researcher-lectures-on-oct--13
 ---
-
+```html
 
 
 
@@ -56,3 +56,4 @@ directions and a map of campus are available&#xA0;<a href="http://csumb.edu/map"
 
 
 
+```

@@ -6,7 +6,7 @@ date: October 17 2006
 slug: &gt;-
   csumb-earns-national-honors-from-bush-initiative---x2013--university-apos-s-focus-on-student-volunteerism-provides-a-model-in-community-service
 ---
-
+```html
 
 
 
@@ -21,3 +21,4 @@ Monterey Bay.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: VPA CCA team
 date: October 13 2010
 slug: vpa-cca-team
 ---
-
+```html
 
 
 
@@ -36,3 +36,4 @@ Abbott, will be formally dedicated at 1 p.m. on Dec. 12.<br/></p>
 
 
 
+```

@@ -6,7 +6,7 @@ date: May 10 2007
 slug: &gt;-
   helping-hands---x2013--from-sign-language-to-bone-marrow-how-three-csumb-students-turned-requirements-into-community-service
 ---
-
+```html
 
 
 
@@ -24,3 +24,4 @@ their neighborhood. Three CSUMB students share their stories.<br>
 
 
 
+```

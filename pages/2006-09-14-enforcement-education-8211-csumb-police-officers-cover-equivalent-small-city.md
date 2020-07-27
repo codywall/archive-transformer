@@ -6,7 +6,7 @@ date: September 14 2006
 slug: &gt;-
   enforcement--amp--education---x2013--csumb-police-officers-cover-the-equivalent-of-a-small-city
 ---
-
+```html
 
 
 
@@ -22,3 +22,4 @@ the UPD does.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Celebration for El Grito &#x2013; CSUMB fetes Mexico&apos;s Independence
 date: September 16 2006
 slug: celebration-for-el-grito---x2013--csumb-fetes-mexico-apos-s-independence
 ---
-
+```html
 
 
 
@@ -21,3 +21,4 @@ learn about their culture.<br>
 
 
 
+```

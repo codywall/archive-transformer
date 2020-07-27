@@ -3,7 +3,7 @@ title: CSUMB grads don &apos;green&apos; gowns
 date: May 22 2014
 slug: csumb-grads-don--apos-green-apos--gowns
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ graduates will wear on Saturday.<br>
 
 
 
+```

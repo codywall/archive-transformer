@@ -3,7 +3,7 @@ title: March 19 event benefits film society
 date: March 8 2011
 slug: march-19-event-benefits-film-society
 ---
-
+```html
 
 
 
@@ -67,3 +67,4 @@ Information: Online at <a href="http://www.montereybayfilmsociety.org" title="ww
 
 
 
+```

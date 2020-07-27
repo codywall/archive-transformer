@@ -3,7 +3,7 @@ title: Student artists&apos; work to be installed April 18
 date: March 13 2014
 slug: student-artists-apos--work-to-be-installed-april-18
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ Beltran, Lori Van Meter</em></br></p>
 
 
 
+```

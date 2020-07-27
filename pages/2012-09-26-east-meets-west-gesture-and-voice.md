@@ -3,7 +3,7 @@ title: East meets West in gesture and voice
 date: September 26 2012
 slug: east-meets-west-in-gesture-and-voice
 ---
-
+```html
 
 
 
@@ -51,3 +51,4 @@ Activities and Leadership Development, at 582-4645 or <a href="mailto:tbills@csu
 
 
 
+```

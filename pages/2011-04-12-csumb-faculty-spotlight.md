@@ -3,7 +3,7 @@ title: CSUMB faculty spotlight
 date: April 12 2011
 slug: csumb-faculty-spotlight
 ---
-
+```html
 
 
 
@@ -93,3 +93,4 @@ communities.<br>
 
 
 
+```

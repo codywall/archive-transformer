@@ -3,7 +3,7 @@ title: Covina Student earns award
 date: November 7 2007
 slug: covina-student-earns-award
 ---
-
+```html
 
 
 
@@ -48,3 +48,4 @@ December and plans to attend graduate school.<br/></p>
 
 
 
+```

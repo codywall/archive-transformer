@@ -3,7 +3,7 @@ title: Tales from the trenches
 date: February 18 2014
 slug: tales-from-the-trenches
 ---
-
+```html
 
 
 
@@ -41,3 +41,4 @@ look at crowdfunding.</em><br>
 
 
 
+```

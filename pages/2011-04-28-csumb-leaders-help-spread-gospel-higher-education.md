@@ -3,7 +3,7 @@ title: CSUMB leaders help spread gospel of higher education
 date: April 28 2011
 slug: csumb-leaders-help-spread-gospel-of-higher-education
 ---
-
+```html
 
 
 
@@ -34,3 +34,4 @@ Grove.</p>
 
 
 
+```

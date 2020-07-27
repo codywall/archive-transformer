@@ -3,7 +3,7 @@ title: Sustainability and Social Justice
 date: March 5 2012
 slug: sustainability-and-social-justice
 ---
-
+```html
 
 
 
@@ -67,3 +67,4 @@ Bardacke</br></em></br></br></br></br></br></br></br></br></br></br></p>
 
 
 
+```

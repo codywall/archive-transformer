@@ -3,7 +3,7 @@ title: Poetry of Ideas Seasons of Wildflowers&apos;
 date: December 6 2006
 slug: poetry-of-ideas-seasons-of-wildflowers-apos-
 ---
-
+```html
 
 
 
@@ -62,3 +62,4 @@ mural.</p>
 
 
 
+```

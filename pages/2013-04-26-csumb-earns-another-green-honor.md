@@ -3,7 +3,7 @@ title: CSUMB earns another &apos;green&apos; honor
 date: April 26 2013
 slug: csumb-earns-another--apos-green-apos--honor
 ---
-
+```html
 
 
 
@@ -77,3 +77,4 @@ Sustainability Conference.</a></br></br></br></br></p>
 
 
 
+```

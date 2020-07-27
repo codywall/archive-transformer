@@ -3,7 +3,7 @@ title: NAACP president gets early start on the job
 date: July 26 2014
 slug: naacp-president-gets-early-start-on-the-job
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ the community.</p>
 
 
 
+```

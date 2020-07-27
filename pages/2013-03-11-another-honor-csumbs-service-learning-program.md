@@ -3,7 +3,7 @@ title: Another honor for CSUMB&apos;s Service Learning program
 date: March 11 2013
 slug: another-honor-for-csumb-apos-s-service-learning-program
 ---
-
+```html
 
 
 
@@ -61,3 +61,4 @@ about Service Learning at CSUMB.</a></p>
 
 
 
+```

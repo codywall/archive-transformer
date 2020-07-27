@@ -3,7 +3,7 @@ title: CSUMB lands $12.6 million grant
 date: October 12 2009
 slug: csumb-lands--12-6-million-grant
 ---
-
+```html
 
 
 
@@ -93,3 +93,4 @@ levels for which they prepare teachers.</p>
 
 
 
+```

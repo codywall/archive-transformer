@@ -3,7 +3,7 @@ title: Grad student earns Rote research grant
 date: May 20 2011
 slug: grad-student-earns-rote-research-grant
 ---
-
+```html
 
 
 
@@ -64,3 +64,4 @@ mechanisms that drive genetic diversity in Monterey Bay.<br>
 
 
 
+```

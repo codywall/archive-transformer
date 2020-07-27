@@ -3,7 +3,7 @@ title: Teachers get indepth look at California missions
 date: August 2 2013
 slug: teachers-get-indepth-look-at-california-missions
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ voices to California&apos;s history.&quot;<br>
 
 
 
+```

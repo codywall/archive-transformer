@@ -3,7 +3,7 @@ title: CSUMB hosts economic development summit
 date: August 9 2011
 slug: csumb-hosts-economic-development-summit
 ---
-
+```html
 
 
 
@@ -48,3 +48,4 @@ or by calling 675-7232.</br></br></br></br></br></br></br></br></br></br></p>
 
 
 
+```

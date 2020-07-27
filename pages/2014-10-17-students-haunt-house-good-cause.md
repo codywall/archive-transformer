@@ -3,7 +3,7 @@ title: Students haunt house for a good cause
 date: October 17 2014
 slug: students-haunt-house-for-a-good-cause
 ---
-
+```html
 
 
 
@@ -92,3 +92,4 @@ courtesy of the Rotaract Club</em></br></br></br></br></br></br></br></br></br><
 
 
 
+```

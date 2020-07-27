@@ -3,7 +3,7 @@ title: Otters&apos; Jenkins shatters record
 date: December 16 2006
 slug: otters-apos--jenkins-shatters-record
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ DeBeni Memorial Tournament at Humboldt State.<br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Professor to present at global business conference in Croatia
 date: October 17 2014
 slug: professor-to-present-at-global-business-conference-in-croatia
 ---
-
+```html
 
 
 
@@ -17,3 +17,4 @@ his passion for lecturing to the international community.<br>
 
 
 
+```

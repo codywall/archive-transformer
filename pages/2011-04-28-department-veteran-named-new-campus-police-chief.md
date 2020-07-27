@@ -3,7 +3,7 @@ title: Department veteran named new campus police chief
 date: April 28 2011
 slug: department-veteran-named-new-campus-police-chief
 ---
-
+```html
 
 
 
@@ -25,3 +25,4 @@ includes training at the FBI National Academy.</p>
 
 
 
+```

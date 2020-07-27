@@ -3,7 +3,7 @@ title: Getting A RISE out of students
 date: May 28 2009
 slug: getting-a-rise-out-of-students
 ---
-
+```html
 
 
 
@@ -113,3 +113,4 @@ Jose Ruiz (MPC)</p>
 
 
 
+```

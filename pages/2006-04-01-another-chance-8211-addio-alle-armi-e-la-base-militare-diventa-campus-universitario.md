@@ -6,7 +6,7 @@ date: April 1 2006
 slug: &gt;-
   another-chance---x2013--addio-alle-armi--e-la-base-militare-diventa-campus-universitario
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ hands-on e l&apos;enfasi sulla tecnologia.<br>
 
 
 
+```

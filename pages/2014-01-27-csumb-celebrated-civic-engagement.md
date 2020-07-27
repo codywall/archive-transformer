@@ -3,7 +3,7 @@ title: CSUMB celebrated for civic engagement
 date: January 27 2014
 slug: csumb-celebrated-for-civic-engagement
 ---
-
+```html
 
 
 
@@ -37,3 +37,4 @@ should be promoted as a best practice in higher education.&#x201D;</p>
 
 
 
+```

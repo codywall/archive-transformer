@@ -3,7 +3,7 @@ title: Puppetbased animation workshops at CSUMB
 date: April 9 2014
 slug: puppetbased-animation-workshops-at-csumb
 ---
-
+```html
 
 
 
@@ -55,3 +55,4 @@ Department.</a> This is the program&#x2019;s first public event.<br>
 
 
 
+```

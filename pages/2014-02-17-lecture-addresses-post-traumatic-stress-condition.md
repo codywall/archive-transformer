@@ -3,7 +3,7 @@ title: Lecture addresses posttraumatic stress condition
 date: February 17 2014
 slug: lecture-addresses-posttraumatic-stress-condition
 ---
-
+```html
 
 
 
@@ -37,3 +37,4 @@ directions and a campus map</a><br>
 
 
 
+```

@@ -3,7 +3,7 @@ title: Homecoming
 date: September 28 2005
 slug: homecoming
 ---
-
+```html
 
 
 
@@ -42,3 +42,4 @@ events can be found at <a href="http://csumb.edu/homecoming" rel="nofollow">http
 
 
 
+```

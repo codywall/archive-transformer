@@ -3,7 +3,7 @@ title: Who should pay for offcampus costs?
 date: July 10 2005
 slug: who-should-pay-for-offcampus-costs-
 ---
-
+```html
 
 
 
@@ -20,3 +20,4 @@ required when public colleges decide to expand.<br>
 
 
 
+```

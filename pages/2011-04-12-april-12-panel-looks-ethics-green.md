@@ -3,7 +3,7 @@ title: April 12 panel looks at ethics of &apos;green&apos;
 date: April 12 2011
 slug: april-12-panel-looks-at-ethics-of--apos-green-apos-
 ---
-
+```html
 
 
 
@@ -53,3 +53,4 @@ call 582-4232.</p>
 
 
 
+```

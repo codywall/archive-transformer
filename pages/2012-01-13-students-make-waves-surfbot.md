@@ -3,7 +3,7 @@ title: Students make waves with SurfBot
 date: January 13 2012
 slug: students-make-waves-with-surfbot
 ---
-
+```html
 
 
 
@@ -100,3 +100,4 @@ click <a href="http://sep.csumb.edu/sep/" rel="nofollow">here</a>.<br>
 
 
 
+```
